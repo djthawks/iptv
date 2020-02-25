@@ -359,10 +359,50 @@ https://sync1.iptv.bingo/live/604?u=181253
 #EXTINF:-1 tvg-logo="" group-title="", WCNC NBC 
 https://sync1.iptv.bingo/live/609?u=181253
 
-#EXTINF:-1 tvg-logo="" group-title="", ABC 9
-https://sync1.iptv.bingo/live/606?u=181253
+#EXTINF:-1 tvg-logo="" group-title="", 358
+https://sync1.iptv.bingo/live/358
 
-#EXTINF:-1 tvg-logo="" group-title="DAVE", OXYGEN
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/80?cb=20171210093256" group-title="DAVE", SYFY
+https://sync1.iptv.bingo/live/609?u=181253
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/80?cb=20180507153757" group-title="DAVE", AE
+https://sync1.iptv.bingo/live/357
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Global_logo.svg/revision/latest/scale-to-width-down/80?cb=20161220062017" group-title="DAVE", GLOBAL
+https://sync1.iptv.bingo/live/355
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/TeenNick.svg/revision/latest/scale-to-width-down/80?cb=20190930203826" group-title="", TEENNICK
+https://sync1.iptv.bingo/live/356
+
+
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/DOGTV.svg/revision/latest/scale-to-width-down/250?cb=20140823010111" group-title="", DOG TV
+https://sync1.iptv.bingo/live/351
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest/scale-to-width-down/80?cb=20180410190357" group-title="DAVE", MOTOR TREND
+https://sync1.iptv.bingo/live/350
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/IFC_2018.svg/revision/latest/scale-to-width-down/80?cb=20181111114725" group-title="DAVE", IFC
+https://sync1.iptv.bingo/live/349
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Comet_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180501124038" group-title="DAVE", COMET
+https://sync1.iptv.bingo/live/348
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Bravo_2017.svg/revision/latest/scale-to-width-down/66?cb=20180407230357" group-title="DAVE", BRAVO
+https://sync1.iptv.bingo/live/347
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/50?cb=20170925062841" group-title="DAVE", TNT
+https://sync1.iptv.bingo/live/346
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/BET_Her.svg/revision/latest/scale-to-width-down/80?cb=20170925190952" group-title="", BET HER
+https://sync1.iptv.bingo/live/344
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg/revision/latest/scale-to-width-down/63?cb=20170801131103" group-title="DAVE", OXYGEN
 https://sync1.iptv.bingo/live/343
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/023c990.png/revision/latest/scale-to-width-down/300?cb=20130621213219" group-title="", REVOLT
