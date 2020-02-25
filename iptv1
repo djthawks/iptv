@@ -350,6 +350,9 @@ https://sync1.iptv.bingo/live/600?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="", ABC 7
 https://sync1.iptv.bingo/live/601?u=181253
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="", ABC 
+https://sync1.iptv.bingo/live/337
+
 #EXTINF:-1 tvg-logo="" group-title="", WFTV9 ABC
 https://sync1.iptv.bingo/live/604?u=181253
 
@@ -358,6 +361,18 @@ https://sync1.iptv.bingo/live/609?u=181253
 
 #EXTINF:-1 tvg-logo="" group-title="", ABC 9
 https://sync1.iptv.bingo/live/606?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="DAVE", OXYGEN
+https://sync1.iptv.bingo/live/343
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/023c990.png/revision/latest/scale-to-width-down/300?cb=20130621213219" group-title="", REVOLT
+https://sync1.iptv.bingo/live/342
+
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/TruTV_2014.svg/revision/latest/scale-to-width-down/80?cb=20180321164549" group-title="DAVE", TRU TV
+https://sync1.iptv.bingo/live/341
+
 
 #EXTINF:-1 tvg-logo=", 973
 https://sync1.iptv.bingo/live/973
@@ -370,6 +385,9 @@ https://sync1.iptv.bingo/live/973
 
 #EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="CBS", CBS
 https://sync1.iptv.bingo/live/973
+
+#EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="CBS", CBS
+https://sync1.iptv.bingo/live/336
 
 #EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="CBS", CBS 11 Colorado Springs
 https://sync1.iptv.bingo/live/973
@@ -485,7 +503,15 @@ https://sync1.iptv.bingo/live/323
 https://sync1.iptv.bingo/live/327
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/BBC_America_1998.svg/revision/latest/scale-to-width-down/325?cb=20160731155251" group-title="DAVE", BBC AMERICA
-https://sync1.iptv.bingo/live/587
+https://sync1.iptv.bingo/live/329
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/WeatherNation_2014.png/revision/latest/scale-to-width-down/250?cb=20180213162457" group-title="WEATHER", WEATHER NATION
+https://sync1.iptv.bingo/live/330
+
+#EXTINF:-1 tvg-logo="" group-title="", 335
+https://sync1.iptv.bingo/live/335
+
 
 
 
