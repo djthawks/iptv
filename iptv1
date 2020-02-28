@@ -92,6 +92,46 @@ https://sync1.iptv.bingo/live/669
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KSL-TV_logo.svg/300px-KSL-TV_logo.svg.png" group-title="NBC", NBC 11 MINNEAPLOIS
 https://sync1.iptv.bingo/live/676
 
+#EXTINF:-1 tvg-logo=", 996
+https://sync1.iptv.bingo/live/996
+
+#EXTINF:-1 tvg-logo=", 997
+https://sync1.iptv.bingo/live/997
+
+#EXTINF:-1 tvg-logo=", 998
+https://sync1.iptv.bingo/live/998
+
+#EXTINF:-1 tvg-logo=", 999
+https://sync1.iptv.bingo/live/999
+
+#EXTINF:-1 tvg-logo=", MY9 NJ
+https://sync1.iptv.bingo/live/591
+
+#EXTINF:-1 tvg-logo=", MY50
+https://sync1.iptv.bingo/live/592
+
+#EXTINF:-1 tvg-logo=", 595
+https://sync1.iptv.bingo/live/595
+
+#EXTINF:-1 tvg-logo=", ABC 6
+https://sync1.iptv.bingo/live/597
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=", 988
+https://sync1.iptv.bingo/live/988
+
+#EXTINF:-1 tvg-logo=", WLNY
+https://sync1.iptv.bingo/live/993
+
+#EXTINF:-1 tvg-logo=", 987
+https://sync1.iptv.bingo/live/987
+
 #EXTINF:-1 tvg-logo="", 674
 https://sync1.iptv.bingo/live/674
 
@@ -167,9 +207,23 @@ https://sync1.iptv.bingo/live/706
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX", FOX 
 https://sync1.iptv.bingo/live/706
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS 2 LOS ANGELOS
+https://sync1.iptv.bingo/live/990?u=181253
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS 7 RONOAKE
+https://sync1.iptv.bingo/live/982?u=181253
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS 8 DES MOINES
+https://sync1.iptv.bingo/live/984?u=181253
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS 46
+https://sync1.iptv.bingo/live/985?u=181253
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS 3 OMAHA
+https://sync1.iptv.bingo/live/991?u=181253
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS 32 LOUISVILLE
+https://sync1.iptv.bingo/live/995?u=181253
 
 
 
