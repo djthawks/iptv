@@ -326,15 +326,6 @@ https://sync1.iptv.bingo/live/403?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Reelz.svg/375px-Reelz.svg.png" group-title="DAVE", REELZ
 https://sync1.iptv.bingo/live/404?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/ESPN%2B_logo.png/375px-ESPN%2B_logo.png" group-title="SPORT", ESPN PLUS
-https://sync1.iptv.bingo/live/501?u=181253
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/ESPN%2B_logo.png/375px-ESPN%2B_logo.png" group-title="SPORT", ESPN PLUS
-https://sync1.iptv.bingo/live/502?u=181253
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/ESPN%2B_logo.png/375px-ESPN%2B_logo.png" group-title="SPORT", ESPN PLUS
-https://sync1.iptv.bingo/live/503?u=181253
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/SEC_Network_Logo.png/300px-SEC_Network_Logo.png" group-title="SPORT", SEC NETWORK
 https://sync1.iptv.bingo/live/505?u=181253
 
