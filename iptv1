@@ -2,8 +2,20 @@
 #EXTINF:-1 tvg-logo="" group-title="",Last update 2/24/20 8:00PM
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX", FOX 56 SCRANTON
+https://sync1.iptv.bingo/live/981
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX", FOX 5 NY
 https://sync1.iptv.bingo/live/429?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX", FOX 35 ORLANDO
+https://sync1.iptv.bingo/live/980
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX", FOX 9+
+https://sync1.iptv.bingo/live/986
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX", FOX 50
+https://sync1.iptv.bingo/live/992
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="ABC", ABC 7 DETROIT
 https://sync1.iptv.bingo/live/600?u=181253
