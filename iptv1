@@ -86,10 +86,10 @@ https://sync1.iptv.bingo/live/655?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KSL-TV_logo.svg/300px-KSL-TV_logo.svg.png" group-title="NBC", KSL TV
 https://sync1.iptv.bingo/live/664
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KSL-TV_logo.svg/300px-KSL-TV_logo.svg.png" group-title="NBC", NBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="NBC", NBC
 https://sync1.iptv.bingo/live/669
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KSL-TV_logo.svg/300px-KSL-TV_logo.svg.png" group-title="NBC", NBC 11 MINNEAPLOIS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="NBC", NBC 11 MINNEAPLOIS
 https://sync1.iptv.bingo/live/676
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/80?cb=20171218083551" group-title="DAVE", TLC
