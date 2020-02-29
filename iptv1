@@ -92,6 +92,51 @@ https://sync1.iptv.bingo/live/669
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KSL-TV_logo.svg/300px-KSL-TV_logo.svg.png" group-title="NBC", NBC 11 MINNEAPLOIS
 https://sync1.iptv.bingo/live/676
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/80?cb=20171218083551" group-title="DAVE", TLC
+https://sync1.iptv.bingo/live/360
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/80?cb=20171016153216" group-title="DAVE", TBS
+https://sync1.iptv.bingo/live/361
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/80?cb=20171016153216" group-title="DAVE", TBS
+https://sync1.iptv.bingo/live/362
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/80?cb=20190816152727" group-title="DAVE", MTV
+https://sync1.iptv.bingo/live/363
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/FXX.svg/revision/latest/scale-to-width-down/200?cb=20161008111050" group-title="DAVE", FXX
+https://sync1.iptv.bingo/live/364
+
+#EXTINF:-1 tvg-logo="" group-title="", 366
+https://sync1.iptv.bingo/live/366
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Bravo_2017.svg/revision/latest/scale-to-width-down/66?cb=20180407230357" group-title="DAVE", BRAVO
+https://sync1.iptv.bingo/live/367
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/50?cb=20170925062841" group-title="DAVE", TNT
+https://sync1.iptv.bingo/live/368
+
+#EXTINF:-1 tvg-logo="" group-title="", 996
+https://sync1.iptv.bingo/live/996
+
+#EXTINF:-1 tvg-logo="" group-title="", 996
+https://sync1.iptv.bingo/live/996
+
+#EXTINF:-1 tvg-logo="" group-title="", 996
+https://sync1.iptv.bingo/live/996
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo=", 996
 https://sync1.iptv.bingo/live/996
 
@@ -272,7 +317,7 @@ https://sync1.iptv.bingo/live/629?u=181253
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/225px-Food_Network_New_Logo.png" group-title="", FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/225px-Food_Network_New_Logo.png" group-title="DAVE", FOOD NETWORK
 https://sync1.iptv.bingo/live/301?u=181253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS", FOX NEWS
@@ -296,10 +341,10 @@ https://sync1.iptv.bingo/live/428?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/225px-05_NHL_Shield.svg.png" group-title="SPORT", NHL
 https://sync1.iptv.bingo/live/452?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/375px-NBCSN_logo.png" group-title="NEWS", NBCSN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/375px-NBCSN_logo.png" group-title="SPORT", NBCSN
 https://sync1.iptv.bingo/live/453?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/300px-Motor_Trend.svg.png" group-title="NEWS", MOTOR TREND
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/300px-Motor_Trend.svg.png" group-title="SPORT", MOTOR TREND
 https://sync1.iptv.bingo/live/456?u=181253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/210px-MLBNetworkLogo.svg.png" group-title="SPORT", MLB STRIKEZONE
@@ -401,13 +446,13 @@ https://sync1.iptv.bingo/live/542?u=181253
 #EXTINF:-1 tvg-logo="" group-title="SPORT", 549
 https://sync1.iptv.bingo/live/549?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="", ABC 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="ABC", ABC 7
 https://sync1.iptv.bingo/live/600?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="", ABC 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="ABC", ABC 7
 https://sync1.iptv.bingo/live/601?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="", ABC 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="ABC", ABC 
 https://sync1.iptv.bingo/live/337
 
 #EXTINF:-1 tvg-logo="" group-title="", WFTV9 ABC
@@ -428,7 +473,7 @@ https://sync1.iptv.bingo/live/357
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Global_logo.svg/revision/latest/scale-to-width-down/80?cb=20161220062017" group-title="DAVE", GLOBAL
 https://sync1.iptv.bingo/live/355
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/TeenNick.svg/revision/latest/scale-to-width-down/80?cb=20190930203826" group-title="", TEENNICK
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/TeenNick.svg/revision/latest/scale-to-width-down/80?cb=20190930203826" group-title="DAVE", TEEN NICK
 https://sync1.iptv.bingo/live/356
 
 
@@ -600,7 +645,7 @@ https://sync1.iptv.bingo/live/323
 https://sync1.iptv.bingo/live/327
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/BBC_America_1998.svg/revision/latest/scale-to-width-down/325?cb=20160731155251" group-title="DAVE", BBC AMERICA
-https://sync1.iptv.bingo/live/329
+https://sync1.iptv.bingo/live/328
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/WeatherNation_2014.png/revision/latest/scale-to-width-down/250?cb=20180213162457" group-title="WEATHER", WEATHER NATION
