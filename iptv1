@@ -116,8 +116,8 @@ https://sync1.iptv.bingo/live/367
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/50?cb=20170925062841" group-title="DAVE", TNT
 https://sync1.iptv.bingo/live/368
 
-#EXTINF:-1 tvg-logo="" group-title="", 996
-https://sync1.iptv.bingo/live/996
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/TMC-HD.png/revision/latest/scale-to-width-down/185?cb=20200202182249" group-title="MOVIE", THE MOVIE CHANNEL
+https://sync1.iptv.bingo/live/378
 
 #EXTINF:-1 tvg-logo="" group-title="", 996
 https://sync1.iptv.bingo/live/996
@@ -149,13 +149,13 @@ https://sync1.iptv.bingo/live/998
 #EXTINF:-1 tvg-logo=", 999
 https://sync1.iptv.bingo/live/999
 
-#EXTINF:-1 tvg-logo=", MY9 NJ
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/WWOR-TV_logo.svg/revision/latest/scale-to-width-down/200?cb=20151206045320" group-title="DAVE" , MY9 NJ
 https://sync1.iptv.bingo/live/591
 
 #EXTINF:-1 tvg-logo=", MY50
 https://sync1.iptv.bingo/live/592
 
-#EXTINF:-1 tvg-logo=", 595
+#EXTINF:-1 tvg-logo=", ABC 6
 https://sync1.iptv.bingo/live/595
 
 #EXTINF:-1 tvg-logo=", ABC 6
