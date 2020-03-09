@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 https://www.stream2watch.ws/live/btn-live-stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="USA",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR) (Opt-1)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
@@ -14,9 +17,11 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="MUSIC",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="USA",AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-1)
+http://cdnak8.cast4u.info/channels/2/10802.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-2)
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
 
 
 
