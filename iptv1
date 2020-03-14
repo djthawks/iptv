@@ -127,8 +127,6 @@ https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4otJeRo.png" group-title="USA",Kathryn Raaker's World
 https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFzpsD3.png" group-title="USA",KDOC 56 Los Angeles
-https://v-la.mybtv.net/event/6.0/1280x720?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2028&env=prd&uid=24610
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="USA",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
@@ -136,19 +134,14 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRLOlNT.png" group-title="USA",Kids Central
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppsXxFu.png" group-title="USA",KLNM TV
-https://central.dashstreams.net/onestudio/jerrymiller/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fkc7MuP.png" group-title="USA",Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JFNAEUv.png" group-title="USA",KTVK 3 Phoenix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFNAEUv.png" group-title="NEWS",KTVK 3 Phoenix
 https://player-api.new.livestream.com/accounts/12643960/events/3893868/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="USA",Law & Crime Network
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="USA",Lax Sports Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="SPORT",Lax Sports Network
 http://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l2OoKhw.png" group-title="USA",Let's Build
@@ -156,6 +149,42 @@ https://nimble.dashstreams.net/onestudio/letsbuildtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="USA",Living Outdoors 
 https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYAarVZ.png" group-title="USA",Mad Dog & Merrill Midwest Grill’n
+https://nrpus.bozztv.com/36bay2/gusa-mwg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://75.146.183.54:2080/Cablecast/Public/Logos/1/MCN-Vimeo-Logo.png" group-title="USA",Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LecvKzR.png" group-title="USA",MGM Sci-Fi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="USA",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",Mo Laughter TV
+https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68XjJ7z.png" group-title="USA",Mobcrush (Opt-1)
+https://ott.mobcrush.com/hls/0/ott.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68XjJ7z.png" group-title="USA",Mobcrush (Opt-2)
+http://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="USA",Monarch Channel
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6Hcqoy.png" group-title="USA",Movee 4U 
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8X6uscS.png" group-title="USA",MTV2
+http://king365-tv.com/leblanc/leblanc/26860
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0tlDV.png" group-title="USA",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORT",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
