@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",Last update 3/14/20 1:00PM
+#EXTINF:-1 tvg-logo="" group-title="",Last update 3/24/20 1:00PM
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 
 
@@ -20,11 +20,23 @@ https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT", SKY SPORTS GOLF
 http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="SPORT", SKY SPORTS MAIN EVENT
 http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="SPORT", SKY SPORTS ARENA
+http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", PVBQ
+https://vbkt.ga/pvbQ
+
+#EXTINF:-1 tvg-logo="" group-title="", QMP9
+https://vbkt.ga/qMp9
+
+#EXTINF:-1 tvg-logo="" group-title="", NEA
+https://vbkt.ga/nEa
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", HBO
+https://vbkt.ga/HBO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="NEWS",CBS News (Opt-2)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
@@ -471,11 +483,15 @@ http://62.203.143.51:9981/play/Venus
 http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 ,Red Traffic lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 ,Red Traffic teen
+http://live.redtraffic.net/teen.m3u8
 
 #EXTINF:-1 ,NYX 
 https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,Brazzer
+#EXTINF:-1 ,Brazzer 2308
 http://s1.hdporus.com/content/vod/s2308/720/index.m3u8
+#EXTINF:-1 ,Brazzer 2234
+http://s1.hdporus.com/content/vod/s2234/480/index.m3u8
 #EXTINF:-1 ,test 25
 https://love.mydaddy.cc/pubs/5e3310eedd74a/720.mp4
 
