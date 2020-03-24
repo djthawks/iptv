@@ -17,6 +17,14 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLb5a7e.png" group-title="SPORT",ACC Network
 https://gma2.blab.email/acc.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORT", SKY SPORTS GOLF
+http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",
+http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="NEWS",CBS News (Opt-2)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
