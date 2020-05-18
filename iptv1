@@ -465,8 +465,6 @@ http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist_w56513
 http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" group-title="Local;Undefined",Cerritos TV3
 http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Channel V6
-https://media.ksl.com/watchit/vod/41534/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Charge!,Entertainment TV:Charge (Geo)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="News",Cheddar
@@ -566,26 +564,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?chec
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Free Speech TV
 http://bit.ly/2xV7ewi?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Free Speech TV
-http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="Undefined",Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fresh News
-http://167.99.65.12:1935/live/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fuengirola TV
-https://secure.todostreaming.es/live/nerja-livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",GH Television
-http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",GITB,GiTB Goierri Irratia Telebista
-https://5940924978228.streamlock.net/8155/8155/chunklist_w707917731.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",GLOBUS TV,Globus TV Sicilia
-https://flash2.xdevel.com/globusradiocam/globusradiocam/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png" group-title="Undefined",GOD TV
-https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://img.new.livestream.com/accounts/000000000141794a/1769dc58-4a38-4815-9cb7-feb1140db5ec_170x170.png" group-title="Local",Galveston County TV
-https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Gem Kurd
-http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.glendaleaz.com/images/City-Logo-Text.png" group-title="Local",Glendale 11
 https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Gone Fishing,Gone Fishing (New!)
@@ -600,12 +578,8 @@ https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-re
 http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/uZ9YsVM.jpg" group-title="Religious",GuideUS TV
 http://stream.streamislam.com:8080/streamer/live/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Guney TV Tarsus (Opt-1)
-rtmp://stream.taksimbilisim.com/tarsusguneytv//bant1?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="Undefined",H2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HD CAMPUS TV
-https://video.uni-freiburg.de:1936/live/smil:hdcampus.smil/chunklist_w805273257_b5256000_slde.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn.png" group-title="Shop",HSN
 https://v-pi.mybtv.net/event/41.1/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" group-title="Shop",HSN
@@ -614,78 +588,40 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8?checkedby:iptvcat.co
 https://v-pi.mybtv.net/event/41.2/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HTV 1 - Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HTV 2 - Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Halab Today (Opt-1)
-http://wowzacontrol.com:1935/8010/8010/chunklist_w231158337.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Halab Today (Opt-2)
-http://streaming.tootvs.com:1935/8010/8010/chunklist_w1747926320.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.watchheartlandtv.com/assets/images/logo.png" group-title="Undefined",Heartland
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hechicera TV
-http://167.114.116.212:1935/tv506/hechicera/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hidalgo TV
-http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HispanTV
-https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hochanda TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Shop",Hochanda TV
 https://d3jwlm43fjnwxe.cloudfront.net/ushochanda/2/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Home Movies (Geo)
-https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/caGRikb.png" group-title="Undefined",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Undefined",Hope Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/rc4HYA4.jpg" group-title="Undefined",Horrified TV
 https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Horrified TV
-https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Undefined",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2017/10/HC-Logo-transparent.png" group-title="Undefined",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ICI T�l� HD
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ILTV Studios
 http://iltv.cachefly.net/live/live_720p/chunklist_w623022374.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/WZapYCk.png" group-title="Religious",ISN
 http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ITN
-http://cdncities.com/itndvr2/itndvr2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Imas TV
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Imedi TV (Opt-2)
-https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",India TV (Opt-2)
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Indianapolis - CBS 4 News (New!)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",Indianapolis - CBS 4 News (New!)
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Info TDN
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Music",Info TDN
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Inquirer 990 TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Intercomarcal TV
-http://78.41.83.88:8880/hls/tvixa.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zJ5idav.jpg" group-title="Undefined",It’s At The Movies
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zJ5idav.jpg" group-title="Movie",It’s At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",I�el TV Mersin
-rtmp://stream.taksimbilisim.com/iceltv/bant1?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/pHJm3I0.png" group-title="Undefined",JBS
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Jacksonville - WJAX Action News (Opt-2) (New!)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",Jacksonville - WJAX Action News (Opt-2) (New!)
 https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/564k/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Janam TV
-https://vidhttps.r.worldssl.net/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1HJraea.png" group-title="Shop",Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/VEoLKzb.png" group-title="Undefined",Jewish Life TV
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-90359.png" group-title="Local",Justice Network (WMGM)
 https://v-pi.mybtv.net/event/65.3/768x432?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2029-12-11T23%3A00%3A00.000Z&env=prd&uid=29375&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Justicia TV (Opt-1)
-http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Justicia TV (Opt-2)
-https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/0oRXnzz.png" group-title="Local",KBVR TV
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://media-usla.mybtv.net/logos/56.1.png" group-title="Local",KDOC
@@ -694,10 +630,8 @@ https://v-la.mybtv.net/event/6.0/1280x720?start_time=2019-12-12T11%3A45%3A00.000
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://mediaweb.kirotv.com/photo/2018/09/24/kiro7_header_logo_152x60_13118164_ver1.0.png" group-title="Local",KIRO 7 News (KIRO-TV)
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KLNM TV,KLNM TV (New!)
-https://central.dashstreams.net/onestudio/jerrymiller/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KMTV Omaha
-https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/KOFY_TV20_logo_2019.png" group-title="Local",KOFY
 https://v-ca.mybtv.net/event/20.1/1280x720?start_time=2019-12-12T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=12052&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",KOMO News (KOMO-TV)
@@ -708,60 +642,15 @@ http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8?checkedby:iptvcat.c
 https://player-api.new.livestream.com/accounts/12643960/events/3893868/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.new.livestream.com/accounts/00000000017eb8f0/39405900-788a-4ff6-bad9-755051187000.png" group-title="Local",KUSI
 https://player-api.new.livestream.com/accounts/25082096/events/7376073/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kanal 101
-http://s01.vpis.io/kanal101/kanal101.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kanal 19
-http://live.arkumedia.com:1935/kanal19tv/kanal19tv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kanal 3 (Opt-2)
-http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kanal 33
-http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kanal 34
-http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kanal Urfa (Opt-3)
-http://stream.taksimbilisim.com:1935/kanalurfa/smil:kanalurfa.smil/.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kartoon Fun Time (Opt-1)
 https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kartoon Fun Time (Opt-2)
-https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kathryn Raaker's World,Kathryn Raaker’s World (New!)
 https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kay TV Kayseri
-http://yayin3.canlitv.com:1935/canlitv/kaytv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kazakh TV (EN) (Opt-1)
-http://kazakhtven.ultraiptv.com/live_en/playlist1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kazakh TV (RU) (Opt-2)
-http://kazakhtvru.ultraiptv.com/live_ru/playlist1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="Undefined",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kezmarska TV
-http://213.81.153.221:8080/kezmarok?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Khabrain Abhi Tak
-https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kids Click (Geo)
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="Undefined",Kool London Radio (UK)
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Koroglu TV
-rtmp://stream.taksimbilisim.com/koroglutv/bant1?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KroneHit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kud�s TV
-http://yayin10.canliyayin.org/P981680400/kudustv/chunklist_w1008271460.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kurdmax Pep�le (Opt-1)
-http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kurdmax Pep�le (Opt-2)
-http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Kurdsat
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LNKTV City
-http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LNKTV Education
-http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LNKTV Health
-http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",La C TV (Opt-1),LaC
-http://cdn.mainstreaming.tv/live/100197/SOrBDPy/playlist.m3u8?checkedby:iptvcat.com
+
+
+
 
 
 
