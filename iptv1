@@ -21,7 +21,7 @@ https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="USA",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7sithKp.png" group-title="USA",Hochanda TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sithKp.png" group-title="shop",Hochanda TV
 https://d3jwlm43fjnwxe.cloudfront.net/ushochanda/2/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FwXJj0L.png" group-title="SPORT",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
@@ -29,9 +29,9 @@ https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-honortv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="MUSIC",Hot Rock TV
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5X0GYny.png" group-title="USA",HSN (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5X0GYny.png" group-title="shop",HSN (Opt-1)
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5X0GYny.png" group-title="USA",HSN 2 (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5X0GYny.png" group-title="shop",HSN 2 (Opt-1)
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="SPORT",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -43,7 +43,7 @@ http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8eBrEl.png" group-title="USA",iShe TV
 https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="USA",Jewelry Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="shop",Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="USA",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
@@ -580,18 +580,10 @@ http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8?checke
 http://stream.streamislam.com:8080/streamer/live/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="Undefined",H2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn.png" group-title="Shop",HSN
-https://v-pi.mybtv.net/event/41.1/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" group-title="Shop",HSN
-https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn2.png" group-title="Shop",HSN 2
-https://v-pi.mybtv.net/event/41.2/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HTV 1 - Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.watchheartlandtv.com/assets/images/logo.png" group-title="Undefined",Heartland
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Shop",Hochanda TV
-https://d3jwlm43fjnwxe.cloudfront.net/ushochanda/2/prog_index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/caGRikb.png" group-title="Undefined",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Undefined",Hope Channel
