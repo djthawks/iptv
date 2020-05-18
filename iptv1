@@ -350,7 +350,6 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8?checke
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="Undefined",CNTV
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTM3U
 #PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(ONLINE) Comet TV (Geo),Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?checkedby:iptvcat.com
