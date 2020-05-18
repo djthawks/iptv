@@ -321,8 +321,6 @@ http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8?checke
 http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_1024p/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Undefined",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Undefined",American Horrors
-http://170.178.189.66:1935/live/Stream1/.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Anexion TV 36
 http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Undefined",Atlanta Channel
@@ -405,15 +403,15 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8?checkedby:
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Undefined",CBS
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="usa",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="usa",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="usa",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="usa",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="Local",CBS 4 Miami
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="usa",CBS 4 Miami
 http://190.80.3.28/CBS/CBS.isml/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Ekt1an0.png" group-title="Local",CBS 9 Washington DC (WUSA-HD)
 https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8?checkedby:iptvcat.com
@@ -441,9 +439,9 @@ http://live.cgtn.com/cctv-d.m3u8?checkedby:iptvcat.com
 http://livefr.cgtn.com/1000d/prog_index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Legislative",CGTV
 http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="Undefined",CMC
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="music",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CMC-USA
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Undefined",CT-N Court Feed
 http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8?checkedby:iptvcat.com
@@ -453,7 +451,7 @@ https://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8?checkedby:i
 http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CVTV Channel 21
 https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Undefined",California Music Channel,California Music Channel (Opt-2)
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="music",California Music Channel,California Music Channel (Opt-2)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Music",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8?checkedby:iptvcat.com
@@ -463,9 +461,9 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8?check
 http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist_w565131793_b2800000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Capital City Connection,Capital City Connection Montgomery
 http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" group-title="Local;Undefined",Cerritos TV3
+#EXTINF:0 tvg-country="US" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" group-title="music",Cerritos TV3
 http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Charge!,Entertainment TV:Charge (Geo)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="usa",Charge!,Entertainment TV:Charge (Geo)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="News",Cheddar
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8?checkedby:iptvcat.com
@@ -473,7 +471,7 @@ https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8?checked
 https://live.chdrstatic.com/cheddar/primary/1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="News;Undefined",Cheddar Big News,Cheddar News
 https://live.chdrstatic.com/cbn/primary/1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago - NBC 5 News,NBC 5 News (Chicago)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="local",Chicago - NBC 5 News,NBC 5 News (Chicago)
 http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/J1w8bAW.png" group-title="Religious",Christian Youth Channel
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8?checkedby:iptvcat.com
@@ -485,7 +483,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://image.xumo.com/v1/providers/provider/230/300x300.png?type=color_onBlack" group-title="Undefined",ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Corpus Christi - KRIS News (New!)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="local",Corpus Christi - KRIS News (New!)
 https://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="Undefined",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?checkedby:iptvcat.com
