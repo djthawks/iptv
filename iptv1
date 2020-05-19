@@ -224,23 +224,23 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
 #EXTINF:0, Adult XXX
 http://176.67.223.7:8000/udp/239.1.7.19:22719
-#EXTINF:0,BLUE HUSTLER (18+)
+#EXTINF:0 group-title="xxx",BLUE HUSTLER (18+)
 http://178.124.183.12/hls/CH_BLUEHUSTLER/bw2000000/playlist.m3u8?version=2
-#EXTINF:-1 , Adult
+#EXTINF:-1 group-title="xxx" , Adult
 http://cdn.adultiptv.net/pov.m3u8?streamType=live
-#EXTINF:-1 ,Red Traffic big ass
+#EXTINF:-1 group-title="xxx",Red Traffic big ass
 http://live.redtraffic.xyz/bigass.m3u8?streamType=live
-#EXTINF:-1 ,Red Traffic big dick
+#EXTINF:-1 group-title="xxx",Red Traffic big dick
 http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
-#EXTINF:-1 ,Red Traffic big tits
+#EXTINF:-1 group-title="xxx",Red Traffic big tits
 http://live.redtraffic.xyz/bigtits.m3u8?streamType=live
-#EXTINF:-1 ,Red Traffic anal
+#EXTINF:-1 group-title="xxx" ,Red Traffic anal
 http://live.redtraffic.xyz/anal.m3u8
-#EXTINF:-1 ,Red Traffic lesbian
+#EXTINF:-1 group-title="xxx",Red Traffic lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 ,Red Traffic teen
+#EXTINF:-1 group-title="xxx",Red Traffic teen
 http://live.redtraffic.net/teen.m3u8
-#EXTINF:-1 ,NYX 
+#EXTINF:-1 group-title="xxx",NYX 
 https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?fluxustv.m3u8
 http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27122&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CBC News Network
