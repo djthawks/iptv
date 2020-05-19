@@ -710,44 +710,16 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?checkedby:iptvcat.com
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/tf3KGP4.jpg" group-title="Undefined",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="US" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="News",News 12 New Jersey
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="News",News 12 The Bronx
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="News",News 12 Westchester
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/WHIO-TV-Channel-7-Ohio.jpg" group-title="Local;Undefined",News Center 7 (Ohio),WHIO
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" group-title="Local",NewsChannel 21 (KTVZ)
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NewsNetLogo.png" group-title="News;Undefined",NewsNet
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NewsNetLogo.png" group-title="News",NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="News",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="News",Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Newsmax-259x151.jpg" group-title="News",Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Noroeste TV
-https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nos Pais TV
 https://558bd16067b67.streamlock.net/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w997519270_b2000000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nothing Scripted
 http://30a-tv.com/NothingScripted.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",OK 4,OK4,OK4 Koblenz
-http://stream-cdn.ok54.de/hls/ok4.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Offener Kanal Merseburg,OK Merseburg
-http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ON4 TV (Opt-2)
-rtmp://yayin.netradyom.com/live//on4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Offener Kanal Weinstrasse
-rtmp://stream-cdn.ok54.de/tv/okweinstrasse?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oizmendi Telebista
-https://5940924978228.streamlock.net/8161/8161/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Local",Olelo 49
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",Olelo 53
@@ -756,128 +728,28 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8?checkedby:
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png" group-title="Local",Olelo 55
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Olot Televisio
-https://liveingesta118.cdnmedia.tv//olottvlive/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png" group-title="Undefined",Olympic Channel
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Omroep Gelderland
-https://web.omroepgelderland.nl/live/livetv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Omrop Fryslan
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Onda Algeciras,Onda Algeciras TV
-http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Onda Cadiz,Onda Cadiz (Opt-1)
-http://adc-hls.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Onda Madrid
-http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Onda TV Sicilia,OndaTV
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/3LEqi0D.png" group-title="Undefined",Opportunity Knocks
-https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oregon - Fox 12 News (New!)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="local",Oregon - Fox 12 News (New!)
 http://api.new.livestream.com/accounts/6908462/events/2706967/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Otto Channel
-https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PATV Great Neck
-http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="Local",PBS Miami FL (WPBT-HD)
-http://190.80.3.28/PBS/PBS.isml/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PCC-TV - Pinellas County Florida
 http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PTV Cordoba
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="sport",PTV Cordoba
 http://149.91.98.146:1935/cordoba/stream/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Pac-12 Plus
-https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Palm Springs - News Channel 3 (New!)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="local",Palm Springs - News Channel 3 (New!)
 http://api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PequeRadio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Peravia Vision 8
-http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Pintana TV
-http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Planet Cannabis,Planet Cannabis (New!)
-https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/UuJQntj.jpg" group-title="Undefined",Planet Cannabis Entertainment
-https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="Movies",Pluto TV Movies 1
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" group-title="Undefined",Pop
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" group-title="dave",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Pop Life TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Power TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Power TV
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Powerturk TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Powerturk TV
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Press TV (IR)
-https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Primocanale Liguria (Opt-2)
-rtmp://msh0203.stream.seeweb.it/live/stream1.sdp?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Promar TV (Opt-3)
-http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w850287837.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Punktum S�dharz
-http://62.113.210.250/medienasa-live/punktum_high/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Pu�al TV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc.png" group-title="Undefined",QVC
-https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc.png" group-title="Shop",QVC (Backup)
-https://v-pi.mybtv.net/event/61.5/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc2.png" group-title="Undefined",QVC 2
-https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc3.png" group-title="Undefined",QVC 3
-https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc3.png" group-title="Shop",QVC 3 (Backup)
-https://v-pi.mybtv.net/event/41.4/640x480?start_time=2019-12-13T21%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RAN1
-http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RBW
-http://62.113.210.250/medienasa-live/rbw_high/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RCG 1 Saltillo
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES;US" tvg-logo="" group-title="Sport;Undefined",Real Madrid,Real Madrid HD EN,REAL MADRID TV
+#EXTINF:0 tvg-country="ES;US" tvg-logo="" group-title="Sport",Real Madrid,Real Madrid HD EN,REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RFH Harz
-http://62.113.210.250/medienasa-live/RFH_high/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RMC Info Talk Sport
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Right Now TV,RN TV
-https://edge1.dashmedia.tv/onestudio/rightnowtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RU;US" tvg-logo="" group-title="News;Undefined",RT,RT Español,RT Espa�ol
-https://rt-esp.secure.footprint.net/1102.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="News;Undefined",RT America,RT America (Opt-1) (Russia)
 https://rt-usa.secure.footprint.net/1105.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RT UK,RT UK (RU),RT UK (Russia)
-https://rt-uk.secure.footprint.net/1106.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RTCG
-rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.2.stream?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RTI 1 (Opt-1)
-https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RTL (Opt-2)
-http://live-edge02.rtl.lu/channel1/smil:channel1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RTL (Opt-3)
-http://live-edge01.rtl.lu/channel2/smil:channel2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RTPA Asturias (Opt-2)
-http://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RTVC Canarias
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Radio 3
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Radio Antena Abierta
-https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Radio Studio 7
-https://flash7.xdevel.com/studio7mctv/studio7mctv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Radio Televisio Cardedeu
-https://liveingesta118.cdnmedia.tv//cardedeutvlive/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Radiou TV USA
-https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8?checkedby:iptvcat.com
-
-
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Retro Plus TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/sOVdYJZ.png" group-title="Undefined",Revelation TV
@@ -888,6 +760,207 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playl
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?checkedby:iptvcat.com
 
 
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-14363.png" group-title="Undefined",SBN SD (4:3)(WPSJ-CD)
+https://v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SL48 TV,SL48 TV Lazio
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/sDGZCpL.png" group-title="Undefined",SafeTV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",San Diego - Fox 5 News (New!)
+http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Satran� TV
+http://139.162.182.79/live/test/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sci-fi 4U
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="Undefined",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Seattle Channel - Washington
+https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sevilla FC TV (Opt-1)
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",She TV,She TV (New!)
+https://edge1.dashmedia.tv/onestudio/She_Tv_Network/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png" group-title="Shop",Shop HQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/ShopHQ_2019_Logo.png/200px-ShopHQ_2019_Logo.png" group-title="Shop",Shop HQ (Backup)
+https://v-pi.mybtv.net/event/4.2/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/e1bd830cacc89006befec26d48c00381eb67acc7d374610516a0ef78356a466d.png" group-title="Shop",Shop LC
+https://v-pi.mybtv.net/event/4.4/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Shopping 4U,Shopping 4U (New!)
+https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SiTV
+http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Siciliamedia TV
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Siteler TV
+http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Smart Lifestyle TV
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Spike (Opt-2)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sport",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Squidbillies (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Undefined",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Studio 100 Puglia (Opt-2)
+rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT;US" tvg-logo="" group-title="Undefined",Super J TV,Super J TV Teramo (Opt-1)
+https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Superjail! (Geo)
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Surya Samachar
+http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Syrian TV (Opt-2)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syriatv&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TAC12 TV Tarragona
+https://liveingesta118.cdnmedia.tv//tac12live/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TDM HD Macau (Opt-2)
+rtmp://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TDM Macau Satelite (Opt-3)
+rtmp://live4.tdm.com.mo:80/ch3/_definst_/ch3.live?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TDM Sports Macau (Opt-2)
+rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TELEVISION DEL ESTE
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Undefined",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU;US" tvg-logo="" group-title="Undefined",TRACE GOSPEL
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT;US" tvg-logo="" group-title="Undefined",TRG Umbria
+http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TRM H24,TRM h24 Basilicata
+http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TULALIP TV
+https://5c19aea334357.streamlock.net/tulalip/ngrp:myStream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV 41
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Benavente
+https://59b782181fb20.streamlock.net:455/gcm5/gcm5/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Campane GOLD
+http://tvcampanegold.srfms.com:1935/tvcampanegold/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR;US" tvg-logo="" group-title="Undefined",TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Direct 13
+https://edge1.tvdirect13.com/live/playlist_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR;US" tvg-logo="" group-title="Undefined",TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Municipal Cordoba (Opt-2)
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Poprad
+http://213.81.153.221:8080/poprad?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Red,TVRed,TVRed Punta Arenas
+http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Regional del Oriente
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Ruzinov
+http://213.81.153.221:8080/ruzinov?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Sei,TV Sei Teramo
+http://185.202.128.1:1935/Tv6Stream/tv6TV.stream_tlm/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV1 Kayseri
+rtmp://stream.taksimbilisim.com/tv1/bant1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV2 Choapa
+http://unlimited2-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV4 La Vall,TV4 La Vall Castellon
+https://common01.todostreaming.es/live/tarson-livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVA Vicenza (Opt-2)
+rtmp://fms.tvavicenza.it:1935/live/diretta_1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES;US" tvg-logo="" group-title="Undefined",TVG,TVG (Opt-1)
+http://europa-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES;US" tvg-logo="" group-title="Local;Undefined",TVG Momento,TVG Momentos G
+http://momentog-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVO Canal 23 (Opt-1)
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVO Canal 23 (Opt-2),TVX
+https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVO San Vicente
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVRed Punta Arenas
+http://45.33.58.155:1935/live/myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVS Canal 22
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Taaza TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Taltal TV Documentales
+http://inliveserver.com:1935/10018/10018/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tarotcanal
+https://live2.tarotcanal.com/live/livestream/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TastyTrade,TastyTrade (New!)
+https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tele Blu,Teleblu Foggia
+https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tele Pegaso Catania,TelePegaso
+https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tele Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleBari
+rtmp://fl1.mediastreaming.it:1935/telebari/livestream?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleChiara Vicenza (Opt-2)
+rtmp://fms.tvavicenza.it:1935/telechiara/diretta?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleGalatina Puglia (Opt-1)
+https://flash2.xdevel.com/telegalatina/telegalatina/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleGalatina Puglia (Opt-2)
+rtmp://flash2.streaming.xdevel.com:80/telegalatina/telegalatina?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT;US" tvg-logo="" group-title="Undefined",TeleNordest,TeleNordest Friuli
+https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleRibera
+http://37.187.7.106/teleribera/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleSUR,TeleSUR (Opt-1),Telesur de Oaxaca
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleSafor (Opt-2)
+http://video.telesafor.com/hls/video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT;US" tvg-logo="" group-title="Undefined",TeleTusciaSabina 2000
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TeleVenezia
+https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telefuturo 23
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT;US" tvg-logo="" group-title="Undefined",Telegranda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Teleislas (Opt-2)
+http://vbox2.cehis.net/live-teleislas/_definst_/mp4:teleislas/chunklist_w1846604063.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telemantova
+rtmp://wma07.fluidstream.net:1935/TeleMantova/livestream?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telenord 8 (Opt-2)
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telepordenone
+rtmp://213.187.12.18/telepn/telepn?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telesistema 11
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telestar 1
+http://193.34.109.10:8090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Televigo
+http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Televisio Badalona
+http://liveingesta118.cdnmedia.tv//badalonatvlive/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Televisio Bergueda
+http://liveingesta118.cdnmedia.tv//berguedatvlive/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Temple TV
+https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tendencias TV
+https://v3.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 
 
 
