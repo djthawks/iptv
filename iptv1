@@ -872,46 +872,21 @@ https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8?checkedb
 https://flash7.xdevel.com/studio7mctv/studio7mctv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Radio Televisio Cardedeu
 https://liveingesta118.cdnmedia.tv//cardedeutvlive/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/B6C0FyM.png" group-title="Undefined",Radio y Televisión Martí
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Radiou TV USA
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Radiou TV USA
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Red Apple 21 - Fairfax County Public Schools - Virginia
-https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Undefined",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Regalia TV
-https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Regio TV Stuttgart
-https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Rehber TV
-http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist_w1174978711.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Rete Biella TV
-rtmp://sb.top-ix.org:1935/retebiella/streaming?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Rete Oro,ReteOro
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Retro Plus TV
+
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Retro Plus TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-90276.png" group-title="Undefined",Retro TV
-https://v-pi.mybtv.net/event/2.5/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/sOVdYJZ.png" group-title="Undefined",Revelation TV
 http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Rick and Morty (Geo)
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Robot Chicken (Geo)
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Rocco TV
-http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Rooster Teeth TV
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Ruidos TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Ruidos TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Rwanda TV (Opt-3)
-rtmp://197.243.19.131:1935/rtv/rtv?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-14363.png" group-title="Undefined",SBN HD (16:9)(WTVE)
-https://v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-14363.png" group-title="Undefined",SBN SD (16:9)(WPHY-CD)
-https://v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375&checkedby:iptvcat.com
+
 
 
 
