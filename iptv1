@@ -794,156 +794,79 @@ http://vbox2.cehis.net/live-teleislas/_definst_/mp4:teleislas/chunklist_w1846604
 http://liveingesta118.cdnmedia.tv//badalonatvlive/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Temple TV
 https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="Undefined",The Asylum
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="dave",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Beach Show
 http://30a-tv.com/beachy.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Box
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",The CW Charlotte NC (WCCB-DT)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="dave",The CW Charlotte NC (WCCB-DT)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Country Network
-https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2046&env=prd&uid=24610&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://media-usla.mybtv.net/logos/8.2.png" group-title="Undefined",The Country Network
-https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2026&env=prd&uid=24610&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Eric Andre Show (Geo)
-http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movies",The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://thefloridachannel.org/wp-content/uploads/logo-primary-1.png" group-title="Undefined",The Florida Channel
 https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://channels.roku.com/images/be4667a16b1e483b8c7746156192b5ba-hd.jpg" group-title="Undefined",The Now Network
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Undefined",The Outdoor Cooking Channel
+#EXTINF:0 tvg-country="US" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="dave",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Rockville Channel
 http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://www.marketingmag.ca/wp-content/uploads/2013/09/TSC_Logo_Primary_SM_RGB-21.jpg" group-title="Shop",The Shopping Channel
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Shopping Channel HD
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Undefined",The Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Venture Bros. (Geo)
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" group-title="Weather",The Weather Channel
-http://bit.ly/2wQwd1G?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/BvRObyp.png" group-title="Undefined",The Works
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tierramia TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tim and Eric (Geo)
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Times Now (Opt-2)
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="Undefined",Titanic TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Toledo - WTOL 11 News (New!)
 http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Town of Vienna Community Network (Opt-2),Town of Vienna Community Network [HQ]
 https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR;US" tvg-logo="" group-title="Music;Undefined",Trace Africa
+#EXTINF:0 tvg-country="FR;US" tvg-logo="" group-title="Music",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR;US" tvg-logo="" group-title="Music;Undefined",Trace Naija
+#EXTINF:0 tvg-country="FR;US" tvg-logo="" group-title="Music",Trace Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR;US" tvg-logo="" group-title="Music;Undefined",Trace Toca
+#EXTINF:0 tvg-country="FR;US" tvg-logo="" group-title="Music",Trace Toca
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR;US" tvg-logo="" group-title="Music;Undefined",Trace Tropical
+#EXTINF:0 tvg-country="FR;US" tvg-logo="" group-title="Music",Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Transmedia TV Morelia
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Transmedia TV Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Trebujena TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="music",Trebujena TV
 http://212.104.160.156:1935/live/trebujenatv2/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.ytimg.com/vi/_Jt1yB1y-MM/hqdefault.jpg" group-title="Religious",Trinity Channel
 http://rtmp1.abnsat.com/hls/trinity.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Turan TV
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Turkmen Owazy
-http://217.174.225.146/legacyhls/ch005_400/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;US" tvg-logo="" group-title="Undefined",Tuti,Tuti TV
-https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",UALR TV
-http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UCTV - University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UESTV Los Lagos
-http://uestv.02.cl.cdnz.cl/uloslagos/live/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNTV News & Rescue
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA,WWE Network
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Dave",USA/WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UTNtv Rio Gallegos
-http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UTV San Clemente
-http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UTV UNAH
-https://live-utv.unah.edu.hn/web/salida.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://uwwtv.org/wp-content/uploads/2013/07/UWW-TV-Logo-Square-2018_NO-OUTLINE-4.png" group-title="Local",UWW-TV
+#EXTINF:0 tvg-country="US" tvg-logo="http://uwwtv.org/wp-content/uploads/2013/07/UWW-TV-Logo-Square-2018_NO-OUTLINE-4.png" group-title="sport",UWW-TV
 http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Umbria TV
-rtmp://eventi.ictvalleumbra.it:1935/live/umbriatv.sdp?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/kJgbASp.png" group-title="Religious",Uncion 24
-http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Urola Telebista (Opt-2)
-https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="Undefined",VH1,VH1 (Opt-1)
-http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VTV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="sport",VTV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Vallevision TV
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="Undefined",Venus TV (US Eastern)
-https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="Undefined",Venus TV (US Pacific)
-https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Vepaco TV (Opt-2)
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Religious",Victory Television Network
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Video 33 Alto Adige
-http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Video Brescia (Opt-2)
-http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Videonola,Videonola Napoli
-https://stream1.aswifi.it/videonola/live/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Videonovara
-http://sb.top-ix.org/avtv04/_definst_/streaming/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Vision 6
-https://secure3.todostreaming.es/live/visionseis-livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/vkDryWT.png" group-title="Undefined",Viva Cristo TV
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/vkDryWT.png" group-title="music",Viva Cristo TV
 http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Undefined",VoA TV
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Undefined",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Undefined",VoA TV
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Undefined",VoA TV
-http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Voice of America (PST)
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Vuslat TV (Opt-2)
-https://59cba4d34b678.streamlock.net/live/vuslattv/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WABI 5 - Bangor - Maine
 https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/8wSctnw.png" group-title="Local",WALB
 https://player-api.new.livestream.com/accounts/11279058/events/3645614/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://worcester.vod.castus.tv/wccalive.png" group-title="Undefined",WCCA TV Worcester,WCCA-TV (Worcester)
+#EXTINF:0 tvg-country="US" tvg-logo="https://worcester.vod.castus.tv/wccalive.png" group-title="local",WCCA TV Worcester,WCCA-TV (Worcester)
 http://worcester.vod.castus.tv/live/ch1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Wftvhd.png" group-title="Local",WFTV 9
 https://svc-lv-cxtv-wftv.cmgvideo.com/out/u/WFTVN1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WFTV Channel 9 - Florida - Orlando
 https://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png" group-title="Undefined",WGN-TV (Chicago)
-http://bit.ly/2z8NPLB?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png" group-title="Local",WGN-TV (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/WHIO-TV_Logo.png/285px-WHIO-TV_Logo.png" group-title="Local",WHIO
@@ -952,50 +875,24 @@ http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8?checkedby:ip
 http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="http://313watkins.com/images/logo.png" group-title="Local",WHPR
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/WMCN44.png" group-title="Local",WMCN
-https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://wmfd.com/images/logo.png" group-title="Local",WMFD
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL;US" tvg-logo="" group-title="Undefined",Wow (El Salvador),WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SV;US" tvg-logo="" group-title="Kids;Undefined",WOW! TV,WOW!TV HD
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SV;US" tvg-logo="" group-title="Kids;Undefined",WOW! TV,WOW!TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-74019.png" group-title="Local",WPHA
-https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" group-title="Undefined",WSJ
 http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/3TA4xsx.png" group-title="Local",WXXV 25 Gulfport MS (WXXV)
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WXYZ ABC 7 Detroit (New!)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="local",WXYZ ABC 7 Detroit (New!)
 https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/uUb3vwe.png" group-title="Weather",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Weather",WeatherNation TV
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Western 4U
-https://nimble.dashmedia.tv/onestudio/western4u/%20playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://wpcommunitymedia.org/images/city-of-white-plains.png" group-title="Undefined",White Plains Community Media
+#EXTINF:0 tvg-country="US" tvg-logo="http://wpcommunitymedia.org/images/city-of-white-plains.png" group-title="music",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Williams Stream (Geo)
-http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/APGJc8I.jpg" group-title="Undefined",Wink TV
-https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/piweDaK.jpg" group-title="Undefined",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yildiz TV
-http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Undefined",Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Undefined",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/TDRDF4q.png" group-title="Undefined",byu TV
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-81915.png" group-title="Undefined",getTV
-https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375&checkedby:iptvcat.com
 
 
 
