@@ -9,7 +9,7 @@ http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
 https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XEtAu1Q.png" group-title="USA",Golden TV
 https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G3k7nDM.png" group-title="USA",Guiding Star TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3k7nDM.png" group-title="USA",Guiding Star TVs
 https://nrpus.bozztv.com/36bay2/gusa-guidingstar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0aXwHX.png" group-title="USA",Gusto TV
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
@@ -664,7 +664,7 @@ https://59cba4d34b678.streamlock.net/canlitv/marmaristv/chunklist_w1134892921.m3
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="xxx",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Usa",Mo Laughter TV
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA",Mo Laughter TV
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/XzKinh7.jpg" group-title="Fashion",Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
