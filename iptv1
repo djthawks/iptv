@@ -111,6 +111,24 @@ http://loginto.live:80/EPJY3St56/K6s2ruk8O0/18825?checkedby:iptvcat.com
 http://plus-tv.us:8080/live/1899/1899/14638.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS Jacksonville
 http://loginto.live:80/EPJY3St56/K6s2ruk8O0/18826?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX 5 STARMAX
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/13507?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX ACTION HD
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/4010?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX ACTIONMAX
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/634?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX EAST
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/414?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX EAST
+http://cdn.miip.tv:8080/canada/123456/3527?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX MOREMAX
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/636?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX OUTERMAX
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/13503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX THRILLERMAX
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/13504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX WEST
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/415?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR) (Opt-1)
