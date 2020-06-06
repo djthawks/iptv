@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="Undefined",Tom & Jerry (Opt-2)
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="KIDS",Tom & Jerry (Opt-2)
 https://ws.hls.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="Undefined",Tom Cruise Movies (Opt-1)
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="MOVIE",Tom Cruise Movies (Opt-1)
 https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="Undefined",Tom Cruise Movies (Opt-2)
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="MOVIE",Tom Cruise Movies (Opt-2)
 https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/3A3NQFo.png" group-title="Undefined",Totally Spies! (Opt-1)
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/3A3NQFo.png" group-title="KIDS",Totally Spies! (Opt-1)
 https://ws.hls.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/3A3NQFo.png" group-title="Undefined",Totally Spies! (Opt-2)
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/3A3NQFo.png" group-title="KIDS",Totally Spies! (Opt-2)
 https://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(ONLINE) Comet TV (Geo),Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movies",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/220px-A%26E_Network_logo.svg.png" group-title="DAVE",A&E
 http://cdn.miip.tv:8080/canada/123456/525?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E HD
-http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/50?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/220px-A%26E_Network_logo.svg.png" group-title="DAVE",A&E
 http://plus-tv.us:8080/live/1899/1899/14615.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png" group-title="ABC",ABC
 http://plus-tv.us:8080/live/1899/1899/14622.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 10 (KGTV) San diego
 http://m-iptv.net:6204/95025267076109/65839594001441/35862?checkedby:iptvcat.com
