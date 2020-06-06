@@ -1,4 +1,68 @@
 #EXTM3U
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="Undefined",Tom & Jerry (Opt-2)
+https://ws.hls.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="Undefined",Tom Cruise Movies (Opt-1)
+https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="Undefined",Tom Cruise Movies (Opt-2)
+https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/3A3NQFo.png" group-title="Undefined",Totally Spies! (Opt-1)
+https://ws.hls.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.imgur.com/3A3NQFo.png" group-title="Undefined",Totally Spies! (Opt-2)
+https://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(ONLINE) Comet TV (Geo),Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movies",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://cdn.miip.tv:8080/canada/123456/525?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E HD
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/50?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://plus-tv.us:8080/live/1899/1899/14615.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+http://plus-tv.us:8080/live/1899/1899/14622.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 10 (KGTV) San diego
+http://m-iptv.net:6204/95025267076109/65839594001441/35862?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 10 (KXTV) Sacramento
+http://m-iptv.net:6204/95025267076109/65839594001441/35863?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 10 (WPLG) Miami
+http://m-iptv.net:6204/95025267076109/65839594001441/35864?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 11 (WTVD) Durham
+http://m-iptv.net:6204/95025267076109/65839594001441/35865?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 6 (WPVI) Philadelphia
+http://m-iptv.net:6204/95025267076109/65839594001441/35852?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 4 (WTAE) Pittsburgh
+http://m-iptv.net:6204/95025267076109/65839594001441/35847?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 (WABC) New york
+http://m-iptv.net:6204/95025267076109/65839594001441/35855?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC DALLAS
+http://cdn.miip.tv:8080/canada/123456/2647?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Dallas
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/18936?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Denver
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/18939?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://plus-tv.us:8080/live/1899/1899/14551.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://m-iptv.net:6204/95025267076109/65839594001441/20615?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/644?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC USA
+http://cdn.miip.tv:8080/canada/123456/3551?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET EAST
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/33081?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/132?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",AT&T SPORTSNET SOUTHWEST
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/15808?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ATT SportsNet Southwest
+http://m-iptv.net:6204/95025267076109/65839594001441/33434?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BIG TEN NETWORK
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/385?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BIGTEN 2
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/302?checkedby:iptvcat.com
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR) (Opt-1)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="NEWS",CBS News (Opt-2)
