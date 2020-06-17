@@ -1,8 +1,183 @@
 #EXTM3U
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Lifetime
+http://207.38.89.242:8080/live/2993/2993/14565.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",History Channel
+http://207.38.89.242:8080/live/2993/2993/14564.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Drama
+http://207.38.89.242:8080/live/2993/2993/14563.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark
+http://207.38.89.242:8080/live/2993/2993/14562.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXX
+http://207.38.89.242:8080/live/2993/2993/14561.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX
+http://207.38.89.242:8080/live/2993/2993/14560.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food Network
+http://207.38.89.242:8080/live/2993/2993/14559.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Science
+http://207.38.89.242:8080/live/2993/2993/14558.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Life
+http://207.38.89.242:8080/live/2993/2993/14557.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Family
+http://207.38.89.242:8080/live/2993/2993/14556.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Destination America
+http://207.38.89.242:8080/live/2993/2993/14555.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Comedy Central
+http://207.38.89.242:8080/live/2993/2993/14554.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC
+http://207.38.89.242:8080/live/2993/2993/14553.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery ID
+http://207.38.89.242:8080/live/2993/2993/14552.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://207.38.89.242:8080/live/2993/2993/14551.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2 *
+http://207.38.89.242:8080/live/2993/2993/14685.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime West
+http://207.38.89.242:8080/live/2993/2993/14683.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Extreme
+http://207.38.89.242:8080/live/2993/2993/14681.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WWE Network
+http://207.38.89.242:8080/live/2993/2993/14674.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBCSN
+http://207.38.89.242:8080/live/2993/2993/14671.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVG 2
+http://207.38.89.242:8080/live/2993/2993/14670.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVG
+http://207.38.89.242:8080/live/2993/2993/14668.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SNY
+http://207.38.89.242:8080/live/2993/2993/14666.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Outdoor Channel
+http://207.38.89.242:8080/live/2993/2993/14665.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NHL Network
+http://207.38.89.242:8080/live/2993/2993/14664.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NFL Network
+http://207.38.89.242:8080/live/2993/2993/14663.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBA TV
+http://207.38.89.242:8080/live/2993/2993/14662.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MSNBC
+http://207.38.89.242:8080/live/2993/2993/14661.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MSG
+http://207.38.89.242:8080/live/2993/2993/14660.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LongHorn Network
+http://207.38.89.242:8080/live/2993/2993/14658.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Golf Channel
+http://207.38.89.242:8080/live/2993/2993/14657.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",GINX eSports
+http://207.38.89.242:8080/live/2993/2993/14656.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox Soccer Plus
+http://207.38.89.242:8080/live/2993/2993/14655.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox Sports 2
+http://207.38.89.242:8080/live/2993/2993/14654.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox Sports 1
+http://207.38.89.242:8080/live/2993/2993/14653.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fight Network
+http://207.38.89.242:8080/live/2993/2993/14652.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ESPN News
+http://207.38.89.242:8080/live/2993/2993/14650.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ESPN U
+http://207.38.89.242:8080/live/2993/2993/14651.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ESPN
+http://207.38.89.242:8080/live/2993/2993/14649.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Eleven Sports
+http://207.38.89.242:8080/live/2993/2993/14648.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FIGHTING SPORTS
+http://207.38.89.242:8080/live/2993/2993/14647.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TENNIS CHANEL
+http://207.38.89.242:8080/live/2993/2993/14645.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UFC TV
+http://207.38.89.242:8080/live/2993/2993/14646.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC
+http://207.38.89.242:8080/live/2993/2993/14640.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO West
+http://207.38.89.242:8080/live/2993/2993/14635.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXM
+http://207.38.89.242:8080/live/2993/2993/14634.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS Houston
+http://207.38.89.242:8080/live/2993/2993/14638.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",H2
+http://207.38.89.242:8080/live/2993/2993/14639.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN
+http://207.38.89.242:8080/live/2993/2993/14637.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Own Channel
+http://207.38.89.242:8080/live/2993/2993/14632.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY Premium
+http://207.38.89.242:8080/live/2993/2993/14630.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tru TV
+http://207.38.89.242:8080/live/2993/2993/14628.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bravo TV
+http://207.38.89.242:8080/live/2993/2993/14627.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC America
+http://207.38.89.242:8080/live/2993/2993/14625.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS
+http://207.38.89.242:8080/live/2993/2993/14623.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+http://207.38.89.242:8080/live/2993/2993/14622.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox NY
+http://207.38.89.242:8080/live/2993/2993/14621.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox News
+http://207.38.89.242:8080/live/2993/2993/14620.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hbo Siganture
+http://207.38.89.242:8080/live/2993/2993/14619.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family
+http://207.38.89.242:8080/live/2993/2993/14618.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Network
+http://207.38.89.242:8080/live/2993/2993/14617.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Paramount
+http://207.38.89.242:8080/live/2993/2993/14616.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://207.38.89.242:8080/live/2993/2993/14615.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sundance
+http://207.38.89.242:8080/live/2993/2993/14614.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",American Horrors
+http://207.38.89.242:8080/live/2993/2993/14613.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO
-http://plus-tv.us:8080/live/1899/1899/14610.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO
-http://m-iptv.net:6204/95025267076109/65839594001441/20563?checkedby:iptvcat.com
+http://207.38.89.242:8080/live/2993/2993/14610.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO ZONE
+http://207.38.89.242:8080/live/2993/2993/14605.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz
+http://207.38.89.242:8080/live/2993/2993/14602.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore Western
+http://207.38.89.242:8080/live/2993/2993/14601.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Extreme
+http://207.38.89.242:8080/live/2993/2993/14600.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2
+http://207.38.89.242:8080/live/2993/2993/14598.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime
+http://207.38.89.242:8080/live/2993/2993/14597.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",EPIX
+http://207.38.89.242:8080/live/2993/2993/14596.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Universal Kids
+http://207.38.89.242:8080/live/2993/2993/14594.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nick Jr
+http://207.38.89.242:8080/live/2993/2993/14592.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nick
+http://207.38.89.242:8080/live/2993/2993/14591.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney XD
+http://207.38.89.242:8080/live/2993/2993/14590.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Jr
+http://207.38.89.242:8080/live/2993/2993/14589.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery
+http://207.38.89.242:8080/live/2993/2993/14586.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E!
+http://207.38.89.242:8080/live/2993/2993/14575.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Travel Channel
+http://207.38.89.242:8080/live/2993/2993/14574.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC
+http://207.38.89.242:8080/live/2993/2993/14573.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",The Weather Channel
+http://207.38.89.242:8080/live/2993/2993/14572.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TCM
+http://207.38.89.242:8080/live/2993/2993/14571.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS
+http://207.38.89.242:8080/live/2993/2993/14570.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SyFy
+http://207.38.89.242:8080/live/2993/2993/14569.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS KIDS
+http://207.38.89.242:8080/live/2993/2993/14568.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nat Geo
+http://207.38.89.242:8080/live/2993/2993/14566.ts?checkedby:iptvcat.com
+
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
 http://cdn.miip.tv:8080/canada/123456/3521?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 East
