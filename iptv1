@@ -4,7 +4,7 @@
 http://207.38.89.242:8080/live/2993/2993/14565.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="historychannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png"  group-title="DAVE",History Channel
 http://207.38.89.242:8080/live/2993/2993/14564.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="US" tvg-logo="" group-title="Undefined",Hallmark Drama
+#EXTINF:0 tvg-id="hallmarkdrama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Hallmark_Drama_Logo.png/200px-Hallmark_Drama_Logo.png" group-title="DAVE",Hallmark Drama
 http://207.38.89.242:8080/live/2993/2993/14563.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark
 http://207.38.89.242:8080/live/2993/2993/14562.ts?checkedby:iptvcat.com
