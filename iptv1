@@ -1,5 +1,5 @@
 #EXTM3U
-
+http://185.123.141.236/epg/guide.xml
 #EXTINF:0 tvg-id="lifetimenetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Lifetime_logo_2020.svg/200px-Lifetime_logo_2020.svg.png" tvg-name="Lifetime Network US" group-title="DAVE",Lifetime
 http://207.38.89.242:8080/live/2993/2993/14565.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="historychannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" tvg-name="History Channel US" group-title="DAVE",History Channel
