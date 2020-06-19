@@ -168,7 +168,7 @@ http://207.38.89.242:8080/live/2993/2993/14573.ts?checkedby:iptvcat.com
 http://207.38.89.242:8080/live/2993/2993/14572.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TCM
 http://207.38.89.242:8080/live/2993/2993/14571.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS
+#EXTINF:0 tvg-id="tbs.us" tvg-logo="" group-title="Undefined",TBS
 http://207.38.89.242:8080/live/2993/2993/14570.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SyFy
 http://207.38.89.242:8080/live/2993/2993/14569.ts?checkedby:iptvcat.com
@@ -180,8 +180,7 @@ http://207.38.89.242:8080/live/2993/2993/14566.ts?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
 http://cdn.miip.tv:8080/canada/123456/3521?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 East
-http://active.h2t.cx:2082/chamour2_260374/JwfbKkKN/11182?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy
 http://cdn.miip.tv:8080/canada/123456/3509?checkedby:iptvcat.com
 
