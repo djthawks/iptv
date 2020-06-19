@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Lifetime
+#EXTINF:0 tvg-id="lifetimenetwork.us" tvg-logo="" group-title="DAVE",Lifetime
 http://207.38.89.242:8080/live/2993/2993/14565.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",History Channel
 http://207.38.89.242:8080/live/2993/2993/14564.ts?checkedby:iptvcat.com
