@@ -6,13 +6,13 @@ http://207.38.89.242:8080/live/2993/2993/14565.ts?checkedby:iptvcat.com
 http://207.38.89.242:8080/live/2993/2993/14564.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="hallmarkdrama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Hallmark_Drama_Logo.png/200px-Hallmark_Drama_Logo.png" group-title="DAVE",Hallmark Drama
 http://207.38.89.242:8080/live/2993/2993/14563.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark
+#EXTINF:0 tvg-id="US" tvg-logo="" group-title="Undefined",Hallmark
 http://207.38.89.242:8080/live/2993/2993/14562.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXX
 http://207.38.89.242:8080/live/2993/2993/14561.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX
 http://207.38.89.242:8080/live/2993/2993/14560.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food Network
+#EXTINF:0 tvg-id="foodnetwork.us" tvg-logo="" group-title="Undefined",Food Network
 http://207.38.89.242:8080/live/2993/2993/14559.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Science
 http://207.38.89.242:8080/live/2993/2993/14558.ts?checkedby:iptvcat.com
