@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="lifetimenetwork.us" tvg-logo="" group-title="DAVE",Lifetime
+#EXTINF:0 tvg-id="lifetimenetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Lifetime_logo_2020.svg/200px-Lifetime_logo_2020.svg.png" tvg-name="Lifetime Network US" group-title="DAVE",Lifetime
 http://207.38.89.242:8080/live/2993/2993/14565.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",History Channel
+#EXTINF:0 tvg-id="historychannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png"  group-title="DAVE",History Channel
 http://207.38.89.242:8080/live/2993/2993/14564.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Drama
+#EXTINF:0 tvg-id="US" tvg-logo="" group-title="Undefined",Hallmark Drama
 http://207.38.89.242:8080/live/2993/2993/14563.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark
 http://207.38.89.242:8080/live/2993/2993/14562.ts?checkedby:iptvcat.com
