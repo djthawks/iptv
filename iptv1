@@ -1,6 +1,46 @@
 #EXTM3U
 http://185.123.141.236/epg/guide.xml
 
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Digital Concert Hall (New!)
+http://m3ukodi.com/canales/digitalconcerthall.php?a=247&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Undefined",A&E,US | A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://thex.tv:8000/Victoria/Victoria01/2479?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA NETWORK USA
+http://akamaizedx.com:80/lulalele/1324zcbv/10035223?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA NETWORK (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045377?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV LAND (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045383?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045397?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC
+http://akamaizedx.com:80/lulalele/1324zcbv/10035232?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045398?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045406?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS
+http://akamaizedx.com:80/lulalele/1324zcbv/1923?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SUNDANCETV
+http://akamaizedx.com:80/lulalele/1324zcbv/10045408?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SYFY (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045407?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SONY MOVIE CHANNEL
+http://akamaizedx.com:80/lulalele/1324zcbv/10045410?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PARAMOUNT NETWORK
+http://akamaizedx.com:80/lulalele/1324zcbv/10045420?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NICK JR. (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045439?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL REDZONE
+http://akamaizedx.com:80/lulalele/1324zcbv/10045440?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS WASHINGTON PLUS
+http://akamaizedx.com:80/lulalele/1324zcbv/10045446?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",INVESTIGATION DISCOVERY
+http://akamaizedx.com:80/lulalele/1324zcbv/10045467?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",IFC
+http://akamaizedx.com:80/lulalele/1324zcbv/10045469?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="MOVIE",HBO Comedy
 http://cdn.miip.tv:8080/canada/123456/3509?checkedby:iptvcat.com
