@@ -2,10 +2,6 @@
 http://185.123.141.236/epg/guide.xml
 
 
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="MOVIE",HBO 2
-http://cdn.miip.tv:8080/canada/123456/3521?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="MOVIE",HBO Comedy
 http://cdn.miip.tv:8080/canada/123456/3509?checkedby:iptvcat.com
 
