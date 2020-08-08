@@ -1,7 +1,42 @@
 #EXTM3U
 http://185.123.141.236/epg/guide.xml
 
-#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Local",NBC 11 Pittsburgh PA (WPXI-HD)
+https://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",NBC 11 Pittsburgh PA (WPXI-HD)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",The Big Bang Theory Temp 7-12
+http://thex.tv:8000/Victoria/Victoria01/2928?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",The Big Bang Theory Temp 1 - 6
+http://thex.tv:8000/Victoria/Victoria01/4727?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VICELAND
+http://akamaizedx.com:80/lulalele/1324zcbv/10045375?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VH1 (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045376?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA NETWORK USA
+http://akamaizedx.com:80/lulalele/1324zcbv/10035223?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA NETWORK (EAST)
+http://akamaizedx.com:80/lulalele/1324zcbv/10045377?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PARAMOUNT NETWORK
+http://akamaizedx.com:80/lulalele/1324zcbv/10045420?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Kids & Family
+http://akamaizedx.com:80/lulalele/1324zcbv/10047724?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy
+http://akamaizedx.com:80/lulalele/1324zcbv/10047725?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema
+http://akamaizedx.com:80/lulalele/1324zcbv/10047726?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz
+http://akamaizedx.com:80/lulalele/1324zcbv/10047727?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Family Zone
+http://akamaizedx.com:80/lulalele/1324zcbv/10047728?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Extreme
+http://akamaizedx.com:80/lulalele/1324zcbv/10047729?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2
+http://akamaizedx.com:80/lulalele/1324zcbv/10047731?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime
+http://akamaizedx.com:80/lulalele/1324zcbv/10047732?checkedby:iptvcat.com
+
+
 
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
