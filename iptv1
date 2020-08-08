@@ -9,19 +9,19 @@ http://thex.tv:8000/Victoria/Victoria01/2479?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="A&E USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/220px-A%26E_Network_logo.svg.png" tvg-name="A&E USA"  group-title="Cable",A&E USA
 http://akamaizedx.com:80/lulalele/1324zcbv/10035197?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="ABC 7 WABC NY" tvg-logo="Logo N/A" tvg-name="ABC 7 WABC NY"  group-title="ABC",ABC 7 WABC NY
+#EXTINF:-1, tvg-id="ABC 7 WABC NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png" tvg-name="ABC 7 WABC NY"  group-title="ABC",ABC 7 WABC NY
 http://akamaizedx.com:80/lulalele/1324zcbv/6521?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="ABC HD²" tvg-logo="Logo N/A" tvg-name="ABC HD²"  group-title="ABC",ABC HD²
+#EXTINF:-1, tvg-id="ABC HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png" tvg-name="ABC HD²"  group-title="ABC",ABC HD²
 http://akamaizedx.com:80/lulalele/1324zcbv/4490?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="ABC NEWS" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="NEWS",ABC NEWS
+#EXTINF:-1, tvg-id="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" tvg-name="ABC NEWS"  group-title="NEWS",ABC NEWS
 http://akamaizedx.com:80/lulalele/1324zcbv/10671?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="Adult" tvg-logo="Logo N/A" tvg-name="Adult"  group-title="xxx",Adult
 http://cdn.adultiptv.net/pov.m3u8?streamType=live
 
-#EXTINF:-1, tvg-id="AMC USA" tvg-logo="Logo N/A" tvg-name="AMC USA"  group-title="Cable",AMC USA
+#EXTINF:-1, tvg-id="AMC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" tvg-name="AMC USA"  group-title="Cable",AMC USA
 http://akamaizedx.com:80/lulalele/1324zcbv/10035198?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="Aqua Teen Hunger Force (Geo)" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" tvg-name="Aqua Teen Hunger Force (Geo)"  group-title="24/7 ADULT SWIM GEO",Aqua Teen Hunger Force (Geo)
@@ -66,13 +66,13 @@ https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8?checkedby:iptvcat.c
 #EXTINF:-1, tvg-id="Blush TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-name="Blush TV"  group-title="Cable",Blush TV
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="Boomerang" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Cable",Boomerang
+#EXTINF:-1, tvg-id="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" tvg-name="Boomerang"  group-title="Cable",Boomerang
 http://akamaizedx.com:80/lulalele/1324zcbv/10047794?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="BOX HITS" tvg-logo="Logo N/A" tvg-name="BOX HITS"  group-title="MUSIC",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1, tvg-id="BRAVO USA" tvg-logo="Logo N/A" tvg-name="BRAVO USA"  group-title="Cable",BRAVO USA
+#EXTINF:-1, tvg-id="BRAVO USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/220px-Bravo_2017_logo.svg.png" tvg-name="BRAVO USA"  group-title="Cable",BRAVO USA
 http://akamaizedx.com:80/lulalele/1324zcbv/10035214?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="BUZZR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Buzzr_%28TV_Network%29_Logo.png/175px-Buzzr_%28TV_Network%29_Logo.png" tvg-name="BUZZR TV"  group-title="Cable",BUZZR TV
@@ -81,7 +81,7 @@ http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 #EXTINF:-1, tvg-id="California Music Channel" tvg-logo="Logo N/A" tvg-name="California Music Channel"  group-title="MUSIC",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1, tvg-id="CARTOON NETWORK" tvg-logo="Logo N/A" tvg-name="CARTOON NETWORK"  group-title="CABLE",CARTOON NETWORK
+#EXTINF:-1, tvg-id="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" tvg-name="CARTOON NETWORK"  group-title="CABLE",CARTOON NETWORK
 http://akamaizedx.com:80/lulalele/1324zcbv/1794?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
@@ -312,13 +312,13 @@ http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #EXTINF:-1, tvg-id="KMSP (FOX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="KMSP (FOX)"  group-title="Undefined",KMSP (FOX)
 http://akamaizedx.com:80/lulalele/1324zcbv/10047762?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="KNBC (NBC)" tvg-logo="Logo N/A" tvg-name="KNBC (NBC)"  group-title="Undefined",KNBC (NBC)
+#EXTINF:-1, tvg-id="KNBC (NBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/220px-NBC_logo_%282013%29.svg.png" tvg-name="KNBC (NBC)"  group-title="Undefined",KNBC (NBC)
 http://akamaizedx.com:80/lulalele/1324zcbv/10047761?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="KNSD (NBC)" tvg-logo="Logo N/A" tvg-name="KNSD (NBC)"  group-title="NBC",KNSD (NBC)
+#EXTINF:-1, tvg-id="KNSD (NBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/220px-NBC_logo_%282013%29.svg.png" tvg-name="KNSD (NBC)"  group-title="NBC",KNSD (NBC)
 http://akamaizedx.com:80/lulalele/1324zcbv/10047760?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="KNTV (NBC)" tvg-logo="Logo N/A" tvg-name="KNTV (NBC)"  group-title="Undefined",KNTV (NBC)
+#EXTINF:-1, tvg-id="KNTV (NBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/220px-NBC_logo_%282013%29.svg.png" tvg-name="KNTV (NBC)"  group-title="Undefined",KNTV (NBC)
 http://akamaizedx.com:80/lulalele/1324zcbv/10047759?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="KRIV (FOX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" tvg-name="KRIV (FOX)"  group-title="Undefined",KRIV (FOX)
@@ -504,7 +504,7 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10045446?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="NBC UNIVERSO (EAST)" tvg-logo="Logo N/A" tvg-name="NBC UNIVERSO (EAST)"  group-title="Undefined",NBC UNIVERSO (EAST)
 http://akamaizedx.com:80/lulalele/1324zcbv/10045445?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="NBCSN" tvg-logo="Logo N/A" tvg-name="NBCSN"  group-title="Undefined",NBCSN
+#EXTINF:-1, tvg-id="NBCSN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" tvg-name="NBCSN"  group-title="Undefined",NBCSN
 http://akamaizedx.com:80/lulalele/1324zcbv/10045444?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="NEOX" tvg-logo="Logo N/A" tvg-name="NEOX"  group-title="Undefined",NEOX
@@ -522,22 +522,22 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 #EXTINF:-1, tvg-id="NEWSY" tvg-logo="Logo N/A" tvg-name="NEWSY"  group-title="Undefined",NEWSY
 http://akamaizedx.com:80/lulalele/1324zcbv/10045442?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="NFL NETWORK" tvg-logo="Logo N/A" tvg-name="NFL NETWORK"  group-title="SPORT",NFL NETWORK
+#EXTINF:-1, tvg-id="NFL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" tvg-name="NFL NETWORK"  group-title="SPORT",NFL NETWORK
 http://akamaizedx.com:80/lulalele/1324zcbv/10045441?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="NFL NETWORK" tvg-logo="Logo N/A" tvg-name="NFL NETWORK"  group-title="SPORT",NFL NETWORK
+#EXTINF:-1, tvg-id="NFL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" tvg-name="NFL NETWORK"  group-title="SPORT",NFL NETWORK
 http://akamaizedx.com:80/lulalele/1324zcbv/10035236?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="NFL REDZONE" tvg-logo="http://127.0.0.1/" tvg-name="NFL REDZONE"  group-title="SPORT",NFL REDZONE
+#EXTINF:-1, tvg-id="NFL REDZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/NFL_Network_Redzone.png/225px-NFL_Network_Redzone.png" tvg-name="NFL REDZONE"  group-title="SPORT",NFL REDZONE
 http://akamaizedx.com:80/lulalele/1324zcbv/10045440?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="NHL Alternate" tvg-logo="Logo N/A" tvg-name="NHL Alternate"  group-title="SPORT",NHL Alternate
+#EXTINF:-1, tvg-id="NHL Alternate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NHL_Network_2012.jpg/200px-NHL_Network_2012.jpg" tvg-name="NHL Alternate"  group-title="SPORT",NHL Alternate
 http://akamaizedx.com:80/lulalele/1324zcbv/10047741?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="NHL Network" tvg-logo="Logo N/A" tvg-name="NHL Network"  group-title="SPORT",NHL Network
+#EXTINF:-1, tvg-id="NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NHL_Network_2012.jpg/200px-NHL_Network_2012.jpg" tvg-name="NHL Network"  group-title="SPORT",NHL Network
 http://akamaizedx.com:80/lulalele/1324zcbv/10047740?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="NICK JR. (EAST)" tvg-logo="http://127.0.0.1/" tvg-name="NICK JR. (EAST)"  group-title="Cable",NICK JR. (EAST)
+#EXTINF:-1, tvg-id="NICK JR. (EAST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" tvg-name="NICK JR. (EAST)"  group-title="Cable",NICK JR. (EAST)
 http://akamaizedx.com:80/lulalele/1324zcbv/10045439?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="Nick Jr. PLUTO" tvg-logo="Logo N/A" tvg-name="Nick Jr. PLUTO"  group-title="Cable",Nick Jr. PLUTO
@@ -681,7 +681,7 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10047732?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Showtime 2" tvg-logo="Logo N/A" tvg-name="Showtime 2"  group-title="MOVIE",Showtime 2
 http://akamaizedx.com:80/lulalele/1324zcbv/10047731?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="Showtime Extreme" tvg-logo="" tvg-name="Showtime Extreme"  group-title="MOVIE",Showtime Extreme
+#EXTINF:-1, tvg-id="Showtime Extreme" tvg-logo="Logo N/A" tvg-name="Showtime Extreme"  group-title="MOVIE",Showtime Extreme
 http://akamaizedx.com:80/lulalele/1324zcbv/10047729?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="Showtime Family Zone" tvg-logo="Logo N/A" tvg-name="Showtime Family Zone"  group-title="MOVIE",Showtime Family Zone
