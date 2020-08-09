@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="Movie",24/7 dave
-https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="Movie",24/7 Retro TV
+#EXTINF:247Retro.us, tvg-id="247Retro.us" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="Movie",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/220px-A%26E_Network_logo.svg.png" tvg-name="A&E"  group-title="Cable",A&E
+#EXTINF:AandE.us, tvg-id="AandE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/220px-A%26E_Network_logo.svg.png" tvg-name="A&E"  group-title="Cable",A&E
 http://thex.tv:8000/Victoria/Victoria01/2479?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="A&E USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/220px-A%26E_Network_logo.svg.png" tvg-name="A&E USA"  group-title="Cable",A&E USA
+#EXTINF:AandE.us, tvg-id="AandE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/220px-A%26E_Network_logo.svg.png" tvg-name="A&E USA"  group-title="Cable",A&E USA
 http://akamaizedx.com:80/lulalele/1324zcbv/10035197?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC 7 Sarasota FL (WWSB)"  group-title="ABC",ABC 7 Sarasota FL (WWSB)
@@ -26,7 +24,7 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10671?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Adult" tvg-logo="Logo N/A" tvg-name="Adult"  group-title="xxx",Adult
 http://cdn.adultiptv.net/pov.m3u8?streamType=live
 
-#EXTINF:-1, tvg-id="AMC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" tvg-name="AMC USA"  group-title="Cable",AMC USA
+#EXTINF:AMC.us, tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" tvg-name="AMC USA"  group-title="Cable",AMC USA
 http://akamaizedx.com:80/lulalele/1324zcbv/10035198?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Apple Sauce TV"  group-title="Cable",Apple Sauce TV
@@ -86,6 +84,9 @@ https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8?checkedby:iptvcat.c
 #EXTINF:-1, tvg-id="Blush TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-name="Blush TV"  group-title="Cable",Blush TV
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bonanza"  group-title="Cable",Bonanza
+https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1, tvg-id="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" tvg-name="Boomerang"  group-title="Cable",Boomerang
 http://akamaizedx.com:80/lulalele/1324zcbv/10047794?checkedby:iptvcat.com
 
@@ -119,17 +120,17 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBN NEWS"  group-title="Cable",CBN NEWS
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-name="CBS"  group-title="CBS",CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8?checkedby:iptvcat.com
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-name="CBS"  group-title="CBS",CBS
-http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="CBS (WFOR) (Opt-1)" tvg-logo="https://i.imgur.com/pMhTxmf.png" tvg-name="CBS (WFOR) (Opt-1)"  group-title="CBS",CBS (WFOR) (Opt-1)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
@@ -158,7 +159,7 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBSN Philly"  group-title="NEWS",CBSN Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Charge!"  group-title="Cable",Charge!
+#EXTINF:ChargeTV.us, tvg-id="ChargeTV.us" tvg-logo="https://static.epg.best/us/ChargeTV.us.png" tvg-name="Charge!"  group-title="Cable",Charge!
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cheddar"  group-title="Cable",Cheddar
@@ -509,11 +510,11 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Miami TV Jenny Live"  group-title="xxx",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 
-#EXTINF:-1, tvg-id="MLB Network" tvg-logo="Logo N/A" tvg-name="MLB Network"  group-title="SPORT",MLB Network
-http://akamaizedx.com:80/lulalele/1324zcbv/10047747?checkedby:iptvcat.com
-
 #EXTINF:-1, tvg-id="MLB Network" tvg-logo="https://i.imgur.com/G8r9ZR7.png" tvg-name="MLB Network"  group-title="SPORT",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1, tvg-id="MLB Network" tvg-logo="Logo N/A" tvg-name="MLB Network"  group-title="SPORT",MLB Network
+http://akamaizedx.com:80/lulalele/1324zcbv/10047747?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="MLB Network-Alt" tvg-logo="Logo N/A" tvg-name="MLB Network-Alt"  group-title="SPORT",MLB Network-Alt
 http://akamaizedx.com:80/lulalele/1324zcbv/10047746?checkedby:iptvcat.com
@@ -567,10 +568,10 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10045257?checkedby:iptvcat.com
 http://akamaizedx.com:80/lulalele/1324zcbv/10045454?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="MTV" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="MUSIC",MTV
-http://akamaizedx.com:80/lulalele/1324zcbv/10045453?checkedby:iptvcat.com
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1, tvg-id="MTV" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="MUSIC",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+http://akamaizedx.com:80/lulalele/1324zcbv/10045453?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="MTV (ALTERNATE)" tvg-logo="Logo N/A" tvg-name="MTV (ALTERNATE)"  group-title="MUSIC",MTV (ALTERNATE)
 http://akamaizedx.com:80/lulalele/1324zcbv/10045266?checkedby:iptvcat.com
@@ -1100,11 +1101,11 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1, tvg-id="WEATHER CHANNEL" tvg-logo="Logo N/A" tvg-name="WEATHER CHANNEL"  group-title="WEATHER",WEATHER CHANNEL
 http://akamaizedx.com:80/lulalele/1324zcbv/10035230?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="Weather Nation" tvg-logo="Logo N/A" tvg-name="Weather Nation"  group-title="WEATHER",Weather Nation
-http://akamaizedx.com:80/lulalele/1324zcbv/10047719?checkedby:iptvcat.com
-
 #EXTINF:-1, tvg-id="Weather Nation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/WeatherNation_logo.png/225px-WeatherNation_logo.png" tvg-name="Weather Nation"  group-title="WEATHER",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
+
+#EXTINF:-1, tvg-id="Weather Nation" tvg-logo="Logo N/A" tvg-name="Weather Nation"  group-title="WEATHER",Weather Nation
+http://akamaizedx.com:80/lulalele/1324zcbv/10047719?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="WFTV 9"  group-title="ABC",WFTV 9
 https://svc-lv-cxtv-wftv.cmgvideo.com/out/u/WFTVN1.m3u8
