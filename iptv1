@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="Movie",24/7 dave
-https://live-content.xumo.com/210/content/XM04MDU3K422XN/22153618/master.m3u8
+https://iptvcat.com/my_list/d793dc0ce733316e938843d123c13479.m3u8
 
 #EXTINF:-1, tvg-id="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="Movie",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
