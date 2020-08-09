@@ -25,10 +25,10 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10671?checkedby:iptvcat.com
 http://cdn.adultiptv.net/pov.m3u8?streamType=live
 
 #EXTINF:-1, tvg-id="AMC.us" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-name="AMC"  group-title="Cable",AMC
-http://akamaizedx.com:80/lulalele/1324zcbv/10035198?checkedby:iptvcat.com
+http://live.realiptv.to:25461/lauren/lauren/2367?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="AMC.us" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-name="AMC.us"  group-title="New Group",AMC.us
-http://x.xtv.life:80/sever2020/2020sever/10035198?checkedby:iptvcat.com
+http://201.87.232.214:25461/marcondes/101010/14223?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Apple Sauce TV"  group-title="Cable",Apple Sauce TV
 https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
