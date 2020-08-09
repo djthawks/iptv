@@ -24,7 +24,7 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10671?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Adult" tvg-logo="Logo N/A" tvg-name="Adult"  group-title="xxx",Adult
 http://cdn.adultiptv.net/pov.m3u8?streamType=live
 
-#EXTINF:AMC.us, tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" tvg-name="AMC USA"  group-title="Cable",AMC USA
+#EXTINF:AMC.us, tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" tvg-name="AMC.us"  group-title="Cable",AMC USA
 http://akamaizedx.com:80/lulalele/1324zcbv/10035198?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Apple Sauce TV"  group-title="Cable",Apple Sauce TV
