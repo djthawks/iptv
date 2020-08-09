@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="AMC.us" tvg-logo="New Logo" tvg-name="AMC"  group-title="New Group",AMC
-http://92.249.148.48:8001/play/a00x?checkedby:iptvcat.com
-
 #EXTINF:-1, tvg-id="247Retro.us" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="Movie",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
 
@@ -27,11 +24,14 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10671?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="Adult" tvg-logo="Logo N/A" tvg-name="Adult"  group-title="xxx",Adult
 http://cdn.adultiptv.net/pov.m3u8?streamType=live
 
+#EXTINF:-1, tvg-id="AMC.us" tvg-logo="New Logo" tvg-name="AMC"  group-title="New Group",AMC
+http://92.249.148.48:8001/play/a00x?checkedby:iptvcat.com
+
 #EXTINF:-1, tvg-id="AMC.us" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-name="AMC"  group-title="Cable",AMC
-http://akamaizedx.com:80/lulalele/1324zcbv/10035198?checkedby:iptvcat.com
+http://live.realiptv.to:25461/lauren/lauren/2367?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="AMC.us" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-name="AMC.us"  group-title="New Group",AMC.us
-http://x.xtv.life:80/sever2020/2020sever/10035198?checkedby:iptvcat.com
+http://201.87.232.214:25461/marcondes/101010/14223?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Apple Sauce TV"  group-title="Cable",Apple Sauce TV
 https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
@@ -127,6 +127,9 @@ http://51.52.156.22:8888/http/003
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 
 #EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
@@ -134,9 +137,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-name="CBS"  group-title="CBS",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="CBS (WFOR) (Opt-1)" tvg-logo="https://i.imgur.com/pMhTxmf.png" tvg-name="CBS (WFOR) (Opt-1)"  group-title="CBS",CBS (WFOR) (Opt-1)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
@@ -192,7 +192,7 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ConTV"  group-title="Cable",ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="COZI" tvg-logo="Logo N/A" tvg-name="COZI"  group-title="Cable",COZI
+#EXTINF:CoziTV.us, tvg-id="CoziTV.us" tvg-logo="https://static.epg.best/us/CoziTV.us.png" tvg-name="COZI"  group-title="Cable",COZI
 http://akamaizedx.com:80/lulalele/1324zcbv/10045274?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="CW" tvg-logo="Logo N/A" tvg-name="CW"  group-title="Cable",CW
@@ -210,10 +210,10 @@ http://akamaizedx.com:80/lulalele/1324zcbv/1797?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="DISNEY CHANNEL" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL"  group-title="Cable",DISNEY CHANNEL
 http://akamaizedx.com:80/lulalele/1324zcbv/1763?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="DISNEY JUNIOR" tvg-logo="Logo N/A" tvg-name="DISNEY JUNIOR"  group-title="Cable",DISNEY JUNIOR
+#EXTINF:DisneyJunior.us, tvg-id="DisneyJunior.us" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png" tvg-name="DISNEY JUNIOR"  group-title="Cable",DISNEY JUNIOR
 http://akamaizedx.com:80/lulalele/1324zcbv/4510?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="DISNEY XD" tvg-logo="Logo N/A" tvg-name="DISNEY XD"  group-title="Cable",DISNEY XD
+#EXTINF:DisneyXD.us, tvg-id="DisneyXD.us" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" tvg-name="DISNEY XD"  group-title="Cable",DISNEY XD
 http://akamaizedx.com:80/lulalele/1324zcbv/1762?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing"  group-title="MUSIC",DJing
@@ -246,16 +246,16 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Edge Sports"  group-title="SPORT",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPIX" tvg-logo="Logo N/A" tvg-name="EPIX"  group-title="Movie",EPIX
+#EXTINF:EPIX.us, tvg-id="EPIX.us" tvg-logo="https://static.epg.best/us/EPIX.us.png" tvg-name="EPIX"  group-title="Movie",EPIX
 http://akamaizedx.com:80/lulalele/1324zcbv/10047768?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="EPIX 2" tvg-logo="Logo N/A" tvg-name="EPIX 2"  group-title="Movie",EPIX 2
+#EXTINF:EPIX2.us, tvg-id="EPIX2.us" tvg-logo="https://static.epg.best/us/EPIX.us.png" tvg-name="EPIX 2"  group-title="Movie",EPIX 2
 http://akamaizedx.com:80/lulalele/1324zcbv/10047767?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="ESPN" tvg-logo="Logo N/A" tvg-name="ESPN"  group-title="SPORT",ESPN
+#EXTINF:ESPN.us, tvg-id="ESPN.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" tvg-name="ESPN"  group-title="SPORT",ESPN
 http://akamaizedx.com:80/lulalele/1324zcbv/10047793?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="ESPN 2 HD" tvg-logo="Logo N/A" tvg-name="ESPN 2 HD"  group-title="SPORT",ESPN 2 HD
+#EXTINF:ESPN2.us, tvg-id="ESPN2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" tvg-name="ESPN 2 HD"  group-title="SPORT",ESPN 2 HD
 http://akamaizedx.com:80/lulalele/1324zcbv/5630?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="ESPN DEPORTES HD" tvg-logo="Logo N/A" tvg-name="ESPN DEPORTES HD"  group-title="SPORT",ESPN DEPORTES HD
@@ -264,10 +264,10 @@ http://akamaizedx.com:80/lulalele/1324zcbv/5631?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="ESPN HD" tvg-logo="Logo N/A" tvg-name="ESPN HD"  group-title="SPORT",ESPN HD
 http://akamaizedx.com:80/lulalele/1324zcbv/1841?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="ESPN2" tvg-logo="Logo N/A" tvg-name="ESPN2"  group-title="SPORT",ESPN2
+#EXTINF:ESPN2.us, tvg-id="ESPN2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" tvg-name="ESPN2"  group-title="SPORT",ESPN2
 http://akamaizedx.com:80/lulalele/1324zcbv/10047792?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="ESPNEWS" tvg-logo="Logo N/A" tvg-name="ESPNEWS"  group-title="SPORT",ESPNEWS
+#EXTINF:ESPNNews.us, tvg-id="ESPNNews.us" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" tvg-name="ESPNEWS"  group-title="SPORT",ESPNEWS
 http://akamaizedx.com:80/lulalele/1324zcbv/10047791?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="ESPNU" tvg-logo="Logo N/A" tvg-name="ESPNU"  group-title="SPORT",ESPNU
@@ -574,10 +574,10 @@ http://akamaizedx.com:80/lulalele/1324zcbv/10045257?checkedby:iptvcat.com
 http://akamaizedx.com:80/lulalele/1324zcbv/10045454?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="MTV" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="MUSIC",MTV
-http://akamaizedx.com:80/lulalele/1324zcbv/10045453?checkedby:iptvcat.com
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1, tvg-id="MTV" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="MUSIC",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+http://akamaizedx.com:80/lulalele/1324zcbv/10045453?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="MTV (ALTERNATE)" tvg-logo="Logo N/A" tvg-name="MTV (ALTERNATE)"  group-title="MUSIC",MTV (ALTERNATE)
 http://akamaizedx.com:80/lulalele/1324zcbv/10045266?checkedby:iptvcat.com
@@ -673,10 +673,10 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 http://akamaizedx.com:80/lulalele/1324zcbv/10045442?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="NFL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" tvg-name="NFL NETWORK"  group-title="SPORT",NFL NETWORK
-http://akamaizedx.com:80/lulalele/1324zcbv/10035236?checkedby:iptvcat.com
+http://akamaizedx.com:80/lulalele/1324zcbv/10045441?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="NFL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" tvg-name="NFL NETWORK"  group-title="SPORT",NFL NETWORK
-http://akamaizedx.com:80/lulalele/1324zcbv/10045441?checkedby:iptvcat.com
+http://akamaizedx.com:80/lulalele/1324zcbv/10035236?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="NFL REDZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/NFL_Network_Redzone.png/225px-NFL_Network_Redzone.png" tvg-name="NFL REDZONE"  group-title="SPORT",NFL REDZONE
 http://akamaizedx.com:80/lulalele/1324zcbv/10045440?checkedby:iptvcat.com
