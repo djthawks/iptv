@@ -1,536 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/434?u=181253
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC5WMAQTV.us.png" group-title="NBC Regional(USA)", NBC 5 Chicago (WMAQ) 
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
-#EXTINF:-1, tvg-logo="https://www.komu.com/css/images/komu_logo.png" group-title="NBC Regional(USA)",NBC 8 Columbia (KOMU)
-https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="", test123
-http://bmiptv.live:5858/free/free/6878
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="", 115666
-https://sync1.iptv.bingo/live/1000?u=181253
-
-#EXTINF:-1 tvg-logo="", 22
-https://sync1.iptv.bingo/live/1001
-
-#EXTINF:-1 tvg-logo="", 33
-https://sync1.iptv.bingo/live/1002
-
-#EXTINF:-1 tvg-logo=", 44
-https://sync1.iptv.bingo/live/1003
-
-#EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/1004
-
-#EXTINF:-1 tvg-logo="", 66
-https://sync1.iptv.bingo/live/1005?u=181253
-
-#EXTINF:-1 tvg-logo="", 77
-https://sync1.iptv.bingo/live/1006?u=181253
-
-#EXTINF:-1 tvg-logo="", 88
-https://sync1.iptv.bingo/live/1007?u=181253
-
-#EXTINF:-1 tvg-logo="", 99
-https://sync1.iptv.bingo/live/1008?u=181253
-
-#EXTINF:-1 tvg-logo="", 99333
-https://sync1.iptv.bingo/live/1009?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 12
-https://sync1.iptv.bingo/live/1010?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 13
-https://sync1.iptv.bingo/live/1011?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 14
-https://sync1.iptv.bingo/live/1012?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 15
-https://sync1.iptv.bingo/live/1013?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 16
-https://sync1.iptv.bingo/live/1014?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 17
-https://sync1.iptv.bingo/live/1015?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 18
-https://sync1.iptv.bingo/live/1016?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 19
-https://sync1.iptv.bingo/live/1017?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 20
-https://sync1.iptv.bingo/live/1018?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 21
-https://sync1.iptv.bingo/live/1019?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 22
-https://sync1.iptv.bingo/live/190?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 23
-https://sync1.iptv.bingo/live/191?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 24
-https://sync1.iptv.bingo/live/192?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 25
-https://sync1.iptv.bingo/live/193?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 26
-https://sync1.iptv.bingo/live1594?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 27
-https://sync1.iptv.bingo/live/195?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 28
-https://sync1.iptv.bingo/live/196?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 29
-https://sync1.iptv.bingo/live/197?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 30
-https://sync1.iptv.bingo/live/198?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 31
-https://sync1.iptv.bingo/live/199?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 32
-https://sync1.iptv.bingo/live/360?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 33
-https://sync1.iptv.bingo/live/361?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 34
-https://sync1.iptv.bingo/live/362?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 35
-https://sync1.iptv.bingo/live/363?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 36
-https://sync1.iptv.bingo/live/364?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 37
-https://sync1.iptv.bingo/live/365?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 38
-https://sync1.iptv.bingo/live/366?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 39
-https://sync1.iptv.bingo/live/367?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 40
-https://sync1.iptv.bingo/live/368?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 41
-https://sync1.iptv.bingo/live/369?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 42
-https://sync1.iptv.bingo/live/370?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 43
-https://sync1.iptv.bingo/live/371?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 44
-https://sync1.iptv.bingo/live/372?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 45
-https://sync1.iptv.bingo/live/373?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 46
-https://sync1.iptv.bingo/live/374?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 47
-https://sync1.iptv.bingo/live/375?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 48
-https://sync1.iptv.bingo/live/376?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 49
-https://sync1.iptv.bingo/live/377?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 50
-https://sync1.iptv.bingo/live/378?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 51
-https://sync1.iptv.bingo/live/379?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 52
-https://sync1.iptv.bingo/live/380?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 53
-https://sync1.iptv.bingo/live/381?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 54
-https://sync1.iptv.bingo/live/382?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 55
-https://sync1.iptv.bingo/live/383?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 56
-https://sync1.iptv.bingo/live/384?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 57
-https://sync1.iptv.bingo/live/385?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 58
-https://sync1.iptv.bingo/live/386?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 59
-https://sync1.iptv.bingo/live/387?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 60
-https://sync1.iptv.bingo/live/388?u=181253
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT", 61
-https://sync1.iptv.bingo/live/389?u=181253
-
-
-
-#EXTINF:-1 ,test 2
-https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
-#EXTINF:-1 ,BBC EARTH
-https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
-
-#EXTINF:-1 ,test 5
-http://39.63.31.142:9981/stream/channelid/1266012044
-#EXTINF:-1 ,test 6
-
-
-#EXTINF:-1 ,NBA TV
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 ,test 10
-https://voyeur-house.tv/static/video/realm10-cam14-ana-fucks-rockhead-sept-30.mp4
-#EXTINF:-1 ,test 11
-http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
-
-#EXTINF:-1 ,test 13
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 ,test 14
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/1025.ts?XXX
-
-#EXTINF:-1 ,test 16
-http://liveali.ifeng.com/live/FHZW.m3u8
-
-
-#EXTINF:-1 , Pink 2
-http://84.22.33.254:80/unicast.pink2/index.m3u8
-
-#EXTINF:-1 , Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 ,test 22
-https://greekyoutube.eu:444/live/5e300ade5dadc/index.m3u8
-#EXTINF:-1 ,test 23
-http://194.145.207.2:1234/udp/239.1.240.125:1234
-#EXTINF:-1 ,test 24
-http://s1.hdporus.com/content/vod/s2308/720/index.m3u8
-#EXTINF:-1 ,test 25
-https://love.mydaddy.cc/pubs/5e3310eedd74a/720.mp4
-
-
-
-#EXTINF:-1,INTRO
-https://www.googleapis.com/drive/v3/files/1ZSfYlwu05CkJ1aytIrnmY--xU6btl2er?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1,RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-
-#EXTINF:-1,MNC
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-
-#EXTINF:-1,ANTV
-https://anevia114.mncnow.id:443/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,SCTV
-https://anevia114.mncnow.id:443/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,INDOSIAR
-https://anevia115.mncnow.id:443/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,NET TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
-
-#EXTINF:-1,GTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-
-#EXTINF:-1,TRANS 7
-https://anevia114.mncnow.id:443/live/eds/Trans7/sa_hls/Trans7-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,TV ONE
-https://anevia114.mncnow.id:443/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,TRANS TV
-https://anevia114.mncnow.id:443/live/eds/TransTV/sa_hls/TransTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,RTV
-https://epl-inews.mncnow.id:443/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,TVRI
-https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,BERITA SATU
-https://anevia115.mncnow.id:443/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:-1,INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-
-#EXTINF:-1,METRO TV
-https://anevia115.mncnow.id:443/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,JAK TV
-https://anevia114.mncnow.id:443/live/eds/JakTV/sa_hls/JakTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,JAWAPOS TV
-https://livetvhooq.akamaized.net:443/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573600053~exp=9007200828341044~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_2/chunklist.m3u8*~hmac=34668c3a5d65ee732b03c74c8c5fe7f2bd27db8a18a14541660649e8fae2dfc4
-
-#EXTINF:-1,JTV SURABAYA
-https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
-
-#EXTINF:-1,JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:-1,KOMPAS TV
-https://anevia115.mncnow.id:443/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,VISION PRIME
-https://anevia114.mncnow.id:443/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,USEE PHOTO
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
-
-#EXTINF:-1,USEE PRIME
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
-
-#EXTINF:-1,ID KU
-https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
-
-#EXTINF:-1,RUANG TERAMPIL
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
-
-#EXTINF:-1,ANHUI TV
-https://anevia115.mncnow.id:443/live/eds/AnhuiTV/sa_hls/AnhuiTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,JIANGSU TV
-https://anevia115.mncnow.id:443/live/eds/JiangsuTV/sa_hls/JiangsuTV-avc1_1000000=8-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,HUNAN TV
-https://anevia115.mncnow.id:443/live/eds/HunanTV/sa_hls/HunanTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,SHANGHAI DRAGON TV
-https://anevia114.mncnow.id:443/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,XING KONG
-https://anevia115.mncnow.id:443/live/eds/XingKongTV/sa_hls/XingKongTV-avc1_1000000=11-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 ,MUSLIM TV
-https://anevia114.mncnow.id:443/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 ,TV 9 NUSANTARA
-https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 ,TV MUHAMMADIYAH
-https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_98800_eng=4.m3u8
-
-
-
-#EXTINF:-1,WAKU WAKU JAPAN
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,OUTDOOR CHANNEL
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
-
-#EXTINF:-1,TECHSTORM
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
-
-#EXTINF:-1,Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,ANIPLUS
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
-
-
-
-#EXTINF:-1,BOOMERANG
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
-
-#EXTINF:-1,DISNEY CHANNEL
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
-
-#EXTINF:-1,KIDS TV
-https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
-
-
-
-#EXTINF:-1,Dangdutz
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1,Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
-
-
-#EXTINF:-1,PRAMBORS
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
-
-
-#EXTINF:-1,CELESTIAL MOVIES
-https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
-
-
-
-
-
-#EXTINF:-1,CINEMA WORLD
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
-
-
-
-
-#EXTINF:-1,ZEE BIOSKOP
-https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
-
-#EXTINF:-1,ZEE BIOSKOP SERVER 2
-https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-
-#EXTINF:-1,MNC SPORT 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1,MNC SPORT 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1,Combate
-https://origin.canaismax.com/mylive/combatehd/video.m3u8
-
-
-
-
-#EXTINF:-1,Fox Sports 1 Brasil
-https://origin.canaismax.com/mylive/foxsportshd/video.m3u8
-
-#EXTINF:-1,Fox Sports 2 Brasil
-https://origin.canaismax.com/live/foxsports2hd/video.m3u8
-
-#EXTINF:-1,RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-
-
-
-
-#EXTINF:-1,|US| FOX SPORTS 1 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/28193.m3u8
-#EXTINF:-1,|US| FOX SPORTS 2 HD
-http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/28192.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,BBC
-http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8
-
-#EXTINF:-1 ,FixHD
-http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
-#EXTINF:-1 ,Fox
-http://178.124.183.5/hls/CH_FOX/variant.m3u8
-#EXTINF:-1 ,Fox Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8
-#EXTINF:-1 ,Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,Retro Music TV
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,Retro Tv
-http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,Rik
-https://nn.geo.joj.sk/live/hls/rik-540.m3u8
-#EXTINF:-1 ,Ritsa TV
-http://hls.goodgame.ru/hls/122431.m3u8
-#EXTINF:-1 ,RT HD
-http://uiptv.do.am/1ufc/702424953/playlist.m3u8
-#EXTINF:-1 ,RTG TV
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/841/index.m3u8
-#EXTINF:-1 ,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
-#EXTINF:-1 ,RTL Radio (Lux)
-http://live-edge04.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
-#EXTINF:-1 ,RU TV HD
-http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 ,Russian Music Box
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1 ,Russian MusicBox
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1 ,Setanta Sport HD
-http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1 ,Setanta Sport Plus HD
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 ,Setanta Sports HD
-http://myott.tv/stream/E9LYLBWT7X/234.m3u8
-#EXTINF:-1 ,Shot TV
-http://persik.tv/stream/7725/408679/10454.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="Fox Regional(USA)", FOX 25 Boston (WFXT)
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/434?u=181253
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC5WMAQTV.us.png" group-title="NBC Regional(USA)", NBC 5 Chicago (WMAQ) 
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
-#EXTINF:-1, tvg-logo="https://www.komu.com/css/images/komu_logo.png" group-title="NBC Regional(USA)",NBC 8 Columbia (KOMU)
-https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/435?u=181253
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/436?u=181253
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/437?u=181253
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kK6M09.png" group-title="Sport",FightBox
-http://92.43.140.200/s86/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kK6M09.png" group-title="Sport",FightBox
-http://92.43.140.249/s86/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kK6M09.png" group-title="Sport",FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movies",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids;Undefined",24/7 Super Geek Heroes,Super Geek Heroes,Super Geek Heroes (Kids)
+https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 STARMAX
+http://beyondstreamz.net:25461/Ouiga/779393/37169?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 STARMAX
+http://beyondstreamz.net:25461/live/Ouiga/779393/37169.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 StarMAX
+http://ingrid.ltd:25461/Juan123456/Juan123456/42389?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://beyondstreamz.net:25461/live/Ouiga/779393/39670.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13558?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/7207?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7207.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Undefined",A&E,US | A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E FHD 1080
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64160?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70099.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES;US" tvg-logo="" group-title="Undefined",A&E HD
+http://ingrid.ltd:25461/Juan123456/Juan123456/12213?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+http://mhiptv.com:8888/noval/123456/4427?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JExsI09.png" group-title="Undefined",ABC 7 KMGH,US | Denver | ABC 7 KMGH
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC NY HD
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70101.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC WEST
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70102.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACC NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/58373?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACTIONMAX
+http://beyondstreamz.net:25461/Ouiga/779393/37170?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AFN_PRIME_PACIFIC
+http://mhiptv.com:8888/noval/123456/5014?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",AFN_Sport_2_HD
+http://mhiptv.com:8888/noval/123456/4430?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",AFN_Sport_HD
+http://mhiptv.com:8888/noval/123456/4431?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://beyondstreamz.net:25461/Ouiga/779393/39672?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://beyondstreamz.net:25461/live/Ouiga/779393/39672.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/70103.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/562?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC FHD 1080
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64158?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC HD
+http://mhiptv.com:8888/noval/123456/5009?checkedby:iptvcat.com
 
 
 
