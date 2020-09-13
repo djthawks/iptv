@@ -1,5 +1,34 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Undefined",CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KDKATV- Pittsburgh PA)
+http://randomserver.site:2086/live/Bria/Bria/90353.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KDKATV- Pittsburgh PA)
+http://randomserver.site:2086/crystal/12345/90353?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KYW- Philadelphia PA)
+http://randomserver.site:2086/crystal/12345/90362?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KYW- Philadelphia PA)
+http://randomserver.site:2086/live/crystal/12345/90362.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KYW- Philadelphia PA)
+http://randomserver.site:2086/live/Bria/Bria/90362.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WDBJ) ROANOKE VIRGINIA
+http://randomserver.site:2086/crystal/12345/96781?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WDBJ) ROANOKE VIRGINIA
+http://randomserver.site:2086/live/crystal/12345/96781.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WJZ– Baltimore MD)
+http://randomserver.site:2086/crystal/12345/90283?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WJZ– Baltimore MD)
+http://randomserver.site:2086/live/crystal/12345/90283.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:-1, tvg-id="247Retro.us" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="Movie",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
 
