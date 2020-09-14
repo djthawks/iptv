@@ -526,7 +526,7 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1, tvg-id="Robot Chicken (Geo)" tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" tvg-name="Robot Chicken (Geo)"  group-title="24/7",Robot Chicken (Geo)
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 
-#EXTINF:-1, tvg-id="Romedy Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" tvg-name="Romedy Now"  group-title="Movie",Romedy Now
+#EXTINF:-1, tvg-id="Romedy Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" tvg-name="Romedy Now"  group-title="DAVE",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RT America"  group-title="NEWS",RT America
