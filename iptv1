@@ -109,19 +109,19 @@ http://randomserver.site:2086/crystal/12345/90283?checkedby:iptvcat.com
 http://randomserver.site:2086/live/crystal/12345/90283.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1, tvg-id="247Retro.us" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="Movie",24/7 Retro TV
+#EXTINF:-1, tvg-id="247Retro.us" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="DAVE",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC 7 Sarasota FL (WWSB)"  group-title="ABC",ABC 7 Sarasota FL (WWSB)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC 7 Sarasota FL (WWSB)"  group-title="DAVE",ABC 7 Sarasota FL (WWSB)
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
 #EXTINF:-1, tvg-id="Adult" tvg-logo="Logo N/A" tvg-name="Adult"  group-title="xxx",Adult
 http://cdn.adultiptv.net/pov.m3u8?streamType=live
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Apple Sauce TV"  group-title="Cable",Apple Sauce TV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Apple Sauce TV"  group-title="DAVE",Apple Sauce TV
 https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Aqua Teen Hunger Force (Geo)" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" tvg-name="Aqua Teen Hunger Force (Geo)"  group-title="24/7 ADULT SWIM GEO",Aqua Teen Hunger Force (Geo)
+#EXTINF:-1, tvg-id="Aqua Teen Hunger Force (Geo)" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" tvg-name="Aqua Teen Hunger Force (Geo)"  group-title="24/7",Aqua Teen Hunger Force (Geo)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AST TV 1"  group-title="xxx",AST TV 1
@@ -130,25 +130,25 @@ http://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AST TV 2"  group-title="xxx",AST TV 2
 https://www.ast.tv/stream/2/high.m3u8
 
-#EXTINF:-1, tvg-id="BIKINI NETWORK" tvg-logo="Logo N/A" tvg-name="BIKINI NETWORK"  group-title="FASHION",BIKINI NETWORK
+#EXTINF:-1, tvg-id="BIKINI NETWORK" tvg-logo="Logo N/A" tvg-name="BIKINI NETWORK"  group-title="DAVE",BIKINI NETWORK
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="Black Jesus (Geo)" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" tvg-name="Black Jesus (Geo)"  group-title="24/7 ADULT SWIM GEO",Black Jesus (Geo)
+#EXTINF:-1, tvg-id="Black Jesus (Geo)" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" tvg-name="Black Jesus (Geo)"  group-title="24/7",Black Jesus (Geo)
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Black Widow TV"  group-title="Cable",Black Widow TV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Black Widow TV"  group-title="DAVE",Black Widow TV
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Bloomberg TV" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-name="Bloomberg TV"  group-title="NEWS",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1, tvg-id="Blush Romance TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-name="Blush Romance TV"  group-title="Cable",Blush Romance TV
+#EXTINF:-1, tvg-id="Blush Romance TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-name="Blush Romance TV"  group-title="DAVE",Blush Romance TV
 https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="Blush TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-name="Blush TV"  group-title="Cable",Blush TV
+#EXTINF:-1, tvg-id="Blush TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-name="Blush TV"  group-title="DAVE",Blush TV
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bonanza"  group-title="Cable",Bonanza
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bonanza"  group-title="24/7",Bonanza
 https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Box Hits"  group-title="MUSIC",Box Hits
@@ -160,25 +160,25 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 #EXTINF:-1, tvg-id="California Music Channel" tvg-logo="Logo N/A" tvg-name="California Music Channel"  group-title="MUSIC",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cbeebies"  group-title="Cable",Cbeebies
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cbeebies"  group-title="DAVE",Cbeebies
 http://51.52.156.22:8888/http/003
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBN NEWS"  group-title="Cable",CBN NEWS
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBN NEWS"  group-title="NEWS",CBN NEWS
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
+#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
+#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="CBS",CBS
+#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="DAVE",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-name="CBS"  group-title="CBS",CBS
+#EXTINF:-1, tvg-id="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-name="CBS"  group-title="DAVE",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="CBS (WFOR) (Opt-1)" tvg-logo="https://i.imgur.com/pMhTxmf.png" tvg-name="CBS (WFOR) (Opt-1)"  group-title="CBS",CBS (WFOR) (Opt-1)
+#EXTINF:-1, tvg-id="CBS (WFOR) (Opt-1)" tvg-logo="https://i.imgur.com/pMhTxmf.png" tvg-name="CBS (WFOR) (Opt-1)"  group-title="DAVE",CBS (WFOR) (Opt-1)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1, tvg-id="CBS News (Opt-2)" tvg-logo="https://i.imgur.com/Qu9NAwe.png" tvg-name="CBS News (Opt-2)"  group-title="NEWS",CBS News (Opt-2)
@@ -205,19 +205,19 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBSN Philly"  group-title="NEWS",CBSN Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cheddar"  group-title="Cable",Cheddar
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cheddar"  group-title="NEWS",Cheddar
 https://live.chdrstatic.com/cheddar/primary/index.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CMC-USA"  group-title="MUSIC",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Comedy Central PLUTO" tvg-logo="Logo N/A" tvg-name="Comedy Central PLUTO"  group-title="Cable",Comedy Central PLUTO
+#EXTINF:-1, tvg-id="Comedy Central PLUTO" tvg-logo="Logo N/A" tvg-name="Comedy Central PLUTO"  group-title="DAVE",Comedy Central PLUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ConTV"  group-title="Cable",ConTV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ConTV"  group-title="DAVE",ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Deutsche Welle English"  group-title="Cable",Deutsche Welle English
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Deutsche Welle English"  group-title="DAVE",Deutsche Welle English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing"  group-title="MUSIC",DJing
@@ -238,22 +238,22 @@ https://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing Underground"  group-title="MUSIC",DJing Underground
 https://www.djing.com/tv/underground.m3u8
 
-#EXTINF:-1, tvg-id="Dream Corp LLC (Geo)" tvg-logo="https://i.imgur.com/azzpKrT.png" tvg-name="Dream Corp LLC (Geo)"  group-title="24/7 ADULT SWIM GEO",Dream Corp LLC (Geo)
+#EXTINF:-1, tvg-id="Dream Corp LLC (Geo)" tvg-logo="https://i.imgur.com/azzpKrT.png" tvg-name="Dream Corp LLC (Geo)"  group-title="24/7",Dream Corp LLC (Geo)
 http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 
-#EXTINF:-1, tvg-id="DW" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Cable",DW
+#EXTINF:-1, tvg-id="DW" tvg-logo="Logo N/A" tvg-name="DW"  group-title="DAVE",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Edge Sports"  group-title="SPORT",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:-1, tvg-id="ET LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" tvg-name="ET LIVE"  group-title="Cable",ET LIVE
+#EXTINF:-1, tvg-id="ET LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" tvg-name="ET LIVE"  group-title="DAVE",ET LIVE
 http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
 
-#EXTINF:-1, tvg-id="Fashion TV Midnite" tvg-logo="Logo N/A" tvg-name="Fashion TV Midnite"  group-title="FASHION",Fashion TV Midnite
+#EXTINF:-1, tvg-id="Fashion TV Midnite" tvg-logo="Logo N/A" tvg-name="Fashion TV Midnite"  group-title="DAVE",Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1, tvg-id="Fashion TV Paris" tvg-logo="Logo N/A" tvg-name="Fashion TV Paris"  group-title="FASHION",Fashion TV Paris
+#EXTINF:-1, tvg-id="Fashion TV Paris" tvg-logo="Logo N/A" tvg-name="Fashion TV Paris"  group-title="DAVE",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Fight Sports"  group-title="SPORT",Fight Sports
@@ -265,31 +265,31 @@ http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="Fighting Spirit" tvg-logo="https://i.imgur.com/3eUEiiK.png" tvg-name="Fighting Spirit"  group-title="SPORT",Fighting Spirit
 https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
 
-#EXTINF:-1, tvg-id="Folk TV" tvg-logo="https://i.imgur.com/hV46zMX.png" tvg-name="Folk TV"  group-title="Cable",Folk TV
+#EXTINF:-1, tvg-id="Folk TV" tvg-logo="https://i.imgur.com/hV46zMX.png" tvg-name="Folk TV"  group-title="DAVE",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="Fox Sports PLUTO" tvg-logo="Logo N/A" tvg-name="Fox Sports PLUTO"  group-title="Cable",Fox Sports PLUTO
+#EXTINF:-1, tvg-id="Fox Sports PLUTO" tvg-logo="Logo N/A" tvg-name="Fox Sports PLUTO"  group-title="SPORT",Fox Sports PLUTO
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France 24 English"  group-title="NEWS",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Free Speech TV"  group-title="Cable",Free Speech TV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Free Speech TV"  group-title="NEWS",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
-#EXTINF:-1, tvg-id="Golden TV" tvg-logo="https://i.imgur.com/XEtAu1Q.png" tvg-name="Golden TV"  group-title="Cable",Golden TV
+#EXTINF:-1, tvg-id="Golden TV" tvg-logo="https://i.imgur.com/XEtAu1Q.png" tvg-name="Golden TV"  group-title="DAVE",Golden TV
 https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
 
-#EXTINF:-1, tvg-id="Gusto TV" tvg-logo="https://i.imgur.com/L0aXwHX.png" tvg-name="Gusto TV"  group-title="Cable",Gusto TV
+#EXTINF:-1, tvg-id="Gusto TV" tvg-logo="https://i.imgur.com/L0aXwHX.png" tvg-name="Gusto TV"  group-title="DAVE",Gusto TV
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 
 #EXTINF:-1, tvg-id="HBCU Game Day" tvg-logo="https://i.imgur.com/NO7y3tt.png" tvg-name="HBCU Game Day"  group-title="SPORT",HBCU Game Day
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
 
-#EXTINF:-1, tvg-id="HD Fashion" tvg-logo="Logo N/A" tvg-name="HD Fashion"  group-title="FASHION",HD Fashion
+#EXTINF:-1, tvg-id="HD Fashion" tvg-logo="Logo N/A" tvg-name="HD Fashion"  group-title="DAVE",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1, tvg-id="Home Movies (Geo)" tvg-logo="http://img.sharetv.com/shows/standard/home_movies.jpg" tvg-name="Home Movies (Geo)"  group-title="24/7 ADULT SWIM GEO",Home Movies (Geo)
+#EXTINF:-1, tvg-id="Home Movies (Geo)" tvg-logo="http://img.sharetv.com/shows/standard/home_movies.jpg" tvg-name="Home Movies (Geo)"  group-title="24/7",Home Movies (Geo)
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
 #EXTINF:-1, tvg-id="Honor TV" tvg-logo="https://i.imgur.com/npBKUYT.png" tvg-name="Honor TV"  group-title="SPORT",Honor TV
@@ -298,10 +298,10 @@ https://nrpus.bozztv.com/36bay2/gusa-honortv/index.m3u8
 #EXTINF:-1, tvg-id="Honor TV" tvg-logo="https://i.imgur.com/FwXJj0L.png" tvg-name="Honor TV"  group-title="SPORT",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Horrified TV"  group-title="Cable",Horrified TV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Horrified TV"  group-title="DAVE",Horrified TV
 https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Horse & Country TV"  group-title="Cable",Horse & Country TV
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Horse & Country TV"  group-title=AVED",Horse & Country TV
 https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
 
 #EXTINF:-1, tvg-id="Hot Rock TV" tvg-logo="https://i.imgur.com/Jis8xic.png" tvg-name="Hot Rock TV"  group-title="MUSIC",Hot Rock TV
