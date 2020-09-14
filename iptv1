@@ -884,8 +884,6 @@ http://66.northerniptv.ca:8000/live/george/george123/8.m3u8?checkedby:iptvcat.co
 http://66.northerniptv.ca:8000/tommy2/123456/304?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CBS HD WEST
 http://66.northerniptv.ca:8000/live/george/george123/304.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Local",CBS46 (WGCL-TV)
-https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCAL-TV LOS ANGELES (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/65036?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCAL-TV LOS ANGELES (CBS)
