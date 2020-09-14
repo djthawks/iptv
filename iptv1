@@ -1,5 +1,36 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME  NEXT
+http://randomserver.site:2086/crystal/12345/56137?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME  NEXT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56137?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2
+http://randomserver.site:2086/live/crystal/12345/331.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2
+http://randomserver.site:2086/live/crystal/12345/95491.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/331?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME  NEXT
+http://randomserver.site:2086/live/Bria/Bria/56137.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",US-720 : SHOWTIME EXTREME
+http://randomserver.site:2086/live/Bria/Bria/95490.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME EAST
+http://randomserver.site:2086/live/crystal/12345/95432.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME EAST
+http://randomserver.site:2086/crystal/12345/332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME EAST FHD 1080
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64043?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
+http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
+http://66.northerniptv.ca:8000/live/george/george123/82647.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC (WBRE) Wilkes Barre Pennsylvania
+http://randomserver.site:2086/live/crystal/12345/96888.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC (WBRE) Wilkes Barre Pennsylvania
+http://randomserver.site:2086/live/Bria/Bria/96888.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KWTV- Oklahoma City OK)
 http://randomserver.site:2086/live/Bria/Bria/90361.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KWTX) WACO TEXAS
