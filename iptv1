@@ -625,13 +625,6 @@ http://66.northerniptv.ca:8000/live/george/george123/64813.m3u8?checkedby:iptvca
 
 
 
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS
-http://mhiptv.com:8888/noval/123456/15258?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS 4 (WBZ) Boston (R)
-http://ingrid.ltd:25461/Melon3175/Melon7531/67471?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS BUFFALO (WIVB)
-http://randomserver.site:2086/live/crystal/12345/65863.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Undefined",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
@@ -799,8 +792,7 @@ http://66.northerniptv.ca:8000/tommy2/123456/64851?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TUDN
 http://randomserver.site:2086/123456789/123456789/95467?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TURNER CLASSIC MOVIES
-http://randomserver.site:2086/123456789/123456789/95392?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV LAND
 http://randomserver.site:2086/123456789/123456789/95480?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV ONE
@@ -1066,3 +1058,196 @@ http://randomserver.site:2086/123456789/123456789/312?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TRU TV FHD 1080
 http://randomserver.site:2086/123456789/123456789/64026?checkedby:iptvcat.com
 
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRIENDS
+http://66.northerniptv.ca:8000/tommy2/123456/67818?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRIENDS
+http://66.northerniptv.ca:8000/live/george/george123/67818.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FRIENDS 24x7
+http://66.northerniptv.ca:8000/live/george/george123/8782.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-21 JUMP STREET
+http://66.northerniptv.ca:8000/live/george/george123/67801.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-21 JUMP STREET
+http://66.northerniptv.ca:8000/tommy2/123456/67801?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-70'S SHOW
+http://66.northerniptv.ca:8000/live/george/george123/67794.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-70'S SHOW
+http://66.northerniptv.ca:8000/tommy2/123456/67794?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ALL IN THE FAMILY
+http://66.northerniptv.ca:8000/live/george/george123/67799.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ALL IN THE FAMILY
+http://66.northerniptv.ca:8000/tommy2/123456/67799?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ANIMANIACS
+http://66.northerniptv.ca:8000/tommy2/123456/67832?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ANIMANIACS
+http://66.northerniptv.ca:8000/live/george/george123/67832.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BATMAN
+http://66.northerniptv.ca:8000/tommy2/123456/67835?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BATMAN
+http://66.northerniptv.ca:8000/live/george/george123/67835.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEAVIS AND BUTTHEAD
+http://66.northerniptv.ca:8000/tommy2/123456/67831?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEAVIS AND BUTTHEAD
+http://66.northerniptv.ca:8000/live/george/george123/67831.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLBILLIES
+http://66.northerniptv.ca:8000/live/george/george123/67820.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLBILLIES
+http://66.northerniptv.ca:8000/tommy2/123456/67820?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLS 90210
+http://66.northerniptv.ca:8000/live/george/george123/67821.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLS 90210
+http://66.northerniptv.ca:8000/tommy2/123456/67821?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEWITCHED
+http://66.northerniptv.ca:8000/tommy2/123456/67810?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEWITCHED
+http://66.northerniptv.ca:8000/live/george/george123/67810.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-CHEERS
+http://66.northerniptv.ca:8000/tommy2/123456/67819?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-CHEERS
+http://66.northerniptv.ca:8000/live/george/george123/67819.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DARK WING DUCK
+http://66.northerniptv.ca:8000/tommy2/123456/67830?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DARK WING DUCK
+http://66.northerniptv.ca:8000/live/george/george123/67830.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEADLIEST CATCH
+http://66.northerniptv.ca:8000/tommy2/123456/67798?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEADLIEST CATCH
+http://66.northerniptv.ca:8000/live/george/george123/67798.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEXTERS LABORATORY
+http://66.northerniptv.ca:8000/tommy2/123456/67828?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEXTERS LABORATORY
+http://66.northerniptv.ca:8000/live/george/george123/67828.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DISNEY SHORTS
+http://66.northerniptv.ca:8000/tommy2/123456/67841?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DRAGON BALL Z (1)
+http://66.northerniptv.ca:8000/live/george/george123/67843.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DRAGON BALL Z (1)
+http://66.northerniptv.ca:8000/tommy2/123456/67843?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUCK TALES
+http://66.northerniptv.ca:8000/live/george/george123/67829.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUCK TALES
+http://66.northerniptv.ca:8000/tommy2/123456/67829?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUKES OF HAZARD
+http://66.northerniptv.ca:8000/tommy2/123456/67826?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUKES OF HAZARD
+http://66.northerniptv.ca:8000/live/george/george123/67826.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FAMILY MATTERS
+http://66.northerniptv.ca:8000/tommy2/123456/67808?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FAMILY TIES
+http://66.northerniptv.ca:8000/tommy2/123456/67809?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FAMILY TIES
+http://66.northerniptv.ca:8000/live/george/george123/67809.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRASIER
+http://66.northerniptv.ca:8000/live/george/george123/67796.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRESH PRINCE
+http://66.northerniptv.ca:8000/tommy2/123456/68271?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRESH PRINCE
+http://66.northerniptv.ca:8000/live/george/george123/68271.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GET SMART
+http://66.northerniptv.ca:8000/tommy2/123456/67805?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GET SMART
+http://66.northerniptv.ca:8000/live/george/george123/67805.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GILLIGAN'S ISLAND
+http://66.northerniptv.ca:8000/live/george/george123/67793.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GILLIGAN'S ISLAND
+http://66.northerniptv.ca:8000/tommy2/123456/67793?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GOLDEN GIRLS
+http://66.northerniptv.ca:8000/live/george/george123/67804.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GOLDEN GIRLS
+http://66.northerniptv.ca:8000/tommy2/123456/67804?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HAPPY DAYS
+http://66.northerniptv.ca:8000/live/george/george123/67813.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HAPPY DAYS
+http://66.northerniptv.ca:8000/tommy2/123456/67813?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HOME IMPROVEMENT
+http://66.northerniptv.ca:8000/live/george/george123/67823.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HOME IMPROVEMENT
+http://66.northerniptv.ca:8000/tommy2/123456/67823?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-I DREAM OF JEANNIE
+http://66.northerniptv.ca:8000/tommy2/123456/67817?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-I LOVE LUCY
+http://66.northerniptv.ca:8000/live/george/george123/67824.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-I LOVE LUCY
+http://66.northerniptv.ca:8000/tommy2/123456/67824?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-JEFFERSONS
+http://66.northerniptv.ca:8000/tommy2/123456/67822?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-JEFFERSONS
+http://66.northerniptv.ca:8000/live/george/george123/67822.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-KNIGHTRIDER
+http://66.northerniptv.ca:8000/live/george/george123/67814.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-KNIGHTRIDER
+http://66.northerniptv.ca:8000/tommy2/123456/67814?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MASH
+http://66.northerniptv.ca:8000/tommy2/123456/67811?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MASH
+http://66.northerniptv.ca:8000/live/george/george123/67811.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MELROSE PLACE
+http://66.northerniptv.ca:8000/tommy2/123456/67803?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MELROSE PLACE
+http://66.northerniptv.ca:8000/live/george/george123/67803.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MORK AND MINDY
+http://66.northerniptv.ca:8000/tommy2/123456/67807?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MORK AND MINDY
+http://66.northerniptv.ca:8000/live/george/george123/67807.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MURPHY BROWN
+http://66.northerniptv.ca:8000/tommy2/123456/67812?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-NIGHT COURT
+http://66.northerniptv.ca:8000/live/george/george123/67825.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-PAW PATROL
+http://66.northerniptv.ca:8000/tommy2/123456/67849?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-POPEYE
+http://66.northerniptv.ca:8000/tommy2/123456/67838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-POPEYE
+http://66.northerniptv.ca:8000/live/george/george123/67838.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ROCKY AND BULLWINKLE
+http://66.northerniptv.ca:8000/tommy2/123456/68270?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ROCKY AND BULLWINKLE
+http://66.northerniptv.ca:8000/live/george/george123/68270.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-RUGRATS
+http://66.northerniptv.ca:8000/tommy2/123456/67836?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-RUGRATS
+http://66.northerniptv.ca:8000/live/george/george123/67836.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SCOOBY DOO
+http://66.northerniptv.ca:8000/tommy2/123456/67847?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SCOOBY DOO
+http://66.northerniptv.ca:8000/live/george/george123/67847.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SCRUBS
+http://66.northerniptv.ca:8000/live/george/george123/67795.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SEINFELD
+http://66.northerniptv.ca:8000/tommy2/123456/67816?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SEINFELD
+http://66.northerniptv.ca:8000/live/george/george123/67816.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPIDERMAN
+http://66.northerniptv.ca:8000/tommy2/123456/67839?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPIDERMAN
+http://66.northerniptv.ca:8000/live/george/george123/67839.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPONGEBOB
+http://66.northerniptv.ca:8000/tommy2/123456/67842?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPONGEBOB
+http://66.northerniptv.ca:8000/live/george/george123/67842.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-STAND UP COMEDY
+http://66.northerniptv.ca:8000/tommy2/123456/67797?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE JETSONS
+http://66.northerniptv.ca:8000/tommy2/123456/67833?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE JETSONS
+http://66.northerniptv.ca:8000/live/george/george123/67833.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE SIX MILLION DOLLAR MAN
+http://66.northerniptv.ca:8000/tommy2/123456/72961?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE SIX MILLION DOLLAR MAN
+http://66.northerniptv.ca:8000/live/george/george123/72961.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WKRP
+http://66.northerniptv.ca:8000/tommy2/123456/72962?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WKRP
+http://66.northerniptv.ca:8000/live/george/george123/72962.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WONDER WOMAN
+http://66.northerniptv.ca:8000/tommy2/123456/72960?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WONDER WOMAN
+http://66.northerniptv.ca:8000/live/george/george123/72960.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",24/7 Cat-Dog
+http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/282?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",24/7 The Big Bang Theory
+http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/314?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",24/7 Thundercats
+http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/315?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",24/7 Tom y Jerry
+http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/316?checkedby:iptvcat.com
