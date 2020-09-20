@@ -6,86 +6,13 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/13604?checkedby:iptvcat.com
 #EXTINF:-1,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
 
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME  NEXT
-http://randomserver.site:2086/crystal/12345/56137?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME  NEXT
-http://185.232.53.5:2086/wickeduk/etqyhww45e/56137?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2
-http://randomserver.site:2086/live/crystal/12345/331.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2
-http://randomserver.site:2086/live/crystal/12345/95491.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2
 http://185.232.53.5:2086/wickeduk/etqyhww45e/331?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME  NEXT
-http://randomserver.site:2086/live/Bria/Bria/56137.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",US-720 : SHOWTIME EXTREME
-http://randomserver.site:2086/live/Bria/Bria/95490.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME EAST
-http://randomserver.site:2086/live/crystal/12345/95432.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME EAST
-http://randomserver.site:2086/crystal/12345/332?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME EAST FHD 1080
-http://185.232.53.5:2086/wickeduk/etqyhww45e/64043?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
 http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
 http://66.northerniptv.ca:8000/live/george/george123/82647.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC (WBRE) Wilkes Barre Pennsylvania
-http://randomserver.site:2086/live/crystal/12345/96888.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NBC (WBRE) Wilkes Barre Pennsylvania
-http://randomserver.site:2086/live/Bria/Bria/96888.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KWTV- Oklahoma City OK)
-http://randomserver.site:2086/live/Bria/Bria/90361.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KWTX) WACO TEXAS
-http://randomserver.site:2086/live/crystal/12345/96780.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KWTX) WACO TEXAS
-http://randomserver.site:2086/live/Bria/Bria/96780.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KWTX) WACO TEXAS
-http://randomserver.site:2086/crystal/12345/96780?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KYW- Philadelphia PA)
-http://randomserver.site:2086/live/crystal/12345/90362.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WAKA DT– Montgomery/Selma AL)
-http://randomserver.site:2086/live/crystal/12345/90241.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WCCO- Minneapolis MN)
-http://randomserver.site:2086/crystal/12345/90367?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WDEF) CHATTANOOGA TENNESSEE
-http://randomserver.site:2086/live/Bria/Bria/96782.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WDEF) CHATTANOOGA TENNESSEE
-http://randomserver.site:2086/crystal/12345/96782?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WGCL- Atlanta GA)
-http://randomserver.site:2086/live/crystal/12345/90369.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WHIO– Dayton OH)
-http://randomserver.site:2086/crystal/12345/90218?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WFMY) GREENSBORO NORTH CAROLINA
-http://randomserver.site:2086/live/Bria/Bria/96784.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WINK) FORT MYERS FLORIDA
-http://randomserver.site:2086/crystal/12345/96785?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WISC– Madison WI)
-http://randomserver.site:2086/live/Bria/Bria/90240.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WISC– Madison WI)
-http://randomserver.site:2086/live/crystal/12345/90240.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WKRC- Cincinnati OH)
-http://randomserver.site:2086/live/Bria/Bria/90371.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WKYT– Lexington KY)
-http://randomserver.site:2086/crystal/12345/90256?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WYOU) SCRANTON PENNSYLVANIA
-http://randomserver.site:2086/crystal/12345/96798?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WYOU) SCRANTON PENNSYLVANIA
-http://randomserver.site:2086/live/Bria/Bria/96798.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 11 Dallas (KTVT)
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/8990?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 13 (WMAZ) Macon
-http://ingrid.ltd:25461/Melon3175/Melon7531/42344?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 19 (KYTX) Longview
-http://ingrid.ltd:25461/Melon3175/Melon7531/42346?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 22 (WYOU) Scranton
-http://ingrid.ltd:25461/Melon3175/Melon7531/42509?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 3 (WSHM) Springfield
-http://ingrid.ltd:25461/Melon3175/Melon7531/42345?checkedby:iptvcat.com
-
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
@@ -95,24 +22,8 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KDKATV- Pittsburgh PA)
-http://randomserver.site:2086/live/Bria/Bria/90353.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KDKATV- Pittsburgh PA)
-http://randomserver.site:2086/crystal/12345/90353?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KYW- Philadelphia PA)
-http://randomserver.site:2086/crystal/12345/90362?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KYW- Philadelphia PA)
-http://randomserver.site:2086/live/crystal/12345/90362.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KYW- Philadelphia PA)
-http://randomserver.site:2086/live/Bria/Bria/90362.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WDBJ) ROANOKE VIRGINIA
-http://randomserver.site:2086/crystal/12345/96781?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WDBJ) ROANOKE VIRGINIA
-http://randomserver.site:2086/live/crystal/12345/96781.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WJZ– Baltimore MD)
-http://randomserver.site:2086/crystal/12345/90283?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (WJZ– Baltimore MD)
-http://randomserver.site:2086/live/crystal/12345/90283.m3u8?checkedby:iptvcat.com
+
+
 
 
 #EXTINF:-1, tvg-id="247Retro.us" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="DAVE",24/7 Retro TV
