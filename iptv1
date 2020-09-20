@@ -19,9 +19,6 @@ http://randomserver.site:2086/live/crystal/12345/95391.m3u8?checkedby:iptvcat.co
 http://randomserver.site:2086/live/Bria/Bria/343.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1,UK: Poker Go | HD
-http://hdonline.ml:80/y2/y2/2519
-
 #EXTINF:-1,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
 
@@ -244,24 +241,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Deutsche Welle English"  group-title="DAVE",Deutsche Welle English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing"  group-title="MUSIC",DJing
-https://www.djing.com/tv/live.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing Animation"  group-title="MUSIC",DJing Animation
-https://www.djing.com/tv/animation.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing Classics"  group-title="MUSIC",DJing Classics
-https://www.djing.com/tv/hits.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing Dance Floor"  group-title="MUSIC",DJing Dance Floor
-https://djing.com/tv/dancefloor.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing Karaoke"  group-title="MUSIC",DJing Karaoke
-https://www.djing.com/tv/karaoke.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DJing Underground"  group-title="MUSIC",DJing Underground
-https://www.djing.com/tv/underground.m3u8
 
 #EXTINF:-1, tvg-id="Dream Corp LLC (Geo)" tvg-logo="https://i.imgur.com/azzpKrT.png" tvg-name="Dream Corp LLC (Geo)"  group-title="24/7",Dream Corp LLC (Geo)
 http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
