@@ -1,23 +1,7 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",US-720 : ESPN
-http://randomserver.site:2086/live/Bria/Bria/95389.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT ESPN
-http://ingrid.ltd:25461/Melon3175/Melon7531/3396?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
 http://185.232.53.5:2086/wickeduk/etqyhww45e/13604?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/live/crystal/12345/13604.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/crystal/12345/13604?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/live/crystal/12345/95389.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
-http://randomserver.site:2086/live/crystal/12345/95391.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2
-http://randomserver.site:2086/live/Bria/Bria/343.m3u8?checkedby:iptvcat.com
-
 
 #EXTINF:-1,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
