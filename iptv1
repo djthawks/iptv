@@ -5,6 +5,8 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/13604?checkedby:iptvcat.com
 
 #EXTINF:-1,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
+#EXTINF:-1,fox56
+https://ott-stationselection.sinclairstoryline.com/stationStateTeaser?state=NE&station=fox56
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2
 http://185.232.53.5:2086/wickeduk/etqyhww45e/331?checkedby:iptvcat.com
