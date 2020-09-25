@@ -531,24 +531,6 @@ https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TMZ"  group-title="DAVE",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1, tvg-id="Tom & Jerry (Opt-2)" tvg-logo="https://i.imgur.com/9OwQuDE.png" tvg-name="Tom & Jerry (Opt-2)"  group-title="DAVE",Tom & Jerry (Opt-2)
-https://ws.hls.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tom & Jerry TV"  group-title="DAVE",Tom & Jerry TV
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-
-#EXTINF:-1, tvg-id="Tom Cruise Movies (Opt-1)" tvg-logo="https://i.imgur.com/PdLjy8k.png" tvg-name="Tom Cruise Movies (Opt-1)"  group-title="DAVE",Tom Cruise Movies (Opt-1)
-https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="Tom Cruise Movies (Opt-2)" tvg-logo="https://i.imgur.com/PdLjy8k.png" tvg-name="Tom Cruise Movies (Opt-2)"  group-title="DAVE",Tom Cruise Movies (Opt-2)
-https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="Totally Spies! (Opt-1)" tvg-logo="https://i.imgur.com/3A3NQFo.png" tvg-name="Totally Spies! (Opt-1)"  group-title="DAVE",Totally Spies! (Opt-1)
-https://ws.hls.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="Totally Spies! (Opt-2)" tvg-logo="https://i.imgur.com/3A3NQFo.png" tvg-name="Totally Spies! (Opt-2)"  group-title="DAVE",Totally Spies! (Opt-2)
-https://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv?checkedby:iptvcat.com
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TSTV"  group-title="DAVE",TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
