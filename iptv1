@@ -1,35 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/03f392ffc6.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="",► CHCH
+http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ymhAHpF.png" group-title="",► ABC SPARK
-http://stream-e30453a4b.nmbs.top/m3u/Canada/f309fef061.m3u8|User-Agent=VLC
+# Update Link https://www.chch.com/live/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
+https://flowcaster1-cl.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w311537970_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTYwMDM4NjAzMyZpaW1hZTBVQzJhaGFzaD1pQ01xSkR3VUo2b1Noa05EM1I5WG9oc0pMUXVLN18wUFVxeGZLcmptQVJNPQ==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
+https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
+https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",► CITY TV
+http://stream-e30453a4b.nmbs.top/m3u/Canada/68963dd0cf.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WMvALb.png" group-title="",► COMEDY GOLD
+http://stream-e30453a4b.nmbs.top/m3u/Canada/d9681a2144.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0dnKxJd.png" group-title="",► COTTAGE LIFE
+http://stream-e30453a4b.nmbs.top/m3u/Canada/a52db3f16b.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k58usl.png" group-title="",► CP 24 
+http://stream-e30453a4b.nmbs.top/m3u/Canada/956540676a.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djwLvl9.png" group-title="",► AMC CAN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/7de5e8ac30.m3u8|User-Agent=VLC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nrvynVa.png" group-title="",► AMERICAN HERO
-http://stream-e30453a4b.nmbs.top/m3u/Canada/52ecff5501.m3u8|User-Agent=VLC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png" group-title="",► BBC Canada
-http://stream-e30453a4b.nmbs.top/m3u/Canada/62cfb44b1b.m3u8|User-Agent=VLC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJllL8Z.png" group-title="",► BET CAN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/292e76f74f.m3u8|User-Agent=VLC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jILckhl.png" group-title="",blackflag.tv
-https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8
-
-# update link https://www.youtube.com/watch?v=lYXdhqg6DmM #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT)
-plugin://plugin.video.youtube/play/?video_id=ZaXSkSvqa_s
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
-http://stream-e30453a4b.nmbs.top/m3u/Canada/f057e133f9.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihpYMdJ.png" group-title="",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
