@@ -1,5 +1,43 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
+http://stream-e30453a4b.nmbs.top/m3u/Canada/03f392ffc6.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymhAHpF.png" group-title="",► ABC SPARK
+http://stream-e30453a4b.nmbs.top/m3u/Canada/f309fef061.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djwLvl9.png" group-title="",► AMC CAN
+http://stream-e30453a4b.nmbs.top/m3u/Canada/7de5e8ac30.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrvynVa.png" group-title="",► AMERICAN HERO
+http://stream-e30453a4b.nmbs.top/m3u/Canada/52ecff5501.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png" group-title="",► BBC Canada
+http://stream-e30453a4b.nmbs.top/m3u/Canada/62cfb44b1b.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJllL8Z.png" group-title="",► BET CAN
+http://stream-e30453a4b.nmbs.top/m3u/Canada/292e76f74f.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jILckhl.png" group-title="",blackflag.tv
+https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8
+
+# update link https://www.youtube.com/watch?v=lYXdhqg6DmM #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT)
+plugin://plugin.video.youtube/play/?video_id=ZaXSkSvqa_s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
+http://stream-e30453a4b.nmbs.top/m3u/Canada/f057e133f9.m3u8|User-Agent=VLC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihpYMdJ.png" group-title="",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnpZuMy.png" group-title="",Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+
+
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22867/humor-mill/logo_20200819_235207_68.png" group-title="DistroTV",Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 
