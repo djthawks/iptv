@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22867/humor-mill/logo_20200819_235207_68.png" group-title="DistroTV",Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22751/idg/logo_20191217_230247.png" group-title="DistroTV",IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20200609_231841.png" group-title="DistroTV",Kaloopy (18+)
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/126.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCwsArY.png" group-title="DistroTV",Dry Bar Comedy
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 
