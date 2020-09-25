@@ -1,5 +1,300 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4cc90abe-fdfa-a008-eaf5-d1e508a0cd5a-4kTV_hero.jpg" group-title="24/7 PLUTO TV",4K TV
+http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="24/7 PLUTO TV",Action Movies
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5938876b78d8d9c074c3c657/featuredImage.jpg" group-title="24/7 PLUTO TV",Adventure TV
+http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="24/7 PLUTO TV",After School Cartoons
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="24/7 PLUTO TV",Anime All Ages
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" group-title="24/7 PLUTO TV",Anime All Day
+http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/92b06cb1-4269-5d05-686b-39917f08d546-Channel-Featured_AwesomenessTV.jpg" group-title="24/7 PLUTO TV",Awesomeness TV
+http://stitcher.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59641d9173ac1fec2fc01f17/featuredImage.jpg" group-title="24/7 PLUTO TV",Big Sky Conference
+http://stitcher.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" group-title="24/7 PLUTO TV",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b3a4249444e05d09cc46/featuredImage.jpg" group-title="24/7 PLUTO TV",Cars
+http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37dec3de714a458f5c0f41/featuredImage.jpg" group-title="24/7 PLUTO TV",Cash Cab
+https://stitcher.pluto.tv/stitch/hls/channel/5c37dec3de714a458f5c0f41/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=cde3cigj2626i43pra7jrnrbs4
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/599375885ceaac3cabccbed7/featuredImage.jpg" group-title="24/7 PLUTO TV",Cats 24/7
+http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b6b285823ecb93393cbf766/featuredImage.jpg" group-title="24/7 PLUTO TV",Chassy
+http://stitcher.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab1857ba-26d5-6f07-0e5d-4c45700e2389-ClassicMovies_featured.jpg" group-title="24/7 PLUTO TV",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" group-title="24/7 PLUTO TV",Classic Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/b6e39f2b-47cc-772e-65eb-e40ef08c79ce-ClassicTV_featured.jpg" group-title="24/7 PLUTO TV",Classic TV
+http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/621e2260-8beb-16a9-eaf6-c7442107a1d8-Clevver_Hero.jpg" group-title="24/7 PLUTO TV",Clevver
+http://stitcher.pluto.tv/stitch/hls/channel/587599db0decb235457c956d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="24/7 PLUTO TV",CNBC
+http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/7cd92dbc-3121-2ec3-774e-a46148805439-CNET-channel-feature.jpg" group-title="24/7 PLUTO TV",CNET
+http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" group-title="24/7 PLUTO TV",Cold Case Files
+https://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kaasl9n3jh3esnglai5na3geu7
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg" group-title="24/7 PLUTO TV",Combate World
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1bb65268cae539bcedb0c/featuredImage.jpg" group-title="24/7 PLUTO TV",ConTV
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1bb65268cae539bcedb0c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab51f0fb-5cfb-d826-5de8-0527fa983eba-cracked-channel-feature%20(1).jpg" group-title="24/7 PLUTO TV",Cracked
+http://stitcher.pluto.tv/stitch/hls/channel/561c5d74ada51f8004c4d85d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812be1c249444e05d09cc50/featuredImage.jpg" group-title="24/7 PLUTO TV",Crime Network
+http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/7acadea2-4d35-2f5f-7933-a0648ed5d1cb-DocuTV_featured.jpg" group-title="24/7 PLUTO TV",DocuTV
+http://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" group-title="24/7 PLUTO TV",Dog the Bounty Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
+ 
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/02/dramafever-logo.jpg" group-title="24/7 PLUTO TV",DramaFever
+http://stitcher.pluto.tv/stitch/hls/channel/5a667765a5c02e717a25dc0f/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=6&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
+http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b0f2237a6ff45d16c3f9/featuredImage.jpg" group-title="24/7 PLUTO TV",Fight
+http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="24/7 PLUTO TV",Flicks of Fury
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title="24/7 PLUTO TV",Food TV
+http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24/7 PLUTO TV",Forensic Files
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="24/7 PLUTO TV",Fox Sports
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
+https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/79328cdd-3e2e-70d4-cce3-574ffb9fcc75-FunnyAF_featured.jpg" group-title="24/7 PLUTO TV",Funny AF
+http://stitcher.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/02c4eb8a-b20e-f6d0-0ff8-b2d6fdf8135f-GS_PlutoTV_1560x878.jpg" group-title="24/7 PLUTO TV",Geek & Sundry
+http://stitcher.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" group-title="24/7 PLUTO TV",Glory Kickboxing
+http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" group-title="24/7 PLUTO TV",Gravitas Movies
+http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="24/7 PLUTO TV",Hell's Kitchen
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5887ba337b8e94223eb121bd/featuredImage.jpg" group-title="24/7 PLUTO TV",Her
+http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/94c00b9b-c823-6d69-6d0b-e64daad439ac-Hive_featured.jpg" group-title="24/7 PLUTO TV",Hive
+http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/2c4af0a3-b851-f212-1806-52cfe91abd28-Horror247_featured.jpg" group-title="24/7 PLUTO TV",Horror 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4b34952a-5e39-6200-4895-47690a5f7de7-IGN-Hero-Artwork.jpg" group-title="24/7 PLUTO TV",IGN
+http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="24/7 PLUTO TV",Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/867faca1-0c44-a85f-af4b-e3a116147f1f-InternetGold_featured.jpg" group-title="24/7 PLUTO TV",Internet Gold
+http://stitcher.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/598c8e2f3d8719a202ec66cc/featuredImage.jpg" group-title="24/7 PLUTO TV",JASH
+http://stitcher.pluto.tv/stitch/hls/channel/598c8e2f3d8719a202ec66cc/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" group-title="24/7 PLUTO TV",Kids TV
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d6603bdf11b71587184b9/featuredImage.jpg" group-title="24/7 PLUTO TV",LA Ink + NY Ink
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d6603bdf11b71587184b9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=h1i2kmn8epo99i02q1oji559k6
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5984cbeaa0fc957e6e9195ab/featuredImage.jpg" group-title="24/7 PLUTO TV",LittleThings
+http://stitcher.pluto.tv/stitch/hls/channel/5984cbeaa0fc957e6e9195ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ee0298f1-d9df-fa01-1f45-0e07d10c9ce8-Hero%20Optional%201560x878.jpg" group-title="24/7 PLUTO TV",Live Music Replay
+http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c01df1759ee03633e7b272c/featuredImage.jpg" group-title="24/7 PLUTO TV",Lucha Libre AAA
+https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/20daeac7-6437-270c-68a6-4c00b17e3474-manup_hero.jpg" group-title="24/7 PLUTO TV",Man Up
+http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/59925e4c-00de-2e8d-5a1f-86b55d2cc36e-MINECRAFTV_HERO.jpg" group-title="24/7 PLUTO TV",MinecrafTV
+http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.crowdfundinsider.com/wp-content/uploads/2015/11/Mystery-Science-Theater-3000-logo.png" group-title="24/7 PLUTO TV",Mystery Science Theater 3000
+http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="24/7 PLUTO TV",NBC News
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/bb5b66a2-9927-94fe-a346-751120398eb3-Nerdist_hero.jpg" group-title="24/7 PLUTO TV",Nerdist
+http://stitcher.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="24/7 PLUTO TV",News 24/7
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aec96ec5126c2157123c657/featuredImage.jpg" group-title="24/7 PLUTO TV",Nosey
+http://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://judygold.com/wp-content/uploads/2015/04/people-tv-300x235.jpg" group-title="24/7 PLUTO TV",People TV
+http://stitcher.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=0&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64655f3202714e8dad6e/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Cine
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d64655f3202714e8dad6e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=l8orq3a8c0i8mnij1r1q96i7p0
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Comedy
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5adf96e3e738977e2c31cb04/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Conspiracy
+https://stitcher.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=m24jbjrh2o33lln3jns6j2tmn0
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Documentaries
+http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Drama
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b64a245a202b3337f09e51d/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Family
+http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d35dfa5c02e717a234f86/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV History
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58ed63525e2c798008323a1c/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Indies
+http://stitcher.pluto.tv/stitch/hls/channel/58ed63525e2c798008323a1c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ad8d54be738977e2c310940/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Kids
+https://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=j7go93gc2nj2bijagutmn2d3v6
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Movies 1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Movies 2
+http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Romance
+https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64ffbdf11b71587184b8/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Sitcoms
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z8orq3a8c0i8mnij1r1q96i7p0
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56340779a738201b4ccfeac9/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Sports
+https://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Spotlight
+http://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Thrillers
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OPo2BY.png" group-title="24/7 PLUTO TV",Pluto TV Westerns
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561721d6ada51f8004c4b474/featuredImage.jpg" group-title="24/7 PLUTO TV",PopSugar
+http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ac7d243cd17c85601684f57/featuredImage.jpg" group-title="24/7 PLUTO TV",Revry
+https://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.rifftrax.com/sites/default/files/logo-sm.png" group-title="24/7 PLUTO TV",RiffTrax
+http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f7531066-b03f-9806-4292-b2cce8913a23-ScienceTV_featured.jpg" group-title="24/7 PLUTO TV",Science TV
+http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.zype.com/53c0457a69702d4d66040000/zobject_image/54c923da69702d070c177700/1422468057/original.png?1422468057" group-title="24/7 PLUTO TV",ShoutFactoryTV
+http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9ed1cafa-b155-dbe3-f0d9-688d256804a7-SlowTV_hero.jpg" group-title="24/7 PLUTO TV",Slow TV
+http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/76b2146e-f88e-5fb9-9539-634f9a406223-SportsNews_featured.jpg" group-title="24/7 PLUTO TV",Sports News
+http://stitcher.pluto.tv/stitch/hls/channel/5812b223e58ad7c757009420/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/0d2aa422-73cb-a635-1058-66bbcf517773-StandUp_featured.jpg" group-title="24/7 PLUTO TV",Stand-Up TV
+http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/880ab7c4-5a84-dd74-f084-ecc22cba366f-TheHighChannel_featured.jpg" group-title="24/7 PLUTO TV",THC
+http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="https://www.dreadcentral.com/wp-content/uploads/2016/01/the-asylum-logo.jpg" group-title="24/7 PLUTO TV",The Asylum
+http://stitcher.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/57f9f46b-8671-b9f3-78a1-94a4941bd3bf-TheFeed_featured.jpg" group-title="24/7 PLUTO TV",The Feed
+http://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" group-title="24/7 PLUTO TV",The New Detectives
+http://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5616fc1cf39f506e04b61dfc/featuredImage.jpg" group-title="24/7 PLUTO TV",The Onion
+https://stitcher.pluto.tv/stitch/hls/channel/5616fc1cf39f506e04b61dfc/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=oaasl9n3jh3esnglai5na3geu7
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1ad55268cae539bcedb08/featuredImage.jpg" group-title="24/7 PLUTO TV",The Pet Collective
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/da2e62dc-de8e-9036-f86e-faf0b778ea99-surf-channel-channel-feature.jpg" group-title="24/7 PLUTO TV",The Surf Channel
+http://stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" group-title="24/7 PLUTO TV",Unsolved Mysteriess (Opt-1)
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/589aa03df9ba56a84197a560/featuredImage.jpg" group-title="24/7 PLUTO TV",Voyager Documentaries
+https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d24jbjrh2o33lln3jns6j2tmn0
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/a78b9f26-908f-f0cf-60ae-6230239b5158-WHAT-!_featured.jpg" group-title="24/7 PLUTO TV",What?!
+http://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e2cd77a84e99942f414e68/featuredImage.jpg" group-title="24/7 PLUTO TV",What's On?
+http://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/featuredImage.jpg" group-title="24/7 PLUTO TV",Wipeout
+http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/decd85f0-6e26-46f0-9fd8-0a1e656dfe9a-wpt_featured.jpg" group-title="24/7 PLUTO TV",World Poker Tour
+http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alliantcontent.com/wp-content/uploads/2011/05/Xive-Logo-Black-300x132.png" group-title="24/7 PLUTO TV",XiveTV
+http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+© 2020 GitHub, Inc.
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",1 Stirr National Feed
 https://playoutengine.sinclairstoryline.com/playout/74594c4d-49cd-416c-8ecd-a01f77d7b0b3.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",5 Top Stories by Newsy
@@ -752,369 +1047,194 @@ https://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 
-
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WJW CLEVELAND (FOX)
-http://66.northerniptv.ca:8000/live/george/george123/65006.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WJW CLEVELAND (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65006?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WJZY CHARLOTTE (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64822.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WJZY CHARLOTTE (FOX)
-http://66.northerniptv.ca:8000/tommy2/123456/64822?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WNYW NEW YORK CITY (FOX)
-http://66.northerniptv.ca:8000/live/george/george123/65027.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WNYW NEW YORK CITY (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65027?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WOFL ORLANDO (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64821.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WOFL ORLANDO (FOX)
-http://66.northerniptv.ca:8000/tommy2/123456/64821?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WOGX GAINESVILLE (FOX)
-http://66.northerniptv.ca:8000/live/george/george123/64820.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WOGX GAINESVILLE (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64820?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WPGH-TV PITTSBURGH (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/65047.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WPGH-TV PITTSBURGH (FOX)
-http://66.northerniptv.ca:8000/tommy2/123456/65047?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WRAZ MEMPHIS (FOX)
-http://66.northerniptv.ca:8000/live/george/george123/65021.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WRAZ MEMPHIS (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65021?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WSVN MIAMI (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64803.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WSVN MIAMI (FOX)
-http://66.northerniptv.ca:8000/tommy2/123456/64803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTTG WASHINGTON D.C. (FOX)
-http://66.northerniptv.ca:8000/live/george/george123/64817.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTTG WASHINGTON D.C. (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64817?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTVT TAMPA BAY (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64816.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTVT TAMPA BAY (FOX)
-http://66.northerniptv.ca:8000/tommy2/123456/64816?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTXF-TV PHILADELPHIA (FOX)
-http://66.northerniptv.ca:8000/live/george/george123/64815.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTXF-TV PHILADELPHIA (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64815?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WUTV BUFFALO (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65044?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WUTV BUFFALO (FOX)
-http://66.northerniptv.ca:8000/live/george/george123/65044.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WVUE-DT NEW ORLEANS (FOX)
-http://66.northerniptv.ca:8000/live/george/george123/64814.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WVUE-DT NEW ORLEANS (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64814?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WXIN INDIANAPOLIS (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/65041.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WXIN INDIANAPOLIS (FOX)
-http://66.northerniptv.ca:8000/tommy2/123456/65041?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WXIX-TV CINCINNATI (FOX)
-http://66.northerniptv.ca:8000/tommy2/123456/64813?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WXIX-TV CINCINNATI (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64813.m3u8?checkedby:iptvcat.com
-
 
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Undefined",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CBS HD EAST
-http://66.northerniptv.ca:8000/tommy2/123456/8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CBS HD EAST
 http://66.northerniptv.ca:8000/live/george/george123/8.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CBS HD WEST
 http://66.northerniptv.ca:8000/tommy2/123456/304?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CBS HD WEST
-http://66.northerniptv.ca:8000/live/george/george123/304.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCAL-TV LOS ANGELES (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/65036?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCAL-TV LOS ANGELES (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/65036.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCBS-TV LOS ANGELES (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64860?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCBS-TV LOS ANGELES (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64860.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCCI DES MOINES (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82581.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCCI DES MOINES (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82581?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCNC-TV DENVER (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/64859?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCNC-TV DENVER (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64859.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCOY-TV SANTA MARIA (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82580.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCOY-TV SANTA MARIA (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82580?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCTV KANSAS CITY (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/64858?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCTV KANSAS CITY (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64858.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KDBC-TV EL PASO (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82579.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KDBC-TV EL PASO (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82579?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KDKA-TV PITTSBURGH (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/65048.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KDKA-TV PITTSBURGH (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/65048?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KELO-TV SIOUX FALLS (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82578.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KELO-TV SIOUX FALLS (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82578?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KEYE-TV AUSTIN (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82577?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KEYE-TV AUSTIN (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82577.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KFMB-TV SAN DIEGO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64856?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KFMB-TV SAN DIEGO (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/64856.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KFVS-TV CAPE GIRARDEAU (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82576?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KFVS-TV CAPE GIRARDEAU (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82576.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGAN-TV CEDAR RAPIDS (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82575?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGAN-TV CEDAR RAPIDS (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82575.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGBT-TV HARLINGEN (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82574?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGBT-TV HARLINGEN (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82574.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGMB HONOLULU (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64947?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGMB HONOLULU (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/64947.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGPE-TV FRESNO (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82573?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGPE-TV FRESNO (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82573.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KHOU HOUSTON (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64855.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KHOU HOUSTON (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/64855?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KIMA-TV YAKIMA (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82572?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KIMA-TV YAKIMA (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82572.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KION-TV MONTEREY (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82571?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KION-TV MONTEREY (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82571.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KIRO-TV SEATTLE (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/64854?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KIRO-TV SEATTLE (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64854.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KKTV COLORADO SPRINGS (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82570?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KKTV COLORADO SPRINGS (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82570.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KLAS-TV LAS VEGAS (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82569?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KLAS-TV LAS VEGAS (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82569.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KLFY-TV LAFAYETTE (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82568?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KLFY-TV LAFAYETTE (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82568.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KMOV ST. LOUIS (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/65017?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KMTV-TV OMAHA (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64983?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KMTV-TV OMAHA (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/64983.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOIN PORTLAND (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82567?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOIN PORTLAND (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82567.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLD-TV TUCSON (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82566?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLD-TV TUCSON (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82566.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLN LINCOLN (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82565?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLN LINCOLN (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82565.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLR SPRINGFIELD (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82564?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLR SPRINGFIELD (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82564.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOTV OKLAHOMA (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82563?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOTV OKLAHOMA (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82563.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOVR SACRAMENTO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64853?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOVR SACRAMENTO (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/64853.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KPHO-TV PHOENIX (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64852?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KPHO-TV PHOENIX (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/64852.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KPIX SAN FRANCISCO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82562?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KPIX SAN FRANCISCO (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/82562.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KREM SPOKANE (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/82561?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KREM SPOKANE (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82561.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KSLA SHREVEPORT (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/64993?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KSLA SHREVEPORT (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64993.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTHV LITTLE ROCK (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64944?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTHV LITTLE ROCK (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/64944.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTVN RENO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64938?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTVN RENO (CBS)
-http://66.northerniptv.ca:8000/live/george/george123/64938.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTVT DALLAS (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64851.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTVT DALLAS (CBS)
-http://66.northerniptv.ca:8000/tommy2/123456/64851?checkedby:iptvcat.com
-
-
-
 
 
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRIENDS
 http://66.northerniptv.ca:8000/tommy2/123456/67818?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRIENDS
-http://66.northerniptv.ca:8000/live/george/george123/67818.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FRIENDS 24x7
-http://66.northerniptv.ca:8000/live/george/george123/8782.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-21 JUMP STREET
 http://66.northerniptv.ca:8000/live/george/george123/67801.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-21 JUMP STREET
-http://66.northerniptv.ca:8000/tommy2/123456/67801?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-70'S SHOW
 http://66.northerniptv.ca:8000/live/george/george123/67794.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-70'S SHOW
-http://66.northerniptv.ca:8000/tommy2/123456/67794?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ALL IN THE FAMILY
 http://66.northerniptv.ca:8000/live/george/george123/67799.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ALL IN THE FAMILY
-http://66.northerniptv.ca:8000/tommy2/123456/67799?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ANIMANIACS
 http://66.northerniptv.ca:8000/tommy2/123456/67832?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ANIMANIACS
-http://66.northerniptv.ca:8000/live/george/george123/67832.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BATMAN
 http://66.northerniptv.ca:8000/tommy2/123456/67835?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BATMAN
-http://66.northerniptv.ca:8000/live/george/george123/67835.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEAVIS AND BUTTHEAD
 http://66.northerniptv.ca:8000/tommy2/123456/67831?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEAVIS AND BUTTHEAD
-http://66.northerniptv.ca:8000/live/george/george123/67831.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLBILLIES
 http://66.northerniptv.ca:8000/live/george/george123/67820.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLBILLIES
-http://66.northerniptv.ca:8000/tommy2/123456/67820?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLS 90210
 http://66.northerniptv.ca:8000/live/george/george123/67821.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLS 90210
-http://66.northerniptv.ca:8000/tommy2/123456/67821?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEWITCHED
 http://66.northerniptv.ca:8000/tommy2/123456/67810?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEWITCHED
-http://66.northerniptv.ca:8000/live/george/george123/67810.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-CHEERS
 http://66.northerniptv.ca:8000/tommy2/123456/67819?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-CHEERS
-http://66.northerniptv.ca:8000/live/george/george123/67819.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DARK WING DUCK
 http://66.northerniptv.ca:8000/tommy2/123456/67830?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DARK WING DUCK
-http://66.northerniptv.ca:8000/live/george/george123/67830.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEADLIEST CATCH
 http://66.northerniptv.ca:8000/tommy2/123456/67798?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEADLIEST CATCH
-http://66.northerniptv.ca:8000/live/george/george123/67798.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEXTERS LABORATORY
 http://66.northerniptv.ca:8000/tommy2/123456/67828?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEXTERS LABORATORY
-http://66.northerniptv.ca:8000/live/george/george123/67828.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DISNEY SHORTS
 http://66.northerniptv.ca:8000/tommy2/123456/67841?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DRAGON BALL Z (1)
 http://66.northerniptv.ca:8000/live/george/george123/67843.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DRAGON BALL Z (1)
-http://66.northerniptv.ca:8000/tommy2/123456/67843?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUCK TALES
 http://66.northerniptv.ca:8000/live/george/george123/67829.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUCK TALES
-http://66.northerniptv.ca:8000/tommy2/123456/67829?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUKES OF HAZARD
 http://66.northerniptv.ca:8000/tommy2/123456/67826?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUKES OF HAZARD
-http://66.northerniptv.ca:8000/live/george/george123/67826.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FAMILY MATTERS
 http://66.northerniptv.ca:8000/tommy2/123456/67808?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FAMILY TIES
 http://66.northerniptv.ca:8000/tommy2/123456/67809?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FAMILY TIES
-http://66.northerniptv.ca:8000/live/george/george123/67809.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRASIER
 http://66.northerniptv.ca:8000/live/george/george123/67796.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRESH PRINCE
 http://66.northerniptv.ca:8000/tommy2/123456/68271?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRESH PRINCE
-http://66.northerniptv.ca:8000/live/george/george123/68271.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GET SMART
 http://66.northerniptv.ca:8000/tommy2/123456/67805?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GET SMART
-http://66.northerniptv.ca:8000/live/george/george123/67805.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GILLIGAN'S ISLAND
-http://66.northerniptv.ca:8000/live/george/george123/67793.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GILLIGAN'S ISLAND
 http://66.northerniptv.ca:8000/tommy2/123456/67793?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GOLDEN GIRLS
-http://66.northerniptv.ca:8000/live/george/george123/67804.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GOLDEN GIRLS
 http://66.northerniptv.ca:8000/tommy2/123456/67804?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HAPPY DAYS
-http://66.northerniptv.ca:8000/live/george/george123/67813.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HAPPY DAYS
 http://66.northerniptv.ca:8000/tommy2/123456/67813?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HOME IMPROVEMENT
 http://66.northerniptv.ca:8000/live/george/george123/67823.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HOME IMPROVEMENT
-http://66.northerniptv.ca:8000/tommy2/123456/67823?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-I DREAM OF JEANNIE
 http://66.northerniptv.ca:8000/tommy2/123456/67817?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-I LOVE LUCY
 http://66.northerniptv.ca:8000/live/george/george123/67824.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-I LOVE LUCY
-http://66.northerniptv.ca:8000/tommy2/123456/67824?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-JEFFERSONS
 http://66.northerniptv.ca:8000/tommy2/123456/67822?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-JEFFERSONS
-http://66.northerniptv.ca:8000/live/george/george123/67822.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-KNIGHTRIDER
 http://66.northerniptv.ca:8000/live/george/george123/67814.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-KNIGHTRIDER
-http://66.northerniptv.ca:8000/tommy2/123456/67814?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MASH
 http://66.northerniptv.ca:8000/tommy2/123456/67811?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MASH
-http://66.northerniptv.ca:8000/live/george/george123/67811.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MELROSE PLACE
 http://66.northerniptv.ca:8000/tommy2/123456/67803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MELROSE PLACE
-http://66.northerniptv.ca:8000/live/george/george123/67803.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MORK AND MINDY
 http://66.northerniptv.ca:8000/tommy2/123456/67807?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MORK AND MINDY
-http://66.northerniptv.ca:8000/live/george/george123/67807.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MURPHY BROWN
 http://66.northerniptv.ca:8000/tommy2/123456/67812?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-NIGHT COURT
@@ -1123,57 +1243,28 @@ http://66.northerniptv.ca:8000/live/george/george123/67825.m3u8?checkedby:iptvca
 http://66.northerniptv.ca:8000/tommy2/123456/67849?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-POPEYE
 http://66.northerniptv.ca:8000/tommy2/123456/67838?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-POPEYE
-http://66.northerniptv.ca:8000/live/george/george123/67838.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ROCKY AND BULLWINKLE
 http://66.northerniptv.ca:8000/tommy2/123456/68270?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ROCKY AND BULLWINKLE
-http://66.northerniptv.ca:8000/live/george/george123/68270.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-RUGRATS
 http://66.northerniptv.ca:8000/tommy2/123456/67836?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-RUGRATS
-http://66.northerniptv.ca:8000/live/george/george123/67836.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SCOOBY DOO
 http://66.northerniptv.ca:8000/tommy2/123456/67847?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SCOOBY DOO
-http://66.northerniptv.ca:8000/live/george/george123/67847.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SCRUBS
 http://66.northerniptv.ca:8000/live/george/george123/67795.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SEINFELD
 http://66.northerniptv.ca:8000/tommy2/123456/67816?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SEINFELD
-http://66.northerniptv.ca:8000/live/george/george123/67816.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPIDERMAN
 http://66.northerniptv.ca:8000/tommy2/123456/67839?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPIDERMAN
-http://66.northerniptv.ca:8000/live/george/george123/67839.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPONGEBOB
 http://66.northerniptv.ca:8000/tommy2/123456/67842?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPONGEBOB
-http://66.northerniptv.ca:8000/live/george/george123/67842.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-STAND UP COMEDY
 http://66.northerniptv.ca:8000/tommy2/123456/67797?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE JETSONS
 http://66.northerniptv.ca:8000/tommy2/123456/67833?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE JETSONS
-http://66.northerniptv.ca:8000/live/george/george123/67833.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE SIX MILLION DOLLAR MAN
 http://66.northerniptv.ca:8000/tommy2/123456/72961?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE SIX MILLION DOLLAR MAN
-http://66.northerniptv.ca:8000/live/george/george123/72961.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WKRP
 http://66.northerniptv.ca:8000/tommy2/123456/72962?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WKRP
-http://66.northerniptv.ca:8000/live/george/george123/72962.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WONDER WOMAN
 http://66.northerniptv.ca:8000/tommy2/123456/72960?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WONDER WOMAN
-http://66.northerniptv.ca:8000/live/george/george123/72960.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",24/7 Cat-Dog
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/282?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",24/7 The Big Bang Theory
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/314?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",24/7 Thundercats
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/315?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",24/7 Tom y Jerry
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/316?checkedby:iptvcat.com
+
