@@ -1,7 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC | English
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="",► CHCH
-http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
+http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8
 
 # Update Link https://www.chch.com/live/ #
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
@@ -14,7 +17,7 @@ https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/53309
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",► CITY TV
-http://stream-e30453a4b.nmbs.top/m3u/Canada/68963dd0cf.m3u8|User-Agent=VLC
+http://stream-e30453a4b.nmbs.top/m3u/Canada/68963dd0cf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5WMvALb.png" group-title="",► COMEDY GOLD
 http://stream-e30453a4b.nmbs.top/m3u/Canada/d9681a2144.m3u8|User-Agent=VLC
