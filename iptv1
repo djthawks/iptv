@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/220px-NBC_logo_%282013%29.svg.png" group-title="NBC",WBRE-TV WILKES-BARRE (NBC)
 http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-name="WCBS (CBS)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",WCBS (CBS)
+#EXTINF:-1, tvg-name="WCBS (CBS)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="CBS",WCBS (CBS)
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 
@@ -804,35 +804,35 @@ https://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WJW CLEVELAND (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WJW CLEVELAND (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65006?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WJZY CHARLOTTE (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WJZY CHARLOTTE (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64822.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WNYW NEW YORK CITY (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WNYW NEW YORK CITY (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65027?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WOFL ORLANDO (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WOFL ORLANDO (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64821.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WOGX GAINESVILLE (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WOGX GAINESVILLE (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64820?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WPGH-TV PITTSBURGH (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WPGH-TV PITTSBURGH (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/65047.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WRAZ MEMPHIS (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WRAZ MEMPHIS (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65021?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WSVN MIAMI (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WSVN MIAMI (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64803.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WTTG WASHINGTON D.C. (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WTTG WASHINGTON D.C. (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64817?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WTVT TAMPA BAY (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WTVT TAMPA BAY (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64816.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WTXF-TV PHILADELPHIA (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WTXF-TV PHILADELPHIA (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64815?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WUTV BUFFALO (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WUTV BUFFALO (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65044?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WVUE-DT NEW ORLEANS (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WVUE-DT NEW ORLEANS (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64814?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WXIN INDIANAPOLIS (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WXIN INDIANAPOLIS (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/65041.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WXIX-TV CINCINNATI (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",WXIX-TV CINCINNATI (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64813.m3u8?checkedby:iptvcat.com
 
 
