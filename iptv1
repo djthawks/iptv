@@ -3,13 +3,13 @@
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
 http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="WCBS (CBS)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",WCBS (CBS)
+#EXTINF:-1, tvg-name="WCBS (CBS)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",WCBS (CBS)
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-id="ION.us" tvg-logo="" group-title="Undefined",ION TELEVISION
+#EXTINF:0 tvg-name="ION.us" tvg-logo="" group-title="Undefined",ION TELEVISION
 http://66.northerniptv.ca:8000/tommy2/123456/59033?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ION.us" tvg-logo="" group-title="Undefined",ION TELEVISION
+#EXTINF:0 tvg-name="ION.us" tvg-logo="" group-title="Undefined",ION TELEVISION
 http://66.northerniptv.ca:8000/live/george/george123/59033.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="USA" tvg-logo="" group-title="Undefined",FOOD HD (USA)
 http://66.northerniptv.ca:8000/live/george/george123/80508.m3u8?checkedby:iptvcat.com
