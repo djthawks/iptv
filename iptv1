@@ -13,28 +13,13 @@ http://66.northerniptv.ca:8000/tommy2/123456/59033?checkedby:iptvcat.com
 http://66.northerniptv.ca:8000/live/george/george123/59033.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOOD HD (USA)
 http://66.northerniptv.ca:8000/live/george/george123/80508.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Food Network,Food Network UK
-http://95.86.32.7:999/food?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Food Network Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/3336.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",SKY FOOD NETWORK
-http://66.northerniptv.ca:8000/live/george/george123/1788.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",*FOX NEWS HD
 http://66.northerniptv.ca:8000/tommy2/123456/363?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",*FOX NEWS HD
-http://66.northerniptv.ca:8000/live/george/george123/363.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",BIG 10 HD
 http://66.northerniptv.ca:8000/tommy2/123456/3950?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",BIG 10 HD
-http://66.northerniptv.ca:8000/live/george/george123/3950.m3u8?checkedby:iptvcat.com
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ToAJpkl.png" group-title="TV25" ,TV25.4 Action
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
