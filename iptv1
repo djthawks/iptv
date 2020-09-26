@@ -1,67 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/x33MwPN.png" group-title="Infantil",Retrô Cartoon
-http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="Infantil",Baby TV
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PENTHOUSE
+http://66.northerniptv.ca:8000/live/george/george123/71118.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PENTHOUSE
+http://66.northerniptv.ca:8000/tommy2/123456/71118?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HUSTLER HD
+http://66.northerniptv.ca:8000/tommy2/123456/302?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HUSTLER HD
+http://66.northerniptv.ca:8000/live/george/george123/302.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BTN HD
+http://ingrid.ltd:25461/Aida01/Aida01/6076?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz HD Movies
+http://ingrid.ltd:25461/Aida01/Aida01/22793?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MoreMax HD Movies
+http://ingrid.ltd:25461/Aida01/Aida01/22818?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oxygen HD East
+http://ingrid.ltd:25461/Aida01/Aida01/3672?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Paramount Network HD
+http://ingrid.ltd:25461/Aida01/Aida01/19662?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",POP East
+http://ingrid.ltd:25461/Aida01/Aida01/5896?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",POP West
+http://ingrid.ltd:25461/Aida01/Aida01/42569?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
-
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
-http://listaiptv.brcs.ml:8080/SD_BOOMERANG/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
-http://listaiptv.brcs.ml:8080/SD_TOONCAST/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon HD
-http://listaiptv.brcs.ml:8080/SD_NICKELODEON/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="Infantil",Nick Jr.
-http://listaiptv.brcs.ml:8080/SD_NICK_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob
-http://listaiptv.brcs.ml:8080/SD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob HD
-http://listaiptv.brcs.ml:8080/HD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network
-http://95.141.35.104:8081/look/cartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
-http://listaiptv.brcs.ml:8080/HD_CARTOON_NETWORK/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD HD
-http://listaiptv.brcs.ml:8080/SD_DISNEY_XD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
-http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
-http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="Infantil",Disney Junior
-http://listaiptv.brcs.ml:8080/SD_DISNEY_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel
-http://listaiptv.brcs.ml:8080/SD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel HD
-http://listaiptv.brcs.ml:8080/HD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-
-#EXTINF:1, Star sports 2
-https://watchindia.net:8443/live/58244/03389/2143.ts
-#EXTINF:2, Channel-9
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8?@amarnettv.live
-#EXTINF:3, Mtv Beats
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/146
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ToAJpkl.png" group-title="TV25" ,TV25.4 Action
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
