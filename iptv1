@@ -2,15 +2,8 @@
 
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
-http://randomserver.site:2086/riyad/riyad/95413?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
 http://185.232.53.5:2086/wickeduk/etqyhww45e/252?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
-http://randomserver.site:2086/riyad/riyad/252?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Food Network HD
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5494?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK
-http://randomserver.site:2086/riyad/riyad/66977?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK
 http://jimihendrix.icu:8080/zq1SZWvWNQ/1qIZ2Mrqjc/7833?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK+1 SD
@@ -19,8 +12,7 @@ http://jimihendrix.icu:8080/zq1SZWvWNQ/1qIZ2Mrqjc/70724?checkedby:iptvcat.com
 http://ingrid.ltd:25461/frank1/frank/42370?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION
 http://localdblagent.club:8080/1935/1935/1559?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION (WPPX) Philadelphia
-http://ingrid.ltd:25461/frank1/frank/86212?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION 31 (WPXN) NewYork
 http://ingrid.ltd:25461/frank1/frank/86426?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION TELEVISION
@@ -33,8 +25,7 @@ http://ingrid.ltd:25461/frank1/frank/42569?checkedby:iptvcat.com
 http://ingrid.ltd:25461/frank1/frank/42403?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Beyond (West)
 http://ingrid.ltd:25461/frank1/frank/42401?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SYFY West
-http://ingrid.ltd:25461/Aida01/Aida01/42563?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Undefined",STIRR Westerns,US | STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ WEST FHD 1080
@@ -43,14 +34,7 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/64048?checkedby:iptvcat.com
 http://185.232.53.5:2086/wickeduk/etqyhww45e/64055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ WEST
 http://randomserver.site:2086/riyad/riyad/2490?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Women West
-http://ingrid.ltd:25461/Aida01/Aida01/42407?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema West
-http://ingrid.ltd:25461/Aida01/Aida01/42417?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy West
-http://ingrid.ltd:25461/Aida01/Aida01/42419?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge West
-http://ingrid.ltd:25461/Aida01/Aida01/42421?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore (West)
 http://ingrid.ltd:25461/frank1/frank/42423?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (West)
