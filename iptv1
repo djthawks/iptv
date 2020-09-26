@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
 http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="WCBS (CBS)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",CBS
+#EXTINF:-1, tvg-id="WCBS (CBS)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",WCBS (CBS)
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 
