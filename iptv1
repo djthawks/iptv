@@ -1,10 +1,33 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="1" tvg-name="24/7 Friends" tvg-logo="https://boygeniusreport.files.wordpress.com/2019/09/friends-tv-show.jpg" group-title="24 Hours A Day Streams",24/7 Friends
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-name="24/7 Kuroko's Basketball" tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24 Hours A Day Streams",24/7 Kuroko's Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-name="24/7 Marvel Movies" tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24 Hours A Day Streams",24/7 Marvel Movies
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-name="24/7 Reality TV 2" tvg-logo="https://angiegreaves.com/wp-content/uploads/2019/05/reality-tv-1.jpg" group-title="24 Hours A Day Streams",24/7 Reality TV 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-name="24/7 Resident Evil Movies" tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24 Hours A Day Streams",24/7 Resident Evil Movies
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-name="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="24 Hours A Day Streams",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-name="24/7 Sci-Fi Movies" tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24 Hours A Day Streams",24/7 Sci-Fi Movies
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-name="24/7 The Big Bang Theory" tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24 Hours A Day Streams",24/7 The Big Bang Theory
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-name="After School Cartoons" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="24 Hours A Day Streams",After School Cartoons
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac
+#EXTINF:-1 tvg-chno="10" tvg-name="Anime All Ages" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" group-title="24 Hours A Day Streams",Anime All Ages
+http://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac
+#EXTINF:-1 tvg-chno="11" tvg-name="Cats 24/7" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/599375885ceaac3cabccbed7/featuredImage.jpg" group-title="24 Hours A Day Streams",Cats 24/7
+http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac
+#EXTINF:-1 tvg-chno="12" tvg-name="Dora TV" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5d14fb6c84dd37df3b4290c5/featuredImage.jpg" group-title="24 Hours A Day Streams",Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/997452/playlist.m3u8?terminate=false&deviceId=c83eedcd-f4e4-4653-b455-f8cd60d4d52f&deviceVersion=79.0.3945.130&appVersion=5.0.1-308be7403c61c8b9a22474dfd29d14e05c5bb65b&deviceType=web&deviceMake=Chrome&sid=49b99cc
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ToAJpkl.png" group-title="TV25" ,TV25.4 Action
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Canada",TSN 1 (TT)
-plugin://script.module.tt/play/233/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjEnQm9.jpg" group-title="",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
@@ -20,13 +43,6 @@ https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",CPAC | English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="",► CHCH
-http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8
-
-# Update Link https://www.chch.com/live/ #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uAxLCSh.png" group-title="",CHCH (UPD)
-https://flowcaster1-cl.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w311537970_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTYwMDM4NjAzMyZpaW1hZTBVQzJhaGFzaD1pQ01xSkR3VUo2b1Noa05EM1I5WG9oc0pMUXVLN18wUFVxeGZLcmptQVJNPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="",cheknews(News live from 5-6 p.m. every day, as well as 6-7 p.m. and 10-10:30 p.m. Monday – Friday.)
 https://bcovlive-a.akamaihd.net/efd5f1dc3e5b4c3f8b04c3a8b0c5d672/us-west-2/5330942424001/profile_0/chunklist.m3u8
