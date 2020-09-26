@@ -1,28 +1,68 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PENTHOUSE
-http://66.northerniptv.ca:8000/live/george/george123/71118.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",PENTHOUSE
-http://66.northerniptv.ca:8000/tommy2/123456/71118?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HUSTLER HD
-http://66.northerniptv.ca:8000/tommy2/123456/302?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HUSTLER HD
-http://66.northerniptv.ca:8000/live/george/george123/302.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BTN HD
-http://ingrid.ltd:25461/Aida01/Aida01/6076?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz HD Movies
-http://ingrid.ltd:25461/Aida01/Aida01/22793?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MoreMax HD Movies
-http://ingrid.ltd:25461/Aida01/Aida01/22818?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Oxygen HD East
-http://ingrid.ltd:25461/Aida01/Aida01/3672?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Paramount Network HD
-http://ingrid.ltd:25461/Aida01/Aida01/19662?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",POP East
-http://ingrid.ltd:25461/Aida01/Aida01/5896?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",POP West
-http://ingrid.ltd:25461/Aida01/Aida01/42569?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
+http://randomserver.site:2086/riyad/riyad/95413?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/252?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
+http://randomserver.site:2086/riyad/riyad/252?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Food Network HD
+http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://randomserver.site:2086/riyad/riyad/66977?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://jimihendrix.icu:8080/zq1SZWvWNQ/1qIZ2Mrqjc/7833?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK+1 SD
+http://jimihendrix.icu:8080/zq1SZWvWNQ/1qIZ2Mrqjc/70724?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Good Food
+http://ingrid.ltd:25461/frank1/frank/42370?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION
+http://localdblagent.club:8080/1935/1935/1559?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION (WPPX) Philadelphia
+http://ingrid.ltd:25461/frank1/frank/86212?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION 31 (WPXN) NewYork
+http://ingrid.ltd:25461/frank1/frank/86426?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION TELEVISION
+http://randomserver.site:2086/riyad/riyad/1762?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Freeform West
+http://localdblagent.club:8080/1935/1935/1539?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",POP (West)
+http://ingrid.ltd:25461/frank1/frank/42569?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Familyzone (West)
+http://ingrid.ltd:25461/frank1/frank/42403?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Beyond (West)
+http://ingrid.ltd:25461/frank1/frank/42401?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SYFY West
+http://ingrid.ltd:25461/Aida01/Aida01/42563?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Undefined",STIRR Westerns,US | STIRR Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ WEST FHD 1080
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE WESTERNS FHD 1080
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64055?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ WEST
+http://randomserver.site:2086/riyad/riyad/2490?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Women West
+http://ingrid.ltd:25461/Aida01/Aida01/42407?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Cinema West
+http://ingrid.ltd:25461/Aida01/Aida01/42417?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Comedy West
+http://ingrid.ltd:25461/Aida01/Aida01/42419?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge West
+http://ingrid.ltd:25461/Aida01/Aida01/42421?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore (West)
+http://ingrid.ltd:25461/frank1/frank/42423?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (West)
+http://ingrid.ltd:25461/frank1/frank/42564?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Land (West)
+http://ingrid.ltd:25461/frank1/frank/42566?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WE TV
+http://randomserver.site:2086/riyad/riyad/95380?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WWE HD
+http://ingrid.ltd:25461/frank1/frank/3653?checkedby:iptvcat.com
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ToAJpkl.png" group-title="TV25" ,TV25.4 Action
@@ -729,6 +769,11 @@ http://live.redtraffic.xyz/bigtits.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 8"  group-title="xxx",RedTraffic 8
 http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="xxx",PENTHOUSE
+http://66.northerniptv.ca:8000/live/george/george123/71118.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="xxx",HUSTLER HD
+http://66.northerniptv.ca:8000/tommy2/123456/302?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="RETRO Music" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest/scale-to-width-down/250?cb=20100526164945" tvg-name="RETRO Music"  group-title="MUSIC",RETRO Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
