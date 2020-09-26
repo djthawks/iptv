@@ -1,50 +1,37 @@
 #EXTM3U
 
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
+http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX NEWS CHANNEL
-http://185.232.53.5:2086/wickeduk/etqyhww45e/252?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK
-http://jimihendrix.icu:8080/zq1SZWvWNQ/1qIZ2Mrqjc/7833?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK+1 SD
-http://jimihendrix.icu:8080/zq1SZWvWNQ/1qIZ2Mrqjc/70724?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Good Food
-http://ingrid.ltd:25461/frank1/frank/42370?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION
-http://localdblagent.club:8080/1935/1935/1559?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION 31 (WPXN) NewYork
-http://ingrid.ltd:25461/frank1/frank/86426?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION TELEVISION
-http://randomserver.site:2086/riyad/riyad/1762?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Freeform West
-http://localdblagent.club:8080/1935/1935/1539?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",POP (West)
-http://ingrid.ltd:25461/frank1/frank/42569?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Familyzone (West)
-http://ingrid.ltd:25461/frank1/frank/42403?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Beyond (West)
-http://ingrid.ltd:25461/frank1/frank/42401?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ION HD - NEW
+http://66.northerniptv.ca:8000/tommy2/123456/59033?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ION HD - NEW
+http://66.northerniptv.ca:8000/live/george/george123/59033.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOOD HD (USA)
+http://66.northerniptv.ca:8000/live/george/george123/80508.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Food Network,Food Network UK
+http://95.86.32.7:999/food?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Food Network Full HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/3336.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",SKY FOOD NETWORK
+http://66.northerniptv.ca:8000/live/george/george123/1788.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",*FOX NEWS HD
+http://66.northerniptv.ca:8000/tommy2/123456/363?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",*FOX NEWS HD
+http://66.northerniptv.ca:8000/live/george/george123/363.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Undefined",STIRR Westerns,US | STIRR Westerns
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ WEST FHD 1080
-http://185.232.53.5:2086/wickeduk/etqyhww45e/64048?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ ENCORE WESTERNS FHD 1080
-http://185.232.53.5:2086/wickeduk/etqyhww45e/64055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ WEST
-http://randomserver.site:2086/riyad/riyad/2490?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore (West)
-http://ingrid.ltd:25461/frank1/frank/42423?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT (West)
-http://ingrid.ltd:25461/frank1/frank/42564?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TV Land (West)
-http://ingrid.ltd:25461/frank1/frank/42566?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WE TV
-http://randomserver.site:2086/riyad/riyad/95380?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WWE HD
-http://ingrid.ltd:25461/frank1/frank/3653?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",BIG 10 HD
+http://66.northerniptv.ca:8000/tommy2/123456/3950?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",BIG 10 HD
+http://66.northerniptv.ca:8000/live/george/george123/3950.m3u8?checkedby:iptvcat.com
+
 
 
 
@@ -335,17 +322,9 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/13604?checkedby:iptvcat.com
 
 #EXTINF:-1,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
-#EXTINF:-1,fox56
-https://ott-stationselection.sinclairstoryline.com/stationStateTeaser?state=NE&station=fox56
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME 2
 http://185.232.53.5:2086/wickeduk/etqyhww45e/331?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
-http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WBRE-TV WILKES-BARRE (NBC)
-http://66.northerniptv.ca:8000/live/george/george123/82647.m3u8?checkedby:iptvcat.com
-
 
 #EXTINF:-1, tvg-id="247Retro.us" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24/7 Retro TV"  group-title="DAVE",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
@@ -403,21 +382,6 @@ http://51.52.156.22:8888/http/003
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBN NEWS"  group-title="NEWS",CBN NEWS
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",CBS
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="DAVE",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="CBS"  group-title="DAVE",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-name="CBS"  group-title="DAVE",CBS
-http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-id="CBS (WFOR) (Opt-1)" tvg-logo="https://i.imgur.com/pMhTxmf.png" tvg-name="CBS (WFOR) (Opt-1)"  group-title="DAVE",CBS (WFOR) (Opt-1)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1, tvg-id="CBS News (Opt-2)" tvg-logo="https://i.imgur.com/Qu9NAwe.png" tvg-name="CBS News (Opt-2)"  group-title="NEWS",CBS News (Opt-2)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
@@ -886,224 +850,224 @@ https://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WJW CLEVELAND (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WJW CLEVELAND (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65006?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WJZY CHARLOTTE (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WJZY CHARLOTTE (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64822.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WNYW NEW YORK CITY (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WNYW NEW YORK CITY (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65027?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WOFL ORLANDO (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WOFL ORLANDO (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64821.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WOGX GAINESVILLE (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WOGX GAINESVILLE (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64820?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WPGH-TV PITTSBURGH (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WPGH-TV PITTSBURGH (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/65047.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WRAZ MEMPHIS (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WRAZ MEMPHIS (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65021?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WSVN MIAMI (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WSVN MIAMI (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64803.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTTG WASHINGTON D.C. (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WTTG WASHINGTON D.C. (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64817?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTVT TAMPA BAY (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WTVT TAMPA BAY (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64816.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WTXF-TV PHILADELPHIA (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WTXF-TV PHILADELPHIA (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64815?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WUTV BUFFALO (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WUTV BUFFALO (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/65044?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WVUE-DT NEW ORLEANS (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WVUE-DT NEW ORLEANS (FOX)
 http://66.northerniptv.ca:8000/tommy2/123456/64814?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WXIN INDIANAPOLIS (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WXIN INDIANAPOLIS (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/65041.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",WXIX-TV CINCINNATI (FOX)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",WXIX-TV CINCINNATI (FOX)
 http://66.northerniptv.ca:8000/live/george/george123/64813.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Undefined",CBS
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="CBS",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
+#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="CBS",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CBS HD EAST
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",CBS HD EAST
 http://66.northerniptv.ca:8000/live/george/george123/8.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CBS HD WEST
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",CBS HD WEST
 http://66.northerniptv.ca:8000/tommy2/123456/304?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCBS-TV LOS ANGELES (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KCBS-TV LOS ANGELES (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64860?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCBS-TV LOS ANGELES (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KCBS-TV LOS ANGELES (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64860.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCCI DES MOINES (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KCCI DES MOINES (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82581.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCNC-TV DENVER (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KCNC-TV DENVER (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64859.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCOY-TV SANTA MARIA (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KCOY-TV SANTA MARIA (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82580.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KCTV KANSAS CITY (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KCTV KANSAS CITY (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64858.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KDBC-TV EL PASO (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KDBC-TV EL PASO (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82579.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KDKA-TV PITTSBURGH (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KDKA-TV PITTSBURGH (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/65048?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KELO-TV SIOUX FALLS (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KELO-TV SIOUX FALLS (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82578.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KEYE-TV AUSTIN (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KEYE-TV AUSTIN (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82577.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KFMB-TV SAN DIEGO (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KFMB-TV SAN DIEGO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64856?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KFVS-TV CAPE GIRARDEAU (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KFVS-TV CAPE GIRARDEAU (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82576.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGAN-TV CEDAR RAPIDS (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KGAN-TV CEDAR RAPIDS (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82575?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGBT-TV HARLINGEN (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KGBT-TV HARLINGEN (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82574.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGMB HONOLULU (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KGMB HONOLULU (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64947?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KGPE-TV FRESNO (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KGPE-TV FRESNO (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82573.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KHOU HOUSTON (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KHOU HOUSTON (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64855.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KIMA-TV YAKIMA (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KIMA-TV YAKIMA (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82572.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KION-TV MONTEREY (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KION-TV MONTEREY (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82571?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KIRO-TV SEATTLE (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KIRO-TV SEATTLE (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64854.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KKTV COLORADO SPRINGS (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KKTV COLORADO SPRINGS (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82570?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KLAS-TV LAS VEGAS (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KLAS-TV LAS VEGAS (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82569.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KLFY-TV LAFAYETTE (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KLFY-TV LAFAYETTE (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82568?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KMOV ST. LOUIS (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KMOV ST. LOUIS (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/65017?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KMTV-TV OMAHA (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KMTV-TV OMAHA (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64983?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOIN PORTLAND (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KOIN PORTLAND (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82567?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLD-TV TUCSON (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KOLD-TV TUCSON (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82566?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLN LINCOLN (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KOLN LINCOLN (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82565?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOLR SPRINGFIELD (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KOLR SPRINGFIELD (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82564?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOTV OKLAHOMA (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KOTV OKLAHOMA (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82563?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KOVR SACRAMENTO (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KOVR SACRAMENTO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64853?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KPHO-TV PHOENIX (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KPHO-TV PHOENIX (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64852?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KPIX SAN FRANCISCO (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KPIX SAN FRANCISCO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82562?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KREM SPOKANE (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KREM SPOKANE (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82561.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KSLA SHREVEPORT (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KSLA SHREVEPORT (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64993.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTHV LITTLE ROCK (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KTHV LITTLE ROCK (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64944?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTVN RENO (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KTVN RENO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64938?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",KTVT DALLAS (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KTVT DALLAS (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/64851.m3u8?checkedby:iptvcat.com
 
 
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRIENDS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-FRIENDS
 http://66.northerniptv.ca:8000/tommy2/123456/67818?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-21 JUMP STREET
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-21 JUMP STREET
 http://66.northerniptv.ca:8000/live/george/george123/67801.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-70'S SHOW
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-70'S SHOW
 http://66.northerniptv.ca:8000/live/george/george123/67794.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ALL IN THE FAMILY
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-ALL IN THE FAMILY
 http://66.northerniptv.ca:8000/live/george/george123/67799.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ANIMANIACS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-ANIMANIACS
 http://66.northerniptv.ca:8000/tommy2/123456/67832?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BATMAN
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-BATMAN
 http://66.northerniptv.ca:8000/tommy2/123456/67835?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEAVIS AND BUTTHEAD
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-BEAVIS AND BUTTHEAD
 http://66.northerniptv.ca:8000/tommy2/123456/67831?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLBILLIES
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-BEVERLY HILLBILLIES
 http://66.northerniptv.ca:8000/live/george/george123/67820.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEVERLY HILLS 90210
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-BEVERLY HILLS 90210
 http://66.northerniptv.ca:8000/live/george/george123/67821.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-BEWITCHED
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-BEWITCHED
 http://66.northerniptv.ca:8000/tommy2/123456/67810?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-CHEERS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-CHEERS
 http://66.northerniptv.ca:8000/tommy2/123456/67819?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DARK WING DUCK
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-DARK WING DUCK
 http://66.northerniptv.ca:8000/tommy2/123456/67830?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEADLIEST CATCH
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-DEADLIEST CATCH
 http://66.northerniptv.ca:8000/tommy2/123456/67798?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DEXTERS LABORATORY
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-DEXTERS LABORATORY
 http://66.northerniptv.ca:8000/tommy2/123456/67828?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DISNEY SHORTS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-DISNEY SHORTS
 http://66.northerniptv.ca:8000/tommy2/123456/67841?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DRAGON BALL Z (1)
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-DRAGON BALL Z (1)
 http://66.northerniptv.ca:8000/live/george/george123/67843.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUCK TALES
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-DUCK TALES
 http://66.northerniptv.ca:8000/live/george/george123/67829.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-DUKES OF HAZARD
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-DUKES OF HAZARD
 http://66.northerniptv.ca:8000/tommy2/123456/67826?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FAMILY MATTERS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-FAMILY MATTERS
 http://66.northerniptv.ca:8000/tommy2/123456/67808?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FAMILY TIES
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-FAMILY TIES
 http://66.northerniptv.ca:8000/tommy2/123456/67809?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRASIER
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-FRASIER
 http://66.northerniptv.ca:8000/live/george/george123/67796.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-FRESH PRINCE
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-FRESH PRINCE
 http://66.northerniptv.ca:8000/tommy2/123456/68271?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GET SMART
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-GET SMART
 http://66.northerniptv.ca:8000/tommy2/123456/67805?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GILLIGAN'S ISLAND
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-GILLIGAN'S ISLAND
 http://66.northerniptv.ca:8000/tommy2/123456/67793?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-GOLDEN GIRLS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-GOLDEN GIRLS
 http://66.northerniptv.ca:8000/tommy2/123456/67804?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HAPPY DAYS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-HAPPY DAYS
 http://66.northerniptv.ca:8000/tommy2/123456/67813?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-HOME IMPROVEMENT
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-HOME IMPROVEMENT
 http://66.northerniptv.ca:8000/live/george/george123/67823.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-I DREAM OF JEANNIE
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-I DREAM OF JEANNIE
 http://66.northerniptv.ca:8000/tommy2/123456/67817?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-I LOVE LUCY
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-I LOVE LUCY
 http://66.northerniptv.ca:8000/live/george/george123/67824.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-JEFFERSONS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-JEFFERSONS
 http://66.northerniptv.ca:8000/tommy2/123456/67822?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-KNIGHTRIDER
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-KNIGHTRIDER
 http://66.northerniptv.ca:8000/live/george/george123/67814.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MASH
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-MASH
 http://66.northerniptv.ca:8000/tommy2/123456/67811?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MELROSE PLACE
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-MELROSE PLACE
 http://66.northerniptv.ca:8000/tommy2/123456/67803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MORK AND MINDY
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-MORK AND MINDY
 http://66.northerniptv.ca:8000/tommy2/123456/67807?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-MURPHY BROWN
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-MURPHY BROWN
 http://66.northerniptv.ca:8000/tommy2/123456/67812?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-NIGHT COURT
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-NIGHT COURT
 http://66.northerniptv.ca:8000/live/george/george123/67825.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-PAW PATROL
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-PAW PATROL
 http://66.northerniptv.ca:8000/tommy2/123456/67849?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-POPEYE
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-POPEYE
 http://66.northerniptv.ca:8000/tommy2/123456/67838?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-ROCKY AND BULLWINKLE
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-ROCKY AND BULLWINKLE
 http://66.northerniptv.ca:8000/tommy2/123456/68270?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-RUGRATS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-RUGRATS
 http://66.northerniptv.ca:8000/tommy2/123456/67836?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SCOOBY DOO
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-SCOOBY DOO
 http://66.northerniptv.ca:8000/tommy2/123456/67847?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SCRUBS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-SCRUBS
 http://66.northerniptv.ca:8000/live/george/george123/67795.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SEINFELD
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-SEINFELD
 http://66.northerniptv.ca:8000/tommy2/123456/67816?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPIDERMAN
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-SPIDERMAN
 http://66.northerniptv.ca:8000/tommy2/123456/67839?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-SPONGEBOB
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-SPONGEBOB
 http://66.northerniptv.ca:8000/tommy2/123456/67842?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-STAND UP COMEDY
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-STAND UP COMEDY
 http://66.northerniptv.ca:8000/tommy2/123456/67797?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE JETSONS
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-THE JETSONS
 http://66.northerniptv.ca:8000/tommy2/123456/67833?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-THE SIX MILLION DOLLAR MAN
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-THE SIX MILLION DOLLAR MAN
 http://66.northerniptv.ca:8000/tommy2/123456/72961?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WKRP
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-WKRP
 http://66.northerniptv.ca:8000/tommy2/123456/72962?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",247-WONDER WOMAN
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="24/7",247-WONDER WOMAN
 http://66.northerniptv.ca:8000/tommy2/123456/72960?checkedby:iptvcat.com
 
