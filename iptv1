@@ -7,9 +7,9 @@ http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="USA" tvg-logo="" group-title="Undefined",ION TELEVISION
+#EXTINF:0 tvg-id="ION.us" tvg-logo="" group-title="Undefined",ION TELEVISION
 http://66.northerniptv.ca:8000/tommy2/123456/59033?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="USA" tvg-logo="" group-title="Undefined",ION TELEVISION
+#EXTINF:0 tvg-id="ION.us" tvg-logo="" group-title="Undefined",ION TELEVISION
 http://66.northerniptv.ca:8000/live/george/george123/59033.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="USA" tvg-logo="" group-title="Undefined",FOOD HD (USA)
 http://66.northerniptv.ca:8000/live/george/george123/80508.m3u8?checkedby:iptvcat.com
@@ -859,19 +859,19 @@ http://66.northerniptv.ca:8000/live/george/george123/82580.m3u8?checkedby:iptvca
 http://66.northerniptv.ca:8000/live/george/george123/64858.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KDBC-TV EL PASO (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82579.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KDKA-TV PITTSBURGH (CBS)
+#EXTINF:0 tvg-id="KDKA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",KDKA-TV PITTSBURGH (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/65048?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KELO-TV SIOUX FALLS (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",KELO-TV SIOUX FALLS (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82578.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KEYE-TV AUSTIN (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",KEYE-TV AUSTIN (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82577.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KFMB-TV SAN DIEGO (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",KFMB-TV SAN DIEGO (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64856?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KFVS-TV CAPE GIRARDEAU (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",KFVS-TV CAPE GIRARDEAU (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82576.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KGAN-TV CEDAR RAPIDS (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",KGAN-TV CEDAR RAPIDS (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/82575?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KGBT-TV HARLINGEN (CBS)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",KGBT-TV HARLINGEN (CBS)
 http://66.northerniptv.ca:8000/live/george/george123/82574.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CBS",KGMB HONOLULU (CBS)
 http://66.northerniptv.ca:8000/tommy2/123456/64947?checkedby:iptvcat.com
