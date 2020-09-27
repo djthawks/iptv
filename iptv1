@@ -386,9 +386,6 @@ http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 #EXTINF:-1, tvg-id="DW" tvg-logo="Logo N/A" tvg-name="DW"  group-title="DAVE",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Edge Sports"  group-title="SPORT",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-
 #EXTINF:-1, tvg-id="ET LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" tvg-name="ET LIVE"  group-title="DAVE",ET LIVE
 http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
 
@@ -548,9 +545,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NBC 6 Miami FL (WTVJ)"  group-title="DAVE",NBC 6 Miami FL (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-
-#EXTINF:-1, tvg-id="NBC GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/220px-Golf_Channel_Logo_2018.png" tvg-name="NBC GOLF"  group-title="SPORT",NBC GOLF
-http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
 #EXTINF:-1, tvg-id="NBC Sports Northwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/NBC_Sports_Northwest.png/250px-NBC_Sports_Northwest.png" tvg-name="NBC Sports Northwest"  group-title="SPORT",NBC Sports Northwest
 http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
@@ -755,17 +749,11 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-1, tvg-id="Tim and Eric (Geo)" tvg-logo="http://channelpear.com/images/media/4874.png" tvg-name="Tim and Eric (Geo)"  group-title="24/7",Tim and Eric (Geo)
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Titanic TV"  group-title="DAVE",Titanic TV
-https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TMZ"  group-title="DAVE",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TSTV"  group-title="DAVE",TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TVG 28"  group-title="DAVE",TVG 28
-http://190.80.3.28/TVG/TVG.isml/index.m3u8
 
 #EXTINF:-1, tvg-id="US | A&E" tvg-logo="https://i.imgur.com/zl7Gzwm.png" tvg-name="US | A&E"  group-title="DAVE",US | A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
@@ -781,9 +769,6 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1, tvg-id="Weather Nation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/WeatherNation_logo.png/225px-WeatherNation_logo.png" tvg-name="Weather Nation"  group-title="WEATHER",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="WFTV 9"  group-title="DAVE",WFTV 9
-https://svc-lv-cxtv-wftv.cmgvideo.com/out/u/WFTVN1.m3u8
 
 #EXTINF:-1, tvg-id="Williams Stream (Geo)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" tvg-name="Williams Stream (Geo)"  group-title="24/7",Williams Stream (Geo)
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
@@ -1035,16 +1020,10 @@ https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 
 
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL NETWORK
-http://randomserver.site:2086/riyad/riyad/3402?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network HD (R)
 http://ingrid.ltd:25461/frank1/frank/67254?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network HD R
-http://ingrid.ltd:25461/Aida01/Aida01/67254?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",POPCORNFLIX ACTION
-http://randomserver.site:2086/riyad/riyad/98341?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",NFL CHANNEL
-http://randomserver.site:2086/riyad/riyad/98490?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*NFL NETWORK HD
 http://66.northerniptv.ca:8000/tommy2/123456/157?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*NFL NETWORK HD
@@ -1055,26 +1034,16 @@ http://66.northerniptv.ca:8000/movie/george/george123/49194.m3u8?checkedby:iptvc
 http://66.northerniptv.ca:8000/movie/tommy2/123456/49194.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL FILMS PRESENT (24X7)
 http://66.northerniptv.ca:8000/tommy2/123456/82794?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL FILMS PRESENT (24X7)
-http://66.northerniptv.ca:8000/live/george/george123/82794.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL MIC'D UP (24X7)
-http://66.northerniptv.ca:8000/tommy2/123456/82793?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL MIC'D UP (24X7)
 http://66.northerniptv.ca:8000/live/george/george123/82793.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL SUPERBOWL (24X7)
-http://66.northerniptv.ca:8000/tommy2/123456/82792?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL SUPERBOWL (24X7)
-http://66.northerniptv.ca:8000/live/george/george123/82792.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL THROWBACK (24X7)
 http://66.northerniptv.ca:8000/live/george/george123/82791.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL THROWBACK (24X7)
-http://66.northerniptv.ca:8000/tommy2/123456/82791?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL TOP 10 (24X7)
-http://66.northerniptv.ca:8000/live/george/george123/82790.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL TOP 10 (24X7)
 http://66.northerniptv.ca:8000/tommy2/123456/82790?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL TOP 100 GOAT (24X7)
-http://66.northerniptv.ca:8000/live/george/george123/82789.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NFL TOP 100 GOAT (24X7)
 http://66.northerniptv.ca:8000/tommy2/123456/82789?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NFL
