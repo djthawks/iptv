@@ -274,6 +274,43 @@ http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/62.m3u8?checkedby:iptvca
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
 http://185.232.53.5:2086/wickeduk/etqyhww45e/13604?checkedby:iptvcat.com
 
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",WE TV
+http://randomserver.site:2086/riyad/riyad/66611?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TNT SERIES
+http://randomserver.site:2086/riyad/riyad/92484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SYFY
+http://randomserver.site:2086/riyad/riyad/92514?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TBS
+http://randomserver.site:2086/riyad/riyad/92513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TNT
+http://randomserver.site:2086/riyad/riyad/92485?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",LIFETIME
+http://randomserver.site:2086/riyad/riyad/92563?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX FAMILY
+http://randomserver.site:2086/riyad/riyad/98785?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX MOVIES
+http://randomserver.site:2086/riyad/riyad/92586?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX SERIES
+http://randomserver.site:2086/riyad/riyad/92585?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FX
+http://randomserver.site:2086/riyad/riyad/98786?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FXM
+http://randomserver.site:2086/riyad/riyad/98787?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",E!
+http://randomserver.site:2086/riyad/riyad/98779?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN
+http://randomserver.site:2086/riyad/riyad/98780?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN 2
+http://randomserver.site:2086/riyad/riyad/98781?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN 3
+http://randomserver.site:2086/riyad/riyad/98782?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://randomserver.site:2086/riyad/riyad/98783?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX ACTION
+http://randomserver.site:2086/riyad/riyad/92591?checkedby:iptvcat.com
+
+
 #EXTINF:-1,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
 
