@@ -10,26 +10,9 @@ http://localdblagent.club:8080/live/Carlos1/Carlos1/14288.m3u8?checkedby:iptvcat
 http://localdblagent.club:8080/live/Carlos1/Carlos1/14293.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/220px-NBC_logo_%282013%29.svg.png" group-title="NBC",WBRE-TV WILKES-BARRE (NBC)
-http://66.northerniptv.ca:8000/tommy2/123456/82647?checkedby:iptvcat.com
-
-#EXTINF:-1, tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-name="DAVE"  group-title="CBS",CBS
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-name="ION.us" tvg-logo="" group-title="Undefined",ION TELEVISION
-http://66.northerniptv.ca:8000/tommy2/123456/59033?checkedby:iptvcat.com
-#EXTINF:0 tvg-name="ION.us" tvg-logo="" group-title="Undefined",ION TELEVISION
-http://66.northerniptv.ca:8000/live/george/george123/59033.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="USA" tvg-logo="" group-title="Undefined",FOOD HD (USA)
-http://66.northerniptv.ca:8000/live/george/george123/80508.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",*FOX NEWS HD
-http://66.northerniptv.ca:8000/tommy2/123456/363?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",BIG 10 HD
-http://66.northerniptv.ca:8000/tommy2/123456/3950?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22867/humor-mill/logo_20200819_235207_68.png" group-title="DistroTV",Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
