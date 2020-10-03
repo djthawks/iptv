@@ -3,6 +3,150 @@
 #EXTINF:-1 radio="false" tvg-logo="https://pbs.twimg.com/profile_images/1143295084/Logo_Radio_90_-_kwadrat-gradient-400p.png" group-title="Radio - World",Radio90.pl [Opt-1]
 http://188.137.110.167:8000/radio90_128kbps_stereo.mp3
 
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/SPECIALBANNERS_APP_WEB/chacha_NEW.png" group-title="- DASH RADIO",Island of Chacha
+https://ice55.securenetsystems.net/DASH95
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FIREWORKS/fireworks_324.png" group-title="- DASH RADIO",Fireworks
+https://ice55.securenetsystems.net/DASH67
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/YOUNGMONEY%20/YM_324.png" group-title="- DASH RADIO",Young Money
+https://ice55.securenetsystems.net/DASH82
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/CadilaccMusic.png" group-title="- DASH RADIO",Cadillacc Music
+https://ice55.securenetsystems.net/DASH16
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/1AM/NEW1AM/1am_320.png" group-title="- DASH RADIO",1 AM Radio
+https://ice55.securenetsystems.net/DASH75
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/FUEGO/fuego_324.png" group-title="- DASH RADIO",Fuego
+https://ice55.securenetsystems.net/DASH48
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Y2K.png" group-title="- DASH RADIO",Y2K
+https://ice55.securenetsystems.net/DASH19
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/XXL.png" group-title="- DASH RADIO",XXL
+https://ice55.securenetsystems.net/DASH14
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="- DASH RADIO",Electro City
+https://ice55.securenetsystems.net/DASH9
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheShaneShow.png" group-title="- DASH RADIO",The Shane Show
+https://ice55.securenetsystems.net/DASH52
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASH1/STATION/DASH1_COLOR_NEWNEW.png" group-title="- DASH RADIO",Dash 1
+https://ice55.securenetsystems.net/DASH38
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Moonlight.png" group-title="- DASH RADIO",Moonlight
+https://ice55.securenetsystems.net/DASH3
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/iphone6plus/BackyardBBQColored.png" group-title="- DASH RADIO",Backyard BBQ
+https://ice55.securenetsystems.net/DASH53
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHHITS/hits_324.png" group-title="- DASH RADIO",Dash Hits
+https://ice55.securenetsystems.net/DASH17
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHTALK/talkc_324.png" group-title="- DASH RADIO",Dash Talk
+https://ice55.securenetsystems.net/DASH50
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/90s.png" group-title="- DASH RADIO",90's
+https://ice55.securenetsystems.net/DASH1
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/PureSoul.png" group-title="- DASH RADIO",Pure Soul Powered By Isaac Hayes
+https://ice55.securenetsystems.net/DASH36
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/DOGGYSTYLE/doggystyle_324.png" group-title="- DASH RADIO",Doggystyle
+https://ice55.securenetsystems.net/DASH78
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Subdustrial.png" group-title="- DASH RADIO",Subdustrial
+https://ice55.securenetsystems.net/DASH25
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/iphone6plus/SKKENET/SKEENET-Color.png" group-title="- DASH RADIO",SKEENET
+https://ice55.securenetsystems.net/DASH74
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/WhatTheFunk.png" group-title="- DASH RADIO",What The Funk
+https://ice55.securenetsystems.net/DASH22
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/80s.png" group-title="- DASH RADIO",80's
+https://ice55.securenetsystems.net/DASH7
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/LaIsla.png" group-title="- DASH RADIO",La Isla
+https://ice55.securenetsystems.net/DASH10
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Euphoria.png" group-title="- DASH RADIO",Euphoria
+https://ice55.securenetsystems.net/DASH55
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/1580.png" group-title="- DASH RADIO",1580
+https://ice55.securenetsystems.net/DASH11
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/LA_PODEROSA/poderosa_324new.png" group-title="- DASH RADIO",La Poderosa
+https://ice55.securenetsystems.net/DASH43
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/70s.png" group-title="- DASH RADIO",70's
+https://ice55.securenetsystems.net/DASH26
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/IndependentGrind.png" group-title="- DASH RADIO",Independent Grind
+https://ice55.securenetsystems.net/DASH8
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/OddFutureRadio.png" group-title="- DASH RADIO",Odd Future Radio
+https://ice55.securenetsystems.net/DASH56
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/MonsterCat.png" group-title="- DASH RADIO",Monstercat
+https://ice55.securenetsystems.net/DASH63
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/IMPERIO/imperio_324.png" group-title="- DASH RADIO",Imperio
+https://ice55.securenetsystems.net/DASH27
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Discover.png" group-title="- DASH RADIO",Discover
+https://ice55.securenetsystems.net/DASH46
+#EXTINF:0 radio="false" tvg-logo="http://tinyurl.com/yag5uhnq" group-title="- DASH RADIO",Bump & Grind
+https://ice55.securenetsystems.net/DASH39
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Rinse.png" group-title="- DASH RADIO",Rinse FM
+https://ice55.securenetsystems.net/DASH70
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/iCRAFT/icraft_324.png" group-title="- DASH RADIO",iCraft Radio Powered By T-Boz
+https://ice55.securenetsystems.net/DASH54
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/BeatJunkieRadio.png" group-title="- DASH RADIO",Beat Junkie Radio
+https://ice55.securenetsystems.net/DASH51
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheOldies.png" group-title="- DASH RADIO",The Oldies
+https://ice55.securenetsystems.net/DASH34
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/CANNABIS_TALK/canna_324.png" group-title="- DASH RADIO",Cannabis Talk 101
+https://ice55.securenetsystems.net/DASH62
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/NativeRhymes.png" group-title="- DASH RADIO",Native Rhymes
+https://ice55.securenetsystems.net/DASH18
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/BREALTVColor.png" group-title="- DASH RADIO",BREALTV
+https://ice55.securenetsystems.net/DASH60
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/DiscoFever.png" group-title="- DASH RADIO",Disco Fever
+https://ice55.securenetsystems.net/DASH4
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheCity.png" group-title="- DASH RADIO",The City
+https://ice55.securenetsystems.net/DASH2
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/SWING/Swing-Color.png" group-title="- DASH RADIO",Swing
+https://ice55.securenetsystems.net/DASH80
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="- DASH RADIO",Ratpack
+https://ice55.securenetsystems.net/DASH5
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheCut.png" group-title="- DASH RADIO",The Cut
+https://ice55.securenetsystems.net/DASH41
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/1234WorldColor.png" group-title="- DASH RADIO",1234 World
+https://ice55.securenetsystems.net/DASH57
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/WATTHEFRICK/frick_324.png" group-title="- DASH RADIO",Wat The Frick Radio
+https://ice55.securenetsystems.net/DASH76
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Loud.png" group-title="- DASH RADIO",LOUD
+https://ice55.securenetsystems.net/DASH15
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/BUYGORE/new_BG_324.png" group-title="- DASH RADIO",Buygore Radio
+https://ice55.securenetsystems.net/DASH30
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/OVERDRIVE/overdrive_test.png" group-title="- DASH RADIO",Overdrive
+https://ice55.securenetsystems.net/DASH73
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/POPUPS/DVR/vinyl_324_.png" group-title="- DASH RADIO",Delicious Vinyl Radio
+https://ice55.securenetsystems.net/DASH71
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/ALMIGHTYBALLERS/baller_324.png" group-title="- DASH RADIO",Almighty Baller Radio
+https://ice55.securenetsystems.net/DASH96
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/VENTURER/vent_324.png" group-title="- DASH RADIO",Venturer
+https://ice55.securenetsystems.net/DASH23
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="- DASH RADIO",Cool
+https://ice55.securenetsystems.net/DASH6
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/QC/qc_324_new.png" group-title="- DASH RADIO",Quality Control
+https://ice55.securenetsystems.net/DASH40
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/IslandBlock.png" group-title="- DASH RADIO",Island Block
+https://ice55.securenetsystems.net/DASH64
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/BLUESPOT/blue_324.png" group-title="- DASH RADIO",The Blue Spot
+https://ice55.securenetsystems.net/DASH83
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/LosAnarchy.png" group-title="- DASH RADIO",Los Anarchy
+https://ice55.securenetsystems.net/DASH72
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Concerto.png" group-title="- DASH RADIO",Concerto
+https://ice55.securenetsystems.net/DASH33
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/ALTERNATIVE/ALT_324.png" group-title="- DASH RADIO",Dash Alternative
+https://ice55.securenetsystems.net/DASH12
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/RedCup.png" group-title="- DASH RADIO",Red Cup
+https://ice55.securenetsystems.net/DASH35
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/YG.png" group-title="- DASH RADIO",YG Presents
+https://ice55.securenetsystems.net/DASH28
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheBridge.png" group-title="- DASH RADIO",The Bridge
+https://ice55.securenetsystems.net/DASH44
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/ReggaeKing.png" group-title="- DASH RADIO",Reggae King
+https://ice55.securenetsystems.net/DASH79
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheRanch.png" group-title="- DASH RADIO",The Ranch
+https://ice55.securenetsystems.net/DASH13
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheCross2016Color.png" group-title="- DASH RADIO",The Cross
+https://ice55.securenetsystems.net/DASH42
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/DashIndie.png" group-title="- DASH RADIO",Dash Indie
+https://ice55.securenetsystems.net/DASH32
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/ParadiseCity.png" group-title="- DASH RADIO",Paradise City
+https://ice55.securenetsystems.net/DASH20
+#EXTINF:0 radio="false" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/CHURCHOFROCK/churchR_324.png" group-title="- DASH RADIO",Church of Rock & Roll
+https://ice55.securenetsystems.net/DASH21
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png" group-title="- DASH RADIO",The Strip
+https://ice55.securenetsystems.net/DASH24
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cinescore.png" group-title="- DASH RADIO",Cinescore
+https://ice55.securenetsystems.net/DASH29
+#EXTINF:0 radio="false" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Love.png" group-title="- DASH RADIO",Love Songs
+https://ice55.securenetsystems.net/DASH66
 
 
  
