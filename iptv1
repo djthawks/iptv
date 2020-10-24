@@ -1,5 +1,27 @@
 #EXTM3U
 
+#EXTINF:-1,USA NETWORK 
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Usa/46b2ff6f8d02c1a.m3u8|User-Agent=stream
+#EXTINF:-1,SYFY
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Usa/b7cc1717a64939f.m3u8|User-Agent=stream
+#EXTINF:-1,ABC
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Usa/4aa9833b28d0350.m3u8|User-Agent=stream
+#EXTINF:-1,AMC USA
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Usa/f49f4fd9037dff1.m3u8|User-Agent=stream
+#EXTINF:-1,HBO ZONE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Usa/fae9e08f9b70ca9.m3u8|User-Agent=stream
+#EXTINF:-1,HBO SINGNATURE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Usa/84abd730abada6f.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNwp4df.png" group-title="",&Prive
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPQkvtO.jpg" group-title="",24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
 
