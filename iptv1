@@ -884,26 +884,15 @@ http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MOVIES",Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/320.png",US Box Office 1
-http://vvn.neoredi.com/iptv/ch320?code=113141163091679&key=42325
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/321.png",US Box Office 2
-http://vvn.neoredi.com/iptv/ch321?code=113141163091679&key=55970
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/322.png",US Box Office 3
-http://vvn.neoredi.com/iptv/ch322?code=113141163091679&key=24888
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/323.png",US Box Office 4
-http://vvn.neoredi.com/iptv/ch323?code=113141163091679&key=44435
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/324.png",US Box Office 5
-http://vvn.neoredi.com/iptv/ch324?code=113141163091679&key=28529
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/325.png",US Box Office 6
-http://vvn.neoredi.com/iptv/ch325?code=113141163091679&key=24063
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/326.png",US Box Office 7
-http://vvn.neoredi.com/iptv/ch326?code=113141163091679&key=14403
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/327.png",US Box Office 8
-http://vvn.neoredi.com/iptv/ch327?code=113141163091679&key=21282
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/328.png",US Box Office 9
-http://vvn.neoredi.com/iptv/ch328?code=113141163091679&key=56621
-#EXTINF:0 group-title="US Box Office"tvg-logo="http://logo.ddnb.tn/logochanel/329.png",US Box Office 10
-http://vvn.neoredi.com/iptv/ch329?code=113141163091679&key=64586
+#EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/WPHL_2018_logo.png" tvg-country="US" group-title="English",My TV (WPHL)
+https://v-pi.mybtv.net/event/17.1/1280x720?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2046&env=prd&uid=29375
+
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/GylvfMQ.png" tvg-country="IN" group-title="English",Star Movies HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+
+#EXTINF:0 channel-id="11" radio="false" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-chno="11" tvg-country="UN" group-title="Entertainment",24 Box TV
+http://51.158.190.97/hls/stream.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
