@@ -1,56 +1,7 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Montgomery CBS 8 (WAKA)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/14033.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",Denver CBS 4 (KCNC)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/14083.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GA" tvg-logo="" group-title="Undefined",Atlanta CBS 46 (WGCL)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/14127.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PA" tvg-logo="" group-title="Undefined",Pittsburgh CBS 2 (KDKA)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/14293.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",EPIX
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/107?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",EPIX 2
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/159?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",EPIX Hits
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/30?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food Network
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Freeform
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/103?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX HD
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/63?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXM
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/192?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/103?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/51?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/119?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/110?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/44?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/82?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",IFC
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/186?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION TV
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/49?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Extreme
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/28?checkedby:iptvcat.com
-
-
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PA" tvg-logo="" group-title="Undefined",Philadelphia CBS 3 (KYW)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/14288.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PA" tvg-logo="" group-title="Undefined",Pittsburgh CBS 2 (KDKA)
-http://localdblagent.club:8080/live/Carlos1/Carlos1/14293.m3u8?checkedby:iptvcat.com
-
-
 
 
 
