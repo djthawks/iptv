@@ -868,11 +868,6 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-logo= "https://ae.heytv.org/wp-content/uploads/2019/03/MBC_MAX-1.jpg" group-title="MOVIES",MBC MAX
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 
-#EXTINF:-1 tvg-logo= "https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title=", HBO
-http://136.243.177.164/HBO/playlist.m3u8
-
-#EXTINF:-1 tvg-logo= "https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title=", HBO China
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="MOVIES", Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
@@ -889,17 +884,7 @@ http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MOVIES",Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="MOVIES",Comedy Central US
-https://e10.cdn4.us/ingest666/cc/c.m3u8
 
-#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="MOVIES",Comedy Central Asia
-https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
-
-#EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="MOVIES",ABC ME
-https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-
-#EXTINF:-1 tvg-id="HAL.US" tvg-logo="https://static.epg.best/us/Hallmark.us.png" group-title="MOVIES",Hallmark Channel
-http://live.highstream.club/live/Hallmark/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
@@ -913,8 +898,4 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES" ,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="MOVIES",Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
