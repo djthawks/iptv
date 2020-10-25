@@ -23,7 +23,7 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 
 
-#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",AMC
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",ABC
 https://f2.ustvgo.org/ABC/myStream/chunks.m3u8?nimblesessionid=7453457&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxMjozNToxMyBBTSZoYXNoX3ZhbHVlPXAySncrWEE4UjFCZElJcHVjVTYzYlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Big 10
@@ -34,6 +34,21 @@ https://peer1.ustv24h.live/AMC/myStream/chunks.m3u8?nimblesessionid=52260070&wms
 
 #EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Animal Planet
 https://peer7.ustv24h.live/Animal/myStream/chunks.m3u8?nimblesessionid=48011863&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjAxOjQ4IEFNJmhhc2hfdmFsdWU9NGZVNEZldWtlQU5sQThOVUxQS1YwUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",BBC America
+https://peer3.ustv24h.live/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=53434044&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjA4OjM5IEFNJmhhc2hfdmFsdWU9UmJUcE5vdms3aEQ2MUJrdzNlV1lhdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Boomerang
+https://peer1.ustv24h.live/Boomerang/myStream/chunks.m3u8?nimblesessionid=52262873&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjExOjAyIEFNJmhhc2hfdmFsdWU9a0t5VnBSMHRZejQ5RTdlcytmZC9Wdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Bravo
+https://peer1.ustv24h.live/Boomerang/myStream/chunks.m3u8?nimblesessionid=52262873&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjExOjAyIEFNJmhhc2hfdmFsdWU9a0t5VnBSMHRZejQ5RTdlcytmZC9Wdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",CBS
+https://peer6.ustv24h.live/CBS/myStream/chunks.m3u8?nimblesessionid=47203709&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjEzOjM4IEFNJmhhc2hfdmFsdWU9SDdsdXNXUmp4VDl1Vi96Znd0R0tlUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",CBS Sports Network
+https://f2.ustvgo.org/CBSSN/myStream/chunks.m3u8?nimblesessionid=7465873&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjE0OjU4IEFNJmhhc2hfdmFsdWU9OXlwNFdCREpHamlSZEdKZmMwMUpGZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► GSN CANADA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/93566ebf3202511.m3u8|User-Agent=stream
