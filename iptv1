@@ -113,9 +113,70 @@ https://f1.ustvgo.org/FoxNews/myStream/chunks.m3u8?nimblesessionid=7737143&wmsAu
 #EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Freeform
 https://f4.ustvgo.org/Freeform/myStream/chunks.m3u8?nimblesessionid=7381316&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjA5OjU4IEFNJmhhc2hfdmFsdWU9QlRiUkNVZzFCVGcrdFNXSlJtbGVVQT09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FS@
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FS2
 https://f3.ustvgo.org/FS2/myStream/chunks.m3u8?nimblesessionid=7461358&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjEyOjQ0IEFNJmhhc2hfdmFsdWU9M1pEZklSZzZuTzBWKzg2TEJ0aWU5dz09JnZhbGlkbWludXRlcz0yNDA=
 
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FX
+https://peer2.ustv24h.live/FX/myStream/chunks.m3u8?nimblesessionid=50303674&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjE5OjA4IEFNJmhhc2hfdmFsdWU9dHZkN0hkeTJBTk1SZDg4cVBWbVR4Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FXM
+https://f4.ustvgo.org/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjIwOjA3IEFNJmhhc2hfdmFsdWU9ajZsb29ZSU1VRHpONjl0QkhGenBGUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FXX
+https://peer6.ustv24h.live/FXX/myStream/chunks.m3u8?nimblesessionid=47223957&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjIxOjI3IEFNJmhhc2hfdmFsdWU9RnQ4ZEJLbm5qanYxcG4zdlJIaGFlZz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",GSN
+https://peer2.ustv24h.live/GSN/myStream/chunks.m3u8?nimblesessionid=50304448&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjIzOjAwIEFNJmhhc2hfdmFsdWU9TDAwUytPL3Z0N2x4ek9sS3dkNUNTUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Hallmark
+https://f2.ustvgo.org/Hallmark/myStream/chunks.m3u8?nimblesessionid=7487418&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjI0OjE4IEFNJmhhc2hfdmFsdWU9alg3MVZSOVk1VU15eElRQnlYaUxQdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",HGTV
+https://f3.ustvgo.org/HGTV/myStream/chunks.m3u8?nimblesessionid=7464931&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjI2OjEzIEFNJmhhc2hfdmFsdWU9ZE45bUE0VjJTQU91SWJGV3JkS2JKZz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",HLN
+https://peer1.ustv24h.live/HLN/myStream/chunks.m3u8?nimblesessionid=52287213&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjI3OjQzIEFNJmhhc2hfdmFsdWU9QXd4akFQS2tJbUtDUW9pcG1CVi9vQT09JnZhbGlkbWludXRlcz0yNDA=https://peer1.ustv24h.live/HLN/myStream/chunks.m3u8?nimblesessionid=52287213&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjI3OjQzIEFNJmhhc2hfdmFsdWU9QXd4akFQS2tJbUtDUW9pcG1CVi9vQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Hallmark Movies & Mysteries
+https://f2.ustvgo.org/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjI5OjAxIEFNJmhhc2hfdmFsdWU9Q2hDNjdBcWk5a1RHOFRHdFZpSnF1QT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Investigation Discovery
+https://peer1.ustv24h.live/ID/myStream/chunks.m3u8?nimblesessionid=52289386&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjMxOjE4IEFNJmhhc2hfdmFsdWU9aXhDZENvRXd0YmV3WW5sSWVvTCtOQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Lifetime
+https://f3.ustvgo.org/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjMzOjQyIEFNJmhhc2hfdmFsdWU9QmFEdHEvcGtqekRlWTBSVmwyWEEzZz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Lifetime Movies
+https://peer7.ustv24h.live/LifetimeM/myStream/chunks.m3u8?nimblesessionid=48036995&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjM0OjM4IEFNJmhhc2hfdmFsdWU9Z1NGTGZRREFBUXo1QWQ4NTc1bkhVUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",MLB
+https://f2.ustvgo.org/MLB/myStream/chunks.m3u8?nimblesessionid=7491441&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjM1OjUyIEFNJmhhc2hfdmFsdWU9SElHdEdNdkc5cCsvZG45Qko5bjJrQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Motor Trend
+https://peer6.ustv24h.live/MotorTrend/myStream/chunks.m3u8?nimblesessionid=47227936&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjM4OjA2IEFNJmhhc2hfdmFsdWU9cXBLMlJIa3k0RDR5VnVCUTU0aGYwdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",MSNBC
+https://f4.ustvgo.org/MSNBC/myStream/chunks.m3u8?nimblesessionid=7388187&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjM5OjA0IEFNJmhhc2hfdmFsdWU9NkxUWFdOQ212NUlIajVqYlRrM1NEdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",NAT GEO WILD
+https://f1.ustvgo.org/NatGEOWild/myStream/chunks.m3u8?nimblesessionid=7747965&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjQxOjA1IEFNJmhhc2hfdmFsdWU9SUZlWHpuR1lkTUV2UGxpYldVcU9mZz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",NBC
+https://f3.ustvgo.org/NBC/myStream/chunks.m3u8?nimblesessionid=7470034&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjQzOjM0IEFNJmhhc2hfdmFsdWU9eFYveWQyNHdPUTdVcXp6clloK2J0UT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",NBC Sports
+https://f2.ustvgo.org/NBCSN/myStream/chunks.m3u8?nimblesessionid=7493669&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjQ0OjU0IEFNJmhhc2hfdmFsdWU9S2ZyZytvZWxkQmt6c1lxSWVoR0lSdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",NFL Network
+https://peer5.ustv24h.live/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjQ2OjEwIEFNJmhhc2hfdmFsdWU9S1FkSDZjVGV4Sko1YWNNd3NNS1FHQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",NFL Redzone
+https://peer6.ustv24h.live/NFLRZ/myStream/chunks.m3u8?nimblesessionid=47230841&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjQ3OjIxIEFNJmhhc2hfdmFsdWU9NjlwcGVpOWwrQTlCUUdDMlhJeEFMdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Nickelodeon
+https://f3.ustvgo.org/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=7471140&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjQ4OjM5IEFNJmhhc2hfdmFsdWU9eEl2S1gvYzRwYVpXQldEZkVtdlMyQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FS2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► GSN CANADA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/93566ebf3202511.m3u8|User-Agent=stream
