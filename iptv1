@@ -54,7 +54,7 @@ https://f2.ustvgo.org/CBSSN/myStream/chunks.m3u8?nimblesessionid=7465873&wmsAuth
 https://f5.ustvgo.org/Cinemax/myStream/chunks.m3u8?nimblesessionid=7520807&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjIyOjQ0IEFNJmhhc2hfdmFsdWU9U3dkTjFsenVuSnhQdXdhVDRxSU1qUT09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",CMT
-https://f5.ustvgo.org/Cinemax/myStream/chunks.m3u8?nimblesessionid=7520807&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjIyOjQ0IEFNJmhhc2hfdmFsdWU9U3dkTjFsenVuSnhQdXdhVDRxSU1qUT09JnZhbGlkbWludXRlcz0yNDA=
+https://f5.ustvgo.org/CMT/myStream/chunks.m3u8?nimblesessionid=7530834&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjU0OjQxIEFNJmhhc2hfdmFsdWU9a2pocWNZWFphTWp1dDMrdkk4RVR6dz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Cartoon Network
 https://f1.ustvgo.org/CN/myStream/chunks.m3u8?nimblesessionid=7722959&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjI4OjA4IEFNJmhhc2hfdmFsdWU9M1dMaHkvQU12OFBrYVFKK2F4U2M0dz09JnZhbGlkbWludXRlcz0yNDA=
@@ -86,6 +86,35 @@ https://peer6.ustv24h.live/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",DIY
 https://f3.ustvgo.org/DIY/myStream/chunks.m3u8?nimblesessionid=7454850&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjQ4OjU4IEFNJmhhc2hfdmFsdWU9ZHNMaVdSUzM3ZG9uTDVCWklVWWtudz09JnZhbGlkbWludXRlcz0yNDA=
 
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",E!
+https://f4.ustvgo.org/E/myStream/chunks.m3u8?nimblesessionid=7376054&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjU2OjMzIEFNJmhhc2hfdmFsdWU9VDIrcFFNdUQzWmJBdFNib3B6S2M0Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",ESPN2
+https://peer7.ustv24h.live/ESPN2/myStream/chunks.m3u8?nimblesessionid=48026644&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxOjU4OjQ5IEFNJmhhc2hfdmFsdWU9YkVFOWhLbVFkbEswMzAzN1RERVA4Zz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",ESPNU
+https://f5.ustvgo.org/ESPNU/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjAwOjEwIEFNJmhhc2hfdmFsdWU9N1VNTkZrdEExREtQVkhJVTRjMGZvUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",ESPN News
+https://peer5.ustv24h.live/ESPNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjAxOjU0IEFNJmhhc2hfdmFsdWU9TTNoMlpOeVE2TmFqdm5scURvMWtGUT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Food Network
+https://peer2.ustv24h.live/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjAzOjA4IEFNJmhhc2hfdmFsdWU9UXErSWNLKytTVElEQVF6a2Y0UUFpZz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FOX
+https://peer1.ustv24h.live/FOX/myStream/chunks.m3u8?nimblesessionid=52280137&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjA1OjIwIEFNJmhhc2hfdmFsdWU9WHdHQ2gyaU9UTXpzbFR0aVE0NlNJQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FOX Business
+https://peer6.ustv24h.live/FoxBusiness/myStream/chunks.m3u8?nimblesessionid=47219666&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjA2OjU1IEFNJmhhc2hfdmFsdWU9UmxQVkhoODZCNG1oa3dGdVNJRHRqZz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FOX News
+https://f1.ustvgo.org/FoxNews/myStream/chunks.m3u8?nimblesessionid=7737143&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjA4OjA3IEFNJmhhc2hfdmFsdWU9cGFROWh3WWFWYXhJMnp0dXMxNkxvdz09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",Freeform
+https://f4.ustvgo.org/Freeform/myStream/chunks.m3u8?nimblesessionid=7381316&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjA5OjU4IEFNJmhhc2hfdmFsdWU9QlRiUkNVZzFCVGcrdFNXSlJtbGVVQT09JnZhbGlkbWludXRlcz0yNDA=
+
+#EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",FS@
+https://f3.ustvgo.org/FS2/myStream/chunks.m3u8?nimblesessionid=7461358&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAyOjEyOjQ0IEFNJmhhc2hfdmFsdWU9M1pEZklSZzZuTzBWKzg2TEJ0aWU5dz09JnZhbGlkbWludXRlcz0yNDA=
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► GSN CANADA
