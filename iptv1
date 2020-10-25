@@ -24,7 +24,7 @@ https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 
 
 #EXTINF:0 channel-id="" radio="" tvg-logo="" tvg-chno="" tvg-country="" group-title="",abc
-Request URL: https://f2.ustvgo.org/ABC/myStream/chunks.m3u8?nimblesessionid=7453457&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxMjozNToxMyBBTSZoYXNoX3ZhbHVlPXAySncrWEE4UjFCZElJcHVjVTYzYlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://f2.ustvgo.org/ABC/myStream/chunks.m3u8?nimblesessionid=7453457&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyMCAxMjozNToxMyBBTSZoYXNoX3ZhbHVlPXAySncrWEE4UjFCZElJcHVjVTYzYlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► GSN CANADA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/93566ebf3202511.m3u8|User-Agent=stream
