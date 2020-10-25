@@ -23,8 +23,8 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► NFL Redzone
+http://tracka.azureedge.net/show/redzone/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► GSN CANADA
