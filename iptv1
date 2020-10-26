@@ -3,30 +3,16 @@
 #EXTINF:-1 tvg-logo="" group-title="",1
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",2
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",3
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",4
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony Max
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",6
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",7
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",8
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",9
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",10
-https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",11
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",12
-http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="" group-title="",13
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",2
+http://moreyoukillmoreyougain.azureedge.net:80/hls/nflnw/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",3
+http://45.148.26.66:8081/hls/Q-9/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",4
+http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",5
+http://45.148.26.68:8081/hls/B-8/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",6
+http://51.158.73.206/hls/d.m3u8
 
 
 #EXTINF:-1 tvg-name="************** ROKU USA **********" tvg-id="" group-title="" tvg-logo="",************* ROKU USA **********
@@ -949,10 +935,20 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/12/07/Untitled-1_17.jpg?itok=FNreB2PE" group-title="MOVIES",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIES",MNX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIES",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES" ,Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES" ,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",1
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sport 1 Europe
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sport 2 Europe
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",4 Fox Sport 3 Europe
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sony Max
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
