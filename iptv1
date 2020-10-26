@@ -23,9 +23,11 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► NFL Redzone
+#EXTINF:-1 tvg-logo="" group-title="",► NFL Redzone
 http://tracka.azureedge.net/show/redzone/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",► NFL 1
+http://45.148.26.66:8081/hls/Q-9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► GSN CANADA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/93566ebf3202511.m3u8|User-Agent=stream
