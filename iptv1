@@ -1,4 +1,28 @@
 #EXTM3U
+
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
+http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+
 #EXTINF:-1 tvg-name="************** ROKU USA **********" tvg-id="" group-title="" tvg-logo="",************* ROKU USA **********
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
