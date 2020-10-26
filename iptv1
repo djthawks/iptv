@@ -1,26 +1,48 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="",1
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",2
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",3
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",4
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",5
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",6
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",7
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",9
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",10
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",11
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",12
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="" group-title="",13
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",14
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",15
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",16
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",17
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",18
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",19
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",19
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",20
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",21
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 
 #EXTINF:-1 tvg-name="************** ROKU USA **********" tvg-id="" group-title="" tvg-logo="",************* ROKU USA **********
