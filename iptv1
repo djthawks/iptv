@@ -847,10 +847,8 @@ https://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/playlist.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Z Living"  group-title="DAVE",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="",1
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
