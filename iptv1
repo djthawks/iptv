@@ -952,3 +952,26 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony Max
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+
+#EXTINF:-1 radio="false" tvg-name="***************** USA ALLSPRK ***********" group-title="ALLSPRK USA",**************** USA  ALLSPRK ***********
+https://stream.allsprk.tv/live/9/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Artur
+https://stream.allsprk.tv/live/9/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Baywatch
+https://stream.allsprk.tv/live/4/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",House of Cards
+https://stream.allsprk.tv/live/3/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="Nat Geo - UK" group-title="ALLSPRK USA",Nat Geo
+https://stream.allsprk.tv/live/8/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Punch Drunk Love
+https://stream.allsprk.tv/live/1/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Renand Stimpy
+https://stream.allsprk.tv/live/7/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Southpark
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Stargate Atlantis
+https://stream.allsprk.tv/live/6/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Stargate SG1
+https://stream.allsprk.tv/live/5/index.m3u8
+#EXTINF:-1 radio="false" group-title="ALLSPRK USA",The XFiles
+https://stream.allsprk.tv/live/0/index.m3u8
