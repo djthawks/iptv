@@ -42,6 +42,9 @@ http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="DAVE",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="MOVIE",204 Stirr Horror
+https://dai.google.com/linear/hls/event/3P6eoQ_ARgeofjgKUyVI6w/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe
@@ -97,7 +100,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8
   
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="24/7 PLUTO TV",News 24/7
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
- 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/29zvuw7.png",MTV IN(USA)
+http://sklktcdnems05.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_600.m3u8
  
  #EXTINF:-1,TWiT Live
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
@@ -941,3 +945,16 @@ http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",► Fox Sport Europe
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ES2.US" tvg-logo="" tvg-name="ESPN2" group-title="体育频道",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="ESU.US" tvg-logo="" tvg-name="ESPN U" group-title="体育频道",ESPN U
+https://gma2.blab.email/espnu.m3u8 
+#EXTINF:-1 tvg-id="ESN.US" tvg-logo="" tvg-name="ESPN News" group-title="体育频道",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN ACCN" group-title="体育频道",ESPN ACCN
+https://gma2.blab.email/acc.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN sec" group-title="体育频道",ESPN sec
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN FS2" group-title="体育频道",ESPN FS2
+https://gma2.blab.email/fs2.m3u8
