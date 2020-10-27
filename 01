@@ -1,42 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png" tvg-name="CNN" group-title="欧美频道",CNN
-http://60.251.61.66:4014/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="欧美频道",CNC
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",5USA
-http://92.246.85.106:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",SELECT
-http://92.246.85.106:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-ID="BB1.UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2076.png" group-title="欧美频道",BBC One HD
-http://92.246.85.106:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-ID="BB2.UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2006.png" group-title="欧美频道",BBC Two HD
-http://92.246.85.106:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Channel 5
-http://92.246.85.106:8000/play/a050/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/DMAX.png" tvg-name="DMAX" group-title="欧美频道",DMAX
-http://92.246.85.106:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Food Network
-http://92.246.85.106:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",POP
-http://92.246.85.106:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",POP Max
-http://92.246.85.106:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Paramount
-http://92.246.85.106:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",QUEST
-http://92.246.85.106:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Quest Red
-http://92.246.85.106:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Sony Action
-http://92.246.85.106:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Sony Channel
-http://92.246.85.106:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Sony Classic
-http://92.246.85.106:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Sony Movies
-http://92.246.85.106:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Tiny Pop
-http://92.246.85.106:8000/play/a04n/index.m3u8
+
 
 #EXTINF:-1 tvg-ID="BNE.QA" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="体育频道",beIN Sport News
 https://dl.dropbox.com/s/a16m1s4w7ctosro/Bein%20Sports%20News.m3u8?dl=1
@@ -66,18 +29,7 @@ http://116.203.155.242/hls/bein8.m3u8
 http://116.203.155.242/hls/bein9.m3u8
 #EXTINF:-1 tvg-id="B10.QA" tvg-logo="https://static.epg.best/qa/beINSports10.qa.png" group-title="体育频道",beIN Sports 10 
 http://116.203.155.242/hls/bein10.m3u8
-#EXTINF:-1 tvg-id="ES2.US" tvg-logo="" tvg-name="ESPN2" group-title="体育频道",ESPN 2
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="ESU.US" tvg-logo="" tvg-name="ESPN U" group-title="体育频道",ESPN U
-https://gma2.blab.email/espnu.m3u8 
-#EXTINF:-1 tvg-id="ESN.US" tvg-logo="" tvg-name="ESPN News" group-title="体育频道",ESPN News
-https://gma2.blab.email/espnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN ACCN" group-title="体育频道",ESPN ACCN
-https://gma2.blab.email/acc.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN sec" group-title="体育频道",ESPN sec
-https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN FS2" group-title="体育频道",ESPN FS2
-https://gma2.blab.email/fs2.m3u8
+
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="新马",RTM Sports
@@ -90,24 +42,12 @@ http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="新马",Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" tvg-name="CNN" group-title="欧美频道",CNN
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" tvg-name="aljazeera" group-title="欧美频道",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" tvg-name="DW" group-title="欧美频道",DW德国之声
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="RT.News" tvg-name="russia-today" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="欧美频道",今日俄罗斯
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF:-1 tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" tvg-name="TRT World" group-title="欧美频道",TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" tvg-name="FoxNews" group-title="欧美频道",FOX News
-https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky.News" tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" tvg-name="SkyNews" group-title="欧美频道",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV4k.png" tvg-name="CCTV4K" group-title="央视",CCTV4K
-http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-1.png" tvg-name="CCTV1" group-title="央视",CCTV1
 http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV-3.png" tvg-name="CCTV3" group-title="央视",CCTV3
@@ -142,46 +82,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CHC高清电影.png" tvg-name="CHC高清电影" group-title="四川移动组播",CHC高清电影
 http://hdtv.haust.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CHC家庭影院.png" tvg-name="CHC家庭电影" group-title="四川移动组播",CHC家庭影院
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CHC动作电影.png" tvg-name="CHC动作电影" group-title="四川移动组播",CHC动作电影
-http://61.160.152.55/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV精品纪录.png" tvg-name="" group-title="四川移动组播",NEWTV精品纪录
-http://192.168.123.1:8188/rtp/239.11.0.132:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV家庭剧场.png" tvg-name="" group-title="四川移动组播",NEWTV家庭剧场
-http://192.168.123.1:8188/rtp/239.11.0.131:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV怡伴健康.png" tvg-name="" group-title="四川移动组播",NEWTV健康有约
-http://192.168.123.1:8188/rtp/239.11.0.133:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV精品体育.png" tvg-name="" group-title="四川移动组播",NEWTV精品体育
-http://192.168.123.1:8188/rtp/239.11.0.134:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV军事评论.png" tvg-name="" group-title="四川移动组播",NEWTV军事评论
-http://192.168.123.1:8188/rtp/239.11.0.136:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV农业致富.png" tvg-name="" group-title="四川移动组播",NEWTV农业致富
-http://192.168.123.1:8188/rtp/239.11.0.137:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV古装剧场.png" tvg-name="" group-title="四川移动组播",NEWTV古装剧场
-http://192.168.123.1:8188/rtp/239.11.0.141:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV动作电影.png" tvg-name="" group-title="四川移动组播",NEWTV动作电影
-http://192.168.123.1:8188/rtp/239.11.0.142:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV军旅剧场.png" tvg-name="" group-title="四川移动组播",NEWTV军旅剧场
-http://192.168.123.1:8188/rtp/239.11.0.143:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV惊悚悬疑.png" tvg-name="" group-title="四川移动组播",NEWTV惊悚悬疑
-http://192.168.123.1:8188/rtp/239.11.0.144:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV海外剧场.png" tvg-name="" group-title="四川移动组播",NEWTV海外剧场
-http://192.168.123.1:8188/rtp/239.11.0.145:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV武搏世界.png" tvg-name="" group-title="四川移动组播",NewTV搏击
-http://192.168.123.1:8188/rtp/239.11.0.146:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV明星大片.png" tvg-name="" group-title="四川移动组播",NEWTV明星大片
-http://192.168.123.1:8188/rtp/239.11.0.147:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV爱情喜剧.png" tvg-name="" group-title="四川移动组播",NEWTV爱情喜剧
-http://192.168.123.1:8188/rtp/239.11.0.149:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV精品大剧.png" tvg-name="" group-title="四川移动组播",NEWTV精品大剧
-http://192.168.123.1:8188/rtp/239.11.0.150:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV中国功夫.png" tvg-name="" group-title="四川移动组播",NewTV中国功夫
-http://192.168.123.1:8188/rtp/239.11.0.151:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/NEWTV金牌综艺.png" tvg-name="" group-title="四川移动组播",NewTV金牌综艺
-http://192.168.123.1:8188/rtp/239.11.0.152:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/黑莓电影.png" tvg-name="" group-title="四川移动组播",黑莓电影
-http://192.168.123.1:8188/rtp/239.11.0.148:5140
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/黑莓电竞.png" tvg-name="" group-title="四川移动组播",黑莓电竞
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/黑莓动画.png" tvg-name="" group-title="四川移动组播",黑莓动画
@@ -218,34 +120,8 @@ https://cdn.hkdtmb.com/hls/32/index.m3u8
 https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 tvg-id ="" tvg-name =" ATV经典台" tvg-language ="" tvg-logo=" https://www.hkatv.com/images/atv_logo_200x200.png" tvg-country =" HK" tvg-url ="" group-title ="香港澳门",ATV经典台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" tvg-name="ViuTV" group-title="香港澳门",ViuTV
-http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" tvg-name="ViuTV" group-title="香港澳门",ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/VIU6.png" group-title="香港澳门",ViuTV Six
-http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/HKIBC.png" group-title="香港澳门",香港国际财经
-https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-name="翡翠台" group-title="香港澳门",翡翠台                  
-http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-name="翡翠台" group-title="香港澳门",翡翠台 
-https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港澳门",J2台                  
-http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港澳门",J2台  
-https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港澳门",J2台  
-http://a.315600.xyz/dl/iptv.php?id=12
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-name="明珠台" group-title="香港澳门",明珠台
-http://61.238.6.49:8001/bysid/2.mpeg
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-name="明珠台" group-title="香港澳门",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-name="明珠台" group-title="香港澳门",明珠台
-http://a.315600.xyz/dl/iptv.php?id=13
-#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxianxinwentai.png" tvg-name="无线新闻" group-title="香港澳门",無綫新聞台                
-http://61.238.6.49:8001/bysid/83
-#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxiancaijingzixuntai.png" tvg-name="无线财经" group-title="香港澳门",無綫財經資訊台
-http://61.238.6.49:8001/bysid/85
+
+
 #EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" tvg-name="香港开电视" group-title="香港澳门",香港开電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" tvg-name="香港澳门" group-title="香港澳门",有線綜合娱乐
@@ -274,8 +150,7 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港澳门",美国之音中文
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港澳门",EuroNews
-http://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港澳门",耀才財經台
 http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-ID="668.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/bf/HKJC_Horse_Racing.jpg" group-title="香港澳门",赛马直击
@@ -286,102 +161,8 @@ http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="香港澳门",澳視資訊
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-22 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱奇谈.png" tvg-name="" group-title="四川移动组播",HOT爱奇谈
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-#EXTINF:-23 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱玩具.png" tvg-name="" group-title="四川移动组播",HOT爱玩具
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-#EXTINF:-24 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱电竞.png" tvg-name="" group-title="四川移动组播",HOT爱电竞
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-#EXTINF:-25 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱赛车.png" tvg-name="" group-title="四川移动组播",HOT爱赛车
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-#EXTINF:-26 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱体育.png" tvg-name="" group-title="四川移动组播",HOT爱体育
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-#EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱世界.png" tvg-name="" group-title="四川移动组播",HOT爱世界
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-#EXTINF:-29 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱怀旧.png" tvg-name="" group-title="四川移动组播",HOT爱怀旧
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-#EXTINF:-30 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱旅行.png" tvg-name="" group-title="四川移动组播",HOT爱旅行
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-31 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱经典.png" tvg-name="" group-title="四川移动组播",HOT爱经典
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-#EXTINF:-32 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱娱乐.png" tvg-name="" group-title="四川移动组播",HOT爱娱乐
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-#EXTINF:-33 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱解密.png" tvg-name="" group-title="四川移动组播",HOT爱解密
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
-#EXTINF:-34 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱军武.png" tvg-name="" group-title="四川移动组播",HOT爱军武			
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
-#EXTINF:-35 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱幼教.png" tvg-name="" group-title="四川移动组播",HOT爱幼教
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
-#EXTINF:-36 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱谍战.png" tvg-name="" group-title="四川移动组播",HOT爱谍战
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-#EXTINF:-37 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱猎奇.png" tvg-name="" group-title="四川移动组播",HOT爱猎奇
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-#EXTINF:-38 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱经典.png" tvg-name="" group-title="四川移动组播",HOT爱经典
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-#EXTINF:-39 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱悬疑.png" tvg-name="" group-title="四川移动组播",HOT爱悬疑
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-#EXTINF:-40 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱历史.png" tvg-name="" group-title="四川移动组播",HOT爱历史
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-#EXTINF:-41 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱体育.png" tvg-name="" group-title="四川移动组播",HOT爱体育
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
-#EXTINF:-42 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱都市.png" tvg-name="" group-title="四川移动组播",HOT爱都市
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
-#EXTINF:-43 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱科学.png" tvg-name="" group-title="四川移动组播",HOT爱科学
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-#EXTINF:-44 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱时尚.png" tvg-name="" group-title="四川移动组播",HOT爱时尚
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
-#EXTINF:-45 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱探索.png" tvg-name="" group-title="四川移动组播",HOT爱探索
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-46 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱美食.png" tvg-name="" group-title="四川移动组播",HOT爱美食
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-#EXTINF:-47 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱家庭.png" tvg-name="" group-title="四川移动组播",HOT爱家庭
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-#EXTINF:-48 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱青春.png" tvg-name="" group-title="四川移动组播",HOT爱青春
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-#EXTINF:-49 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/IHOT-爱动漫.png" tvg-name="" group-title="四川移动组播",HOT爱动漫
-http://112.17.40.142/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府经典再现.png" tvg-name="" group-title="四川移动组播",天府经典再现
-http://192.168.123.1:8188/rtp/239.10.0.130:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府军旅谍战.png" tvg-name="" group-title="四川移动组播",天府军旅谍战
-http://192.168.123.1:8188/rtp/239.10.0.131:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府教育综合.png" tvg-name="" group-title="四川移动组播",天府教育综合
-http://192.168.123.1:8188/rtp/239.10.0.136:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府辣妈学院.png" tvg-name="" group-title="四川移动组播",天府辣妈学院
-http://192.168.123.1:8188/rtp/239.10.0.137:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府风尚美食.png" tvg-name="" group-title="四川移动组播",天府风尚美食
-http://192.168.123.1:8188/rtp/239.10.0.138:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府名医在线.png" tvg-name="" group-title="四川移动组播",天府名医在线
-http://192.168.123.1:8188/rtp/239.10.0.139:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府魔力荟萃.png" tvg-name="" group-title="四川移动组播",天府魔力荟萃
-http://192.168.123.1:8188/rtp/239.10.0.140:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府时尚走秀.png" tvg-name="" group-title="四川移动组播",天府时尚走秀
-http://192.168.123.1:8188/rtp/239.10.0.141:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府星动娱乐.png" tvg-name="" group-title="四川移动组播",天府星动娱乐
-http://192.168.123.1:8188/rtp/239.10.0.142:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府时尚生活.png" tvg-name="" group-title="四川移动组播",天府时尚生活
-http://192.168.123.1:8188/rtp/239.10.0.144:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府积木宝贝.png" tvg-name="" group-title="四川移动组播",天府积木宝贝
-http://192.168.123.1:8188/rtp/239.10.0.157:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府启蒙乐园.png" tvg-name="" group-title="四川移动组播",天府启蒙乐园
-http://192.168.123.1:8188/rtp/239.10.0.158:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府绚丽高清影院" tvg-name="" group-title="四川移动组播",天府绚影高清影院
-http://192.168.123.1:8188/rtp/239.10.0.188:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府TV综合.png" tvg-name="" group-title="四川移动组播",天府TV-综合
-http://192.168.123.1:8188/rtp/239.10.0.189:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府财经频道.png" tvg-name="" group-title="四川移动组播",天府财经频道
-http://192.168.123.1:8188/rtp/239.10.0.194:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府乐趣综合.png" tvg-name="" group-title="四川移动组播",天府乐趣综合
-http://192.168.123.1:8188/rtp/239.10.0.195:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/天府魔力TV.png" tvg-name="" group-title="四川移动组播",天府魔力TV
-http://192.168.123.1:8188/rtp/239.10.0.145:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索生活.png" tvg-name="求索生活" group-title="上海地区",求索生活
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索动物.png" tvg-name="求索动物" group-title="上海地区",求索动物
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索科学.png" tvg-name="求索科学" group-title="上海地区",求索科学
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索纪录.png" tvg-name="求索纪录" group-title="上海地区",求索纪录
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+
+
 #EXTINF:-22 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/动漫秀场.png" tvg-name="动漫秀场" group-title="上海地区",动漫秀场
 http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-28 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/都市剧场.png" tvg-name="都市剧场" group-title="上海地区",都市剧场
