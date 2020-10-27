@@ -2,8 +2,6 @@
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1, tvg-id="CBS Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CBS_Sports_Network_2016.png/250px-CBS_Sports_Network_2016.png" tvg-name="CBS Sports"  group-title="SPORT",CBS Sports
-https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 #EXTINF:-1 tvg-name="************** ROKU USA **********" tvg-id="" group-title="MOVIE" tvg-logo="",************* ROKU USA **********
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (East)
