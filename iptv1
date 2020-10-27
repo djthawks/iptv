@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",1
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sport",2
-http://moreyoukillmoreyougain.azureedge.net:80/hls/nflnw/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",3
-http://45.148.26.66:8081/hls/Q-9/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",4
-http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",5
-http://45.148.26.68:8081/hls/B-8/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",6
-http://51.158.73.206/hls/d.m3u8
-
-
 #EXTINF:-1 tvg-name="************** ROKU USA **********" tvg-id="" group-title="" tvg-logo="",************* ROKU USA **********
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (East)
@@ -37,27 +22,6 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Sony Max
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",► NFL Redzone
-http://tracka.azureedge.net/show/redzone/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 22
-http://tomorrowazny.azureedge.net:80/hls/redzone/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 33
-http://sv1.nflstream.buzz:80/live/Buccaneers/ chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 44
-http://45.148.26.66:8081/hls/Q-3/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 55
-http://45.148.26.68:8081/hls/B-9/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 1
-http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",► Fox Sport Europe
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ov8Yhbh.png" group-title="",► GSN CANADA
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/93566ebf3202511.m3u8|User-Agent=stream
@@ -973,3 +937,38 @@ https://stream.allsprk.tv/live/6/index.m3u8
 https://stream.allsprk.tv/live/5/index.m3u8
 #EXTINF:-1 radio="false" group-title="ALLSPRK USA",The XFiles
 https://stream.allsprk.tv/live/0/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",1
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport",2
+http://moreyoukillmoreyougain.azureedge.net:80/hls/nflnw/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",3
+http://45.148.26.66:8081/hls/Q-9/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",4
+http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",5
+http://45.148.26.68:8081/hls/B-8/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",6
+http://51.158.73.206/hls/d.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Sony Max
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",► NFL Redzone
+http://tracka.azureedge.net/show/redzone/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",► NFL 22
+http://tomorrowazny.azureedge.net:80/hls/redzone/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",► NFL 33
+http://sv1.nflstream.buzz:80/live/Buccaneers/ chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",► NFL 44
+http://45.148.26.66:8081/hls/Q-3/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",► NFL 55
+http://45.148.26.68:8081/hls/B-9/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="",► NFL 1
+http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",► Fox Sport Europe
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
