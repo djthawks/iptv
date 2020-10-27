@@ -30,8 +30,17 @@ https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="MOVIE",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIE",MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIE" ,Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPQkvtO.jpg" group-title="MOVIE",24 Box TV
 http://51.158.190.97/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="DAVE",AMC
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
@@ -848,23 +857,20 @@ http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 #EXTINF:-1 radio="false" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/WPHL_2018_logo.png" tvg-country="US" group-title="English",My TV (WPHL)
 https://v-pi.mybtv.net/event/17.1/1280x720?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2046&env=prd&uid=29375
 
-#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/GylvfMQ.png" tvg-country="IN" group-title="English",Star Movies HD Middle East
+#EXTINF:-1 radio="false" tvg-logo="https://i.imgur.com/GylvfMQ.png" tvg-country="IN" group-title="MOVIE",Star Movies HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
 
 #EXTINF:0 channel-id="11" radio="false" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-chno="11" tvg-country="UN" group-title="Entertainment",24 Box TV
 http://51.158.190.97/hls/stream.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/12/07/Untitled-1_17.jpg?itok=FNreB2PE" group-title="MOVIES",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIES",MNX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIE",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES" ,Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIE" ,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",1
@@ -879,27 +885,26 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony Max
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 
-#EXTINF:-1 radio="false" tvg-name="***************** USA ALLSPRK ***********" group-title="ALLSPRK USA",**************** USA  ALLSPRK ***********
+
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 0
 https://stream.allsprk.tv/live/9/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Artur
-https://stream.allsprk.tv/live/9/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Baywatch
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 1
 https://stream.allsprk.tv/live/4/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",House of Cards
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 2
 https://stream.allsprk.tv/live/3/index.m3u8
-#EXTINF:-1 radio="false" tvg-id="Nat Geo - UK" group-title="ALLSPRK USA",Nat Geo
+#EXTINF:-1 radio="false" tvg-id="Nat Geo - UK" group-title="DAVE",UNKNOWN 3
 https://stream.allsprk.tv/live/8/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Punch Drunk Love
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 4
 https://stream.allsprk.tv/live/1/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Renand Stimpy
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 5
 https://stream.allsprk.tv/live/7/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Southpark
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 6
 https://stream.allsprk.tv/live/2/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Stargate Atlantis
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 7
 https://stream.allsprk.tv/live/6/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",Stargate SG1
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 8
 https://stream.allsprk.tv/live/5/index.m3u8
-#EXTINF:-1 radio="false" group-title="ALLSPRK USA",The XFiles
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 9
 https://stream.allsprk.tv/live/0/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",1
