@@ -8,7 +8,7 @@ https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a583
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (West)
+#EXTINF:-4 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 #EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE",Cinemax (East)
 https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
