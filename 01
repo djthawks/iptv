@@ -1563,18 +1563,10 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 http://www.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="体育频道",MBC SPORTS+
 http://211.245.55.198:1024/m2u/239.192.59.3:49220
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="欧美频道",HBO
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="欧美频道",HBO2
-http://136.243.177.164/HBO2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="欧美频道",HBO3
-http://136.243.177.164/HBO3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="体育频道",TRT sport2hd
 http://iptvmasterlink.dyndns.org:8080/Entry/trtspor2hd_yeni/playlist.m3u8
-#EXTINF:-1 tvg-id="BT1.UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3661.png" tvg-name="" group-title="体育频道",BT SPORT 1 HD
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="BT2.UK"tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3663.png" tvg-name="" group-title="体育频道",BT SPORT 2 HD
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="台湾地区",GOODTV1
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="台湾地区",GOODTV2
@@ -1621,80 +1613,8 @@ https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_MCOTFAMILY_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/fantv.png" group-title ="泰国地区",FANMUSICHD
 https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="体育频道",PremierHD1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="体育频道",PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="体育频道",PremierHD3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="体育频道",PremierHD4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="体育频道",PremierHD5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title ="体育频道",True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title ="体育频道",True Sport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="体育频道",True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="体育频道",True Sport HD4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg",TRUE SPORT 5
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg",TRUE SPORT 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="体育频道",Fox Sport1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="体育频道",Fox Sport2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="体育频道",Fox Sport3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="体育频道", Adjarasport 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="体育频道", Adjarasport 2
-https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="体育频道, Arena Sport 1
-http://43.255.241.173/arena1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="体育频道", Arena Sport 2 
-http://43.255.241.173/arena2/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="体育频道", Arena Sport 3 
-http://43.255.241.173/arena3/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="体育频道", Arena Sport 4 
-http://43.255.241.173/arena4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="体育频道",Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="NBA.US" tvg-logo="https://poster.starhubgo.com/Linear_channels2/217_1920x1080_HTV.png" group-title ="体育频道",NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://teevee-hd.com/img/golf.png" group-title ="体育频道",Golf HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title ="泰国地区",HBO HD
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title ="泰国地区",HBO Hit
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="泰国地区",FoxMovies_TH
-https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="泰国地区",FoxMovies
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title ="泰国地区",FoxThai_TH
-https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/red.png" group-title ="泰国地区",RedbyHBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/axn.png" group-title ="泰国地区",AXN HD
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/warner.png" group-title ="泰国地区",WarnerTV HD
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/history.png" group-title ="泰国地区",HISTORY HD
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/h2hd.png" group-title ="泰国地区",H2 HD
@@ -1727,96 +1647,11 @@ http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 #EXTINF:-1 tvg-logo="" group-title ="体育频道",eurosport2
 http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
-#EXTINF:-1 tvg-logo="" group-title ="体育频道",fightbox
-http://185.36.100.33/fightboxhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title ="体育频道",ETBSTR1
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
-#EXTINF:-1 tvg-logo="" group-title ="体育频道",F1 SPORTS
-https://overtakefans.com/f1-live-stream/f1tv-pro-stream-web-player/master2.m3u8
 #EXTINF:-1 tvg-logo="" group-title ="体育频道",皇马体育台
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",有线电影台
-http://cdn.wakds.xyz:25461/hls/live/1399
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",TVB星河
-http://cdn.wakds.xyz:25461/hls/live/1400
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/867_1920x1080_HTV.png" group-title ="台湾地区",卫视卡式台
-http://cdn.wakds.xyz:25461/hls/live/1401
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",壹新闻
-http://cdn.wakds.xyz:25461/hls/live/1402
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",東森新聞
-http://cdn.wakds.xyz:25461/hls/live/1403
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",中天新闻台
-http://cdn.wakds.xyz:25461/hls/live/1404
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",民视新闻台
-http://cdn.wakds.xyz:25461/hls/live/1405
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",三立INEWS
-http://cdn.wakds.xyz:25461/hls/live/1406
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",TVBS新闻台
-http://cdn.wakds.xyz:25461/hls/live/1407
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",東森財經新聞
-http://cdn.wakds.xyz:25461/hls/live/1408
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中视新闻.png" tvg-name="中视新闻" group-title ="台湾地区",中视新闻台
-http://cdn.wakds.xyz:25461/hls/live/1409
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",华视新闻台
-http://cdn.wakds.xyz:25461/hls/live/1410
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",寰宇新闻
-http://cdn.wakds.xyz:25461/hls/live/1411
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",寰宇新闻
-http://cdn.wakds.xyz:25461/hls/live/1412
-#EXTINF:-1 tvg-logo="" tvg-name="民视第一台" group-title ="台湾地区",民视第一台
-http://cdn.wakds.xyz:25461/hls/live/1413
-#EXTINF:-1 tvg-logo="" tvg-name="民视台湾台" group-title ="台湾地区",民视台湾台
-http://cdn.wakds.xyz:25461/hls/live/1414
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/民视.png" tvg-name="民视" group-title ="台湾地区",民视
-http://cdn.wakds.xyz:25461/hls/live/1415
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/台视.png" tvg-name="台视" group-title ="台湾地区",台视
-http://cdn.wakds.xyz:25461/hls/live/1416
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/华视.png" tvg-name="华视" group-title ="台湾地区",华视
-http://cdn.wakds.xyz:25461/hls/live/1418
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/公视.png" tvg-name="公视" group-title ="台湾地区",公视
-http://cdn.wakds.xyz:25461/hls/live/1417
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中视菁采.png" tvg-name="中视菁采台" group-title ="台湾地区",中视菁采
-http://cdn.wakds.xyz:25461/hls/live/1419
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中视.png" tvg-name="中视" group-title ="台湾地区",中视
-http://cdn.wakds.xyz:25461/hls/live/1420
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中视经典.png" tvg-name="中视经典" group-title ="台湾地区",中视经典
-http://cdn.wakds.xyz:25461/hls/live/1421
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-name="美亚高清电影台" group-title ="台湾地区",美亚电影台
-http://cdn.wakds.xyz:25461/hls/live/1422
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" tvg-name="客家电视台" group-title ="台湾地区",客家电视台
-http://cdn.wakds.xyz:25461/hls/live/1423
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中视.png" tvg-name="中视" group-title ="台湾地区",中视
-http://cdn.wakds.xyz:25461/hls/live/1424
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" tvg-name="TVBS精采台" group-title ="台湾地区",TVBS精采台
-http://cdn.wakds.xyz:25461/hls/live/1425
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天综合.png" tvg-name="中天综合台" group-title ="台湾地区",中天综合
-http://cdn.wakds.xyz:25461/hls/live/1426
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",空中英语教室
-http://cdn.wakds.xyz:25461/hls/live/1427
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eltv.png" tvg-name="ELTV生活英语台" group-title ="台湾地区",ELTV生活英语台
-http://cdn.wakds.xyz:25461/hls/live/1428
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",民视综艺
-http://cdn.wakds.xyz:25461/hls/live/1429
-#EXTINF:-1 tvg-logo="" group-title ="台湾地区",猪哥会社
-http://cdn.wakds.xyz:25461/hls/live/1430
-#EXTINF:-1 tvg-logo="https://static.epg.best/co/HistoryChannel.co.png" tvg-name="HISTORY" group-title ="台湾地区",HISTORY
-http://cdn.wakds.xyz:25461/hls/live/1431
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/History2.png" tvg-name="HISTORY2" group-title ="台湾地区",HISTORY2
-http://cdn.wakds.xyz:25461/hls/live/1432
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png" tvg-name="天映经典" group-title ="台湾地区",天映经典频道
-http://cdn.wakds.xyz:25461/hls/live/1433
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" tvg-name="CI" group-title ="台湾地区",CI 罪案侦查频道
-http://cdn.wakds.xyz:25461/hls/live/1434
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" tvg-name="CNEX" group-title ="台湾地区",CNEX
-http://cdn.wakds.xyz:25461/hls/live/1435
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" tvg-name="影迷数位纪实" group-title ="台湾地区",影迷数位纪实
-http://cdn.wakds.xyz:25461/hls/live/1436
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" tvg-name="影迷数位电影" group-title ="台湾地区",影迷数位电影
-http://cdn.wakds.xyz:25461/hls/live/1437
-#EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBClassic.hk.png" tvg-name="TVB经典台" group-title ="台湾地区",TVB经典台
-http://cdn.wakds.xyz:25461/hls/live/1439
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title ="台湾地区",翡翠台
-http://cdn.wakds.xyz:25461/hls/live/1440
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/纬来体育.png" group-title ="台湾地区",纬来体育
 http://220.158.149.28:8180/live/TV00000000000000000078@HHZT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/寰宇新闻A.png" group-title ="台湾地区",寰宇新闻
@@ -1863,8 +1698,6 @@ http://520574.xyz/dl/nbtv.php?id=4
 http://520574.xyz/dl/nbtv.php?id=5
 #EXTINF:-1 tvg-logo="" group-title ="地方台",宁波6套
 http://520574.xyz/dl/nbtv.php?id=6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/200px-OneSportsPlus_logo.svg.png" group-title="体育频道",One Sports
-http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/chunklist_w730697820_b628000.m3u8
 #EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="体育频道",Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
