@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 radio="false" tvg-id="tv.101002210221" tvg-name="ABC" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" tvg-country="AU" group-title="English",ABC
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="English",ABC 9 Chattanooga TN (WTVC)
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 radio="false" tvg-country="US" group-title="English",ABC 9 Chattanooga TN (WTVC)
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg" tvg-country="US" group-title="English",ABC 9 Orlando FL (WFTV-HD)
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+#EXTINF:-1 radio="false" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg" tvg-country="US" group-title="English",ABC 9 Orlando FL (WFTV-HD)
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+#EXTINF:-1 radio="false" tvg-id="tv.101002210222" tvg-name="ABC COMEDY/ABC KIDS NSW" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC2_76x37.png" tvg-country="AU" group-title="English",ABC Comedy
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
+#EXTINF:-1 radio="false" tvg-id="tv.101002210222" tvg-name="ABC COMEDY/ABC KIDS NSW" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC2_76x37.png" tvg-country="AU" group-title="English",ABC Comedy
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
+#EXTINF:-1 radio="false" tvg-id="tv.101002210222" tvg-name="ABC COMEDY/ABC KIDS NSW" tvg-logo="https://www.abc.net.au/cm/rimage/11251996-1x1-large.png" tvg-country="AU" group-title="English",ABC Kids
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 radio="false" tvg-id="tv.101002210222" tvg-name="ABC COMEDY/ABC KIDS NSW" tvg-logo="https://www.abc.net.au/cm/rimage/11251996-1x1-large.png" tvg-country="AU" group-title="English",ABC Kids
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 radio="false" tvg-id="tv.101002210224" tvg-name="ABC ME" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" tvg-country="AU" group-title="English",ABC ME
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 radio="false" tvg-id="tv.101002210224" tvg-name="ABC ME" tvg-logo="https://www.abc.net.au/cm/rimage/11416782-1x1-large.png" tvg-country="AU" group-title="English",ABC ME
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 #EXTINF:-1, Channel 1
 http://103.135.208.14:8082/34/index.m3u8?token=e18eaf9ab5c351ab366d627d1296324b267bc235-59ff163f6d6424ca6b0998b7f9da1d1d-1603914916-1603904116
 #EXTINF:-1, Channel 2
