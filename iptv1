@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="Undefined",CBS
+#EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="DAVE",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="************** ROKU USA **********" tvg-id="" group-title="MOVIE" tvg-logo="",************* ROKU USA **********
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
@@ -53,7 +53,7 @@ https://gma2.blab.email/fs2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="",CNC
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",5USA
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="DAVE",5USA
 http://92.246.85.106:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title"",SELECT
 http://92.246.85.106:8000/play/a052/index.m3u8
@@ -63,8 +63,11 @@ http://92.246.85.106:8000/play/a05f/index.m3u8
 http://92.246.85.106:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Channel 5
 http://92.246.85.106:8000/play/a050/index.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/DMAX.png" tvg-name="DMAX" group-title="欧美频道",DMAX
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="MOVIE",171.Cinemax
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pop"  group-title="DAVE",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/DMAX.png" tvg-name="DMAX" group-title="",DMAX
 http://92.246.85.106:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Food Network
 http://92.246.85.106:8000/play/a04u/index.m3u8
@@ -108,7 +111,8 @@ https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title ="泰国地区",FoxThai_TH
 https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-
+#EXTINF:-1, tvg-id="Movies Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" tvg-name="Movies Now"  group-title="DAVE",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="DAVE",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
@@ -667,9 +671,6 @@ http://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1, tvg-id="PBS Kids (Op-3) (Geo)" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-name="PBS Kids (Op-3) (Geo)"  group-title="DAVE",PBS Kids (Op-3) (Geo)
 http://live-cdn.pbskids.org/out/u/pst.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pop"  group-title="DAVE",Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="QTV"  group-title="DAVE",QTV
 https://player.qtv.gm/hls/live.stream.m3u8
 
@@ -1027,33 +1028,6 @@ http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",► Fox Sport Europe
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/DMAX.png" tvg-name="DMAX" group-title="欧美频道",DMAX
-http://92.246.85.106:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Food Network
-http://92.246.85.106:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",POP
-http://92.246.85.106:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",POP Max
-http://92.246.85.106:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Paramount
-http://92.246.85.106:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",QUEST
-http://92.246.85.106:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Quest Red
-http://92.246.85.106:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Sony Action
-http://92.246.85.106:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Sony Channel
-http://92.246.85.106:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Sony Classic
-http://92.246.85.106:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Sony Movies
-http://92.246.85.106:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="欧美频道",Tiny Pop
-http://92.246.85.106:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港澳门",EuroNews
-http://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索生活.png" tvg-name="求索生活" group-title="上海地区",求索生活
 http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
