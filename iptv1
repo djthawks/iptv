@@ -175,6 +175,26 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u
  
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab1857ba-26d5-6f07-0e5d-4c45700e2389-ClassicMovies_featured.jpg" group-title="24/7 PLUTO TV",Classic Movies
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 0
+https://stream.allsprk.tv/live/9/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 1
+https://stream.allsprk.tv/live/4/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 2
+https://stream.allsprk.tv/live/3/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 3
+https://stream.allsprk.tv/live/8/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 4
+https://stream.allsprk.tv/live/1/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 5
+https://stream.allsprk.tv/live/7/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 6
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 7
+https://stream.allsprk.tv/live/6/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 8
+https://stream.allsprk.tv/live/5/index.m3u8
+#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 9
+https://stream.allsprk.tv/live/0/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24/7 PLUTO TV",Forensic Files
@@ -970,28 +990,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony Max
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-
-
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 0
-https://stream.allsprk.tv/live/9/index.m3u8
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 1
-https://stream.allsprk.tv/live/4/index.m3u8
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 2
-https://stream.allsprk.tv/live/3/index.m3u8
-#EXTINF:-1 radio="false" tvg-id="Nat Geo - UK" group-title="DAVE",UNKNOWN 3
-https://stream.allsprk.tv/live/8/index.m3u8
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 4
-https://stream.allsprk.tv/live/1/index.m3u8
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 5
-https://stream.allsprk.tv/live/7/index.m3u8
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 6
-https://stream.allsprk.tv/live/2/index.m3u8
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 7
-https://stream.allsprk.tv/live/6/index.m3u8
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 8
-https://stream.allsprk.tv/live/5/index.m3u8
-#EXTINF:-1 radio="false" group-title="DAVE",UNKNOWN 9
-https://stream.allsprk.tv/live/0/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",1
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
