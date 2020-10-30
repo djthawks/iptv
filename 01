@@ -1,12 +1,47 @@
 #EXTM3U
-#EXTINF:-1,US001:A&E-HD
-http://c2.fedb.club:8880/kg12m2n0187/zxcv4567/3167
-#EXTINF:-1,US006:AMC-HD
-http://c2.fedb.club:8880/kg12m2n0187/zxcv4567/3162
-#EXTINF:-1,US007:ANIMAL-PLANET
-http://c2.fedb.club:8880/kg12m2n0187/zxcv4567/3161
-#EXTINF:-1,US008:BBC-America
-http://c2.fedb.club:8880/kg12m2n0187/zxcv4567/3160
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d7afb6824649ec6.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymhAHpF.png" group-title="",► ABC SPARK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/afcf31635334cca.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djwLvl9.png" group-title="",► AMC CAN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/68caef2d264729a.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrvynVa.png" group-title="",► AMERICAN HERO
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/c107ae9213d092c.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png" group-title="",► BBC Canada
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/17e2fbf10348457.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJllL8Z.png" group-title="",► BET CAN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8f12c6a0ac29b75.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGnBg0p.jpg" group-title="",Bible Discovery TV (Monday, Wednesday, and Friday for Live Prayer right here at 3:00pm EST)
+https://2-fss-1.streamhoster.com/pl_122/200226-88032-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jILckhl.png" group-title="",blackflag.tv
+https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8
+
+# update link https://www.youtube.com/watch?v=lYXdhqg6DmM #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT)
+plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
+hhttp://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/c6c9e1c9d29a952.m3u8|User-Agent=stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihpYMdJ.png" group-title="",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnpZuMy.png" group-title="",Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+
+# https://www.youtube.com/channel/UCuB9b-D26b4gjUmaAZKo_IQ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jt4GxXw.png" group-title="",CARP (YT)
+plugin://plugin.video.youtube/play/?video_id=bHsQmsLEmeI
 
 
 #EXTINF:-1 tvg-ID="BNE.QA" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="体育频道",beIN Sport News
