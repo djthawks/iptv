@@ -1,8 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,CBS (WFOR) (Opt-2)
-#EXTVLCOPT:network-caching=1000
-http://190.80.3.28/CBS/CBS.isml/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d7afb6824649ec6.m3u8|User-Agent=stream
 
