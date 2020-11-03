@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="B01.QA" tvg-logo="" group-title="", Sports 1 
+http://161.0.157.51/PLTV/88888888/224/3221227042/index.m3u8
+#EXTINF:-1 tvg-id="B01.QA" tvg-logo="" group-title="", Sports 2
+http://161.0.157.51/PLTV/88888888/224/3221227043/index.m3u8
+#EXTINF:-1 tvg-id="B01.QA" tvg-logo="" group-title="", Sports 3
+http://161.0.157.51/PLTV/88888888/224/3221227044/index.m3u8
+#EXTINF:-1 tvg-id="B01.QA" tvg-logo="" group-title="", Sports 4
+http://161.0.157.51/PLTV/88888888/224/3221227045/index.m3u8
+#EXTINF:-1 tvg-id="B01.QA" tvg-logo="" group-title="", Sports 5
+http://161.0.157.51/PLTV/88888888/224/3221227046/index.m3u8
+#EXTINF:-1 tvg-id="B01.QA" tvg-logo="" group-title="", Sports 6
+http://161.0.157.51/PLTV/88888888/224/3221227047/index.m3u8
 
 
-
-
-
-https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="BNE.QA" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="体育频道",beIN Sport News
 https://dl.dropbox.com/s/a16m1s4w7ctosro/Bein%20Sports%20News.m3u8?dl=1
 #EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育频道",beIN Sports 1 Asia
