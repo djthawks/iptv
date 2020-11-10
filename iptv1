@@ -1683,40 +1683,39 @@ http://203.154.243.89:1423
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="WORLD (Free)",Cookie Rerun
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="WORLD MOVIES (Free)",MBC MAX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIE",MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="WORLD MOVIES (Free)",MBC MAX FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIE",MBC MAX FHD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="WORLD MOVIES (Free)",MBC 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="MOVIE",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="WORLD MOVIES (Free)",MBC 2 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="MOVIE",MBC 2 FHD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="WORLD MOVIES (Free)",MBC Action HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="MOVIE",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="WORLD MOVIES (Free)",MBC Action FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="MOVIE",MBC Action FHD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-
-#EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBO Signature
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBO Signature
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-#EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://i.imgur.com/nOiPsyr.png",HBO Hits
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/nOiPsyr.png",HBO Hits
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
-#EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-#EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="WORLD MOVIES (Free)",Movies Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="MOVIE",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="WORLD MOVIES (Free)",MNX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="MOVIE",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="WORLD MOVIES (Free)",ROMEDY NOW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="MOVIE",ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 group-title="WORLD MOVIES (Free)" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM EN
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM EN
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="WORLD MOVIES (Free)",AlFajer MOVIE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="MOVIE",AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="WORLD MOVIES (Free)",Film 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="MOVIE",Film 4
 http://51.52.156.22:8888/http/008
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="WORLD MOVIES (Free)",Sony Movies Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="MOVIE",Sony Movies Action
 http://51.52.156.22:8888/http/009
 
 
