@@ -921,34 +921,12 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",1
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sport",2
-http://moreyoukillmoreyougain.azureedge.net:80/hls/nflnw/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",3
-http://45.148.26.66:8081/hls/Q-9/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",4
-http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",5
-http://45.148.26.68:8081/hls/B-8/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",6
-http://51.158.73.206/hls/d.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Sony Max
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",► NFL Redzone
 http://tracka.azureedge.net/show/redzone/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 22
-http://tomorrowazny.azureedge.net:80/hls/redzone/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 33
-http://sv1.nflstream.buzz:80/live/Buccaneers/ chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 44
-http://45.148.26.66:8081/hls/Q-3/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 55
-http://45.148.26.68:8081/hls/B-9/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="",► NFL 1
-http://sv7.nflstream.buzz:80/live/Panthers/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",► Fox Sport Europe
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
@@ -976,45 +954,45 @@ https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="体育频道",Fox Sport1
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="SPORT",Fox Sport1
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="体育频道",Fox Sport2
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="SPORT",Fox Sport2
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="体育频道",Fox Sport3
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="SPORT",Fox Sport3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 4
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="体育频道", Sport TV 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="体育频道", Adjarasport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORT", Adjarasport 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="体育频道", Adjarasport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="SPORT", Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="体育频道, Arena Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="SPORT", Arena Sport 1
 http://43.255.241.173/arena1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="体育频道", Arena Sport 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="SPORT", Arena Sport 2 
 http://43.255.241.173/arena2/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="体育频道", Arena Sport 3 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="SPORT", Arena Sport 3 
 http://43.255.241.173/arena3/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="体育频道", Arena Sport 4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgkFY1Z.jpg" group-title="SPORT", Arena Sport 4 
 http://43.255.241.173/arena4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="体育频道",Tennis HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="SPORT",Tennis HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="体育频道",PremierHD1
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="SPORT",PremierHD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="体育频道",PremierHD2
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="SPORT",PremierHD2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="体育频道",PremierHD3
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="SPORT",PremierHD3
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="体育频道",PremierHD4
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="SPORT",PremierHD4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="体育频道",PremierHD5
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="SPORT",PremierHD5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d7afb6824649ec6.m3u8|User-Agent=stream
