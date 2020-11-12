@@ -932,13 +932,13 @@ http://tracka.azureedge.net/show/redzone/chunks.m3u8
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索生活.png" tvg-name="求索生活" group-title="上海地区",求索生活
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索生活.png" tvg-name="求索生活" group-title="DAVE",1
 http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索动物.png" tvg-name="求索动物" group-title="上海地区",求索动物
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索动物.png" tvg-name="求索动物" group-title="DAVE",2
 http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索科学.png" tvg-name="求索科学" group-title="上海地区",求索科学
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索科学.png" tvg-name="求索科学" group-title="DAVE",3
 http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索纪录.png" tvg-name="求索纪录" group-title="上海地区",求索纪录
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索纪录.png" tvg-name="求索纪录" group-title="DAVE",4
 http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title ="SPORT",True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -994,31 +994,9 @@ https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="SPORT",PremierHD5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yz82oTd.png" group-title="",► A & E CAN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/d7afb6824649ec6.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ymhAHpF.png" group-title="",► ABC SPARK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/afcf31635334cca.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djwLvl9.png" group-title="",► AMC CAN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/68caef2d264729a.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nrvynVa.png" group-title="",► AMERICAN HERO
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/c107ae9213d092c.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png" group-title="",► BBC Canada
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/17e2fbf10348457.m3u8|User-Agent=stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJllL8Z.png" group-title="",► BET CAN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/8f12c6a0ac29b75.m3u8|User-Agent=stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aIQT30T.png" group-title="",Brant One (YT)
-plugin://plugin.video.youtube/play/?video_id=BOsuMNYsVY8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCZ4VgJ.png" group-title="",► BRAVO CANADA
-hhttp://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/c6c9e1c9d29a952.m3u8|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihpYMdJ.png" group-title="",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
