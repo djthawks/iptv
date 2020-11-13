@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,69 NEWS
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=e120b193ada2fd139cb025f804846a8a
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN BANGLA " tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="BANGLADESH IPTV",CNN BANGLA 
 http://bdiptv.myftp.biz:25461/live/Orangetv/745rony900/10693.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="BANGLADESH IPTV",LIVE2WEB IPTV [BD]
