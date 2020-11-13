@@ -1103,150 +1103,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7274806621ff00072
 #EXTINF:-1 tvg-id="5f7b47f12a45590007821749" tvg-chno="927" tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png" group-title="Latino",Narcos en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=927&deviceId=5f7b47f12a45590007821749&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 2
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 3
-http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 4
-http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 5
-http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 6
-http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 7
-http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 8
-http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 9
-http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA",Disney Junior
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom (New!)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="USA",Nat Geo People (MENA)
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA",Nat Geo Wild (MENA)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic (MENA)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
- 
-#EXTINF:-1,CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
- 
-#EXTINF:-1,DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
- 
-#EXTINF:-1,NICK JR
-http://213.174.8.7:9100/index.m3u8
- 
-#EXTINF:-1,DAVINCI KIDS
-http://213.174.8.7:11111/index.m3u8
- 
-#EXTINF:-1,EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
- 
-#EXTINF:-1,HBO2
-http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1,FOX
-http://161.0.157.7/PLTV/88888888/224/3221227013/index.m3u8
- 
-#EXTINF:-1,FOX FAMILY MOVIES
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
- 
-#EXTINF:-1,CHINESE MOVIES CLASIC
-http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
-#EXTINF:-1,RTM1
-http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
- 
-#EXTINF:-1,RTM2
-http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
- 
-#EXTINF:-1,TV3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbYU6N5grCmpaxK3_rACY6U)/dm/3/x6qp375/d/live-0.m3u8
- 
-#EXTINF:-1,ANIMAL PLANET
-http://161.0.157.7/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1,BEIN SPORT1
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
- 
-#EXTINF:-1,BEIN SPORT2
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
- 
-#EXTINF:-1,BEIN SPORT3
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
- 
-#EXTINF:-1,Espn SPORT
-http://80.80.160.168/live/6/live.m3u8
- 
- 
-
- 
-#EXTINF:-1,GLOBALTV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1,GLOBAL TV+
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1,GLOBALTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
-#EXTINF:-1,RCTI+
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-
-#EXTINF:-1,Indosiar(HW+)
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1,RCTI+
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1,ANTV(HW+)
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-#EXTINF:-1,Trans7(HW+)
-https://dl.dropbox.com/s/q7cllc5vr90xcs4/Trans7.m3u8?dl=0
-#EXTINF:-1,Trans TV(HW+)
-https://dl.dropbox.com/s/s3heikmyskqhgka/TransTV.m3u8?dl=0
-#EXTINF:-1,SCTV(HW+)
-https://dl.dropbox.com/s/h73etcy7yrvn2qa/SCTV.m3u8?dl=0
-#EXTINF:-1,MNC+
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1,GLOBAL TV+
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1,INEWS+
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1,Net TV(HW+)
-https://dl.dropbox.com/s/n7gklxnla7etc9o/NET%20TV%20HD.m3u8?dl=0
-#EXTINF:-1,CNN Indonesia(HW+)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w618091941_b384000_sleng.m3u8
-#EXTIN:-1,Berita satu News(HW+)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1,Kompas TV(HW+)
-https://dl.dropbox.com/s/c5rudc2kuig33h9/Kompas%20HD.m3u8?dl=0
-#EXTINF:-1,TV One(HW+)
-https://dl.dropbox.com/s/l780vnh847xscgb/TVone%20HD.m3u8?dl=0
-#EXTINF:-1,Metro TV(HW+)
-https://dl.dropbox.com/s/hmh07i2l9yl9ob8/Metro%20HD.m3u8?dl=0
-#EXTINF:-1,FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1,FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1,Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1,HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1,Thrill (Opt-1)
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,Thrill (Opt-2)
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+#EXTINF:-1,Thrill (Opt-3)
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
