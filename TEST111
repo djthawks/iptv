@@ -1134,9 +1134,9 @@ http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699
 http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA",Disney Junior
-#EXT
+
  
-INF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="USA",Movie Kingdom (New!)
@@ -1201,15 +1201,7 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
 http://80.80.160.168/live/6/live.m3u8
  
  
- 
- 
-Untitled
- WDANTDJOGJA   NOV 28TH, 2019  59  NEVER
- 
-rawdownloadreport0.47 KB
-#EXTM3U
-#EXTINF:-1,RCTI+ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8 #EXTINF:-1,NET TV http://id2.indostreamingtv.com/live/nettv/index.m3u8 #EXTINF:-1,RAJAWALI TV http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com #EXTINF:-1,BERITA SATU http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com #EXTINF:-1,SATKIDS http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-RAW Paste Data
+
  
 #EXTINF:-1,GLOBALTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
@@ -1219,10 +1211,7 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 #EXTINF:-1,RCTI+
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1,RCTI
-RAW Paste Data
- 
-#EXTM3U
+
 #EXTINF:-1,Indosiar(HW+)
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1,RCTI+
