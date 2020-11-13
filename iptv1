@@ -1,4 +1,21 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 2
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 3
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 4
+http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2A2qVf.png" group-title="24/7 MANDARIN",Mandarin Movies 5
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NBC 6 Miami FL (WTVJ)"  group-title="DAVE",NBC 6 Miami FL (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="DAVE",CBS
