@@ -1109,9 +1109,21 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
  
 #EXTINF:-1,Thrill (Opt-1)
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1,Thrill (Opt-2)
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
-#EXTINF:-1,Thrill (Opt-3)
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
 #EXTINF:-1,TVKU
 http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,INDOSIAR
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000062/1024.m3u8
+#EXTINF:-1,SCTV
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS 7
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#EXTINF:-1,TRANS TV
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV ONE
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
+#EXTINF:-1,TRANS 7
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
