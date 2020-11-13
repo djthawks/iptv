@@ -915,9 +915,6 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1, tvg-id="Blush Romance TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-name="Blush Romance TV"  group-title="DAVE",Blush Romance TV
 https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-id="Blush TV" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-name="Blush TV"  group-title="DAVE",Blush TV
-https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Box Hits"  group-title="MUSIC",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
@@ -933,26 +930,6 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBN NEWS"  group-title="NEWS",CBN NEWS
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 
-#EXTINF:-1, tvg-id="CBS News (Opt-2)" tvg-logo="https://i.imgur.com/Qu9NAwe.png" tvg-name="CBS News (Opt-2)"  group-title="NEWS",CBS News (Opt-2)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS News Boston"  group-title="NEWS",CBS News Boston
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS News Los Angeles"  group-title="NEWS",CBS News Los Angeles
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBSN Bay Area"  group-title="NEWS",CBSN Bay Area
-https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBSN Minnesota"  group-title="NEWS",CBSN Minnesota
-https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBSN New York"  group-title="NEWS",CBSN New York
-https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBSN Philly"  group-title="NEWS",CBSN Philly
-https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cheddar"  group-title="NEWS",Cheddar
 https://live.chdrstatic.com/cheddar/primary/index.m3u8
@@ -997,17 +974,10 @@ http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="Fighting Spirit" tvg-logo="https://i.imgur.com/3eUEiiK.png" tvg-name="Fighting Spirit"  group-title="SPORT",Fighting Spirit
 https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="24/7 PLUTO TV",Flicks of Fury
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
 #EXTINF:-1, tvg-id="Folk TV" tvg-logo="https://i.imgur.com/hV46zMX.png" tvg-name="Folk TV"  group-title="DAVE",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24/7 PLUTO TV",Forensic Files
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
  
-#EXTINF:-1, tvg-id="Fox Sports PLUTO" tvg-logo="Logo N/A" tvg-name="Fox Sports PLUTO"  group-title="SPORT",Fox Sports PLUTO
-https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France 24 English"  group-title="NEWS",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -1015,8 +985,6 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Free Speech TV"  group-title="NEWS",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
-https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1, tvg-id="Golden TV" tvg-logo="https://i.imgur.com/XEtAu1Q.png" tvg-name="Golden TV"  group-title="DAVE",Golden TV
 https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
@@ -1041,9 +1009,6 @@ https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Horrified TV"  group-title="DAVE",Horrified TV
 https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/2c4af0a3-b851-f212-1806-52cfe91abd28-Horror247_featured.jpg" group-title="24/7 PLUTO TV",Horror 24/7
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Horse & Country TV"  group-title=DAVE",Horse & Country TV
@@ -1106,11 +1071,6 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w
 #EXTINF:-1, tvg-id="MLB Network" tvg-logo="https://i.imgur.com/G8r9ZR7.png" tvg-name="MLB Network"  group-title="SPORT",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1, tvg-id="MLS" tvg-logo="Logo N/A" tvg-name="MLS"  group-title="SPORT",MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MNX"  group-title="DAVE",MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Mo Laughter"  group-title="DAVE",Mo Laughter
 https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8
@@ -1124,8 +1084,6 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 #EXTINF:-1, tvg-id="Monarch Channel" tvg-logo="https://i.imgur.com/iSqYInb.png" tvg-name="Monarch Channel"  group-title="DAVE",Monarch Channel
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
 
-#EXTINF:-1, tvg-id="Movie Kingdom" tvg-logo="https://i.imgur.com/YgRz2Cc.png" tvg-name="Movie Kingdom"  group-title="DAVE",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 #EXTINF:-1, tvg-id="Movies Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" tvg-name="Movies Now"  group-title="DAVE",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -1147,12 +1105,6 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1, tvg-id="Newsy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Newsy.svg/revision/latest/scale-to-width-down/250?cb=20190815145947" tvg-name="Newsy"  group-title="NEWS",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-
-#EXTINF:-1, tvg-id="Nick Jr. PLUTO" tvg-logo="Logo N/A" tvg-name="Nick Jr. PLUTO"  group-title="DAVE",Nick Jr. PLUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1, tvg-id="Nick PLUTO" tvg-logo="Logo N/A" tvg-name="Nick PLUTO"  group-title="DAVE",Nick PLUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1, tvg-id="Olympic Channel (Opt-1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="SPORT",Olympic Channel (Opt-1)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
@@ -1258,10 +1210,7 @@ http://www.ast.tv/stream/1/master.m3u8
 https://www.ast.tv/stream/2/high.m3u8
 #EXTINF:-1, tvg-id="Adult" tvg-logo="Logo N/A" tvg-name="Adult"  group-title="xxx",Adult
 http://cdn.adultiptv.net/pov.m3u8?streamType=live
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="xxx",PENTHOUSE
-http://66.northerniptv.ca:8000/live/george/george123/71118.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="xxx",HUSTLER HD
-http://66.northerniptv.ca:8000/tommy2/123456/302?checkedby:iptvcat.com
+
 
 #EXTINF:-1, tvg-id="RETRO Music" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/Retro_Music_Channel.svg/revision/latest/scale-to-width-down/250?cb=20100526164945" tvg-name="RETRO Music"  group-title="MUSIC",RETRO Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -1278,9 +1227,6 @@ https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RT UK"  group-title="NEWS",RT UK
 https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky News"  group-title="NEWS",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky News Extra 1"  group-title="NEWS",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
@@ -1295,9 +1241,6 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Stadium"  group-title="SPORT",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1, tvg-id="Stadium PLUTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Stadium_TV_network_logo.png/150px-Stadium_TV_network_logo.png" tvg-name="Stadium PLUTO"  group-title="SPORT",Stadium PLUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1, tvg-id="Super Geek Heroes (New!)" tvg-logo="https://batterypop-v2-prod.s3.amazonaws.com/images/shows/547/images/large/Super-Geek-Heroes.png" tvg-name="Super Geek Heroes (New!)"  group-title="24/7",Super Geek Heroes (New!)
 https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
@@ -1398,9 +1341,6 @@ http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MOVIES",Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 
-
-#EXTINF:0 channel-id="11" radio="false" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-chno="11" tvg-country="UN" group-title="Entertainment",24 Box TV
-http://51.158.190.97/hls/stream.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/12/07/Untitled-1_17.jpg?itok=FNreB2PE" group-title="MOVIES",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -1582,8 +1522,6 @@ https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/
 https://810196ba95e649839da0b32235393623.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MadeInHollywood/72b302d2-2303-4e58-bf44-c9e7ae33495e/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PLEX USA",Monster Kids
 https://d8f9c7ca60f84037aad1ff1030ecfa2f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MonsterKids/c3ab9586-35f3-4813-8021-e9262efd4616/5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Nosey
-https://9c27771bc8af464c8588ae326fe26edd.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Nosey/3e715e05-ef51-4db7-8499-59628359c65b/5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PLEX USA",Pet Collection
 https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
