@@ -24,6 +24,8 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="MOVIE",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+#EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="USA",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="MOVIE",217 Stirr | The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
