@@ -72,7 +72,7 @@ http://cdnak8.cast4u.info/channels/3/10803.m3u8
 http://cdnak8.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1 ***-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT 
-http://cdnak8.cast4u.info/channels/6/10802.m3u8
+http://www.sansat.net:25461/live/02023817927902/jDspXau2IAjJQmA/58650.m3u8
 
 #EXTINF:-1 ***-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-1)
 http://cdnak8.cast4u.info/channels/7/10802.m3u8
@@ -81,7 +81,10 @@ http://cdnak8.cast4u.info/channels/7/10802.m3u8
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",104
-http://190.80.3.28/FOX/FOX.isml/index.m3u8
+http://190.80.3.28/CW/CW.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",105
+http://yourdnshere.xyz:83/live/Kericage/6824106935/300534.m3u8
 
 
 #EXTINF:-1, tvg-id="Romedy Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" tvg-name="Romedy Now"  group-title="DAVE",Romedy Now
