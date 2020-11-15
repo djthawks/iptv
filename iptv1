@@ -1615,8 +1615,140 @@ http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="MOVIE",Sony Movies Action
 http://51.52.156.22:8888/http/009
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="",100
+http://wp.fadev.club/edge/NBCSN/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",101
+https://hlslive-akc-ewr1.media.mlb.com/hdnts=exp=1598827566~acl=/*~id=00u58f0keng3q6bwU357~data=4b56de73-5a1e-470b-a3ba-5e977819a044~hmac=f3ef181f9141d8e13b8e4348791b97fce507ed80bb71a8408893412119a47660/7a7394472253f716832deaffa2f91596/ls01/mlb/2020/08/29/Away_VIDEO_eng_Oakland_Athletics_Houston_20200829_1598738504000/master_desktop_complete.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",102
+http://gameon.azureedge.net/hls/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",103
+http://34.120.82.157/live/la/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",104
+http://34.120.196.204/live/bt1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",105
+http://weak_spell.carniferou.club/edge/FS1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",106
+http://34.107.242.203/live/abc/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",107
+http://34.107.242.203/live/nba1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",108
+http://34.107.242.203/live/nba2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",109
+http://34.107.242.203/live/nba3/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",110
+http://34.107.242.203/live/nba4/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",111
+http://34.107.242.203/live/nba5/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",112
+http://34.107.242.203/live/nba6/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",113
+http://34.107.242.203/live/nba7/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",114
+http://crack.azureegde.net/espn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",115
+http://185.233.186.32:8080/live/ESPN.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",116
+http://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",117
+http://crack.azureegde.net/nbc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",118
+http://34.107.171.161/live/cbs/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",119
+http://crack.azureegde.net/lal.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",120
+http://cdn.60fpstv.com/playlist/0eea96a2c5416ec392695cbbf25760bc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",121
+http://34.102.207.198/live/cbs/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",122
+http://cdn.60fps.live/live/nfl2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",
+http://23.237.109.187/fox/index.m3u8?md5=n1FdADHckRzIneKPbgy-GQ&expires=1575782106
+#EXTINF:-1 tvg-logo="" group-title="",123
+http://cfb127.azureedge.net/live/FOX/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",124
+http://teleupmsl.ak@amaized.net/hls/live/2004009/wpmtmsl/wpmt_2000/chunklist.m3u8?hdntl=exp=1575859437~acl=/*~data=hdntl~hmac=acc95803715cf73bee0c0b5d77c7d0b212feab20c51b5eb7dc019035c885bc
+#EXTINF:-1 tvg-logo="" group-title="",125
+http://ujrskfjsofksedfsd.gilsyakesghyaksen.xyz/live/11/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",126
+http://allenz.xyz/neinz/video/abc/i.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",127
+http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",128
+http://cdn.youpits.com/live/btsport1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",129
+http://cdn.60fps.live/live/nbcsn/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",130
+http://cdn1.60fps.live/live/nbcsn/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",131
+http://cdn.60fps.live/live/epl1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",132
+http://cdn.60fps.live/live/nbcg1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",133
+http://cdn.60fps.live/live/nbcg2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",134
+http://cdn.60fps.live/live/nbcg3/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",135
+http://cdn.60fps.live/live/nbcg4/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",136
+http://cdn.60fps.live/live/nbcg5/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",137
+http://cdn.60fps.com/live/nbcsn/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",138
+http://cdn.youpits.com/live/g1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",139
+http://cdn.youpits.com/live/g2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",140
+http://cdn.youpits.com/live/g1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",141
+http://cdn.60fps.live/live/fs1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",142
+http://cdn1.60fps.live/live/fs1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",143
+http://34.102.158.163/live/fs1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",144
+http://weak_spell.carniferou.club/edge/FS1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",145
+http://cdn.60fps.live/live/sn/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",146
+http://cdn.youpits.com/live/fs2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",147
+http://zubacz.xyz/watch/abc/qual/720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",148
+http://cdn.youpits.com/live/abc/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",149
+http://cdn.youpits.com/live/cbs/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",150
+http://cdn.youpits.com/live/fox/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",151
+http://cdn.youpits.com/live/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",152
+http://cdn.youpits.com/live/espn2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",153
+http://cdn.youpits.com_/live/esnews/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",154
+http://cdn.youpits.com/live/st1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",155
+http://cdn.youpits.com/live/st2/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",156
+http://jap.warriorz.xyz/hls/nbatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",157
+http://the.cavaliersz.xyz/hls/chargers.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",158
+http://allenz.xyz/neinz/video/btn/e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",159
+http://rubioz.xyz/neinz/video/fox/e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",160
+http://allenz.xyz/neinz/video/fox/d.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",161
+http://cdn.sports24.win/get.m3u8?ch=foxny
+#EXTINF:-1 tvg-logo="" group-title="",162
+http://cdn.sports24.win/espn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",163
+http://allenz.xyz/neinz/video/espn/e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",164
+http://allenz.xyz/neinz/video/espn/d.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",165
+http://yrsprts.xyz/hls/c.m3u8?ch=FS1&q=pkgFS1Lo.m3u8
 
 
 
