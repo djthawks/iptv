@@ -37,7 +37,6 @@ http://tv.nousiptv.com:25462/live/rod/1234/29078.m3u8?checkedby:iptvcat.com
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="CNN BANGLA " tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="BANGLADESH IPTV",CNN BANGLA 
 http://bdiptv.myftp.biz:25461/live/Orangetv/745rony900/10693.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/live2web-logo-Converted.jpg?x91288" group-title="BANGLADESH IPTV",LIVE2WEB IPTV [BD]
