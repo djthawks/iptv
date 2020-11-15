@@ -48,6 +48,51 @@ https://gma2.blab.email/acc.m3u8
 https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN FS2" group-title="SPORT",ESPN 
 https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BIG 10
+https://gma2.blab.email/btn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FOX
+https://gma2.blab.email/fox.m3u8
+#EXTINF:-1 ***-logo="https://i.imgur.com/4YoW2Pt.png" group-title="USA",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",101
+https://gma2.blab.email/espn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",102
+https://gma2.blab.email/fs1.m3u8
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/ECi85Nr.png" group-title="USA",Fox (WSVN)
+http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/WBiCDLB.png" group-title="USA",Fox News Channel (Opt-1)
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/WBiCDLB.png" group-title="USA",Fox News Channel (Opt-2) (No-Audio)
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-1)
+http://cdnak8.cast4u.info/channels/2/10802.m3u8
+ 
+#EXTINF:-1 ***-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-2)
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/0VI7V1A.png" group-title="USA",USA Network
+http://cdnak8.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/7DwiHDb.png" group-title="USA",Vegas Stats
+https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8?
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/HNp0cBp.png" group-title="USA",WMFD 68 Ohio
+https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
+
+#EXTINF:-1 ***-logo="https://i.imgur.com/z3DMmtQ.png" group-title="USA",WPHA 38 Philadelphia
+https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
+
+#EXTINF:-1 tvg-logo="" group-title="",104
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
+
+
 #EXTINF:-1, tvg-id="Romedy Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" tvg-name="Romedy Now"  group-title="DAVE",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
