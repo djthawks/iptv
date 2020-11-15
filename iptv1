@@ -52,8 +52,6 @@ https://gma2.blab.email/fs2.m3u8
 https://gma2.blab.email/btn.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FOX
 https://gma2.blab.email/fox.m3u8
-#EXTINF:-1 ***-logo="https://i.imgur.com/4YoW2Pt.png" group-title="USA",AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",101
 https://gma2.blab.email/espn.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FS1
@@ -61,9 +59,6 @@ https://gma2.blab.email/fs1.m3u8
 
 #EXTINF:-1 ***-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 ***-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-1)
-http://cdnak8.cast4u.info/channels/5/10802.m3u8
  
 #EXTINF:-1 ***-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-2)
 http://cdnak8.cast4u.info/channels/3/10803.m3u8
@@ -85,6 +80,16 @@ http://190.80.3.28/CW/CW.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",105
 http://yourdnshere.xyz:83/live/Kericage/6824106935/300534.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",106
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",107
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",108
+http://190.80.3.28/CW/CW.isml/index.m3u8
+
 
 
 #EXTINF:-1, tvg-id="Romedy Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" tvg-name="Romedy Now"  group-title="DAVE",Romedy Now
