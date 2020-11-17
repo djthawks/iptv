@@ -1831,8 +1831,7 @@ https://edge-1192-ch-gv.filmon.com/live/4139.high.stream/playlist.m3u8
 http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2949
 #EXTINF:-1 tvg-id="itv+1.gb" tvg-name="ITV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="UK Ent", ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-id="channel.4.gb" tvg-name="CHANNEL 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK025Channel4.png" group-title="UK Ent", CHANNEL 4
-http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
+
 #EXTINF:-1 tvg-id="channel.5.gb" tvg-name="CHANNEL 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK026Channel5.png" group-title="UK Ent", CHANNEL 5
 http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2931
 #EXTINF:-1 tvg-id="bbc.four.gb" tvg-name="BBC FOUR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK010BBC4.png" group-title="UK Ent", BBC FOUR
@@ -1841,107 +1840,40 @@ http://51.52.156.22:8888/http/003
 http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-id="dave.gb" tvg-name="DAVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK031Dave.png" group-title="UK Ent", DAVE
 http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2926
-#EXTINF:-1 tvg-name="GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK173gold.png" group-title="UK Ent", UK173:GOLD
-http://178.132.3.162:88/Gold/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="really.gb" tvg-name="REALLY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK287Really.png" group-title="UK Ent", REALLY
 https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="forces.gb" tvg-name="FORCES TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/FORCES_TV_%282014%29.png", FORCES TV 
 https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="sony.movies.action.gb" tvg-name="SONY MOVIES ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-action-us-uk.png", SONY MOVIES ACTION
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-id="hbo.1.gb" tvg-name="HBO ADRIA" tvg-logo="https://serijskiubojica.hr/wp-content/uploads/2017/08/HBO-adria.jpg", HBO ADRIA
-http://bos.00387.info:8080/HBO/index.m3u8?token=test
-#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://logodix.com/logo/2044179.png", HBO 2
-http://bos.00387.info:8080/HBO2/index.m3u8?token=test
-#EXTINF:-1 tvg-name="HBO 3" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/negative/hbo3-hd.png", HBO 3
-http://bos.00387.info:8080/HBO3/index.m3u8?token=test
-#EXTINF:-1 tvg-name"CINEMAX" tvg-logo="https://image.flaticon.com/icons/png/128/870/870994.png", CINEMAX
-http://bos.00387.info:8080/Cinemax1/index.m3u8?token=test
-#EXTINF:-1 tvg-name"CINEMAX 2" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/pr/cinemax2.png", CINEMAX 2
-http://bos.00387.info:8080/Cinemax2/index.m3u8?token=test
-#EXTINF:-1 tvg-name"NATIONAL GEOGRAPHIC" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png", NATIONAL GEOGRAPHIC
-http://bos.00387.info:8080/NationalGeographicChannel/index.m3u8?token=test
-#EXTINF:-1 tvg-name"NAT GEO WILD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png", NAT GEO WILD
-http://bos.00387.info:27979/DOK:NATGEOWILD/index.m3u8?token=test
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png", ANIMAL PLANET
-http://bos.00387.info:8080/AnimalPlanetHD/index.m3u8?token=test
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png", HISTORY 
-http://bos.00387.info:8080/HistoryChannel/index.m3u8?token=test
+
+
 #EXTINF: -1 tvg-id="pbs.america.gb" tvg-name="AMERICA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK280PBSAmerica.png" group-title="UK Ent", PBS AMERICA
 http://51.52.156.22:8888/http/012
-#EXTINF:-1, tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png", SMITHSONIAN CHANNEL
-http://appcliente.com:8880/wilhan/1234/6581
+
 #EXTINF:-1, tvg-name="VIASAT HISTORY" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_history.png", VIASAT HISTORY
 http://79.137.248.204:4022/udp/230.3.3.100:5678
-#EXTINF: -1 tvg-name="EDEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK162Eden.png" group-title="UK Ent", EDEN
-#EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_channel_us.png", TRAVEL CHANNEL 
-http://bos.00387.info:27979/DOK:TravelChannel/index.m3u8?token=test
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png", AXN
-http://bos.00387.info:8080/HU:TV2/index.m3u8?token=test
-#EXTINF:-1 tvg-name="CINESTAR PREMIERE 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_star_hr_premiere1.png", CINESTAR PREMIERE 1
-http://hrv.00387.info/CinestarPremiere1/index.m3u8?token=test
-#EXTINF:-1,CINESTAR PREMIERE 2
-#EXTINF:-1 tvg-name="CINESTAR PREMIERE 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_star_hr_premiere2.png", CINESTAR PREMIERE 2
-http://hrv.00387.info/CinestarPremiere2/index.m3u8?token=test
-#EXTINF:-1 tvg-name="FOX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png", FOX
-http://srb.00387.info/FOXHD/index.m3u8?token=test
-#EXTINF:-1 tvg-name="TV 1000" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_tv1000_balkan.png", TV 1000
-http://hrv.00387.info:80/tv1000/index.m3u8?token=test
+
 #EXTINF:-1 tvg-name="ABC (USA)" tvg-logo="https://static-s.aa-cdn.net/img/ios/364191819/91a396b09d12bc302be568e10a939bf9", ABC (USA)
 http://mu03ye.wanicelife.com:8880/YALM0660/94395122/29438
-#EXTINF:-1 tvg-name="CBS (USA)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/01/CBS-logo.jpg", CBS (USA)
-http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 tvg-name="NBC (USA)" tvg-logo="https://designobserver.com/media/images/mondrian/39684-NBC_logo_m.jpg", NBC (USA)
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28875
+
+
 #EXTINF: -1 tvg-id="clubland.gb" tvg-name="CLUBLAND" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK227ClublandTV.png" group-title="UK Ent", CLUBLAND
 http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28832
-#EXTINF: -1 tvg-id="kerrang.gb" tvg-name="KERRANG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK131KERRANG.png" group-title="UK Ent", KERRANG
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28796
-#EXTINF: -1 tvg-id="vh1.gb" tvg-name="VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK063VH1UK.png" group-title="UK Ent", VH1
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2894
-#EXTINF:-1 tvg-name="MTV 80'S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-80s-us.png", MTV 80'S
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28873
-#EXTINF:-1 tvg-name="MTV 90'S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-90s-us.png", MTV 90'S 
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28785
-#EXTINF: -1 tvg-id="mtv.hits.gb" tvg-name="MTV HITS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_hits_us_global.png" group-title="UK Ent", MTV HITS
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2896
+
 #EXTINF:-1 tvg-name="DEEJAY TV" tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio_deejay_it.png", DEE JAY TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deluxe_music_de.png", DELUXE MUSIC
-http://83.164.148.178:8888/play/a01n
+
 #EXTINF:-1 tvg-name="GOTV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/go_tv_at.png", GOTV
 http://83.164.148.178:8888/play/a048
-#EXTINF: -1 tvg-id="kiss.gb" tvg-name="KISS UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK132KISSUK.png" group-title="UK Ent", KISS UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28927
+
 #EXTINF: -1 tvg-name="BOX HITS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK202BOXHITSHD.png" group-title="UK Ent", BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF: -1 tvg-id="the.box.gb" tvg-name="THE BOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK317TheBox.png" group-title="UK Ent", THE BOX
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-name="N1" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png", N1 HR
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1tvg-name="RTV HERCEG BOSNE" tvg-logo="https://rtv-hb.com/wp-content/uploads/2020/09/logo-272x90-1.png", RTV HERCEG BOSNE
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1  tvg-name="Z1" tvg-logo="https://www.lyngsat.com/logo/tv/zz/z1_hr.png", Z1
-https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
-#EXTINF:-1 tvg-name="BHT1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bht-1-ba.png", BHT1
-https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:-1 tvg-name="FEDERALNA TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/ftv_ba.png", FEDERALNA
-http://bos.00387.info/FederalnaTV/index.m3u8?token=test
-#EXTINF:-1 tvg-name="RTV BUGOJNO" tvg-logo="https://www.bugojno-danas.info/wp-content/uploads/2020/10/rtv.jpg", RTV BUGOJNO
-http://bos.00387.info:27979/RTVBUGOJNO/index.m3u8?token=test
-#EXTINF:-1,FACE TV
-http://bos.00387.info:27979/FACETV/index.m3u8?token=test
-#EXTINF:-1,PINK
-http://srb.00387.info:80/Pink/index.m3u8?token=test
-#EXTINF:-1,PRVA
-http://srb.00387.info:80/Prva/index.m3u8?token=test
-#EXTINF:-1,B92
-http://srb.00387.info:80/O2TV/index.m3u8?token=test
-#EXTINF:-1,RTS 1
-http://srb.00387.info/RTS1/index.m3u8?token=test
-#EXTINF:-1,BOOMERANG
-http://hrv.00387.info/BoomerangTV/index.m3u8?token=test
+
+
 #EXTINF:-1,TEN (AUSTRALIA)
 http://203.122.193.228:9981/stream/channelid/286444328
 #EXTINF:-1,SKY NEWS AUSTRALIA
@@ -1966,20 +1898,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1,FOOD NETWORK
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1,ITV 2
-http://51.52.156.22:8888/http/005
-#EXTINF:-1,ITV 3
-http://51.52.156.22:8888/http/006
-#EXTINF:-1,ITV 4
-http://51.52.156.22:8888/http/007
-#EXTINF:-1, POP MAX
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8 
-#EXTINF:-1, TINY POP
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8 
-#EXTINF:-1, POP
-https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8 
-#EXTINF:-1,FASHION TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+
 #EXTINF:-1,GAY PORN 1
 https://edge-1192-ch-gv.filmon.com/live/6155.high.stream/playlist.m3u8
 #EXTINF:-1,GAY PORN 2
@@ -2046,14 +1965,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=htt
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1,MTV NORWAY
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,E4
-http://178.132.3.162:88/E4/video.m3u8?token=test
-#EXTINF:-1,RUSSIA PERVI KANAL
-https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8 
-#EXTINF:-1,FRANCE 3
-https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8 
-#EXTINF:-1,FRANCE 3
-https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8 
 
 
 
