@@ -1869,8 +1869,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EURONEWS
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://5.135.92.133:52841/out/u/502_1.m3u8
+
 
 #EXTINF:-1 group-title="xxx",GAY PORN 1
 https://edge-1192-ch-gv.filmon.com/live/6155.high.stream/playlist.m3u8
@@ -1906,32 +1905,10 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/bigass.m3u8
 
 
-#EXTINF:-1,BBC ONE
-https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
-#EXTINF:-1,BBC SCOTLAND
-http://51.52.156.22:8888/http/001
-#EXTINF:-1,BBC TWO
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2949
-#EXTINF:-1,BBC FOUR
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2947
-#EXTINF:-1,CHANNEL 4
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2932
-#EXTINF:-1,CHANNEL 5
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2931
-#EXTINF:-1,SKY ONE
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2867
-#EXTINF:-1,SKY ATLANTIC
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28955
-#EXTINF:-1,SKY PREMIERE
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2885
-#EXTINF:-1,FOX UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2913
 #EXTINF:-1,RTE NEWS
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1,TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1,KERRANG!
-http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1,KERRANG!
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1,MAGIC
@@ -1939,6 +1916,27 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 #EXTINF:-1,MTV NORWAY
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV (1)
+http://87.120.36.62:8080/hls/streama117998/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV (2)
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" group-title="USA FREE OTA TV",NBC-TV (1)
+http://87.120.36.62:8080/hls/streama120404/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" group-title="USA FREE OTA TV",NBC-TV (2)
+http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="USA FREE OTA TV",CBS-TV (1)
+http://87.120.36.62:8080/hls/streama117999/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="USA FREE OTA TV",CBS-TV (2)
+http://190.80.3.28/CBS/CBS.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png" group-title="USA FREE OTA TV",FOX-TV
+http://87.120.36.62:8080/hls/streama118000/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="USA FREE OTA TV",The CW (1)
+http://87.120.36.62:8080/hls/streama118001/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="USA FREE OTA TV",The CW (2)
+http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="USA FREE OTA TV",PBS-TV
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" group-title="USA FREE OTA TV",WZTS-TV | Cozi TV
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 
 
