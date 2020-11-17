@@ -1916,17 +1916,34 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 #EXTINF:-1,MTV NORWAY
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
-http://161.0.157.51/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
-http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png",US | History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-id="I26.11221.zap2it.com" tvg-name="26" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark-Channel_300x300.png?raw=true",EPG | Hallmark Channel
+https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
+
+#EXTINF:-1 tvg-id="I629.61522.zap2it.com" tvg-name="629" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark-M-M_800x800.png?raw=true",EPG | Hallmark M. & Mysteries
+https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
+#EXTINF:-1 tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.1 Buzzr
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
+#EXTINF:-1 tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.2 NewsNet
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 tvg-id="I25.3.97435.zap2it.com" tvg-name="25.3" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.3 Antenna TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 tvg-id="I25.4.97118.zap2it.com" tvg-name="25.4" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.4 Action
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 tvg-id="I25.5.97119.zap2it.com" tvg-name="25.5" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.5 NewsMax TV
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:-1 tvg-id="I25.6.97120.zap2it.com" tvg-name="25.6" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.6 WeatherNation
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-id="I25.7.97124.zap2it.com" tvg-name="25.7" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.7 Rev'n
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1 tvg-id="I25.8.97125.zap2it.com" tvg-name="25.8" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.8 Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 tvg-id="I25.9.97126.zap2it.com" tvg-name="25.9" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.9 Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 tvg-id="I25.10.97127.zap2it.com" tvg-name="25.10" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.10 Shop LC
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 tvg-id="I25.11.106745.zap2it.com" tvg-name="25.11" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.11 This TV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 tvg-id="I25.12.106746.zap2it.com" tvg-name="25.12" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.12 Jewelry TV
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
 
