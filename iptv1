@@ -1916,45 +1916,17 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 #EXTINF:-1,MTV NORWAY
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",popcornflix Action Movies
-https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Homemade TV
-https://stitcher.unreel.me/live/5c952677932c837b493972a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Lego Toons
-https://stitcher.unreel.me/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Channel Christmas
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/OOPS_Out-Of-Service_Xmas-1.mp4?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Miracles of Christmas
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/OOPS_Out-Of-Service_Xmas-2.mp4?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas Collection",LIVE Sony Movies Christmas
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/OOPS_Out-Of-Service_Xmas-3.mp4?raw=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JtSSvss.png",US SPORT | ESPN 2 HD
-https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zQSTKzm.png",US SPORT | ESPN HD
-https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yaMhN8U.jpg",US | USA HD
-https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e9sgV1r.png",US | FOX News HD
-https://cvtv.cvalley.net/hls/FoxNewsHD/FoxNewsHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vHYFQYR.png",US SPORT | Fox Sports 1
-https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2vQ8yIX.png",US | HGTV HD
-https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ejXfHa4.png",US | History HD
-https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Njl2UVf.png",US | KCPT PBS
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QqQbJaN.png",US | KCTV 5
-https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/urX82hM.png",US | KCTV Comet
-https://cvtv.cvalley.net/hls/KCTVComet/KCTVComet.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GTpcYBO.jpg",US | The CW 29 Kansas City MO (KCWE)
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xQgJvW6.png",US | KHQA 7 CBS
-https://cvtv.cvalley.net/hls/KHQACBS/KHQACBS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xyN2yKP.png",US | KMBC 9 ABC
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
+http://161.0.157.51/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlS1LHZ.png",US | HBO2
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png",US | History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 
