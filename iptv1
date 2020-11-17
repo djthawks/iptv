@@ -26,9 +26,22 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 #EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="USA",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="Movies",Flicks of Fury
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Movies",The Asylum
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Movies",Pluto TV Thrillers
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="5b4e92e4694c027be6ecece1" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="Movies",Pluto TV Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-chno="103" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Movies",CMT Westerns
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-chno="151" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="Entertainment",Pluto TV Sci-Fi
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Movies",Pluto TV Fantastic
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="MOVIE",217 Stirr | The Asylum
-https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="MOVIE",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
@@ -203,8 +216,7 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MOVIE",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="MOVIE",Flicks of Fury
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="MOVIE",221 Stirr | Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="MOVIE",222 Stiff | MovieMix
@@ -339,10 +351,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a8419
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="58d947b9e420d8656ee101ab" tvg-chno="489" tvg-logo="https://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="Comedy",RiffTrax
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=489&deviceId=58d947b9e420d8656ee101ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="Movies",Flicks of Fury
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Movies",The Asylum
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-id="5938876b78d8d9c074c3c657" tvg-chno="675" tvg-logo="https://images.pluto.tv/channels/5938876b78d8d9c074c3c657/colorLogoPNG.png" group-title="Explore",Adventure TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=675&deviceId=5938876b78d8d9c074c3c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5938888cd045ffce74cf9048" tvg-chno="612" tvg-logo="https://images.pluto.tv/channels/5938888cd045ffce74cf9048/colorLogoPNG.png" group-title="Home + DIY",FrontDoor
@@ -385,20 +394,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b22d1ee2795d0021be
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=636&deviceId=5b329e0a7b9d8872aeb49ceb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5b36abcddfb1f0729a3a7dab" tvg-chno="899" tvg-logo="https://images.pluto.tv/channels/5b36abcddfb1f0729a3a7dab/colorLogoPNG.png" group-title="Music",Privacy Policy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b36abcddfb1f0729a3a7dab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=899&deviceId=5b36abcddfb1f0729a3a7dab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Movies",Pluto TV Thrillers
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5b4e92e4694c027be6ecece1" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="Movies",Pluto TV Drama
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-chno="103" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Movies",CMT Westerns
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5b4e96a0423e067bd6df6901" tvg-chno="379" tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Crime",Unsolved Mysteries
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=379&deviceId=5b4e96a0423e067bd6df6901&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5b4e99f4423e067bd6df6903" tvg-chno="294" tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="Reality",Gordon Ramsay's Kitchen
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=294&deviceId=5b4e99f4423e067bd6df6903&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-chno="151" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="Entertainment",Pluto TV Sci-Fi
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Movies",Pluto TV Fantastic
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5b68a18823ecb93393cba2f1" tvg-chno="154" tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png" group-title="Entertainment",British TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5b6b285823ecb93393cbf766" tvg-chno="687" tvg-logo="https://images.pluto.tv/channels/5b6b285823ecb93393cbf766/colorLogoPNG.png" group-title="Explore",Chassy
@@ -1063,7 +1062,6 @@ https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Horrified TV"  group-title="DAVE",Horrified TV
 https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
 
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Horse & Country TV"  group-title=DAVE",Horse & Country TV
 https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
 
@@ -1124,7 +1122,6 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w
 #EXTINF:-1, tvg-id="MLB Network" tvg-logo="https://i.imgur.com/G8r9ZR7.png" tvg-name="MLB Network"  group-title="SPORT",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Mo Laughter"  group-title="DAVE",Mo Laughter
 https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8
 
@@ -1136,7 +1133,6 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 
 #EXTINF:-1, tvg-id="Monarch Channel" tvg-logo="https://i.imgur.com/iSqYInb.png" tvg-name="Monarch Channel"  group-title="DAVE",Monarch Channel
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
-
 
 #EXTINF:-1, tvg-id="Movies Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" tvg-name="Movies Now"  group-title="DAVE",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -1876,37 +1872,37 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1,FOOD NETWORK
 http://5.135.92.133:52841/out/u/502_1.m3u8
 
-#EXTINF:-1,GAY PORN 1
+#EXTINF:-1 group-title="xxx",GAY PORN 1
 https://edge-1192-ch-gv.filmon.com/live/6155.high.stream/playlist.m3u8
-#EXTINF:-1,GAY PORN 2
+#EXTINF:-1 group-title="xxx",GAY PORN 2
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1, PORN 
+#EXTINF:-1 group-title="xxx", PORN 
 https://edge-1192-ch-gv.filmon.com/live/6158.high.stream/playlist.m3u8
-#EXTINF:-1, PORN
+#EXTINF:-1 group-title="xxx", PORN
 https://edge-1192-ch-gv.filmon.com/live/6152.high.stream/playlist.m3u8 
-#EXTINF:-1,ROUGH
+#EXTINF:-1 group-title="xxx",ROUGH
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1,MILF
+#EXTINF:-1 group-title="xxx",MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1,BIG DICK CHANNEL
+#EXTINF:-1 group-title="xxx",BIG DICK CHANNEL
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1,THREESOME
+#EXTINF:-1 group-title="xxx",THREESOME
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1,GANGBANG
+#EXTINF:-1 group-title="xxx",GANGBANG
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1,INTERRACIAL
+#EXTINF:-1 group-title="xxx",INTERRACIAL
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1,BLOWJOB
+#EXTINF:-1 group-title="xxx",BLOWJOB
 http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1,HARDCORE
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1,COMPILATION
+#EXTINF:-1 group-title="xxx",COMPILATION
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1,ANAL
+#EXTINF:-1 group-title="xxx",ANAL
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1,PORNSTAR
+#EXTINF:-1 group-title="xxx",PORNSTAR
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1,BIG ASS
+#EXTINF:-1 group-title="xxx",BIG ASS
 http://cdn.adultiptv.net/bigass.m3u8
 
 
