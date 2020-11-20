@@ -63,7 +63,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MOVIES",&Prive HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
-#EXTM3U
+
 #EXTINF:-1 group-title="MOVIE", AXN
 http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 group-title="MOVIE", AXN
