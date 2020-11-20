@@ -2,112 +2,47 @@
 
 #EXTINF:-1 group-title="PAKDE",NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",NFLNetwork
-https://www.livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="PAKDE",Golf HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",HBO HD
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",HBO Hit
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",HBOSignature
-https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="PAKDE",FoxActionHD_TH
 https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",FoxActionHD
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="PAKDE",FoxMovies_TH
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",FoxMovies
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="PAKDE",FoxFamilyHD_TH
 https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",FoxFamilyHD
-https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="PAKDE",FoxThai_TH
 https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",FoxThai
-https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",FoxCrimeHD_TH
-https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",FoxCrimeHD
-https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",RedbyHBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="PAKDE",AXN HD
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",WarnerTV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",FXThailand
-https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",TrueFilmHD1
-https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",TrueFilmHD2
-https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",HISTORY HD
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",H2 HD
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",DiscoveryChannel
-https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="PAKDE",DiscoveryHDWorld
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",NatGeoHD_TH
-https://www.livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",NatGeo HD
-https://www.livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
+
+
 #EXTINF:-1 ,NatGeo Wild_TH
 https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",NatGeo People
-https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",NatGeoWild
-https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",AnimalPlanet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Sumrujlok
-https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",MYSCIHD
-https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",BBCEARTH
-https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="PAKDE",DisneyXD
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",T_Sports
 https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",MANGORN
 https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",MONO_Plus
-https://www.livedoomovie.com/02_MONO_Plus_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Zee_Nung
-https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Thrill
-https://www.livedoomovie.com/02_Thrill_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",SCM
-https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",CMM
-https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Comedy
-https://www.livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Baby_TV_HD
-https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Miao_Mi
-https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Boomerang
-https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",FANMUSICHD
-https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Wish_Channel
-https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",MTV_China
-https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",Channel_V
-https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",MTV_Asia
-https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",MTV_Live_HD
-https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",KIX_Thailand
-https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="PAKDE",3HD
 https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",5HD
@@ -126,16 +61,12 @@ https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",AMARIN HD
 https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",TNN24
-https://www.livedoomovie.com/02_TNN24_480p/chunklist.m3u8
+
 #EXTINF:-1 group-title="PAKDE",TRUE4U
 https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",WORKPIONT
 https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",GMM
-https://www.livedoomovie.com/02_GMM_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",MONO29
-https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="PAKDE",NEW
 https://www.livedoomovie.com/02_NEW_480p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",NATION TV
@@ -143,9 +74,6 @@ https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",8 HD
 https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="Entertainment", TBS
-http://170.250.96.20:8117/streams/TBS.m3u8
 #EXTINF:-1,MOVIE NOW X
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,MOVIE NOW
