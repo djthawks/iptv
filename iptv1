@@ -1,27 +1,21 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
  
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",FOX Premium Comedy [360p]
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",FOX Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [360p]
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1570px-Showtime.svg.png",Showtime
-http://80.80.160.168/live/7/2500000/live.m3u8
- #EXTINF : -1, B4U MOVIE
-http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
-#EXTINF : -1, B4U MUSIC
-http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
-#EXTINF : -1, CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-#EXTINF : - 1, CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF : -1, FOX
-http://161.0.157.51/PLTV/88888888/224/3221227042/03.m3u8
-#EXTINF : -1, NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF : -1, Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF : - 1, Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/02.m3u8
+#EXTINF : -1, Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/03.m3u8
+#EXTINF : -1, CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/1.m3u8
+#EXTINF : -1, CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/02 .m3u8
+#EXTINF : -1, CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/04.m3u8
+#EXTINF : -1, SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+#EXTINF : -1, SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/04.m3u8
  
  
 #EXTINF:-1,USA 
