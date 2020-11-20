@@ -1,5 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1,Max TV 
+http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8 
+#EXTINF:-1,USA 
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxus
+
 #EXTINF:-1, tvg-id="NBC6WTVJ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/220px-NBC_logo_%282013%29.svg.png" tvg-name="NBC 6 Miami FL (WTVJ)"  group-title="DAVE",NBC 6 Miami FL (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:0 tvg-id="CBSWFOR.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="DAVE",CBS
