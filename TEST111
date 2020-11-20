@@ -1,5 +1,90 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cdm9Jks/BBC-Earth.png" group-title="Knowledge", BBC Earth
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkf07S7c/natgeo.png" group-title="Knowledge",Nat Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:0 tvg-logo="https://i.postimg.cc/mkf07S7c/natgeo.png" group-title="Knowledge", Nat Geographic(backup)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1VB0Wct/Nat-geo-wild.png" group-title="Knowledge",Nat Geo Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kL8NqVL/nat-Geo-pople.png" group-title="Knowledge",Nat Geo People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6sxHBNB/Discovery-channel.png" group-title="Knowledge", Discovery Chanel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF9T2cWt/History.png" group-title="Knowledge",History
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCG8F2cv/Animal-Planet.png" group-title="Knowledge",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px5J82qT/CGTN-doc.png" group-title="Knowledge", CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fpzMvCL/Fashion-tv.png" group-title="Knowledge", Fashion TV Films
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fpzMvCL/Fashion-tv.png" group-title="Knowledge", Fashion TV Teens
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fpzMvCL/Fashion-tv.png" group-title="Knowledge", Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF9T2cWt/History.png" group-title="Knowledge",History 2
+
+
+#EXTINF:-1 group-title="MOVIES",Sinema Indonesia
+http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="MOVIES",FOX Movies HD
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+
+#EXTINF:-1 group-title="MOVIES",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+
+#EXTINF:-1 group-title="MOVIES",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxrb6QrH/AXN.png" group-title="MOVIES", AXN
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTjCw8J1/HBO-Family-logo.png" group-title="MOVIES", HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqST7Dnm/HBO-Signature-Asia.png" group-title="MOVIES", HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2IyFyFJ.png" group-title="MOVIES", First Movie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="MOVIES", Zee Bioskop
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKFh0ZBc/Flik.png" group-title="MOVIES", Flik
+https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13gnw5RV/imc.png" group-title="MOVIES", IMC
+https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5htwmj3/TVN.png" group-title="MOVIES", TvN
+https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue%20ant%20entertainment.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4C8T6Hq/sony-one.png" group-title="MOVIES", Sony One
+http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjxGZYs2/Sony-Gem.png" group-title="MOVIES", Sony Gem
+http://rr.dens.tv/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYcZf9FN/warner.png" group-title="MOVIES", Warner tv
+http://203.207.56.228/live/iptv033.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZHrwsg0/kix.png" group-title="MOVIES", Kix
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQ491Rz/diva.png" group-title="MOVIES", Diva
+#http://210.210.155.35/uq2663/h/h11/index.m3u8
+#http://45.126.83.51/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMBLHZmm/Thrill.png" group-title="MOVIES", Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNqpV5QQ/Blue-ant-entertainment.png" group-title="MOVIES", Blue Ant Entertainment
+http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/650xP0Tr/Blue-ant-Extreme.png" group-title="MOVIES", Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+#http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYC6Tps2/Hits.png" group-title="MOVIES", Hits
+http://210.210.155.35/uq2663/h/h17/index2.m3u8
+#http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XYkXfVV/Cinema-World.png" group-title="MOVIES",Cinema World
+http://210.210.155.35/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2YZxPZs/My-Cinema.png" group-title="MOVIES", My Cinema
+http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1pDf1vq/Celestial.png" group-title="MOVIES", Celestial Movies
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="MOVIES",THRILL ID
+http://rr2.dens.tv/s/s34/index.m3u8
+
 #EXTINF:-1 group-title="PAKDE",NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
