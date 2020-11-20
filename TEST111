@@ -2,6 +2,7 @@
 
 #EXTINF:-1 group-title="MOVIES",Star Movies HD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
 #EXTINF:-1 group-title="MOVIES",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
 
@@ -19,6 +20,7 @@ http://203.154.243.89:2037
 
 #EXTINF:-1 group-title="MOVIES",Star Movies HD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
 #EXTINF:-1 group-title="MOVIES",FOX Movies HD
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
 
