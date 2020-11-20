@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1,New York | WPIX 11 
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/904k/index.m3u8
 #EXTINF:-1,Max TV 
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8 
 #EXTINF:-1,USA 
