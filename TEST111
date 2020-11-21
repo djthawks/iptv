@@ -1,5 +1,105 @@
 #EXTM3U
 
+#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,外AXN HD
+http://45.126.83.51/uq2663/h/h09/01.m3u8
+#EXTINF:tvg-logo=“https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg“,外KIX HD
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:tvg-logo=““,外KIX  HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:tvg-logo=““,外PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:tvg-logo=““,外FILX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:tvg-logo=““,外RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:tvg-logo=““,外SONY CHANNEL HD
+http://45.126.83.51/uq2663/h/h06/01.m3u8
+#EXTINF:tvg-logo=““,外Sony One HD
+http://45.126.83.51/uq2663/h/h13/01.m3u8
+#EXTINF:tvg-logo=““,外PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:tvg-logo=““,外HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:tvg-logo=““,外HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:tvg-logo=““,外HBO 3
+http://87.246.0.155:5286/tv_HBO_3
+#EXTINF:tvg-logo=“http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220“,外THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220外THRILL2http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:tvg-logo=““,外CINEMAX
+http://87.246.0.155:5286/tv_Cinemax_2
+#EXTINF:tvg-logo=““,外SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:tvg-logo=““,外FOX MOVIES PREMIUM*
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:tvg-logo=““,外FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:tvg-logo=““,外FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:tvg-logo=““,外CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:tvg-logo=““,外MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg“,外FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg“,外FASHION MIDNITE HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg“,外FASHION PARIS HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg“,外FASHION MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION MEN
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION BRIDAL
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_bridal_adaptive.smil/media.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION FILMS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_films_adaptive.smil/media.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION FITNESS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_fitness_adaptive.smil/media.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION MIDDLE 
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_middle_e_60b_42114_middle_east_94_hls.smil/media.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION MODEL
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_top_models_adaptive.smil/media.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION PG13
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:tvg-logo=“https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp“,外FASHION PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:tvg-logo=““,外CNN*
+http://161.0.157.7/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:tvg-logo=““,外SKY NEWS HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/200px-CBS_logo.svg.png“ group-title=“综合“,外CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png“,外CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/200px-Animal_Planet_logo.svg.png“,外AINMAL动物星球
+http://37.26.71.125:19202
+#EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/zh/f/fe/DiscoveryChannel.png“,外DISCOVERY探索
+http://37.26.71.125:19201
+#EXTINF:tvg-logo=““,外CGTN DOCUMENTARY
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+#EXTINF:tvg-logo=“https://images.useetv.com/logo_davinci_big1.png?v=2.0.0.11“,外文DAVINCI
+http://45.126.83.51/uq2663/h/h01/index2.m3u8
+#EXTINF:tvg-logo=““,外ZEE CAFE
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png“,外MTV音乐台 HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:tvg-logo=““,外MTV音乐台1
+http://92.249.129.152/stream/1music.m3u8
+#EXTINF:tvg-logo=““,外MTV音乐台2
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:tvg-logo=““,外MTV HD德国
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:tvg-logo=““,外MTV HD法国
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
+#EXTINF:tvg-logo=““,体纬来体育HD
+http://59.120.242.104:9000/live/live12.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="",1
 http://194.76.186.12:8080/play/a00p/index.m3u8
 
