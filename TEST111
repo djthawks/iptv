@@ -10,39 +10,66 @@ http://520574.xyz/dl/youku.php?id=8020381
 #EXTINF:-1 tvg-logo="" group-title="",Japan 5
 http://520574.xyz/dl/youku.php?id=8020331
 #EXTINF:-1 tvg-logo="" group-title="",Japan 6
-http://520574.xyz/dl/youku.php?id=8018618
-#EXTINF:-1 tvg-logo="" group-title="",Japan 7
 http://520574.xyz/dl/youku.php?id=8031710
-#EXTINF:-1 tvg-logo="" group-title="",Japan 8
+#EXTINF:-1 tvg-logo="" group-title="",Japan 7
 http://520574.xyz/dl/youku.php?id=8031706
-#EXTINF:-1 tvg-logo="" group-title="",Japan 9
+#EXTINF:-1 tvg-logo="" group-title="",Japan 8
 http://520574.xyz/dl/youku.php?id=8031704
-#EXTINF:-1 tvg-logo="" group-title="",Japan 10
+#EXTINF:-1 tvg-logo="" group-title="",Japan 9
 http://520574.xyz/dl/youku.php?id=8031620
-#EXTINF:-1 tvg-logo="" group-title="",Japan 11
+#EXTINF:-1 tvg-logo="" group-title="",Japan 10
 http://520574.xyz/dl/youku.php?id=8031623
-#EXTINF:-1 tvg-logo="" group-title="",Japan 12
-http://520574.xyz/dl/youku.php?id=8031622
-#EXTINF:-1 tvg-logo="" group-title="",Japan 13
-http://520574.xyz/dl/youku.php?id=8031592
-#EXTINF:-1 tvg-logo="" group-title="",Japan 14
-http://520574.xyz/dl/youku.php?id=8031589
-#EXTINF:-1 tvg-logo="" group-title="",Japan 15
+#EXTINF:-1 tvg-logo="" group-title="",Japan 11
 http://520574.xyz/dl/youku.php?id=8031587
-#EXTINF:-1 tvg-logo="" group-title="",Japan 16
+#EXTINF:-1 tvg-logo="" group-title="",Japan 12
 http://520574.xyz/dl/youku.php?id=8031580
-#EXTINF:-1 tvg-logo="" group-title="",Japan 17
+#EXTINF:-1 tvg-logo="" group-title="",Japan 13
 http://520574.xyz/dl/youku.php?id=8031574
-#EXTINF:-1 tvg-logo="" group-title="",Japan 18
+#EXTINF:-1 tvg-logo="" group-title="",Japan 14
 http://520574.xyz/dl/youku.php?id=8027873
-#EXTINF:-1 tvg-logo="" group-title="",Japan 19
+#EXTINF:-1 tvg-logo="" group-title="",Japan 15
 http://520574.xyz/dl/youku.php?id=8020409
-#EXTINF:-1 tvg-logo="" group-title="",Japan 20
+#EXTINF:-1 tvg-logo="" group-title="",Japan 16
 http://520574.xyz/dl/youku.php?id=8020410
-#EXTINF:-1 tvg-logo="" group-title="",Japan 21
+#EXTINF:-1 tvg-logo="" group-title="",Japan 17
 http://520574.xyz/dl/youku.php?id=8020408
-#EXTINF:-1 tvg-logo="" group-title="",Japan 22
+#EXTINF:-1 tvg-logo="" group-title="",Japan 18
 http://520574.xyz/dl/youku.php?id=8035190
+
+#EXTINF:-1 tvg-logo="" group-title="", espn
+http://185.59.223.135/espn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", espn 2
+http://185.59.223.135/espn2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports News
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports Main Event
+https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports Action
+https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports Arena
+https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports Mix
+https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports F1
+https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports Cricket
+https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports EPL
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports Football
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Sky Sports Golf
+https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SkyNet Sport 1
+https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SkyNet Sport 2
+https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SkyNet Sport 3
+https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SkyNet Sport 4
+https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="Movies",Iflim English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
