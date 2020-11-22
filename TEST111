@@ -1,7 +1,49 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",Japan 1
+http://520574.xyz/dl/youku.php?id=8022366
+#EXTINF:-1 tvg-logo="" group-title="",Japan 2
+http://520574.xyz/dl/youku.php?id=8022040
+#EXTINF:-1 tvg-logo="" group-title="",Japan 3
+http://520574.xyz/dl/youku.php?id=8022038
+#EXTINF:-1 tvg-logo="" group-title="",Japan 4
+http://520574.xyz/dl/youku.php?id=8020381
+#EXTINF:-1 tvg-logo="" group-title="",Japan 5
+http://520574.xyz/dl/youku.php?id=8020331
+#EXTINF:-1 tvg-logo="" group-title="",Japan 6
+http://520574.xyz/dl/youku.php?id=8018618
+#EXTINF:-1 tvg-logo="" group-title="",Japan 7
+http://520574.xyz/dl/youku.php?id=8031710
+#EXTINF:-1 tvg-logo="" group-title="",Japan 8
+http://520574.xyz/dl/youku.php?id=8031706
+#EXTINF:-1 tvg-logo="" group-title="",Japan 9
+http://520574.xyz/dl/youku.php?id=8031704
+#EXTINF:-1 tvg-logo="" group-title="",Japan 10
+http://520574.xyz/dl/youku.php?id=8031620
+#EXTINF:-1 tvg-logo="" group-title="",Japan 11
+http://520574.xyz/dl/youku.php?id=8031623
+#EXTINF:-1 tvg-logo="" group-title="",Japan 12
+http://520574.xyz/dl/youku.php?id=8031622
+#EXTINF:-1 tvg-logo="" group-title="",Japan 13
+http://520574.xyz/dl/youku.php?id=8031592
+#EXTINF:-1 tvg-logo="" group-title="",Japan 14
+http://520574.xyz/dl/youku.php?id=8031589
+#EXTINF:-1 tvg-logo="" group-title="",Japan 15
+http://520574.xyz/dl/youku.php?id=8031587
+#EXTINF:-1 tvg-logo="" group-title="",Japan 16
+http://520574.xyz/dl/youku.php?id=8031580
+#EXTINF:-1 tvg-logo="" group-title="",Japan 17
+http://520574.xyz/dl/youku.php?id=8031574
+#EXTINF:-1 tvg-logo="" group-title="",Japan 18
+http://520574.xyz/dl/youku.php?id=8027873
+#EXTINF:-1 tvg-logo="" group-title="",Japan 19
+http://520574.xyz/dl/youku.php?id=8020409
+#EXTINF:-1 tvg-logo="" group-title="",Japan 20
+http://520574.xyz/dl/youku.php?id=8020410
+#EXTINF:-1 tvg-logo="" group-title="",Japan 21
+http://520574.xyz/dl/youku.php?id=8020408
+#EXTINF:-1 tvg-logo="" group-title="",Japan 22
+http://520574.xyz/dl/youku.php?id=8035190
 
-
-#
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="Movies",Iflim English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 
