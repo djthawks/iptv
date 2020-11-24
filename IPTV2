@@ -12,16 +12,6 @@ https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT",Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca 1 
-https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-oldy
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
-https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://turistiktv.com/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="MX",Turistik TV
 https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
@@ -30,24 +20,8 @@ https://5e50264bd6766.streamlock.net/turistikatv/videoturistikatv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.geloon.com/wp-content/uploads/2014/08/GO-TRAVEL-logo.jpg" group-title="Cooking",Go Traveler
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX",Canal 22
-https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1014375797_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjAgNTozNzowNiBQTSZoYXNoX3ZhbHVlPVduMEt0NXZzdnNsREJQSStuUU8vT2c9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
-
-https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w1568420405_b878000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjAgODo1ODoxMCBQTSZoYXNoX3ZhbHVlPWY2YStlMUt4WHNDT2xBZ0Y4WHRKUlE9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MX",DW
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="LAT",a+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="LAT",CGTN
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
-https://rtvelivestream-lvlt.rtve.es/24h_dvr_1000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
 https://adinsertprimeforotv.akamaized.net/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8
@@ -118,8 +92,7 @@ https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 
 -----------------------------------------Entertainment---------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
-https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -143,11 +116,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="MX", Mundo Mas 
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="ES",Boing 
-https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="Art",Bob Ross Channel
-https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png" group-title="ES",IPE 
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
