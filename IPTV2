@@ -9,167 +9,27 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1, TVE 24H
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
  
-#EXTINF:-1, Tv Senado1 HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
- 
-#EXTINF:-1, TV Senado2 HD
-http://tvpremiumhd.club/lista-gratuita/055130/tv/bi.php?id=2KpVSoq
- 
-#EXTINF:-1, Diputados HD1
-http://tvpremiumhd.club/lista-gratuita/055130/tv/live.php?id=camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
- 
 #EXTINF:-1, Camara  Diputados chile- HD2
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
  
-#EXTINF:-1, Radio Camara Diputados 4
-http://camara.03.wl.cdnz.cl/camara5/live/playlist.m3u8
- 
-#EXTINF:-1, Canal Diputados5
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
- 
-#EXTINF:-1, Divinity-HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
- 
-#EXTINF:-1, Televisión Tele Roja
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
- 
-#EXTINF:-1, Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
- 
-#EXTINF:-1, la Tercera
-http://unlimited5-cl.dps.live/lt/lt.smil/playlist.m3u8
- 
-#EXTINF:-1, La Cuarta
-http://unlimited6-cl.dps.live/l4tv/l4tv.smil/playlist.m3u8
- 
-#EXTINF:-1, Emol TV
-https://streaming.ecn.cl/hls/vivo2hd_hi/index.m3u8
- 
-#EXTINF:-1, Emol TV 2
-https://streaming.ecn.cl/hls/vivohd_lo/index.m3u8
- 
-#EXTINF:-1, TVN SERVICIOS 2
-http://mdstrm.com/live-stream-playlist/5a0471c2f8692a092d436768.m3u8
- 
-#EXTINF:-1, TVN SERVICIOS 3
-http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
- 
-#EXTINF:-1, TVN SERVICIOS 4
-http://mdstrm.com/live-stream-playlist/555c9a91eb4886825b07ee7b.m3u8
- 
-#EXTINF:-1, NIU TV HD
-http://tvpremiumhd.club/lista-gratuita/055130/tv/iptv.php?id=cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist
- 
-#EXTINF:-1, FM Hot 1 HD
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
- 
-#EXTINF:-1,Trailer TvKids
-http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
- 
-#EXTINF:-1, Trailer Tv2
-http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
- 
-#EXTINF:-1, Trailers Kids
-http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?
- 
 #EXTINF:-1,Melody Channel HD
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
- 
-#EXTINF:-1,UA TELEVISION CHILE
-http://v3.tustreaming.cl/tvautonoma/live1/tracks-v1a1/rewind-999999.m3u8
- 
-#EXTINF:-1, NAT GEO KIDS
-http://23.237.29.98:2095/294NatGeoKids/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
- 
-#EXTINF:-1, NICK JR
-http://23.237.29.98:2095/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
- 
-#EXTINF:-1,Paramount
-http://paramount.live.flumotion.com/live/playlist.m3u8
- 
-#EXTINF:-1,  Life tv (españa)
-http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
- 
-#EXTINF:-1, luna tv
-http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
- 
-#EXTINF:-1, Life tv
-http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
- 
+  
 #EXTINF:-1, Wow tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
- 
-#EXTINF:-1, orbit tv
-http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
- 
-#EXTINF:-1, Super 3
-http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist.m3u8
- 
-#EXTINF:-1, LOCOMOTION
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
- 
+
 #EXTINF:-1, HB TV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
- 
-#EXTINF:-1,Galaxia
-http://server3.prostudionetwork.com:1957/telecontacto/galaxia/chunklist_w500062277.m3u8
- #EXTINF:-1, Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
- 
-#EXTINF:-1,Andalucia Cocina Tv
-https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
  
 #EXTINF:-1,CANAL
 http://ss8.domint.net:2118/tf_str/futu/media_w1046727220.m3u8
  
-#EXTINF:-1,Canal de españa
-http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1,Hit tv
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
- 
-#EXTINF:-1,VIVO 5
-http://stream.grupotelemicro.com/5.m3u8
- 
-#EXTINF:-1,ColorVision
-http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1806822451.m3u8
- 
 #EXTINF:-1,ATB
 http://186.121.206.197/live/daniel/index.m3u8?ixtla
  
-#EXTINF:-1, Fight time (ufc)
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
- 
 #EXTINF:-1,Chicos IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?ixtla
- 
-#EXTINF:-1,CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
- 
-#EXTINF:-1,MAXPRIME
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
- 
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
- 
-#EXTINF:-1,FOXCINEMA
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
- 
-#EXTINF:-1, FOX MOVIES
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
- 
-#EXTINF:-1, fox premium comedy (eng)
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
- 
-#EXTINF:-1, hbo2 dual (eng esp)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
- 
-#EXTINF:-1, ESPN 2
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
- 
-#EXTINF:-1, Animal Planet
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
- 
+  
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
  
@@ -181,224 +41,26 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
  
 #EXTINF:-1,Radio Maxima TV
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
- 
-#EXTINF:-1,Fashion TV HD
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
- 
+  
 #EXTINF:-1, FUEGO TV
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
  
-#EXTINF:-1, LIFE TV
-http://184.173.181.2:1935/8070/8070/playlist.m3u8
- 
 #EXTINF:-1, PELIS
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
- 
-#EXTINF:-1, FARO VISION
-http://184.173.181.2:1935/8060/8060/playlist.m3u8
- 
-#EXTINF:-1, canal 12 nicaragua
-http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
- 
-#EXTINF:-1, canal 13 nicaragua
-http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
- 
-#EXTINF:-1, JBN ixtla
-http://138.117.4.70:8079/streams/d/Canal-39/playlist.m3u8
- 
-#EXTINF:-1, Canal 2
-http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
- 
-#EXTINF:-1, canal 4
-http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
- 
-#EXTINF:-1, canal 6
-http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
- 
-#EXTINF:-1, canal 9
-http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
- 
-#EXTINF:-1, canal 10
-http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
- 
-#EXTINF:-1, canal 11
-http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
- 
-#EXTINF:-1, canal 8
-http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
- 
-#EXTINF:-1, CDNN 23
-http://138.117.4.70:8079/streams/d/Canal-23/playlist.m3u8
- 
+  
 #EXTINF:-1, CANAL BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
- 
-#EXTINF:-1, MICRO VISION
-http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
- 
-#EXTINF:-1,MX: FOROTV
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
- 
-#EXTINF:-1,And TV
-http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
- 
-#EXTINF:-1,HBO 2 International
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
- 
-#EXTINF:-1,B4U MOVIE
-http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
- 
-#EXTINF:-1,B4U MUSIC
-http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
  
 #EXTINF:-1,SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
  
+ 
+ 
 #EXTINF:-1,US:HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
  
-#EXTINF:-1,B4U MUSIC
-http://161.0.157.5/PLTV/88888888/224/3221226332/01.m3u8
- 
-#EXTINF:-1,CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/01.m3u8
- 
-#EXTINF:-1,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
- 
-#EXTINF:-1,CBC Television
-http://161.0.157.50/PLTV/88888888/224/3221227004/index.m3u8
- 
-#EXTINF:-1,13
-http://161.0.157.5/PLTV/88888888/224/3221227013/index.m3u8
- 
-#EXTINF:-1,40 HD
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
- 
-#EXTINF:-1,41 HD
-http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
- 
-#EXTINF:-1,398
-http://161.0.157.5/PLTV/88888888/224/3221226398/index.m3u8
- 
-#EXTINF:-1,FOX
-http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
- 
-#EXTINF:-1,311
-http://161.0.157.5/PLTV/88888888/224/3221226311/index.m3u8
- 
-
- 
-#EXTINF:-1,177 HD
-http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
- 
-#EXTINF:-1,145 HD
-http://161.0.157.5/PLTV/88888888/224/3221226145/index.m3u8
- 
-#EXTINF:-1,568 HD
-http://161.0.157.5/PLTV/88888888/224/3221226568/index.m3u8
- 
-#EXTINF:-1,CFN
-http://161.0.157.5/PLTV/88888888/224/3221226638/index.m3u8
- 
-#EXTINF:-1,ZEECINEMA
-http://161.0.157.5/PLTV/88888888/224/3221226709/index.m3u8
- 
-#EXTINF:-1,FOX SPORT
-http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
- 
-#EXTINF:-1,BASHMENT
-http://161.0.157.5/PLTV/88888888/224/3221226311/03.m3u8
- 
-#EXTINF:-1,HYPE
-http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
- 
-#EXTINF:-1,TV
-http://161.0.157.5/PLTV/88888888/224/3221226727/index.m3u8
- 
-#EXTINF:-1,KLUB TV
-http://161.0.157.5/PLTV/88888888/224/3221226729/index.m3u8
- 
-#EXTINF:-1,SPORTMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
- 
-#EXTINF:-1,CNN
-http://161.0.157.5/PLTV/88888888/224/3221226781/index.m3u8
- 
-#EXTINF:-1,FOX CINEMA
-http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
- 
-#EXTINF:-1,FOX COMEDY
-http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
- 
-#EXTINF:-1,MUDHOLE
-http://161.0.157.5/PLTV/88888888/224/3221226811/index.m3u8
- 
-#EXTINF:-1,GOLF
-http://161.0.157.5/PLTV/88888888/224/3221226812/index.m3u8
- 
-#EXTINF:-1,FRANCE24
-http://161.0.157.5/PLTV/88888888/224/3221226821/index.m3u8
- 
 #EXTINF:-1,MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
- 
-#EXTINF:-1,UNIVERSAL
-http://161.0.157.5/PLTV/88888888/224/3221226828/index.m3u8
- 
-#EXTINF:-1,TV
-http://161.0.157.5/PLTV/88888888/224/3221226831/index.m3u8
- 
-#EXTINF:-1,Y
-http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
- 
-#EXTINF:-1,MAX PRIME
-http://161.0.157.5/PLTV/88888888/224/3221226834/index.m3u8
- 
-#EXTINF:-1,CN
-http://161.0.157.5/PLTV/88888888/224/3221226843/index.m3u8
- 
-#EXTINF:-1,CNC3
-http://161.0.157.5/PLTV/88888888/224/3221226845/index.m3u8
- 
-#EXTINF:-1,MTM
-http://161.0.157.5/PLTV/88888888/224/3221226847/index.m3u8
- 
-#EXTINF:-1,TV
-http://161.0.157.5/PLTV/88888888/224/3221226848/index.m3u8
- 
-#EXTINF:-1,DRS
-http://161.0.157.5/PLTV/88888888/224/3221226865/index.m3u8
- 
-#EXTINF:-1,CATCH2
-http://161.0.157.5/PLTV/88888888/224/3221226874/index.m3u8
- 
-#EXTINF:-1,EUROSPORT2
-http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
- 
-#EXTINF:-1,FLOW SPORT1
-http://161.0.157.5/PLTV/88888888/224/3221226899/index.m3u8
- 
-#EXTINF:-1,CBN
-http://161.0.157.5/PLTV/88888888/224/3221227005/index.m3u8
- 
-#EXTINF:-1,TV
-http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
- 
-#EXTINF:-1,HBO
-http://161.0.157.5/PLTV/88888888/224/3221226127/03.m3u8
- 
-#EXTINF:-1,VH HD
-http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
- 
-#EXTINF:-1,HBO
-http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
- 
-#EXTINF:-1,Pop
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
- 
-#EXTINF:-1,Showtime
-http://80.80.160.168/live/7/live.m3u8
  
 #EXTINF:-1,CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
@@ -412,31 +74,12 @@ http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
 #EXTINF:-1,50
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
   
-#EXTINF:-1,FOX FAMILY MOVIES
-http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/index1.m3u8
- 
-#EXTINF:-1,FOX LIFE
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
- 
-#EXTINF:-1,FOX MOVIE PREMIUM
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
- 
-#EXTINF:-1, AXS TV
-http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
- 
- 
-#EXTINF:-1, Combat Go
-http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
- 
-#EXTINF:-1, Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
- 
 #EXTINF:-1, EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1749069089.m3u8
+
+
  
-#EXTINF:-1,SOBRENATURAL
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
- 
+
 #EXTINF:-1,gracia tv.
 http://v3.tustreaming.cl/graciatv/live1/tracks-v1a1/index.m3u8
  
