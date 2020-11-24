@@ -76,60 +76,21 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
   
 #EXTINF:-1, EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1749069089.m3u8
-
-
- 
-
-#EXTINF:-1,gracia tv.
-http://v3.tustreaming.cl/graciatv/live1/tracks-v1a1/index.m3u8
- 
-#EXTINF:-1, TELENORD 8
-http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8
  
 #EXTINF:-1, RETRO
 http://stream.mediawork.cz/retrotv/retrotvHQ1/media_w1632423129.m3u8
  
-#EXTINF:-1, SUPER 5
-http://k4.usastreams.com/superC/superC_1/media_w27246718.m3u8
- 
 #EXTINF:-1, canal 4
 http://184.154.28.210:1935/canal4/canal4/media_w1793076184.m3u8
- 
-#EXTINF:-1,IMPACTOVISION
-http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
- 
-#EXTINF:-1, Multimedios Laguna | HD
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
- 
-#EXTINF:-1, Ultra TV Puebla | HD
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
- 
-#EXTINF:-1, Ultra TV Aguacalientes | HD
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
- 
-#EXTINF:-1, Teleritmo | SD
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
- 
+  
 #EXTINF:-1, Canal 4 | SD
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
- 
-#EXTINF:-1, Canal 20 Zacatecas | SD
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
- 
-#EXTINF:-1, Tlaxcala TV | SD
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
- 
-#EXTINF:-1, Capital 21 | SD
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
- 
+  
 #EXTINF:-1, RCG | SD
 http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
  
 #EXTINF:-1, RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
- 
-#EXTINF:-1, 15TV Sabinas | SD
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
  
 #EXTINF:-1, TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
@@ -137,98 +98,22 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:-1, UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
  
-#EXTINF:-1, VTV
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
- 
-#EXTINF:-1, VTV 2
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
- 
-#EXTINF:-1, DeporTV | SD
-https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8
- 
 #EXTINF:-1, Real Madrid TV | SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
  
 #EXTINF:-1, CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
  
-#EXTINF:-1,KTV Sport Kuwait
-https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+
  
-#EXTINF:-1,Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
- 
-#EXTINF:-1,100% Automoto (BG)
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
- 
-#EXTINF:-1, Cachipun tv
-http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
- 
-#EXTINF:-1, Pandero Music Chile | HD
-http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
- 
-#EXTINF:-1, Pandero Music Top | HD
-http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
- 
-#EXTINF:-1, Radio Candela TV | HD
-http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
- 
-#EXTINF:-1, Futuro TV | SD
-http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
- 
-#EXTINF:-1, El Conquistador TV | HD (98.9 FM Concepcion)
-http://eu1.servers10.com:1935/8282/8282/playlist.m3u8
- 
-#EXTINF:-1, Holvoet TV | HD | Atacama
-http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
- 
-#EXTINF:-1, Desierto de Atacama TV | HD | Atacama
-http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
- 
-#EXTINF:-1, Thema TV | SD | La Serena
-https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream2/playlist.m3u8
- 
-#EXTINF:-1, Canal 2 de San Antonio | HD | San Antonio
-http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
- 
-#EXTINF:-1, Girovisual | HD | El Quisco
-http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8
- 
-#EXTINF:-1, Canal22 | SD | Santiago
-http://canal22santiago.cl/playlist.m3u8
- 
-#EXTINF:-1, TVO | | HD | San Vicente
-http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
- 
-#EXTINF:-1, Canal 9 | HD | Concepcion
-http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8?laope.m3u8
- 
-#EXTINF:-1, TVU | HD | Concepcion
-http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8?laope.m3u8
- 
-#EXTINF:-1, TVU 2 | HD | Concepcion
-https://unlimited6-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
+
  
 #EXTINF:-1, TV8 | HD | Concepcion
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
+
+
  
-#EXTINF:-1, Contivision | HD | Constitucion
-https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
- 
-#EXTINF:-1, Temuco Television | SD
-http://v3.tustreaming.cl/temucotelevision/live1/playlist.m3u8
- 
-#EXTINF:-1, Contivision Musica | HD
-http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8?laope.m3u8
- 
-#EXTINF:-1, Ufrovision | HD | Temuco
-http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
- 
-#EXTINF:-1, TV Centro | SD | Talca
-http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
- 
-#EXTINF:-1, Canal 2 | HD | Quellon
-http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
+
  
 #EXTINF:-1, UTV | SD | San Clemente
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
@@ -236,8 +121,6 @@ http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:-1, Canal 21 | Chillan
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
  
-#EXTINF:-1, MaximaTV | SD | San Bernardo
-http://evo.eltelon.com:1935/live/maxima-fm/playlist.m3u8
  
 #EXTINF:-1, Rocco TV | SD | Coyhaique
 http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
