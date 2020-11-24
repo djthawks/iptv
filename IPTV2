@@ -1,29 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, Tv polar
-http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8 
 #EXTINF:-1, El Pingüino- HD
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:-1, ITV Patagonia1
-http://unlimited4-cl.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1, ITV P-2
-http://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1,UMAGTV 1
-http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
-#EXTINF:-1, UMAGTV 3
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-1, Canal Carnaval -HD
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
-#EXTINF:-1, SOBERANIA 1
-http://evo.eltelon.com:1935/live/soberania/chunklist_w1320335487.m3u8
-#EXTINF:-1, TV RED-SD
-http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
-#EXTINF:-1, La Red-HD1
-https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
-#EXTINF:-1, TV+  HD
-http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-#EXTINF:-1, CHV HD2
-http://tvpremiumhd.club/lista-gratuita/055130/tv/iptv.php?id=live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop
+
+
 #EXTINF:-1, Maxima Tv HD
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, VC Online HD
@@ -42,29 +22,7 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,  Canal1 -13
 http://c13-live-1.cdn.nedmedia.io/index.m3u8
-#EXTINF:-1,  Canal2 - 13
-http://c13-live-1.cdn.nedmedia.io/index_1.m3u8
-#EXTINF:-1,UCV 3-HD
-http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1,UCV 3
-http://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1,UCV 4
-https://unlimited5-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/playlist.m3u8
- 
-#EXTINF:-1,Canal 13 Movil
-http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
- 
-#EXTINF:-1, TVN de Culto1
-http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
- 
-#EXTINF:-1, Manifes
-http://cdnapi.kaltura.com/p/2359831/sp/0/playManifest/entryId/1_3jx9rpfo/format/applehttp/protocol/http/manifest.m3u8
- 
-#EXTINF:-1, TVN Señal de Pruebas | HD
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
- 
-#EXTINF:-1, TV2 Chile
-http://tvpremiumhd.club/lista-gratuita/055130/tv/live.php?id=c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+
  
 #EXTINF:-1, TV Chile1SD
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
