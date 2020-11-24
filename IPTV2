@@ -53,9 +53,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
  
 #EXTINF:-1,SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
- 
- 
- 
+  
 #EXTINF:-1,US:HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
  
@@ -103,24 +101,15 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
  
 #EXTINF:-1, CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
- 
-
- 
-
- 
+  
 #EXTINF:-1, TV8 | HD | Concepcion
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
 
-
- 
-
- 
 #EXTINF:-1, UTV | SD | San Clemente
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
  
 #EXTINF:-1, Canal 21 | Chillan
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
- 
  
 #EXTINF:-1, Rocco TV | SD | Coyhaique
 http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
@@ -155,14 +144,7 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 #EXTINF:-1,Telsur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
  
-#EXTINF:-1, TVU
-http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
- 
-#EXTINF:-1, Contivision|HD
-https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8?laope.m3u8
- 
-#EXTINF:-1, Contivision Musica-HD
-http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
+
  
 #EXTINF:-1, FM HOT PELICULAS
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
