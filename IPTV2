@@ -3,51 +3,11 @@
 #EXTINF:-1, El Pingüino- HD
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
-
-#EXTINF:-1, Maxima Tv HD
-http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1, TVN – HD3
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
-#EXTINF:-1, Canal 24
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,24 Play -HD
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1,  Mega-2 HD
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,  Ahora Noticias1 – HD
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
-#EXTINF:-1,  Ahora Noticas -2
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,  Canal1 -13
-http://c13-live-1.cdn.nedmedia.io/index.m3u8
-
- 
-#EXTINF:-1, TV Chile1SD
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
- 
-#EXTINF:-1, TV+2
-https://unlimited10-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/playlist.m3u8
- 
-#EXTINF:-1, TVR1-HD
-https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
- 
-#EXTINF:-1, TVR2
-https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
- 
 
 #EXTINF:-1, TVE 24H
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
- 
-#EXTINF:-1, TeleSUR1
-http://tvpremiumhd.club/lista-gratuita/055130/tv/live.php?id=cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
- 
-#EXTINF:-1, TeleSUR
-https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
- 
-#EXTINF:-1,TecTV
-http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8?fluxustv.m3u8
  
 #EXTINF:-1, Tv Senado1 HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
