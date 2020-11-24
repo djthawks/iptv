@@ -114,11 +114,9 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1, Rocco TV | SD | Coyhaique
 http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
  
- 
 #EXTINF:-1, Campo Abierto TV | SD
 http://v3.tustreaming.cl/campoabierto/live1/index.m3u8
  
-
 #EXTINF:-1,MULTIVISION
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
  
@@ -126,38 +124,16 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
  
 
+
  
 
-
-#EXTINF:-1,Cappissima Multimedial Arica
-http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8
- 
-#EXTINF:-1,AM Tv Antofagasta
-http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8
- 
-#EXTINF:-1,Holvoet Copiapo
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
- 
-#EXTINF:-1,VTV Valle de Aconcagua
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
- 
-#EXTINF:-1,VTV Viña- HD
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
  
 #EXTINF:-1,Quinta Tv
 https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
  
-#EXTINF:-1,Giro Visual Quinta Region
-http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
  
-#EXTINF:-1,UES TV
-http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
- 
-#EXTINF:-1,ISB San Bernardo Santiago
-http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?iptvgratis?chile.m3u8
- 
-#EXTINF:-1,Campo Abierto TV  Huechuraba
-http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
+
  
 #EXTINF:-1,Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
