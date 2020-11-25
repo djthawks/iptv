@@ -30,9 +30,6 @@ http://186.121.206.197/live/daniel/index.m3u8?ixtla
 #EXTINF:-1,Chicos IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?ixtla
   
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
- 
 #EXTINF:-1,Portal FoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
  
@@ -53,22 +50,13 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
  
 #EXTINF:-1,SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-  
-#EXTINF:-1,US:HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
- 
+   
 #EXTINF:-1,MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
  
 #EXTINF:-1,CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
- 
-#EXTINF:-1,my KIDS
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
- 
-#EXTINF:-1,MY CINEMA
-http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
- 
+  
 #EXTINF:-1,50
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
   
@@ -96,9 +84,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:-1, UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
  
-#EXTINF:-1, Real Madrid TV | SD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
- 
 #EXTINF:-1, CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
   
@@ -123,26 +108,8 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 #EXTINF:-1,Telsur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
  
-
-
- 
-
- 
-#EXTINF:-1,Quinta Tv
-https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8
- 
-
- 
-
- 
-#EXTINF:-1,Campus Tv Talca
-http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
- 
 #EXTINF:-1,TVO San Vicente
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8
- 
-#EXTINF:-1,Contivision HD
-http://unlimited10-cl.dps.live/contivision/contivision.smil/playlist.m3u8
  
 #EXTINF:-1,Tv8 Concepcion
 https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
@@ -150,44 +117,20 @@ https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
 #EXTINF:-1,TEC Television Temuco
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
  
-#EXTINF:-1,Temuco Television
-http://v3.tustreaming.cl/temucotelevision/live1/event-999999.m3u8
- 
-#EXTINF:-1,HispanTV
-https://5a61de8ed719d.streamlock.net/live/smil:live.smil/playlist.m3u8
- 
 #EXTINF:-1,CNN Turkia
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3u8
  
-#EXTINF:-1,Telemundo
-http://161.0.157.50/PLTV/88888888/224/3221226207/index.m3u8
- 
 #EXTINF:-1,Latinos UP Tv
 https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
- 
-#EXTINF:-1,Discovery
-http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428,Discovery
- 
-#EXTINF:-1,  CRIMEN E INVESTIGACION
-http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
- 
+  
 #EXTINF:-1,  History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
  
 #EXTINF:-1,Portal Foxmix (Chile)
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
  
-#EXTINF:-1,Power HD (Argentina)
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
- 
-#EXTINF:-1, TELEMUNDO
-http://tvpremiumhd.club/lista-gratuita/151717/tv/v/2006.ts
- 
 #EXTINF:-1,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
- 
-#EXTINF:-1,Space
-http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(06)/index.m3u8
  
 #EXTINF:-1,  Travel HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
@@ -198,40 +141,21 @@ http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
 #EXTINF:-1, CDO Basico
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
  
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
- 
 #EXTINF:-1,Deportes"Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
- 
-#EXTINF:-1,Teletrak
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?xtreamiptv.m3u8
- 
-#EXTINF:-1, TDN
-http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/tdn.m3u8
- 
+  
 #EXTINF:-1,Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
  
 #EXTINF:-1,Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
- 
-#EXTINF:-1,Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
-  
-#EXTINF:-1,All Sports
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?xtreamiptv.m3u8
-  
-#EXTINF:-1, MONTERREY HD
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
- 
+    
 #EXTINF:-1,Canal 9 (Argentina)
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
  
 #EXTINF:-1,Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
- 
- 
+  
 #EXTINF:-1,Canal 26 2
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
   
@@ -240,9 +164,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
  
 #EXTINF:-1,Nacional:Televisión Rionegrina
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
- 
-#EXTINF:-1,TV Sur 14
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
  
 #EXTINF:-1,Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
@@ -265,9 +186,6 @@ http://190.11.224.14:8134/liveevent.m3u8
 #EXTINF:-1,UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
  
-#EXTINF:-1, Canal Once TV HD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
- 
 #EXTINF:-1,MEXICO:RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
  
@@ -276,17 +194,13 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
  
 #EXTINF:-1, Teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-  
-#EXTINF:-1, Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-  
+    
 #EXTINF:-1, IPE
 http://cdnh4.iblups.com/hls/irtp.m3u8
   
 #EXTINF:-1, RCG 2 | SD
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-  
- 
+   
 #EXTINF:-1, TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
  
