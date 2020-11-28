@@ -1,5 +1,91 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",chctv
+rtmp://58.200.131.2:1935/livetv/chctv
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",startv
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO
+https://alwa.lk21tvonlineid.com/hbo.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS
+https://alwa.lk21tvonlineid.com/hits.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", HBO FAMILY
+https://alwa.lk21tvonlineid.com/family.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",SIGNATURE
+http://alwa.lk21tvonlineid.com/signature.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",RED HBO
+https://alwa.lk21tvonlineid.com/red.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CINEMAX
+https://alwa.lk21tvonlineid.com/cinemax.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HD (Resolusi)
+http://me.zichannels.my.id/ch/hbo.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Hits (Resolusi)
+http://me.zichannels.my.id/ch/hits.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Family (Resolusi)
+http://me.zichannels.my.id/ch/family.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Signature (Resolusi)
+http://me.zichannels.my.id/ch/sighd.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Red (Resolusi)
+http://me.zichannels.my.id/ch/red.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Max (Resolusi)
+http://me.zichannels.my.id/ch/max.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Asia
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Rerun
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX
+http://136.243.177.164/FOX/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film ARMENIA TV 
+http://92.43.140.200/s42/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film odega
+http://92.43.140.200/s47/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film A HBO
+http://92.43.140.200/s64/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film T24
+http://92.43.140.200/s68/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FILM ?? 
+http://92.43.140.200/s7/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Hiburan 
+http://92.43.140.200/s38/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",DRAKOR
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX THAI
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX MOVIES THAI
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HD THAI
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS THAI
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO RED THAI
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",AXN THAI
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",WARNER TV THAI
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KIX MALAY
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO ENG
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO 
+https://www.livedoomovies.com:443/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",UK: HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO FAM
+https://www.livedoomovies.com:443/02_HBOFamily_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS
+https://www.livedoomovies.com:443/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO SIG
+https://www.livedoomovies.com:443/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CINEMAX
+http://136.243.177.164/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+
+
 #EXTINF:-1 tvg-id="bbc.1.gb" tvg-name="BBC ONE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png" group-title="UK Ent", BBC ONE
 http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2950
 #EXTINF:-1 tvg-id="bbc.2.gb" tvg-name="BBC TWO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.png" group-title="UK Ent", BBC TWO
