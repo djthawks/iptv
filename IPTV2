@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",chctv
-rtmp://58.200.131.2:1935/livetv/chctv
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",startv
-rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO
 https://alwa.lk21tvonlineid.com/hbo.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS
