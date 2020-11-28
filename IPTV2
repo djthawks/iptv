@@ -28,6 +28,7 @@ http://me.zichannels.my.id/ch/sighd.m3u8
 http://me.zichannels.my.id/ch/red.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Max (Resolusi)
 http://me.zichannels.my.id/ch/max.m3u8 
+
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Asia
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Rerun
