@@ -9,7 +9,7 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxus
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:0 tvg-id="CBSWFOR.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="DAVE",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (East)
+#EXTINF:-1 tvg-ID="HBO.us" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 #EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
@@ -47,37 +47,37 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="MOVIE",&Flix
+#EXTINF:-1 tvg-id="AndFlix.in" tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="MOVIE",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIE",MNX
+#EXTINF:-1 tvg-id="MNX2.in" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIE",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIE" ,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:-1 tvg-id="ES2.US" tvg-logo="" tvg-name="ESPN2" group-title="SPORT",ESPN 2
+#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" tvg-name="ESPN2" group-title="SPORT",ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="ESU.US" tvg-logo="" tvg-name="ESPN U" group-title="SPORT",ESPN U
+#EXTINF:-1 tvg-id="ESU.US" tvg-logo="https://static.epg.best/us/ESPNU.us.png" tvg-name="ESPN U" group-title="SPORT",ESPN U
 https://gma2.blab.email/espnu.m3u8 
-#EXTINF:-1 tvg-id="ESN.US" tvg-logo="" tvg-name="ESPN News" group-title="SPORT",ESPN News
+#EXTINF:-1 tvg-id="ESN.US" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" tvg-name="ESPN News" group-title="SPORT",ESPN News
 https://gma2.blab.email/espnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN ACCN" group-title="SPORT",ACC NETWORK
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="" tvg-name="ESPN ACCN" group-title="SPORT",ACC NETWORK
 https://gma2.blab.email/acc.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN sec" group-title="SPORT",SEC NETWORK
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://static.epg.best/us/SECNetwork.us.png" tvg-name="ESPN sec" group-title="SPORT",SEC NETWORK
 https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ESPN FS2" group-title="SPORT",ESPN 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN.us.png" tvg-name="ESPN" group-title="SPORT",ESPN 
 https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BIG 10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BIG 10
 https://gma2.blab.email/btn.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",FOX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FOX
 https://gma2.blab.email/fox.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",101
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",101
 https://gma2.blab.email/espn.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",FS1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FS1
 https://gma2.blab.email/fs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-2)
@@ -122,20 +122,20 @@ http://92.246.85.106:8000/play/a054/index.m3u8
 http://92.246.85.106:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-ID="QuestRed.uk" tvg-logo="https://static.epg.best/gb/QuestRed.uk.png" group-title="",Quest Red
 http://92.246.85.106:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",Sony Action
+#EXTINF:-1 tvg-ID="SonyMoviesAction.uk" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="",Sony Action
 http://92.246.85.106:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",Sony Channel
 http://92.246.85.106:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",Sony Classic
+#EXTINF:-1 tvg-ID="SonyClassic.uk" tvg-logo="" group-title="",Sony Classic
 http://92.246.85.106:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",Sony Movies
+#EXTINF:-1 tvg-ID="SonyMovies.uk" tvg-logo="" group-title="",Sony Movies
 http://92.246.85.106:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",Tiny Pop
 http://92.246.85.106:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/warner.png" group-title ="",WarnerTV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/axn.png" group-title ="",AXN HD
+#EXTINF:-1 tvg-ID="AXN.th" tvg-logo="https://teevee-hd.com/img/axn.png" group-title ="",AXN HD
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBA.US" tvg-logo="https://poster.starhubgo.com/Linear_channels2/217_1920x1080_HTV.png" group-title ="SPORT",NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
@@ -145,9 +145,9 @@ https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title ="MOVIE",HBO Hit
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="MOVIE",FoxMovies_TH
+#EXTINF:-1 tvg-ID="" tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="MOVIE",FoxMovies_TH
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="MOVIE",FoxMovies
+#EXTINF:-1 tvg-ID="" tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="MOVIE",FoxMovies
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title ="",FoxThai_TH
 https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
@@ -205,21 +205,21 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://136.243.177.164/HBO2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="MOVIE",HBO3
 http://136.243.177.164/HBO3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe HD
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="DAVE",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="DAVE",Zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DAVE",Fox HD Asia
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="DAVE",Fox HD Asia
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="BlueAntEntertainment.th" tvg-logo="" group-title="DAVE",Blue Ant
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BlueAntExtreme.th" tvg-logo="" group-title="DAVE",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE",Fox Movies
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="MOVIE",Fox Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="AndPrive.in" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIE",Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MOVIE",Movie Kingdom
+#EXTINF:-1 tvg-ID="" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MOVIE",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="MOVIE",221 Stirr | Gravitas Movies
