@@ -94,7 +94,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="",CNC
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/200px-5USA_logo.svg.png" group-title="DAVE",5USA
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/200px-5USA_logo.svg.png" group-title="DAVE",5USA
 http://92.246.85.106:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title"",SELECT
 http://92.246.85.106:8000/play/a052/index.m3u8
@@ -102,7 +102,7 @@ http://92.246.85.106:8000/play/a052/index.m3u8
 http://92.246.85.106:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-ID="BB2.UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2006.png" group-title="",BBC Two HD
 http://92.246.85.106:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",Channel 5
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="",Channel 5
 http://92.246.85.106:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="MOVIE",171.Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
@@ -118,9 +118,9 @@ http://92.246.85.106:8000/play/a04o/index.m3u8
 http://92.246.85.106:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/200px-Paramount_Network.svg.png" group-title="",Paramount
 http://92.246.85.106:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",QUEST
+#EXTINF:-1 tvg-ID="Quest.uk" tvg-logo="https://static.epg.best/gb/Quest.uk.png" group-title="",QUEST
 http://92.246.85.106:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",Quest Red
+#EXTINF:-1 tvg-ID="QuestRed.uk" tvg-logo="https://static.epg.best/gb/QuestRed.uk.png" group-title="",Quest Red
 http://92.246.85.106:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="",Sony Action
 http://92.246.85.106:8000/play/a04k/index.m3u8
@@ -168,7 +168,7 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="UK",CBS Reality
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="UK",CBS Reality
 http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
 http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
@@ -184,7 +184,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 
 
-#EXTINF:-1 tvg-logo="" group-title="DAVE",CHARGE
+#EXTINF:-1 tvg-logo="ChargeTV.us" group-title="DAVE",CHARGE
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" tvg-name="CNN" group-title="NEWS",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -196,7 +196,7 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" tvg-name="FoxNews" group-title="NEWS",FOX News
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky.News" tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" tvg-name="SkyNews" group-title="NEWS",Sky News
+#EXTINF:-1  tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" tvg-name="SkyNews" group-title="NEWS",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="MOVIE",HBO
@@ -211,13 +211,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DAVE",Fox HD Asia
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DAVE",Blue Ant
+#EXTINF:-1 tvg-id="BlueAntEntertainment.th" tvg-logo="" group-title="DAVE",Blue Ant
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DAVE",Blue Ant Extreme
+#EXTINF:-1 tvg-id="BlueAntExtreme.th" tvg-logo="" group-title="DAVE",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIE",Fox Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE",Prive HD
+#EXTINF:-1 tvg-id="AndPrive.in" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIE",Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MOVIE",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
