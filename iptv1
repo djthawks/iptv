@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
-#EXTINF:-1,wnep 
-https://www.youtube.com/watch?v=WeEK5F_UMNQ 
+
  
 #EXTINF:-1,USA 
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxus
