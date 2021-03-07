@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Fptplay", Abc Autrailia (A+)
+https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Animal Plannet HD
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Arirang
+https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", AXN HD
+https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORT",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
