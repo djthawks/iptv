@@ -82,44 +82,32 @@ https://gma2.blab.email/fs1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU", MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 
-#EXTINF:-1 group-title="Deportes",Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 ,hbo2 dual (eng esp) www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 group-title="CINE",Fox Cinema www.achoapps.com
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:-1 group-title="Deportes",CDO Premium
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:-1 group-title="CINE",HBO 2 www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 ,CARTOON NETWORK www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1 ,MAXPRIME www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 ,UNIVERSALCH www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 ,fox premium comedy (eng) www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 ,ESPN 2 www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 ,Animal Planet www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 group-title="USA TV",BRAVO
-http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
-#EXTINF:-1 group-title="USA TV",CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-#EXTINF:-1 group-title="USA TV",CATCH 2
-http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
-#EXTINF:-1 group-title="USA TV",FLOW SPORTS
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 group-title="USA",CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,CBS
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN 1 OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN 2 OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 ,NBC
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 ,HBO 2 International
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) HBO 2 International
 http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELE RED
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
