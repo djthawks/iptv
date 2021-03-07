@@ -112,6 +112,42 @@ https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="",Family Movies
 https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="FOX News Now" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Soul" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/6Hb2XXs.jpg" group-title="",FOX Soul
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soul" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/tBvEL2d.png" group-title="",Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Masters of Food" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WJbjD6m.png" group-title="",Masters of Food
+https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="",MMA TV
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movies Central" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="",Movies Central
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Classical" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="",QUEST TV Classical
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV MIX" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="",QUEST TV MIX
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Spark Tv" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/vTGknv3.png" group-title="",Spark Tv
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="",Supertoons TV
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Yahoo! Finance" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/kiVL66Q.png" group-title="",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
