@@ -1,5 +1,32 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="amc.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/amc.eastern.us.png",AMC (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 tvg-id="bet.her.us" tvg-name="bet.her.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.her.us.png",Bet Her US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/bet.her.us.m3u8
+#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="bravo.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bravo.usa.eastern.us.png",Bravo (East)
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/bravo.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cbs.eastern.us" tvg-name="cbs.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cbs.eastern.us.png",CBS East
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/cbs.eastern.us.m3u8
+#EXTINF:-1 tvg-id="ion.central.us" tvg-name="ion.central.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ion.central.us.png",ION
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/ion.central.us.m3u8
+#EXTINF:-1 tvg-id="oxygen.eastern.us" tvg-name="oxygen.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/oxygen.eastern.us.png",Oxygen (East)
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/oxygen.eastern.us.m3u8
+#EXTINF:-1 tvg-id="oxygen.pacific.us" tvg-name="oxygen.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/oxygen.pacific.us.png",Oxygen (West)
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/oxygen.pacific.us.m3u8
+#EXTINF:-1 tvg-id="paramount.network.usa.eastern.us" tvg-name="paramount.network.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/paramount.network.usa.eastern.us.png",Paramount Network (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/paramount.network.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="syfy.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/syfy.eastern.us.png",Syfy (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/syfy.eastern.us.m3u8
+#EXTINF:-1 tvg-id="syfy.pacific.us" tvg-name="syfy.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/syfy.pacific.us.png",Syfy (West) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/syfy.pacific.us.m3u8
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="tbs.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tbs.east.us.png",TBS
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/tbs.east.us.m3u8
+#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tnt.east.us.png",TNT (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 tvg-id="tnt.pacific.us" tvg-name="tnt.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tnt.pacific.us.png",TNT (West) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/tnt.pacific.us.m3u8
+
 #EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="AMC USA",AMC Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="AMC USA",AMC IFC Film Picks
