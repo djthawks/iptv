@@ -82,32 +82,36 @@ https://gma2.blab.email/fs1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU", MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TNT HD
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) FS1
-http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="",Action Movies
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN OK
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN 1 OK
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN2 HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN 2 OK
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="All Drama" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/E1prxi9.png" group-title="",All Drama
+https://endemol-alldrama-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) HBO 2 International
-http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELE RED
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Names" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/OVPfhsc.png" group-title="",Big Names
+https://alchimie-big-names-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bounty Plus" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Q8mmLAB.png" group-title="",Bounty Plus
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Brat TV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Channel" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="",Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="",Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="",Drama
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="",Family Movies
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
