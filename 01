@@ -1,5 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="HPlus", Paramount Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Nat Geo Wild
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Discovery Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Fox Sports 1
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT1-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Fox Sports 2
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Baby First
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+#EXTINF:-1 group-title="HPlus", Cartoon Network HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Fox Family Movies
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Fox Life
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Fox Movies HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", CinemaWorld
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", WarnerTV
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF:-1 group-title="HPlus", AXN HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Asian Food Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Channel V HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Davinci HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HPlus", Fox HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", Cinemax
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", HBO
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", HBO Hits
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", HBO SIGNATURE
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", HBO Family
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", TrueSports HD 2
+http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", kenh 35
+http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+#EXTINF:-1 group-title="OneTV Combodia", TV3 HD
+http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
 
 #EXTINF:-1 group-title="Fptplay", Animal Plannet HD
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
