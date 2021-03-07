@@ -9,6 +9,82 @@ https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Fptplay", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Fptplay", BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Bloomberg HD
+https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Cartoon Network HD
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Channel Newsasia HD
+https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Channel V HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Cinemaworld
+https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", CNN HD
+https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Davinci HD
+https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Discovery Channel
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", DW HD
+https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fashiontv HD
+https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fox Movies HD
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fox Sports 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fox Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Fptplay", Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", France24
+https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", KIX HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", National Geographic Chanel - NGC HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", NHK World Japan HD
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Outdoor Channel HD
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", TV5 Monde
+https://livecdn.fptplay.net/world/tv5_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", WarnerTV
+https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", An Ninh HD
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Quốc Hội
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Quốc Phòng VN
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", Nhân Dân
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fptplay", VOV TV
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORT",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
