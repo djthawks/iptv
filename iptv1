@@ -79,14 +79,47 @@ https://gma2.blab.email/espn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FS1
 https://gma2.blab.email/fs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.ts|User-Agent=1m3u8
-
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F5e1876f67ebeed3253d59b210ade4af52e9d7313d88a61aa63fd06fdcbb238e5.jpg", CANALES CHINA TV
-http://100.145.2010.125.130
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU", MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+
+#EXTINF:-1 group-title="Deportes",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 ,hbo2 dual (eng esp) www.achoapps.com
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 group-title="CINE",Fox Cinema www.achoapps.com
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 group-title="Deportes",CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 group-title="CINE",HBO 2 www.achoapps.com
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 ,CARTOON NETWORK www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 ,MAXPRIME www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 ,UNIVERSALCH www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 ,fox premium comedy (eng) www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 ,ESPN 2 www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 ,Animal Planet www.achoapps.com
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 group-title="USA TV",BRAVO
+http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
+#EXTINF:-1 group-title="USA TV",CBC CANADA
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1 group-title="USA TV",CATCH 2
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+#EXTINF:-1 group-title="USA TV",FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="USA",CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 ,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 ,HBO 2 International
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
