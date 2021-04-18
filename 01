@@ -2715,11 +2715,6 @@ https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3
 https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/1411.jpg" tvg-name="Antena Cook and Play"  group-title="Europe",Antena Cook and Play
 https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3619.jpg" tvg-name="Радио Люкс"  group-title="Europe",Радио Люкс
-https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8?source:iptvmate.net
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2327.jpg" tvg-name="Radio Taormina Sicilia"  group-title="Europe",Radio Taormina Sicilia
-https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8?source:iptvmate.net
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2556.jpg" tvg-name="FR | viàMATÉLÉ"  group-title="Europe",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8?source:iptvmate.net
@@ -2730,12 +2725,6 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8?source:iptvmat
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6252.jpg" tvg-name="Huesca TV"  group-title="Europe",Huesca TV
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?source:iptvmate.net
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5274.jpg" tvg-name="Gigant FM (Webradio)"  group-title="Europe",Gigant FM (Webradio)
-https://streams.uitzending.tv/gigantfm/gigantfm/chunklist_w666692457.m3u8?source:iptvmate.net
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6677.jpg" tvg-name="ZO!34"  group-title="Europe",ZO!34
-https://streams.uitzending.tv/zo34/zo34/playlist.m3u8?source:iptvmate.net
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3213.jpg" tvg-name="TV78"  group-title="Europe",TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8?source:iptvmate.net
 
@@ -2744,12 +2733,6 @@ https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8?source:iptvmate.ne
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2860.jpg" tvg-name="Sat7 Türk"  group-title="Europe",Sat7 Türk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8?source:iptvmate.net
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2650.jpg" tvg-name="Radio Veronica"  group-title="Europe",Radio Veronica
-https://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/playlist.m3u8?source:iptvmate.net
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3531.jpg" tvg-name="Radio 538"  group-title="Europe",Radio 538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8?source:iptvmate.net
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5209.jpg" tvg-name="FR | TF1"  group-title="Europe",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?source:iptvmate.net
@@ -2763,8 +2746,6 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5599.jpg" tvg-name="SUN RTV"  group-title="Europe",SUN RTV
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8?source:iptvmate.net
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/994.jpg" tvg-name="360 TV SD"  group-title="Europe",360 TV SD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?source:iptvmate.net
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/998.jpg" tvg-name="360 [HD]"  group-title="Europe",360 [HD]
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8?source:iptvmate.net
@@ -2784,14 +2765,10 @@ https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3024.jpg" tvg-name="BENGÜTÜRK TV [HD]"  group-title="Europe",BENGÜTÜRK TV [HD]
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8?source:iptvmate.net
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6469.jpg" tvg-name="BEYAZ TV [HD]"  group-title="Europe",BEYAZ TV [HD]
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8?source:iptvmate.net
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5602.jpg" tvg-name="HABER GLOBAL [HD]"  group-title="Europe",HABER GLOBAL [HD]
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8?source:iptvmate.net
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2911.jpg" tvg-name="TGRT BELGESEL"  group-title="Europe",TGRT BELGESEL
-https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8?source:iptvmate.net
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6893.jpg" tvg-name="TGRT EU"  group-title="Europe",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8?source:iptvmate.net
@@ -2853,9 +2830,6 @@ https://waw2.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/1125.jpg" tvg-name="AKSU TV"  group-title="Europe",AKSU TV
 https://waw2.artiyerelmedya.net/aksutv/bant1/chunks.m3u8?source:iptvmate.net
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/1283.jpg" tvg-name="AV TV"  group-title="Europe",AV TV
-https://waw2.artiyerelmedya.net/avtv/bant1/chunks.m3u8?source:iptvmate.net
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6386.jpg" tvg-name="BRTV"  group-title="Europe",BRTV
 https://waw2.artiyerelmedya.net/brtv/bant1/chunks.m3u8?source:iptvmate.net
 
@@ -2864,8 +2838,7 @@ https://waw2.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5015.jpg" tvg-name="DEHA TV"  group-title="Europe",DEHA TV
 https://waw2.artiyerelmedya.net/dehatv/bant1/chunks.m3u8?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5880.jpg" tvg-name="DENİZ POSTASI TV"  group-title="Europe",DENİZ POSTASI TV
-https://waw2.artiyerelmedya.net/denizpostasitv/bant1/chunks.m3u8?source:iptvmate.net
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6015.jpg" tvg-name="EGE TV HD"  group-title="Europe",EGE TV HD
 https://waw2.artiyerelmedya.net/egetv/bant1/chunks.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6520.jpg" tvg-name="GRT"  group-title="Europe",GRT
@@ -2882,30 +2855,24 @@ https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8?hash=3e0bbf2c55e462f4e
 https://waw2.artiyerelmedya.net/kanalfirat/bant1/chunks.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6599.jpg" tvg-name="VTV"  group-title="Europe",VTV
 https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5506.jpg" tvg-name="Kanal Z"  group-title="Europe",Kanal Z
-https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0?source:iptvmate.net
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2819.jpg" tvg-name="KANAL Z"  group-title="Europe",KANAL Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5582.jpg" tvg-name="KAY TV"  group-title="Europe",KAY TV
 https://waw2.artiyerelmedya.net/kaytv/bant1/chunks.m3u8?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3566.jpg" tvg-name="LIFE TV"  group-title="Europe",LIFE TV
-https://waw2.artiyerelmedya.net/lifetv/bant1/chunks.m3u8?source:iptvmate.net
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6707.jpg" tvg-name="MAVİ KARADENİZ"  group-title="Europe",MAVİ KARADENİZ
 https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2799.jpg" tvg-name="MERCAN TV"  group-title="Europe",MERCAN TV
 https://waw2.artiyerelmedya.net/mercantv/bant1/chunks.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3915.jpg" tvg-name="OLAY TÜRK TV"  group-title="Europe",OLAY TÜRK TV
 https://waw2.artiyerelmedya.net/olayturk/bant1/chunks.m3u8?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3141.jpg" tvg-name="Gaziantep Olay Tv"  group-title="Europe",Gaziantep Olay Tv
-https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/4202.jpg" tvg-name="TE 60 TV"  group-title="Europe",TE 60 TV
-https://waw2.artiyerelmedya.net/te60tv/bant1/chunks.m3u8?source:iptvmate.net
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/4689.jpg" tvg-name="TON TV"  group-title="Europe",TON TV
 https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2019.jpg" tvg-name="TV41"  group-title="Europe",TV41
 https://waw2.artiyerelmedya.net/tv41/bant1/chunks.m3u8?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5467.jpg" tvg-name="TV A"  group-title="Europe",TV A
-https://waw2.artiyerelmedya.net/tva/bant1/chunks.m3u8?hash=2ed1974639ec674a33ed440298136dcd?source:iptvmate.net
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2243.jpg" tvg-name="VİZYON 58"  group-title="Europe",VİZYON 58
 https://waw2.artiyerelmedya.net/vizyon58/bant1/chunks.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5967.jpg" tvg-name="Monaco Info"  group-title="Europe",Monaco Info
@@ -2914,8 +2881,7 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8?source:iptvmate.net
 https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6211.jpg" tvg-name="Haber 61"  group-title="Europe",Haber 61
 https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6301.jpg" tvg-name="Djing Hits"  group-title="Europe",Djing Hits
-https://www.djing.com/tv/i-28634-04.m3u8?source:iptvmate.net
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6147.jpg" tvg-name="oeins Oldenburg"  group-title="Europe",oeins Oldenburg
 https://www.oeins.de/live/studio.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5012.jpg" tvg-name="Sophia TV"  group-title="Europe",Sophia TV
@@ -2924,6 +2890,4 @@ https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?source:i
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?source:iptvmate.net
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2944.jpg" tvg-name="Marmara TV"  group-title="Europe",Marmara TV
 https://yayin.marmaratv.com.tr/P324353563/marmaratv/playlist.m3u8?source:iptvmate.net
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/907.jpg" tvg-name="---- SENDER FINNLAND ----"  group-title="Europe",---- SENDER FINNLAND ----
-https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8?source:iptvmate.net
 
