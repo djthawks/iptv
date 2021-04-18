@@ -2813,4 +2813,18 @@ https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8?source:i
 https://broadcasttr.com:446/manisaetv/bant1/chunklist_w149497199.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/28116.jpg" group-title="North America",EVRGRN
 https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8?source:iptvmate.net
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2650.jpg" tvg-name="Radio Veronica"  group-title="music",Radio Veronica
+https://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/playlist.m3u8?source:iptvmate.net
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3531.jpg" tvg-name="Radio 538"  group-title="music",Radio 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8?source:iptvmate.net
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/5274.jpg" tvg-name="Gigant FM (Webradio)"  group-title="music",Gigant FM (Webradio)
+https://streams.uitzending.tv/gigantfm/gigantfm/chunklist_w666692457.m3u8?source:iptvmate.net
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/6677.jpg" tvg-name="ZO!34"  group-title="music",ZO!34
+https://streams.uitzending.tv/zo34/zo34/playlist.m3u8?source:iptvmate.net
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/2327.jpg" tvg-name="Radio Taormina Sicilia"  group-title="music",Radio Taormina Sicilia
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8?source:iptvmate.net
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3619.jpg" tvg-name="Радио Люкс"  group-title="music",Радио Люкс
+https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8?source:iptvmate.net
 
