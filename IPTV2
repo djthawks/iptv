@@ -1,231 +1,67 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韩频道",WakuWaku Japan
-https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
-http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="电影",HBO HITS
-http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="电影",HBO Signature
-http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="PLUTO",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="电影",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/MNX2.in.png" group-title="电影",MNX Movies
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="电影",Sky Movies Action
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="MOVIE",Sony  Movies Action
 http://51.52.156.22:8888/http/009
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Documentary",139.Travel Channel
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",140.Fox HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="DAVE",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",142.AXN
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="English",142.AXN HD
-http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/45.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English",143.HBO [China] 
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="English",143.HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO
-https://alwa.lk21tvonlineid.com/hbo.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS
-https://alwa.lk21tvonlineid.com/hits.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2", HBO FAMILY
-https://alwa.lk21tvonlineid.com/family.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",SIGNATURE
-http://alwa.lk21tvonlineid.com/signature.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",RED HBO
-https://alwa.lk21tvonlineid.com/red.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CINEMAX
-https://alwa.lk21tvonlineid.com/cinemax.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HD (Resolusi)
-http://me.zichannels.my.id/ch/hbo.m3u8 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Hits (Resolusi)
-http://me.zichannels.my.id/ch/hits.m3u8 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Family (Resolusi)
-http://me.zichannels.my.id/ch/family.m3u8 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Signature (Resolusi)
-http://me.zichannels.my.id/ch/sighd.m3u8 
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Red (Resolusi)
-http://me.zichannels.my.id/ch/red.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO Max (Resolusi)
-http://me.zichannels.my.id/ch/max.m3u8 
-
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Asia
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Cookie Rerun
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX
-http://136.243.177.164/FOX/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film ARMENIA TV 
-http://92.43.140.200/s42/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film odega
-http://92.43.140.200/s47/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film A HBO
-http://92.43.140.200/s64/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Film T24
-http://92.43.140.200/s68/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FILM ?? 
-http://92.43.140.200/s7/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Hiburan 
-http://92.43.140.200/s38/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",DRAKOR
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/01.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX THAI
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX MOVIES THAI
 https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HD THAI
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS THAI
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO RED THAI
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",AXN THAI
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",WARNER TV THAI
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",KIX MALAY
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO ENG
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO 
-https://www.livedoomovies.com:443/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",UK: HBO
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO FAM
-https://www.livedoomovies.com:443/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO HITS
-https://www.livedoomovies.com:443/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",HBO SIG
-https://www.livedoomovies.com:443/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",CINEMAX
-http://136.243.177.164/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium2",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 tvg-id="bbc.1.gb" tvg-name="BBC ONE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png" group-title="UK Ent", BBC ONE
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2950
-#EXTINF:-1 tvg-id="bbc.2.gb" tvg-name="BBC TWO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.png" group-title="UK Ent", BBC TWO
-http://51.52.156.22:8888/http/011
 #EXTINF:-1 tvg-id="itv.gb" tvg-name="ITV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-uk.png" group-title="UK Ent", ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-id="channel.4.gb" tvg-name="CHANNEL 4" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_4_uk.png" group-title="UK Ent", CHANNEL 4
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2932
-#EXTINF:-1 tvg-id="channel.5.gb" tvg-name="CHANNEL 5" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-5-uk.png" group-title="UK Ent", CHANNEL 5
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2931
 #EXTINF:-1 tvg-id="bbc.four.gb" tvg-name="BBC FOUR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_four_uk.png" group-title="UK Ent", BBC FOUR (CBEEBIES)
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="bbc.1.gb" tvg-name="BBC SCOTLAND" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-scotland-uk.png" group-title="UK Ent", BBC SCOTLAND
 http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="FILM 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK042Film4.png", FILM 4
 http://51.52.156.22:8888/http/008
-
-#EXTINF:-1 tvg-id="really.gb" tvg-name="REALLY" tvg-logo="https://www.lyngsat.com/logo/tv/rr/really_uktv.png" group-title="UK Ent", REALLY
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28772
-#EXTINF:-1 tvg-id="yesterday.gb" tvg-name="YESTERDAY" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yesterday_uktv.png", YESTERDAY
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28905
 #EXTINF:-1 tvg-id="sony.movies.action.gb" tvg-name="SONY MOVIES ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-action-us-uk.png", SONY MOVIES ACTION
 http://51.52.156.22:8888/http/009
-
-#EXTINF:-1, tvg-id="sky.atlantic.gb" tvg-name="SKY ATLANTIC" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-atlantic-de.png", SKY ATLANTIC
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28955
 #EXTINF:-1 tvg-id="itv2.gb" tvg-name="ITV 2" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_2.png", ITV 2
 http://51.52.156.22:8888/http/005
 #EXTINF:-1 tvg-id="itv3.gb" tvg-name="ITV 3" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_3.png", ITV 3
 http://51.52.156.22:8888/http/006
-
-#EXTINF:-1 tvg-id="HBOAdria.rs" tvg-name="HBO ADRIA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png", HBO ADRIA
-http://bos.00387.info:8080/HBO/index.m3u8?token=test
-#EXTINF:-1 tvg-id="HBO2.hr" tvg-name="HBO 2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png", HBO 2
-http://bos.00387.info:8080/HBO2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="HBO3.hr" tvg-name="HBO 3" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png", HBO 3
-http://bos.00387.info:8080/HBO3/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Cinemax1.rs" tvg-name"CINEMAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_ce.png", CINEMAX
-http://bos.00387.info:8080/Cinemax1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Cinemax2.rs" tvg-name"CINEMAX 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_ce_2.png", CINEMAX 2
-http://bos.00387.info:8080/Cinemax2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="AXN.hr" tvg-name="AXN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png", AXN
-http://bos.00387.info:8080/HU:TV2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="CinestarPremiere1.hr" tvg-name="CINESTAR PREMIERE 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_star_hr_premiere1.png", CINESTAR PREMIERE 1
-http://hrv.00387.info/CinestarPremiere1/index.m3u8?token=test
-#EXTINF:-1,CINESTAR PREMIERE 2
-#EXTINF:-1 tvg-id="CinestarPremiere2.hr" tvg-name="CINESTAR PREMIERE 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_star_hr_premiere2.png", CINESTAR PREMIERE 2
-http://hrv.00387.info/CinestarPremiere2/index.m3u8?token=test
-
-#EXTINF: -1 tvg-id="pbs.america.gb" tvg-name="PBS AMERICA" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pbs_america.png" group-title="UK Ent", PBS AMERICA
-http://51.52.156.22:8888/http/012
-
-#EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_channel_us.png", TRAVEL CHANNEL 
-http://bos.00387.info:27979/DOK:TravelChannel/index.m3u8?token=test
-#EXTINF:-1 tvg-id="WABCNewYorkABCEast.us" tvg-name="ABC (USA)" tvg-logo="https://static-s.aa-cdn.net/img/ios/364191819/91a396b09d12bc302be568e10a939bf9", ABC (USA)
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/29438
-
-#EXTINF: -1 tvg-id="clubland.gb" tvg-name="CLUBLAND" tvg-logo="https://www.lyngsat.com/logo/tv/cc/clubland_tv_uk.png" group-title="UK Ent", CLUBLAND 
-http://tanmedia.watch:8880/shajjahmed10@gmail.com/jY96vt66rq/38661
-
-#EXTINF: -1 tvg-name="KERRANG!" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kerrang_tv_uk.png" group-title="UK Ent", KERRANG!
+#EXTINF: -1 tvg-name="KERRANG!" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kerrang_tv_uk.png" group-title="MUSIC", KERRANG!
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF: -1 tvg-name="VH1" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vh1_global.png", VH1
+#EXTINF: -1 tvg-name="VH1" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vh1_global.png" group-title="MUSIC", VH1
 http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
-
-#EXTINF:-1 tvg-name="BRIDGE TV CLASSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bridge_tv_ru_classic.png", BRIDGE TV CLASSIC
-http://185.134.36.43:4022/udp/234.0.0.223:2000
-#EXTINF:-1 tvg-name="MTV 90'S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-90s-us.png", MTV 90'S 
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28785
-#EXTINF: -1 tvg-name="MTV HITS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_hits_us_global.png", MTV HITS
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2896
-#EXTINF:-1 tvg-name="DEEJAY TV" tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio_deejay_it.png", DEE JAY TV
+#EXTINF:-1 tvg-name="DEEJAY TV" tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio_deejay_it.png" group-title="MUSIC", DEE JAY TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-
-#EXTINF: -1 tvg-name="KISS UK" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kiss_uk.png" group-title="UK Ent", KISS UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28927
-#EXTINF: -1 tvg-name="BOX HITS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/box_hits_uk.png" group-title="UK Ent", BOX HITS
+#EXTINF: -1 tvg-name="BOX HITS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/box_hits_uk.png" group-title="MUSIC", BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF: -1 tvg-name="THE BOX" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the_box_uk.png" group-title="UK Ent", THE BOX
+#EXTINF: -1 tvg-name="THE BOX" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the_box_uk.png" group-title="MUSIC", THE BOX
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1,tvg-name="MAGIC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magic_tv_uk.png" group-title="UK Ent", MAGIC
+#EXTINF:-1,tvg-name="MAGIC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magic_tv_uk.png" group-title="MUSIC", MAGIC
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-
-#EXTINF:-1 tvg-name="SKY NEWS AUSTRALIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png", SKY NEWS AUSTRALIA
+#EXTINF:-1 tvg-name="SKY NEWS AUSTRALIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png" group-title="NEWS", SKY NEWS AUSTRALIA
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1 tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abc-news-au.png", ABC NEWS AUSTRALIA
+#EXTINF:-1 tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abc-news-au.png" group-title="NEWS", ABC NEWS AUSTRALIA
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png", CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="NEWS", CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png", FOX NEWS
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" group-title="NEWS", FOX NEWS
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png", EURONEWS
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-#EXTINF:-1 tvg-id="rte.one.gb" tvg-name="RTÉ ONE" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte_one.png" group-title="UK Ent", RTÉ ONE
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2901
-#EXTINF:-1 tvg-id="rte2.gb" tvg-name="RTÉ TWO" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte_2_ie.png" group-title="UK Ent", RTÉ TWO
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2869
+
+
 #EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png", FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="GAY PORN" tvg-logo="https://en.kingofsat.net/jpg/gaytv.jpg", GAY PORN
@@ -256,420 +92,21 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/bigass.m3u8
 
 
-#EXTINF:-1 tvg-id="bbc.2.gb" tvg-name="BBC TWO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.png" group-title="UK Ent", BBC TWO
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2949
-#EXTINF:-1 tvg-id="channel.4.gb" tvg-name="CHANNEL 4" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_4_uk.png" group-title="UK Ent", CHANNEL 4
-http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
-#EXTINF:-1 tvg-id="channel.5.gb" tvg-name="CHANNEL 5" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-5-uk.png" group-title="UK Ent", CHANNEL 5
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2931
+
 #EXTINF:-1 tvg-name="KERRANG!" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kerrang_tv_uk.png" group-title="UK Ent", KERRANG!
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-name="MTV NORDIC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="UK Ent", MTV NORDIC
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 
-#EXTINF: -1 tvg-name="UK001:3E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK0013E.png" group-title="UK Ent", UK001:3E
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2956
-#EXTINF: -1 tvg-id="4seven.gb" tvg-name="UK002:4Seven" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK0024Seven.png" group-title="UK Ent", UK002:4Seven
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2955
-#EXTINF: -1 tvg-id="5usa+1.gb" tvg-name="UK004:5USA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK0045USA.png" group-title="UK Ent", UK004:5USA
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2953
-#EXTINF: -1 tvg-id="5star.gb" tvg-name="UK003:5Star" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK0035Star.png" group-title="UK Ent", UK003:5Star
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2954
-#EXTINF: -1 tvg-id="e.gb" tvg-name="UK038:E! UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK038E!UK.png" group-title="UK Ent", UK038:E! UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2919
-#EXTINF: -1 tvg-id="e4.gb" tvg-name="UK039:E4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK039E4.png" group-title="UK Ent", UK039:E4
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2918
-#EXTINF: -1 tvg-id="good.food.gb" tvg-name="UK043:Good Food" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK043GoodFood.png" group-title="UK Ent", UK043:Good Food
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2914
-#EXTINF: -1 tvg-id="lifetime.gb" tvg-name="UK057:Life Time" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK057LifeTime.png" group-title="UK Ent", UK057:Life Time
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2900
-#EXTINF: -1 tvg-id="more4.gb" tvg-name="UK059:More 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK059More4.png" group-title="UK Ent", UK059:More 4
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2898
-#EXTINF: -1 tvg-id="mtv.base.gb" tvg-name="UK060:MTV Base" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK060MTVBase.png" group-title="UK Ent", UK060:MTV Base
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2897
-#EXTINF: -1 tvg-id="mtv.hits.gb" tvg-name="UK061:MTV Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK061MTVClass.png" group-title="UK Ent", UK061:MTV Hits
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2896
-#EXTINF: -1 tvg-id="vh1.gb" tvg-name="UK063:VH1 UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK063VH1UK.png" group-title="UK Ent", UK063:VH1 UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2894
-#EXTINF: -1 tvg-id="utv.gb" tvg-name="UK065:UTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK065UTV.png" group-title="UK Ent", UK065:UTV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2892
-#EXTINF: -1 tvg-id="tlc.gb" tvg-name="UK084:TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK084TLC.png" group-title="UK Ent", UK084:TLC
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2873
-#EXTINF: -1 tvg-id="travel.gb" tvg-name="UK085:Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK085TravelChannel.png" group-title="UK Ent", UK085:Travel Channel
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2872
-#EXTINF: -1 tvg-id="sky.one.gb" tvg-name="UK090:Sky One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK090SkyOne.png" group-title="UK Ent", UK090:Sky One
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2867
-#EXTINF: -1 tvg-name="UK092:TLC - IRELAND" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK092TLC-IRELAND.png" group-title="UK Ent", UK092:TLC - IRELAND
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28967
-#EXTINF: -1 tvg-id="syfy.gb" tvg-name="UK098:Syfy   1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK098Syfy1.png" group-title="UK Ent", UK098:Syfy   1
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28961
-#EXTINF: -1 tvg-id="sky.two.gb" tvg-name="UK100:Sky Two" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK100SkyTwo.png" group-title="UK Ent", UK100:Sky Two
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28959
-#EXTINF: -1 tvg-id="lfc.gb" tvg-name="UK110:LFC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK110LFCTV.png" group-title="UK Ent", UK110:LFC TV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28949
-#EXTINF: -1 tvg-id="horror.gb" tvg-name="UK111:Horror Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK111HorrorChannel1.png" group-title="UK Ent", UK111:Horror Channel
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28948
-#EXTINF: -1 tvg-id="challenge.gb" tvg-name="UK118:Challenge 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK118Challenge1.png" group-title="UK Ent", UK118:Challenge 1
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28941
-#EXTINF: -1 tvg-name="UK123:At The Races" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK123AtTheRaces.png" group-title="UK Ent", UK123:At The Races
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28936
-#EXTINF: -1 tvg-id="alibi.gb" tvg-name="UK124:Alibi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK124Alibi.png" group-title="UK Ent", UK124:Alibi
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28935
-#EXTINF: -1 tvg-id="kerrang.gb" tvg-name="UK131:KERRANG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK131KERRANG.png" group-title="UK Ent", UK131:KERRANG
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28928
-#EXTINF: -1 tvg-id="kiss.gb" tvg-name="UK132:KISS UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK132KISSUK.png" group-title="UK Ent", UK132:KISS UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28927
-#EXTINF: -1 tvg-id="viceland.gb" tvg-name="UK138:VICELAND" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK138VICELAND.png" group-title="UK Ent", UK138:VICELAND
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28921
-#EXTINF: -1 tvg-id="mtv.live.gb" tvg-name="UK139:MTV LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK139MTVLIVEHD.png" group-title="UK Ent", UK139:MTV LIVE HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28920
-#EXTINF: -1 tvg-id="magic.gb" tvg-name="UK150:Magic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK150Magic.png" group-title="UK Ent", UK150:Magic
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28909
-#EXTINF: -1 tvg-id="yesterday.gb" tvg-name="UK154:Yesterday" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK154Yesterday.png" group-title="UK Ent", UK154:Yesterday
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28905
-#EXTINF: -1 tvg-name="UK161:Living UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK161LivingUK.png" group-title="UK Ent", UK161:Living UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28898
-#EXTINF: -1 tvg-name="UK162:Eden" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK162Eden.png" group-title="UK Ent", UK162:Eden
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28897
-#EXTINF: -1 tvg-name="UK165:Syfy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK165Syfy.png" group-title="UK Ent", UK165:Syfy
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28894
-#EXTINF: -1 tvg-name="UK173:gold" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK173gold.png" group-title="UK Ent", UK173:gold
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28886
-#EXTINF: -1 tvg-name="UK175:DMax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK175DMax.png" group-title="UK Ent", UK175:DMax
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28884
-#EXTINF: -1 tvg-id="pick.gb" tvg-name="UK180:Pick(1)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK180Pick(1).png" group-title="UK Ent", UK180:Pick(1)
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28879
-#EXTINF: -1 tvg-name="UK182:At The Races" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK182AtTheRaces.png" group-title="UK Ent", UK182:At The Races
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28877
-#EXTINF: -1 tvg-name="UK183:BE3 Ireland" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK183BE3Ireland.png" group-title="UK Ent", UK183:BE3 Ireland
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28876
-#EXTINF: -1 tvg-id="vh1.gb" tvg-name="UK186:VH 1 CLASSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK186VH1CLASSIC.png" group-title="UK Ent", UK186:VH 1 CLASSIC
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28873
-#EXTINF: -1 tvg-id="4music.gb" tvg-name="UK187:4 MUSIC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK1874MUSICHD.png" group-title="UK Ent", UK187:4 MUSIC HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28872
-#EXTINF: -1 tvg-id="bbc.lifestyle.se" tvg-name="UK190:BBC LIFESTYLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK190BBCLIFESTYLE.png" group-title="UK Ent", UK190:BBC LIFESTYLE
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28869
-#EXTINF: -1 tvg-id="alibi.gb" tvg-name="UK191:Alibi FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK191AlibiFHD.png" group-title="UK Ent", UK191:Alibi FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28868
-#EXTINF: -1 tvg-id="al.jazeera.english.gb" tvg-name="UK192:ALJAZEERA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK192ALJAZEERAHD.png" group-title="UK Ent", UK192:ALJAZEERA HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28867
-#EXTINF: -1 tvg-id="virgin.media.three.gb" tvg-name="UK201:Virgin Media 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK201VirginMedia3.png" group-title="UK Ent", UK201:Virgin Media 3
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28858
-#EXTINF: -1 tvg-name="UK202:BOX HITS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK202BOXHITSHD.png" group-title="UK Ent", UK202:BOX HITS HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28857
-#EXTINF: -1 tvg-name="UK214:SyFy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK214SyFyFHD.png" group-title="UK Ent", UK214:SyFy FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28845
-#EXTINF: -1 tvg-id="challenge.gb" tvg-name="UK223:Challenge HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK223ChallengeHD.png" group-title="UK Ent", UK223:Challenge HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28836
-#EXTINF: -1 tvg-name="UK224:Channel 5 Star" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK224Channel5Star.png" group-title="UK Ent", UK224:Channel 5 Star
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28835
-#EXTINF: -1 tvg-name="UK225:CHELSEA TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK225CHELSEATVHD.png" group-title="UK Ent", UK225:CHELSEA TV HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28834
-#EXTINF: -1 tvg-name="UK226:Club MTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK226ClubMTV.png" group-title="UK Ent", UK226:Club MTV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28833
-#EXTINF: -1 tvg-id="clubland.gb" tvg-name="UK227:Clubland TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK227ClublandTV.png" group-title="UK Ent", UK227:Clubland TV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28832
-#EXTINF: -1 tvg-name="UK243:Fine Living Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK243FineLivingNetwork.png" group-title="UK Ent", UK243:Fine Living Network
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28816
-#EXTINF: -1 tvg-id="zing.gb" tvg-name="UK244:ZING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK244ZingHD" group-title="UK Ent", UK244:ZING
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28815
-#EXTINF: -1 tvg-id="france.24.gb" tvg-name="UK246:FRANCE 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK246FRANCE24.png" group-title="UK Ent", UK246:FRANCE 24
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28813
-#EXTINF: -1 tvg-id="home.gb" tvg-name="UK254:Home" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK254Home.png" group-title="UK Ent", UK254:Home
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28805
-#EXTINF: -1 tvg-name="UK256:Horse Country" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK256HorseCountry.png" group-title="UK Ent", UK256:Horse Country
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28803
-#EXTINF: -1 tvg-id="itvbe.gb" tvg-name="UK258:ITVBE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK258ITVBE.png" group-title="UK Ent", UK258:ITVBE
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28801
-#EXTINF: -1 tvg-id="liverpool.fc.gb" tvg-name="UK259:Liverpool FC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK259LiverpoolFCTV.png" group-title="UK Ent", UK259:Liverpool FC TV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28800
-#EXTINF: -1 tvg-id="tg4.gb" tvg-name="UK261:IR TG4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK261IRTG4.png" group-title="UK Ent", UK261:IR TG4
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28798
-#EXTINF: -1 tvg-id="kerrang.gb" tvg-name="UK263:Kerrang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK263Kerrang.png" group-title="UK Ent", UK263:Kerrang
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28796
-#EXTINF: -1 tvg-id="kiss.gb" tvg-name="UK264:KISS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK264KISS.png" group-title="UK Ent", UK264:KISS
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28795
-#EXTINF: -1 tvg-id="lfc.gb" tvg-name="UK265:LFC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK265LFCTV.png" group-title="UK Ent", UK265:LFC TV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28794
-#EXTINF: -1 tvg-id="love.nature.gb" tvg-name="UK266:Love Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK266LoveNature.png" group-title="UK Ent", UK266:Love Nature
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28793
-#EXTINF: -1 tvg-name="UK267:Living" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK267Living.png" group-title="UK Ent", UK267:Living
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28792
-#EXTINF: -1 tvg-id="london.live.gb" tvg-name="UK268:London Live" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK268LondonLive.png" group-title="UK Ent", UK268:London Live
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28791
-#EXTINF: -1 tvg-id="magic.gb" tvg-name="UK269:Magic TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK269MagicTV.png" group-title="UK Ent", UK269:Magic TV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28790
-#EXTINF: -1 tvg-name="UK271:MTV Dance HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK271MTVDanceHD.png" group-title="UK Ent", UK271:MTV Dance HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28788
-#EXTINF: -1 tvg-id="mtv.music.gb" tvg-name="UK272:MTV Music HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK272MTVMusicHD.png" group-title="UK Ent", UK272:MTV Music HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28787
-#EXTINF: -1 tvg-id="mtv.omg.gb" tvg-name="UK273:MTV OMG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK273MTVOMG.png" group-title="UK Ent", UK273:MTV OMG
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28786
-#EXTINF: -1 tvg-id="mtv.rocks.gb" tvg-name="UK274:MTV Rocks HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK274MTVRocksHD.png" group-title="UK Ent", UK274:MTV Rocks HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28785
-#EXTINF: -1 tvg-id="mtv.classic.gb" tvg-name="UK275:MTV Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK275MTVClassic.png" group-title="UK Ent", UK275:MTV Classic
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28784
-#EXTINF: -1 tvg-id="pbs.america.gb" tvg-name="UK280:PBS America" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK280PBSAmerica.png" group-title="UK Ent", UK280:PBS America
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28779
-#EXTINF: -1 tvg-id="pick.gb" tvg-name="UK281:Pick TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK281PickTV.png" group-title="UK Ent", UK281:Pick TV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28778
-#EXTINF: -1 tvg-id="pop.max.gb" tvg-name="UK283:Pop Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK283PopMax.png" group-title="UK Ent", UK283:Pop Max
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28776
-#EXTINF: -1 tvg-id="qvc.beauty.gb" tvg-name="UK284:QVC Beauty HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK284QVCBeautyHD.png" group-title="UK Ent", UK284:QVC Beauty HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28775
-#EXTINF: -1 tvg-id="qvc.style.gb" tvg-name="UK285:QVC Style" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK285QVCStyle.png" group-title="UK Ent", UK285:QVC Style
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28774
-#EXTINF: -1 tvg-id="really.gb" tvg-name="UK287:Really" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK287Really.png" group-title="UK Ent", UK287:Really
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28772
-#EXTINF: -1 tvg-id="rishtey.gb" tvg-name="UK289:RISHTEY EUROPE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK289RISHTEYEUROPE.png" group-title="UK Ent", UK289:RISHTEY EUROPE
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28770
-#EXTINF: -1 tvg-id="rok.gb" tvg-name="UK290:iConcerts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK290iConcerts.png" group-title="UK Ent", UK290:iConcerts
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28769
-#EXTINF: -1 tvg-id="sab.gb" tvg-name="UK293:SAB TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK293SABTV.png" group-title="UK Ent", UK293:SAB TV
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28766
-#EXTINF: -1 tvg-id="sky.two.gb" tvg-name="UK295:Sky 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK295Sky2HD.png" group-title="UK Ent", UK295:Sky 2 HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28764
-#EXTINF: -1 tvg-id="viceland.gb" tvg-name="UK307:Viceland HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK307VicelandHD.png" group-title="UK Ent", UK307:Viceland HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28752
-#EXTINF: -1 tvg-name="UK309:RT NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK309RTNEWS.png" group-title="UK Ent", UK309:RT NEWS
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28750
-#EXTINF: -1 tvg-id="the.box.gb" tvg-name="UK317:The Box" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK317TheBox.png" group-title="UK Ent", UK317:The Box
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28742
-#EXTINF: -1 tvg-id="5spike+1.gb" tvg-name="UK323:SPIKE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK323SPIKE.png" group-title="UK Ent", UK323:SPIKE
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28736
-#EXTINF: -1 tvg-id="gold.gb" tvg-name="UK249:GOLD FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK249GOLDFHD.png" group-title="UK Ent", UK249:GOLD FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28810
-#EXTINF: -1 tvg-id="horror.gb" tvg-name="UK255:HORROR CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK255HORRORCHANNEL.png" group-title="UK Ent", UK255:HORROR CHANNEL
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28804
-#EXTINF: -1 tvg-name="UK253:iFollow | EFL 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK253iFollowEFL3.png" group-title="UK Ent", UK253:iFollow | EFL 3
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28806
-#EXTINF: -1 tvg-id="rte.one.gb" tvg-name="UK056:RTE One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK056RTEOne.png" group-title="UK Ent", UK056:RTE One
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2901
-#EXTINF: -1 tvg-id="virgin.media.one.gb" tvg-name="UK199:Virgin Media 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK199VirginMedia1.png" group-title="UK Ent", UK199:Virgin Media 1
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28860
-#EXTINF: -1 tvg-id="virgin.media.two.gb" tvg-name="UK200:Virgin Media 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK200Virgin.Media.2.png" group-title="UK Ent", UK200:Virgin Media 2
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28859
-#EXTINF: -1 tvg-id="rte2.gb" tvg-name="UK088:RTE Two" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK088RTETwo.png" group-title="UK Ent", UK088:RTE Two
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2869
-#EXTINF: -1 tvg-id="thane.direct.gb" tvg-name="UK047:Thane" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK047Thane.png" group-title="UK Cinema", UK047:Thane
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2910
-#EXTINF: -1 tvg-name="UK:------|CINEMA|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK------|CINEMA|--------------------------------------.png" group-title="UK Cinema", UK:------|CINEMA|--------------------------------------
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/60645
-#EXTINF: -1 tvg-id="universal.gb" tvg-name="UK009:Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK009Universal.png" group-title="UK Cinema", UK009:Universal
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2948
-#EXTINF: -1 tvg-id="CBSAction.uk" tvg-name="UK022:CBS Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK022CBSAction.png" group-title="UK Cinema", UK022:CBS Action
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2935
-#EXTINF: -1 tvg-id="cbs.drama.gb" tvg-name="UK023:CBS Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK023CBSDrama.png" group-title="UK Cinema", UK023:CBS Drama
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2934
-#EXTINF: -1 tvg-id="cbs.reality.gb" tvg-name="UK024:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK024CBSReality.png" group-title="UK Cinema", UK024:CBS Reality
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2933
-#EXTINF: -1 tvg-id="movies.24.gb" tvg-name="UK027:Movies 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK027Movies24.png" group-title="UK Cinema", UK027:Movies 24
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2930
-#EXTINF: -1 tvg-id="comedy.central.gb" tvg-name="UK029:Comedy Central" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK029ComedyCentral.png" group-title="UK Cinema", UK029:Comedy Central
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2928
-#EXTINF: -1 tvg-id="sky.drama.gb" tvg-name="UK037:Sky Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK037SkyDrama.png" group-title="UK Cinema", UK037:Sky Drama
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2920
-#EXTINF: -1 tvg-name="UK042:Film 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK042Film4.png" group-title="UK Cinema", UK042:Film 4
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2915
-#EXTINF: -1 tvg-id="fox.gb" tvg-name="UK044:FOX UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK044FOXUK.png" group-title="UK Cinema", UK044:FOX UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2913
-#EXTINF: -1 tvg-id="talking.pictures.gb" tvg-name="UK046:Talking Pictures" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK046HBOUK.png" group-title="UK Cinema", UK046:Talking Pictures
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2911
-#EXTINF: -1 tvg-name="UK058:Sky Living" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK058SkyLiving.png" group-title="UK Cinema", UK058:Sky Living
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2899
-#EXTINF: -1 tvg-id="sky.cinema.action.gb" tvg-name="UK066:Sky Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK066SkyAction.png" group-title="UK Cinema", UK066:Sky Action
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2891
-#EXTINF: -1 tvg-id="sky.comedy.gb" tvg-name="UK067:Sky Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK067SkyComedy.png" group-title="UK Cinema", UK067:Sky Comedy
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2890
-#EXTINF: -1 tvg-id="SkyDisney.uk" tvg-name="UK068:Sky Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK068SkyDisney.png" group-title="UK Cinema", UK068:Sky Disney
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2889
-#EXTINF: -1 tvg-id="sky.cinema.family.gb" tvg-name="UK069:Sky Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK069SkyFamily.png" group-title="UK Cinema", UK069:Sky Family
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2888
-#EXTINF: -1 tvg-id="sky.arts.gb" tvg-name="UK070:Sky Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK070SkyArts.png" group-title="UK Cinema", UK070:Sky Arts
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2887
-#EXTINF: -1 tvg-id="sky.cinema.premiere.gb" tvg-name="UK072:Sky Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK072SkyPremiere.png" group-title="UK Cinema", UK072:Sky Premiere
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2885
-#EXTINF: -1 tvg-id="sky.cinema.sci.fi.horror.gb" tvg-name="UK073:Sky ScFi Horror" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK073SkyScFiHorror.png" group-title="UK Cinema", UK073:Sky ScFi Horror
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2884
-#EXTINF: -1 tvg-id="showcase.gb" tvg-name="UK074:Sky Showcase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK074SkyShowcase.png" group-title="UK Cinema", UK074:Sky Showcase
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2883
-#EXTINF: -1 tvg-id="sky.cinema.thriller.gb" tvg-name="UK083:Sky Thriller" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK083SkyThriller.png" group-title="UK Cinema", UK083:Sky Thriller
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2874
-#EXTINF: -1 tvg-name="UK091:True Movies 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK091TrueMovies1.png" group-title="UK Cinema", UK091:True Movies 1
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28968
-#EXTINF: -1 tvg-name="UK093:Sky Movies Modern" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK093SkyMoviesModern.png" group-title="UK Cinema", UK093:Sky Movies Modern
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28966
-#EXTINF: -1 tvg-name="UK094:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK094HBO2.png" group-title="UK Cinema", UK094:HBO 2
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28965
-#EXTINF: -1 tvg-name="UK096:True Movies 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK096TrueMovies2.png" group-title="UK Cinema", UK096:True Movies 2
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28963
-#EXTINF: -1 tvg-id="sony.movies.classic.gb" tvg-name="UK099:Sony Movies Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK099SonyChnl1.png" group-title="UK Cinema", UK099:Sony Movies Classic
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28960
-#EXTINF: -1 tvg-id="sky.cinema.select.gb" tvg-name="UK102:Sky Movies Select HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK102SkyMoviesSelectHD.png" group-title="UK Cinema", UK102:Sky Movies Select HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28957
-#EXTINF: -1 tvg-id="sky.cinema.premiere+1.gb" tvg-name="UK103:Sky Cinema Premiere  1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK103SkyCinemaPremiere1.png" group-title="UK Cinema", UK103:Sky Cinema Premiere  1
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28956
-#EXTINF: -1 tvg-name="UK104:Sky Atlantic  1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK104SkyAtlantic1.png" group-title="UK Cinema", UK104:Sky Atlantic  1
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28955
-#EXTINF: -1 tvg-id="comedy.central.extra+1.gb" tvg-name="UK116:Comedy Central Extra   1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK116ComedyCentralExtra1.png" group-title="UK Cinema", UK116:Comedy Central Extra   1
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28943
-#EXTINF: -1 tvg-id="amc.from.bt.gb" tvg-name="UK126:AMC FROM BT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK126AMCFROMBT.png" group-title="UK Cinema", UK126:AMC FROM BT
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28933
-#EXTINF: -1 tvg-id="bbc.alba.gb" tvg-name="UK127:BBC ALBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK127BBCALBA.png" group-title="UK Cinema", UK127:BBC ALBA
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28932
-#EXTINF: -1 tvg-name="UK133:Movies 4 Men" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK133Movies4Men.png" group-title="UK Cinema", UK133:Movies 4 Men
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28926
-#EXTINF: -1 tvg-id="sony.movies+1.gb" tvg-name="UK136:Sony Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK136SonyMovie.png" group-title="UK Cinema", UK136:Sony Movie
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28923
-#EXTINF: -1 tvg-id="sony+1.gb" tvg-name="UK137:Sony Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK137SonyChannel.png" group-title="UK Cinema", UK137:Sony Channel
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28922
-#EXTINF: -1 tvg-id="sky.cinema.thriller.gb" tvg-name="UK145:Sky Cinema Crime & Thriller HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK145SkyCinemaCrime&ThrillerHD.png" group-title="UK Cinema", UK145:Sky Cinema Crime & Thriller HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28914
-#EXTINF: -1 tvg-id="sky.cinema.romance.it" tvg-name="UK146:Sky Cinema Drama & Romance HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK146SkyCinemaDrama&RomanceHD.png" group-title="UK Cinema", UK146:Sky Cinema Drama & Romance HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28913
-#EXTINF: -1 tvg-id="sky.cinema.sci.fi.horror.gb" tvg-name="UK147:Sky Cinema Sci-Fi & Horror HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK147SkyCinemaSci-Fi&HorrorHD.png" group-title="UK Cinema", UK147:Sky Cinema Sci-Fi & Horror HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28912
-#EXTINF: -1 tvg-id="sky.cinema.select.gb" tvg-name="UK148:Sky Cinema Select HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK148SkyCinemaSelectHD.png" group-title="UK Cinema", UK148:Sky Cinema Select HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28911
-#EXTINF: -1 tvg-id="tcm.movies.gb" tvg-name="UK151:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK151TCM.png" group-title="UK Cinema", UK151:TCM
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28908
-#EXTINF: -1 tvg-id="sky.cinema.drama.gb" tvg-name="UK156:Sky Movies Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK156SkyMoviesDrama.png" group-title="UK Cinema", UK156:Sky Movies Drama
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28903
-#EXTINF: -1 tvg-id="sky.atlantic.gb" tvg-name="UK157:SKY Atlantic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK157SKYAtlanticHD.png" group-title="UK Cinema", UK157:SKY Atlantic HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28902
-#EXTINF: -1 tvg-id="zee.cinema.gb" tvg-name="UK163:ZEE CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK163ZEECINEMA.png" group-title="UK Cinema", UK163:ZEE CINEMA
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28896
-#EXTINF: -1 tvg-id="sky.cinema.greats.gb" tvg-name="UK166:Sky Movies Greats" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK166SkyMoviesGreats.png" group-title="UK Cinema", UK166:Sky Movies Greats
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28893
-#EXTINF: -1 tvg-id="sky.cinema.sci.fi.horror.gb" tvg-name="UK167:Sky Movie Sci-Fi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK167SkyMovieSci-Fi.png" group-title="UK Cinema", UK167:Sky Movie Sci-Fi
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28892
-#EXTINF: -1 tvg-id="drama.gb" tvg-name="UK174:Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK174Drama.png" group-title="UK Cinema", UK174:Drama
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28885
-#EXTINF: -1 tvg-id="sky.witness.gb" tvg-name="UK185:Sky Witness HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK185SkyWitnessHD.png" group-title="UK Cinema", UK185:Sky Witness HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28874
-#EXTINF: -1 tvg-id="amc.gb" tvg-name="UK193:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK193AMCHD.png" group-title="UK Cinema", UK193:AMC HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28866
-#EXTINF: -1 tvg-id="bbc.alba.gb" tvg-name="UK195:BBC Alba HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK195BBCAlbaHD.png" group-title="UK Cinema", UK195:BBC Alba HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28864
-#EXTINF: -1 tvg-name="UK197:BBC Entertainment HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK197BBCEntertainmentHD.png" group-title="UK Cinema", UK197:BBC Entertainment HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28862
-#EXTINF: -1 tvg-id="cbs.justice.gb" tvg-name="UK221:CBS justice" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK221CBSjustice.png" group-title="UK Cinema", UK221:CBS justice
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28838
-#EXTINF: -1 tvg-id="5select.gb" tvg-name="UK222:5SELECT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK2225SELECT.png" group-title="UK Cinema", UK222:5SELECT
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28837
-#EXTINF: -1 tvg-id="drama.gb" tvg-name="UK234:Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK234Drama.png" group-title="UK Cinema", UK234:Drama
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28825
-#EXTINF: -1 tvg-name="UK270:MOVIES 4 MEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK270MOVIES4MEN.png" group-title="UK Cinema", UK270:MOVIES 4 MEN
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28789
-#EXTINF: -1 tvg-id="sky.atlantic.gb" tvg-name="UK296:Sky Atlantic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK296SkyAtlanticHD.png" group-title="UK Cinema", UK296:Sky Atlantic HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28763
-#EXTINF: -1 tvg-id="sky.cinema.action.gb" tvg-name="UK298:SKY CIENMA ACTION HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK298SKYCIENMAACTIONHD.png" group-title="UK Cinema", UK298:SKY CIENMA ACTION HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28761
-#EXTINF: -1 tvg-id="sky.cinema.comedy.united.kingdom.gb" tvg-name="UK299:SKY CIENMA COMEDY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK299SKYCIENMACOMEDYHD.png" group-title="UK Cinema", UK299:SKY CIENMA COMEDY HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28760
-#EXTINF: -1 tvg-id="sky.cinema.family.gb" tvg-name="UK300:SKY CIENMA Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK300SKYCIENMAFamilyHD.png" group-title="UK Cinema", UK300:SKY CIENMA Family HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28759
-#EXTINF: -1 tvg-name="UK301:SKY CIENMA Greats HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK301SKYCIENMAGreatsHD.png" group-title="UK Cinema", UK301:SKY CIENMA Greats HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28758
-#EXTINF: -1 tvg-name="UK302:Sky Cinema Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK302SkyCinemaHits.png" group-title="UK Cinema", UK302:Sky Cinema Hits
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28757
-#EXTINF: -1 tvg-name="UK303:SKY CIENMA PREMIER HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK303SKYCIENMAPREMIERHD.png" group-title="UK Cinema", UK303:SKY CIENMA PREMIER HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28756
-#EXTINF: -1 tvg-name="UK304:SKY CIENMA SELECT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK304SKYCIENMASELECTHD.png" group-title="UK Cinema", UK304:SKY CIENMA SELECT HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28755
-#EXTINF: -1 tvg-name="UK308:Sky Cinema Crime & Thriller FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK308SkyCinemaCrimeThrillerFHD.png" group-title="UK Cinema", UK308:Sky Cinema Crime & Thriller FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28751
-#EXTINF: -1 tvg-name="UK310:Sky Cinema Drama & Romance FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK310SkyCinemaDrama&RomanceFHD.png" group-title="UK Cinema", UK310:Sky Cinema Drama & Romance FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28749
-#EXTINF: -1 tvg-id="nowtv.sky.cinema.premiere.gb" tvg-name="UK313:Sky Cinema Premier FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK313SkyCinemaPremierFHD.png" group-title="UK Cinema", UK313:Sky Cinema Premier FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28746
-#EXTINF: -1 tvg-id="nowtv.sky.cinema.sci.fi.horror.gb" tvg-name="UK314:Sky Cinema Sci-Fi&Horror FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK314SkyCinemaSci-FiHorrorFHD.png" group-title="UK Cinema", UK314:Sky Cinema Sci-Fi&Horror FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28745
-#EXTINF: -1 tvg-id="sky.cinema.select.gb" tvg-name="UK315:Sky Cinema Select FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK315SkyCinemaSelectFHD.png" group-title="UK Cinema", UK315:Sky Cinema Select FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28744
-#EXTINF: -1 tvg-id="showcase.gb" tvg-name="UK316:Sky Showcase tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK316SkyCinemaShowcaseHD.png" group-title="UK Cinema", UK316:Sky Showcase tv
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28743
-#EXTINF: -1 tvg-id="sony.sab.gb" tvg-name="UK320:Sony Sab" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK320SonySab.png" group-title="UK Cinema", UK320:Sony Sab
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28739
-#EXTINF: -1 tvg-id="sony.max.gb" tvg-name="UK321:Sony Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK321SonyMovies.png" group-title="UK Cinema", UK321:Sony Max
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28738
-#EXTINF: -1 tvg-id="tcm.movies.gb" tvg-name="UK322:TCM FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK322TCMFHD.png" group-title="UK Cinema", UK322:TCM FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28729
-#EXTINF: -1 tvg-id="star.bharat.gb" tvg-name="UK324:STAR BHARAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK324STARBHARAT.png" group-title="UK Cinema", UK324:STAR BHARAT
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28735
-#EXTINF: -1 tvg-id="star.gold.gb" tvg-name="UK325:STAR GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK325STARGOLD.png" group-title="UK Cinema", UK325:STAR GOLD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28734
-#EXTINF: -1 tvg-id="sony.movies.action.gb" tvg-name="UK326:Sony Movies Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK326STARPLUS.png" group-title="UK Cinema", UK326:Sony Movies Action
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28733
-#EXTINF: -1 tvg-id="blaze.gb" tvg-name="UK153:Blaze HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK153BlazeHD.png" group-title="UK Doc", UK153:Blaze HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28906
-#EXTINF: -1 tvg-name="UK:------|DOCUMENTARY|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK------|DOCUMENTARY|---------------------------------.png" group-title="UK Doc", UK:------|DOCUMENTARY|---------------------------------
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/60646
-#EXTINF: -1 tvg-id="animal.planet.gb" tvg-name="UK005:Animal Planet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK005AnimalPlanet.png" group-title="UK Doc", UK005:Animal Planet
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2952
-#EXTINF: -1 tvg-id="crime.investigation.gb" tvg-name="UK030:Crime Investigiation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK030CrimeInvestigiation.png" group-title="UK Doc", UK030:Crime Investigiation
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2927
-#EXTINF: -1 tvg-id="discovery.gb" tvg-name="UK032:Discovery" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK032Discovery.png" group-title="UK Doc", UK032:Discovery
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2925
-#EXTINF: -1 tvg-id="discovery.science+1.gb" tvg-name="UK033:Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK033DiscoveryScience.png" group-title="UK Doc", UK033:Discovery Science
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2924
-#EXTINF: -1 tvg-id="history+1.gb" tvg-name="UK049:History UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK049HistoryUK.png" group-title="UK Doc", UK049:History UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2908
-#EXTINF: -1 tvg-id="discovery.id.gb" tvg-name="UK050:ID UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK050IDUK.png" group-title="UK Doc", UK050:ID UK
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2907
-#EXTINF: -1 tvg-id="national.geographic.gb" tvg-name="UK064:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK064NATGEO.png" group-title="UK Doc", UK064:NAT GEO
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/2893
-#EXTINF: -1 tvg-id="national.geographic.wild.gb" tvg-name="UK109:Nat Geo Wild" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK109NatGeoWild.png" group-title="UK Doc", UK109:Nat Geo Wild
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28950
-#EXTINF: -1 tvg-id="discovery.history.gb" tvg-name="UK115:Discovery History" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK115DiscoveryHistory1.png" group-title="UK Doc", UK115:Discovery History
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28944
-#EXTINF: -1 tvg-id="quest.gb" tvg-name="UK134:QUEST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK134QUEST.png" group-title="UK Doc", UK134:QUEST
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28925
-#EXTINF: -1 tvg-id="real.lives+1.gb" tvg-name="UK135:Real Lives" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK135RealLives.png" group-title="UK Doc", UK135:Real Lives
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28924
-#EXTINF: -1 tvg-id="h2.gb" tvg-name="UK152:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK152H2.png" group-title="UK Doc", UK152:History HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28907
-#EXTINF: -1 tvg-id="national.geographic.gb" tvg-name="UK158:Nat Geo " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK158NatGeoGraphic.png" group-title="UK Doc", UK158:Nat Geo
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28901
-#EXTINF: -1 tvg-name="UK172:Home & Health" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK172Home&Health.png" group-title="UK Doc", UK172:Home & Health
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28887
-#EXTINF: -1 tvg-id="discovery.turbo.gb" tvg-name="UK176:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK176DiscoveryTurbo.png" group-title="UK Doc", UK176:Discovery Turbo
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28883
-#EXTINF: -1 tvg-id="discovery.shed.gb" tvg-name="UK177:Discovery Shed" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK177DiscoveryShed.png" group-title="UK Doc", UK177:Discovery Shed
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28882
-#EXTINF: -1 tvg-id="eden.gb" tvg-name="UK184:Eden" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK184Eden.png" group-title="UK Doc", UK184:Eden
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28875
-#EXTINF: -1 tvg-id="bbcearthhd.us" tvg-name="UK196:BBC Earth" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK196BBCEarth.png" group-title="UK Doc", UK196:BBC Earth
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28863
-#EXTINF: -1 tvg-id="discovery.home.health.gb" tvg-name="UK230:Discovery H&H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK230DiscoveryH&H.png" group-title="UK Doc", UK230:Discovery H&H
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28829
-#EXTINF: -1 tvg-id="discovery.shed.gb" tvg-name="UK231:Discovery Shed HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK231DiscoveryShedHD.png" group-title="UK Doc", UK231:Discovery Shed HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28828
-#EXTINF: -1 tvg-id="discovery.turbo.gb" tvg-name="UK232:Discovery TURBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK232DiscoveryTURBOHD.png" group-title="UK Doc", UK232:Discovery TURBO HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28827
-#EXTINF: -1 tvg-id="dmax.gb" tvg-name="UK233:DMAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK233DMAXHD.png" group-title="UK Doc", UK233:DMAX HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28826
-#EXTINF: -1 tvg-id="h2.gb" tvg-name="UK250:H2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK250H2FHD.png" group-title="UK Doc", UK250:H2 FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28809
-#EXTINF: -1 tvg-id="national.geographic.wild.gb" tvg-name="UK276:NAT GEO WILD FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK276NATGEOWILDFHD.png" group-title="UK Doc", UK276:NAT GEO WILD FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28783
-#EXTINF: -1 tvg-id="real.lives+1.gb" tvg-name="UK286:REAL LIVES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK286REALLIVES.png" group-title="UK Doc", UK286:REAL LIVES
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28773
-#EXTINF: -1 tvg-name="UK332:Sky Documentaries" group-title="UK Doc", UK332:Sky Documentaries
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/49957
-#EXTINF: -1 tvg-name="UK333:Sky Nature" group-title="UK Doc", UK333:Sky Nature
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/49956
+
 
 #EXTINF:-1 group-title="Music", VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
  
 #EXTINF:-1, Camara  Diputados chile- HD2
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
- 
-#EXTINF:-1 group-title="Music",Melody Channel HD
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
-  
+   
 #EXTINF:-1, Wow tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
@@ -690,21 +127,13 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
  
 #EXTINF:-1 group-title="Music",Radio Maxima TV
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-  
-#EXTINF:-1, FUEGO TV
-http://184.173.181.2:1935/8020/8020/playlist.m3u8
  
 #EXTINF:-1, PELIS
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
   
 #EXTINF:-1, CANAL BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
- 
-#EXTINF:-1,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-   
-#EXTINF:-1,MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
  
 #EXTINF:-1,CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
@@ -718,8 +147,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1749069089.m3u8
 #EXTINF:-1 group-title="Music", RETRO
 http://stream.mediawork.cz/retrotv/retrotvHQ1/media_w1632423129.m3u8
    
-#EXTINF:-1, RCG | SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
  
 #EXTINF:-1, RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
@@ -729,12 +156,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
  
 #EXTINF:-1, UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
- 
-#EXTINF:-1, CDO Premium
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-  
-#EXTINF:-1, UTV | SD | San Clemente
-http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
  
 #EXTINF:-1, Canal 21 | Chillan
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
@@ -747,24 +168,9 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
  
 #EXTINF:-1,TVO San Vicente
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8
- 
-#EXTINF:-1,Tv8 Concepcion
-https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8
-  
-#EXTINF:-1,  History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
- 
-#EXTINF:-1,  Travel HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
- 
-#EXTINF:-1,CDO
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
-  
+   
 #EXTINF:-1,Deportes"Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
- 
-#EXTINF:-1,Bolivia Deportes
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
  
 #EXTINF:-1,Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
@@ -774,10 +180,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
  
 #EXTINF:-1,Nacional:Televisión Rionegrina
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
- 
-#EXTINF:-1,Canal UCR
-http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
- 
+  
 #EXTINF:-1,Canal BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
  
@@ -787,18 +190,10 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Teleceiba (Honduras)
 http://190.11.224.14:8134/liveevent.m3u8
  
-#EXTINF:-1,UCSG
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
  
 #EXTINF:-1,MEXICO:RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
- 
-#EXTINF:-1, Canal Once STD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
- 
-#EXTINF:-1, Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-    
+     
 #EXTINF:-1, IPE
 http://cdnh4.iblups.com/hls/irtp.m3u8
   
@@ -822,10 +217,7 @@ http://america-crtvg.flumotion.com/playlist.m3u8
  
 #EXTINF:-1, TV Galicia Europa | SD
 http://europa-crtvg.flumotion.com/playlist.m3u8
-  
-#EXTINF:-1 group-title="Music", Canal 4 Tenerife | SD
-https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
- 
+   
 #EXTINF:-1, 7TV | SD
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
  
@@ -852,10 +244,7 @@ http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
  
 #EXTINF:-1,Red Santa Cruz
 http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
- 
-#EXTINF:-1, Tele Medellin
-http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
-  
+   
 #EXTINF:-1,ETB 1
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
  
@@ -938,18 +327,13 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 #EXTINF:-1 group-title="Music",MTV USA
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
   
-#EXTINF:-1,Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
  
 #EXTINF:-1 group-title="Music",GO RT
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
   
 #EXTINF:-1,FS1
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-    
-#EXTINF:-1,iptvtools_4
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-  
+      
 #EXTINF:-1,iptvtools_12
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
  
@@ -962,9 +346,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1,iptvtools_70
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
  
-#EXTINF:-1 group-title="Music",iptvtools_166
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
- 
+
 #EXTINF:-1,iptvtools_302
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?
  
@@ -989,11 +371,8 @@ http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 #EXTINF:-1,iptvtools_466
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
     
-#EXTINF:-1,iptvtools_487
+#EXTINF:-1 group-title="Music",iptvtools_487
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
- 
-#EXTINF:-1,iptvtools_500
-http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
  
 #EXTINF:-1,iptvtools_502
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
@@ -1004,14 +383,9 @@ http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/
 #EXTINF:-1,iptvtools_519
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
  
-#EXTINF:-1,iptvtools_536
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
  
 #EXTINF:-1,iptvtools_541
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
- 
-#EXTINF:-1,iptvtools_545
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
  
 #EXTINF:-1,iptvtools_550
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
@@ -1028,7 +402,7 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1 group-title="Music",iptvtools_562
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
  
-XTINF:-1,iptvtools_582
+#EXTINF:-1,iptvtools_582
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
  
 #EXTINF:-1,iptvtools_633
@@ -1036,12 +410,6 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
  
 #EXTINF:-1,iptvtools_656
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
- 
-#EXTINF:-1,iptvtools_672
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
- 
-#EXTINF:-1,iptvtools_673
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
  
 #EXTINF:-1 group-title="Music",iptvtools_694
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
@@ -1064,14 +432,8 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT",Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://turistiktv.com/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="MX",Turistik TV
-https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MX",Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado.jpg" group-title="MX", Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MX",adn 40
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
@@ -1089,14 +451,9 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKdVqnU.png" group-title="ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B",Travle HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS America
-http://51.52.156.22:8888/http/012
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="Music", Mundo Mas 
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 
@@ -1104,8 +461,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png" group-title="ES",IPE 
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
       
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -1121,8 +476,6 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="AUSTRALIA",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/spelling-satellite-networks-inc/tele-uno-1-75975208.jpg",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -1139,13 +492,10 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GiMMorw.png" group-title="USA",Switch TV
 http://nrpus.bozztv.com/36bay2/gusa-switch/index.m3u8
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/08/dustx-logo.jpg?w=1000&h=563&crop=1" group-title="Global", Dustx
-https://dust.sinclair.wurl.com/manifest/1200.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/super-tv-55-300x169.jpg", Super TV55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
@@ -1166,8 +516,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Music",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Music",Eye Candy
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/126.m3u8?Moods
 
 #EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="Music", MTV USA Different
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -1191,29 +539,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="Movie", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a2/Fox-sports-news-hero.png/revision/latest?cb=20160621162353" group-title="Sports",FOX Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Random
-https://stream.allsprk.tv/live/0/index.m3u8
-#EXTINF:-1,Random 1
-https://stream.allsprk.tv/live/1/index.m3u8
-#EXTINF:-1,Random 2
-https://stream.allsprk.tv/live/2/index.m3u8
-#EXTINF:-1,Random 3
-https://stream.allsprk.tv/live/3/index.m3u8
-#EXTINF:-1,Random 4
-https://stream.allsprk.tv/live/4/index.m3u8
-#EXTINF:-1,Random 5
-https://stream.allsprk.tv/live/5/index.m3u8
-#EXTINF:-1,Random 6
-https://stream.allsprk.tv/live/6/index.m3u8
-#EXTINF:-1,Random 7
-https://stream.allsprk.tv/live/7/index.m3u8
-#EXTINF:-1,Random 8
-https://stream.allsprk.tv/live/8/index.m3u8
-#EXTINF:-1,Random 9
-https://stream.allsprk.tv/live/9/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg" group-title="Music",A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
@@ -1221,35 +548,12 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="XXX",Random 22
-https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8#https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
-#EXTINF:-1 group-title="XXX",Random 22
-#EXTINF:-1 ,Random 23
-http://185.184.233.174:5000/udp/225.1.2.175:1234
-#EXTINF:-1,Random 24
-http://185.184.233.174:5000/udp/225.1.2.98:1234
+
 #EXTINF:-1,Random 25
 http://188.35.9.12:21131/udp/142d
-#EXTINF:-1,Random 26
-https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
-#EXTINF:-1,Random 27
-https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
-#EXTINF:-1,Random 28
-http://t.gerss.cn/dl/htv.php?id=414
-#EXTINF:-1,Random 29
-http://v2.14mp4.com:80/av-hls/20160713/m61/index.m3u8
-#EXTINF:-1,Random 30
-http://v2.14mp4.com:80/av-hls/20160713/m62/index.m3u8
-#EXTINF:-1,Random 31
-http://v2.14mp4.com:80/av-hls/20160713/m63/index.m3u8
-#EXTINF:-1,Random 32
-http://v2.14mp4.com:80/av-hls/20160713/m64/index.m3u8
-#EXTINF:-1,Random 33
-http://v2.14mp4.com:80/av-hls/20160713/m65/index.m3u8
-#EXTINF:-1,Random 34
-http://v2.14mp4.com:80/av-hls/20160713/m66/index.m3u8
-#EXTINF:-1,Random 35
-http://v2.14mp4.com:80/av-hls/20160713/m67/index.m3u8
+
+
+
 #EXTINF:-1,Random
 
 #EXTINF:-1,Random
