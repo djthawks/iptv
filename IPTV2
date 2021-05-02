@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/HoiEo8f.png" group-title="USA ROKU",Cine Romántico
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/1LPIb2E.png" group-title="USA ROKU",Kocowa Classic
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="USA ROKU",New K-ID
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="PLUTO",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="MOVIE",Sony  Movies Action
