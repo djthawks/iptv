@@ -27,7 +27,6 @@ https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC Slightly off" tvg-logo="" group-title="AMC USA",AMC Slightly off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
-https://cca515f696634820833689103bb04704.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af26264e201f49eec999/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA",A+E Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
@@ -69,7 +68,7 @@ https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/
 https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="MOVIE",Maverick Black Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="USA",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="MOVIE",Midnight Pulp - github.com/Free-IPTV
 https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
@@ -177,10 +176,10 @@ https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="MOVIE",Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="DAVE",PBS America
+#EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="USA",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Classical" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="DAVE",QUEST TV Classical
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Classical" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="USA",QUEST TV Classical
 https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="QUEST TV MIX" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSIC",QUEST TV MIX
@@ -400,16 +399,11 @@ https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNp0cBp.png" group-title="USA",WMFD 68 Ohio
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="NEWS",CNC
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://teevee-hd.com/img/golf.png" group-title ="SPORT",Golf HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title ="MOVIE",HBO HD
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title ="MOVIE",HBO Hit
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="MOVIE",FoxMovies_TH
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="MOVIE",FoxMovies
@@ -464,8 +458,7 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BlueAntExtreme.th" tvg-logo="" group-title="DAVE",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="MOVIE",Fox Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="AndPrive.in" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIE",Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MOVIE",Movie Kingdom
