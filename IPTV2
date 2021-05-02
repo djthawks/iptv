@@ -549,21 +549,193 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
 
 
+
 #EXTINF:-1,Random 25
 http://188.35.9.12:21131/udp/142d
 
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.iptvmate.net/playlists/3619.jpg" tvg-name="Радио Люкс"  group-title="music",Радио Люкс
+https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8?source:iptvmate.net
 
-#EXTINF:-1,Random
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/28048.jpg" group-title="North America",Maghreb Arabe Press
+https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_w1876499295_b4500000_sleng.m3u8?v=2545016994?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/28031.jpg" group-title="North America",3ABN Français
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8?source:iptvmate.net
 
-#EXTINF:-1,Random
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/28106.jpg" group-title="North America",EMCI TV Montreal (Opt-2)
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/28115.jpg" group-title="North America",ETV Manisa
+https://broadcasttr.com:446/manisaetv/bant1/chunklist_w149497199.m3u8?source:iptvmate.net
 
-#EXTINF:-1,Random
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/28056.jpg" group-title="North America",Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?source:iptvmate.net
 
-#EXTINF:-1,Random
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27998.jpg" group-title="North America",Comedy Central Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=967&deviceId=5cf96dad1652631e36d43320&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27993.jpg" group-title="North America",Kanal 34
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27903.jpg" group-title="North America",Satran� TV
+http://139.162.182.79/live/test/index.m3u8?source:iptvmate.net
 
-#EXTINF:-1,Random
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27879.jpg" group-title="North America",Canal 4
+http://149.202.68.178:1935/live/peprecasens/manifest.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27854.jpg" group-title="North America",Vepaco TV (Opt-2)
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27824.jpg" group-title="North America",ICI T�l� HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27818.jpg" group-title="North America",HUMRAAZ TV
+http://cdn61.liveonlineservices.com/hls/humraaz.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27776.jpg" group-title="North America",Transmedia TV Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27777.jpg" group-title="North America",Turkmen Owazy
+http://217.174.225.146/legacyhls/ch005_400/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27745.jpg" group-title="NEWS",RT
+https://rt-esp.secure.footprint.net/1102.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27716.jpg" group-title="North America",Lucania Channel
+http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27711.jpg" group-title="North America",Lebrija TV
+https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27701.jpg" group-title="North America",GurSikh Sabha TV (Scarborough)
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27634.jpg" group-title="North America",Vuslat TV (Opt-2)
+https://59cba4d34b678.streamlock.net/live/vuslattv/chunklist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27612.jpg" group-title="North America",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27615.jpg" group-title="North America",RBW
+http://62.113.210.250/medienasa-live/rbw_high/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27604.jpg" group-title="North America",3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27580.jpg" group-title="North America",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27545.jpg" group-title="North America",Mijas 3.40 TV (Opt-2)
+https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27530.jpg" group-title="North America",Videonovara
+http://sb.top-ix.org/avtv04/_definst_/streaming/manifest.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27489.jpg" group-title="North America",Punktum S�dharz
+http://62.113.210.250/medienasa-live/punktum_high/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27393.jpg" group-title="North America",TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27394.jpg" group-title="North America",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27391.jpg" group-title="North America",Nabaa TV
+http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27363.jpg" group-title="North America",Offener Kanal Merseburg
+http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27347.jpg" group-title="North America",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27319.jpg" group-title="North America",Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27316.jpg" group-title="North America",Pluto TV Mundo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27289.jpg" group-title="North America",TeleSUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27201.jpg" group-title="North America",Rehber TV
+http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist_w1174978711.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27208.jpg" group-title="North America",Omroep Gelderland
+https://web.omroepgelderland.nl/live/livetv.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27182.jpg" group-title="North America",Fresh News
+http://167.99.65.12:1935/live/myStream/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27140.jpg" group-title="North America",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27092.jpg" group-title="North America",TRM H24
+http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27057.jpg" group-title="North America",Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27062.jpg" group-title="North America",CA | EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27051.jpg" group-title="North America",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27037.jpg" group-title="North America",India TV (Opt-2)
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26996.jpg" group-title="North America",Kud�s TV
+http://yayin10.canliyayin.org/P981680400/kudustv/chunklist_w1008271460.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26993.jpg" group-title="North America",TV Direct 13
+https://edge1.tvdirect13.com/live/playlist_720p.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26974.jpg" group-title="North America",Elita TV
+http://46.55.111.242:8080/Rezina.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26972.jpg" group-title="North America",Spike (Opt-2)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8?source:iptvmate.net
 
-#EXTINF:-1,Random
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
