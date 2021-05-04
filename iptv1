@@ -1490,49 +1490,6 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/求索动物.png" tvg-name="求索动物" group-title="DAVE",2
 http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title ="SPORT",True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title ="SPORT",True Sport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="SPORT",True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="SPORT",True Sport HD4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg" group-title="SPORT",TRUE SPORT 5
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg" group-title="SPORT",TRUE SPORT 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg" group-title="SPORT",TRUE SPORT 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="SPORT",Fox Sport1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="SPORT",Fox Sport2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="SPORT",Fox Sport3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="SPORT", Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="SPORT",Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="SPORT",PremierHD1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="SPORT",PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="SPORT",PremierHD3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="SPORT",PremierHD4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="SPORT",PremierHD5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
@@ -1624,55 +1581,52 @@ https://d8f9c7ca60f84037aad1ff1030ecfa2f.mediatailor.us-east-1.amazonaws.com/v1/
 https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PLEX USA",Popstar! TV
 https://bd0c70d8954d416d819afb3e1c940ee6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-10-POPSTAR-PLEX/ce9964d8-eef9-428d-8338-15b74adefde2/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Reuters
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",Reuters
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Revry
+#EXTINF:-1 tvg-logo="" group-title="USA",Revry
 https://80b6878a343a4c37ae7c81c26e367b59.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-PLEX/aa5b463a-e354-4b03-ab59-020c6cd3713e/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Revry 2
+#EXTINF:-1 tvg-logo="" group-title="USA",Revry 2
 https://0bef58ceebc44ecbba8ed46a4b17de0c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-PLEX/09eef831-6e1a-4f60-a138-77c0a1da8e06/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Revry News
+#EXTINF:-1 tvg-logo="" group-title="USA",Revry News
 https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-PLEX/384b6047-c4ba-41fa-93da-86bb345ec805/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",So...Real
-https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/78ee14fe-d1d9-4189-8b1f-e2b57a314963/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Sports Grid
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sports Grid
 https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Surf Now TV
+#EXTINF:-1 tvg-logo="" group-title="USA",Surf Now TV
 https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Tankee
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Tankee
 https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/282d947f-8e33-4bcb-8d98-3c7d9254f6f5/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",The Boat Show
+#EXTINF:-1 tvg-logo="" group-title="USA",The Boat Show
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/820e6d4e-cebb-4533-adf7-d0193f320ac9/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",The Film Detective
+#EXTINF:-1 tvg-logo="" group-title="USA",The Film Detective
 https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605674085f0040ddc7a3/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/1280x720_3256000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Unidentivied
-https://studio1091-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605374085f0040ddc764/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLEX USA",Weather Spy
-https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="USA",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png" group-title="WORLD (Free)",AXN ASIA
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png" group-title="DAVE",AXN ASIA
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="WORLD (Free)",WARNER TV HD
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="DAVE",WARNER TV HD
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1vLJm.jpg" group-title="WORLD (Free)",BritCom
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1vLJm.jpg" group-title="DAVE",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="WORLD (Free)",itv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="DAVE",itv
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="WORLD (Free)",itv2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="DAVE",itv2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="WORLD (Free)",itv3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="DAVE",itv3
 http://51.52.156.22:8888/http/006
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="WORLD (Free)",itv4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="DAVE",itv4
 http://51.52.156.22:8888/http/007
 
-#EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="WORLD (Free)",Cookie Asia
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="WORLD (Free)",Cookie Rerun
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIE",MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIE",MBC MAX FHD
@@ -1685,523 +1639,236 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="MOVIE",MBC Action FHD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBO Signature
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/nOiPsyr.png",HBO Hits
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM EN
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="MOVIE",AlFajer MOVIE
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="MOVIE",Film 4
-http://51.52.156.22:8888/http/008
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="MOVIE",Sony Movies Action
-http://51.52.156.22:8888/http/009
-
-
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 1
-http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 2
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 3
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",ufc 4
-http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
-
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",all sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",TENNIS HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",GOLF HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2",SPORT T
-https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 2 (MOTO GP)
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",Fox Sport News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="TEST" group-title="SPORTS",FOX SPORT News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:0 tvg-logo="TEST" group-title="SPORTS",ATGV 1 SPORT
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",DD sportS
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="itv+1.gb" tvg-name="ITV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="UK Ent", ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-
-#EXTINF:-1 tvg-id="bbc.four.gb" tvg-name="BBC FOUR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK010BBC4.png" group-title="UK Ent", BBC FOUR
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-name="FILM 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK042Film4.png" group-title="UK Cinema", FILM 4
-http://51.52.156.22:8888/http/008
-
-#EXTINF:-1 tvg-id="sony.movies.action.gb" tvg-name="SONY MOVIES ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-action-us-uk.png", SONY MOVIES ACTION
-http://51.52.156.22:8888/http/009
-
-
-
-#EXTINF:-1 group-title="xxx", PORN 
-https://edge-1192-ch-gv.filmon.com/live/6158.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="xxx", PORN
-https://edge-1192-ch-gv.filmon.com/live/6152.high.stream/playlist.m3u8 
-#EXTINF:-1 group-title="xxx",ROUGH
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="xxx",MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="xxx",BIG DICK CHANNEL
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="xxx",THREESOME
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="xxx",GANGBANG
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="xxx",INTERRACIAL
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="xxx",BLOWJOB
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1,HARDCORE
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="xxx",COMPILATION
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="xxx",ANAL
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="xxx",PORNSTAR
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="xxx",BIG ASS
-http://cdn.adultiptv.net/bigass.m3u8
-
-
-#EXTINF:-1,RTE NEWS
+#EXTINF:-1 group-title="NEWS",RTE NEWS
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1,KERRANG!
+#EXTINF:-1 group-title="MUSIC",KERRANG!
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:-1,MAGIC
+#EXTINF:-1 group-title="MUSIC",MAGIC
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1,MTV NORWAY
+#EXTINF:-1 group-title="USA",MTV NORWAY
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-
-
-
-https://cdn.igocast.com/channel9_hls/channel19_master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" group-title="USA FREE OTA TV",WZTS-TV | Cozi TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" group-title="DAVE",WZTS-TV | Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-1_241x241.png?raw=true" group-title="USA FREE OTA TV",K36JH | 36.1 VicValley TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-1_241x241.png?raw=true" group-title="DAVE",K36JH | 36.1 VicValley TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:201794-1288810/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-2_AMGTV_290x290.png?raw=true" group-title="USA FREE OTA TV",K36JH | 36.2 AMG-TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/K36JH-36-2_AMGTV_290x290.png?raw=true" group-title="DAVE",K36JH | 36.2 AMG-TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NewsNet.png?raw=true" group-title="USA FREE OTA TV",K36JH | 36.3 NewsNet
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NewsNet.png?raw=true" group-title="NEWS",K36JH | 36.3 NewsNet
 https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KVVB-33_370x370.png?raw=true" group-title="USA FREE OTA TV", KVVB-TV 33.1 Victorville CA
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="International TV",FTV Midnight Secrets (18+)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="XXX",FTV Midnight Secrets (18+)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/JasminTV_880x880.png?raw=true" group-title="International TV",Jasmin TV (18+)
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/JasminTV_880x880.png?raw=true" group-title="XXX",Jasmin TV (18+)
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25991.jpg" group-title="North America",POPSTAR! TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25991.jpg" group-title="DAVE",POPSTAR! TV
 https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25988.jpg" group-title="North America",CINEMAX OUTER MAX UHD
-http://supersonictv.live:25461/903310/034806/22884?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25989.jpg" group-title="North America",Better Health TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25989.jpg" group-title="USA",Better Health TV
 https://uni10rtmp.tulix.tv/betterhealth/betterhealth.stream/chunklist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26001.jpg" group-title="North America",Filmrise Free Movies
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26001.jpg" group-title="MOVIE",Filmrise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25965.jpg" group-title="North America",Campus TV
-http://st2.worldkast.com/8004/8004/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25973.jpg" group-title="North America",Mexiquense TV
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25974.jpg" group-title="North America",Microvision 10
-http://190.103.183.24:1935/live/MicroHD/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25976.jpg" group-title="North America",OYE CANAL 7
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25982.jpg" group-title="North America",Uno TV
-https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/25994.jpg" group-title="North America",CA | Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26027.jpg" group-title="North America",3ABN Russia
-https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26037.jpg" group-title="North America",3ABN International
-https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26038.jpg" group-title="North America",BLK TV Hohenm�lsen
-http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26040.jpg" group-title="North America",telesafor
-http://video.telesafor.com/hls/video.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26047.jpg" group-title="North America",C-Span
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26054.jpg" group-title="North America",LNKTV Health
-http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26056.jpg" group-title="North America",Kids Click (Geo)
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26065.jpg" group-title="North America",PursuitUP
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26065.jpg" group-title="SPORT",PursuitUP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=756&deviceId=5d486bed428fe37d8cadba45&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26066.jpg" group-title="North America",CGTN Fran�ais (Opt-2)
-http://livefr.cgtn.com/1000f/prog_index.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26074.jpg" group-title="North America",Marbella TV
-https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26078.jpg" group-title="North America",TV Cultura PA
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26082.jpg" group-title="North America",AKC TV - Meet the Breeds
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26082.jpg" group-title="USA",AKC TV - Meet the Breeds
 https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26083.jpg" group-title="North America",AKC TV - Puppies
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26083.jpg" group-title="USA",AKC TV - Puppies
 https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26092.jpg" group-title="North America",Infowars
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26092.jpg" group-title="NEWS",Infowars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26103.jpg" group-title="North America",Urola Telebista
-https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26104.jpg" group-title="North America",Sqadl
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26104.jpg" group-title="KIDS",Sqadl
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f12332eeca6a20040b328e5&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26115.jpg" group-title="North America",RTL (Opt-2)
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26115.jpg" group-title="MUSIC",RTL (Opt-2)
 http://live-edge02.rtl.lu/channel1/smil:channel1/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26120.jpg" group-title="North America",CA | TAG TV
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26146.jpg" group-title="North America",Alcarria TV
-http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26168.jpg" group-title="North America",AKC TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26168.jpg" group-title="USA",AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8?source:iptvmate.net#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26169.jpg" group-title="North America",ABC KOAT
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26178.jpg" group-title="North America",Videonola
-https://stream1.aswifi.it/videonola/live/index.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26180.jpg" group-title="North America",CA RDS (FR)
-http://supersonictv.live:25461/dalvin/dalvin/21983?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26183.jpg" group-title="North America",Top Stories by Newsy
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26183.jpg" group-title="NEWS",Top Stories by Newsy
 https://content.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26196.jpg" group-title="North America",Sky News
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26196.jpg" group-title="NEWS",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26201.jpg" group-title="North America",Pequeradio
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26206.jpg" group-title="North America",Saveur
-http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26208.jpg" group-title="North America",Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26232.jpg" group-title="North America",Channel Fight
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26232.jpg" group-title="SPORT",Channel Fight
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26233.jpg" group-title="North America",AD Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26253.jpg" group-title="North America",Channel V6
-https://media.ksl.com/watchit/vod/41534/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26257.jpg" group-title="North America",Mataro Televisio
-http://liveingesta118.cdnmedia.tv//m1tvlive/smil:live.smil/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26266.jpg" group-title="North America",Qello Concerts
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26266.jpg" group-title="MUSIC",Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26275.jpg" group-title="North America",FOX 28 Savannah GA (WTGS)
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26285.jpg" group-title="North America",CA | IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26297.jpg" group-title="North America",AFV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26297.jpg" group-title="USA",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8?source:iptvmate.net
-
-
-
-911
-
-
-
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26307.jpg" group-title="North America",Cooking Panda
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26307.jpg" group-title="COOKING",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26327.jpg" group-title="North America",American Classics
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26327.jpg" group-title="USA",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26333.jpg" group-title="North America",Youtoo America
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26333.jpg" group-title="USA",Youtoo America
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1128000.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26343.jpg" group-title="North America",Cloudflare TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26343.jpg" group-title="USA",Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26363.jpg" group-title="North America",People are awesome
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26363.jpg" group-title="USA",People are awesome
 https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26366.jpg" group-title="North America",STIRR CITY
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26370.jpg" group-title="SPORT",Ring of Honor
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26371.jpg" group-title="SPORT",US | Youtoo America HD
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26371.jpg" group-title="USA",US | Youtoo America HD
 https://thegateway.app/YouToo/CueTones/playlist.m3u8?source:iptvmate.net
-
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26405.jpg" group-title="North America",Cheddar
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26405.jpg" group-title="NEWS",Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26420.jpg" group-title="North America",Brut.
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26420.jpg" group-title="USA",Brut.
 https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26428.jpg" group-title="North America",The Film Detective
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26428.jpg" group-title="USA",The Film Detective
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26451.jpg" group-title="North America",Smart Lifestyle TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26451.jpg" group-title="USA",Smart Lifestyle TV
 https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26455.jpg" group-title="North America",WFTV Channel 9 - Florida - Orlando
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26483.jpg" group-title="North America",AFV Family
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26483.jpg" group-title="USA",AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26486.jpg" group-title="SPORT",EDGESport
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26502.jpg" group-title="North America",CA | Global News
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26502.jpg" group-title="DAVE",CA | Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26515.jpg" group-title="North America",Glewed TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26515.jpg" group-title="USA",Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26523.jpg" group-title="MUSIC",Super J TV
-https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26540.jpg" group-title="North America",US | Young Hollywood
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26540.jpg" group-title="USA",US | Young Hollywood
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26544.jpg" group-title="NEWS",3News Now (KMTV-TV)
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26551.jpg" group-title="MUSIC",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26561.jpg" group-title="North America",Cinehouse
-https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26576.jpg" group-title="North America",Free Speech TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26576.jpg" group-title="NEWS",Free Speech TV
 http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26588.jpg" group-title="North America",TOTALLY TURTLES
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26588.jpg" group-title="KIDS",TOTALLY TURTLES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=983&deviceId=5d0c16d686454ead733d08f8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26592.jpg" group-title="North America",Better Life’s Nature Channel
-https://uni10rtmp.tulix.tv/betternature/betternature.stream/chunklist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26601.jpg" group-title="North America",Pluto TV Drama Life
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26601.jpg" group-title="USA",Pluto TV Drama Life
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=332&deviceId=5f24662bebe0f0000767de32&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26603.jpg" group-title="North America",People Are Awesome
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26603.jpg" group-title="USA",People Are Awesome
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54169f4b9b25000994a303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=340&deviceId=5e54169f4b9b25000994a303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26608.jpg" group-title="North America",MST3K
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26608.jpg" group-title="USA",MST3K
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=488&deviceId=545943f1c9f133a519bbac92&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26609.jpg" group-title="North America",The Outdoor Cooking Channel
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26609.jpg" group-title="COOKING",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26617.jpg" group-title="North America",Blaze Live
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26617.jpg" group-title="NEWS",Blaze Live
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=238&deviceId=5e46fba0c43b0d00096e5ac1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26629.jpg" group-title="MOVIE",Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26630.jpg" group-title="North America",Truly
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26630.jpg" group-title="USA",Truly
 https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26644.jpg" group-title="North America",Popular Science
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26644.jpg" group-title="USA",Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26645.jpg" group-title="SPORT",Rope 2 Rope
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26647.jpg" group-title="North America",Rescue 911
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26647.jpg" group-title="USA",Rescue 911
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=277&deviceId=5f21e831e9fe730007706acb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26649.jpg" group-title="North America",Cheddar
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26649.jpg" group-title="NEWS",Cheddar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=226&deviceId=5812afe1d0f0b8d55dde67fa&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26666.jpg" group-title="North America",Black Ink Crew
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26666.jpg" group-title="USA",Black Ink Crew
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=285&deviceId=5d51e2bceca5b4b2c0e06c50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26670.jpg" group-title="North America",CA | The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?source:iptvmate.net
-
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26687.jpg" group-title="North America",Pluto TV Love Stories
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26687.jpg" group-title="USA",Pluto TV Love Stories
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=147&deviceId=5f15e181520cfa000771ce79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26688.jpg" group-title="North America",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26690.jpg" group-title="North America",HSN
-https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26702.jpg" group-title="North America",Shout! Factory TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26702.jpg" group-title="USA",Shout! Factory TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=542&deviceId=55a6a3275616b6240c26f393&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26709.jpg" group-title="North America",Monarch TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26709.jpg" group-title="USA",Monarch TV
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26712.jpg" group-title="North America",M Now
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26712.jpg" group-title="USA",M Now
 https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/94d277d1-8703-4f03-a2d8-69e91ff314fb/3.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26714.jpg" group-title="North America",Electric Now
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26714.jpg" group-title="USA",Electric Now
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26727.jpg" group-title="North America",Slightly Off By IFC
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26727.jpg" group-title="USA",Slightly Off By IFC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=458&deviceId=5e82547b6b3df60007fec2b5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
 
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26729.jpg" group-title="North America",Gusto
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26729.jpg" group-title="COOKING",Gusto
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26736.jpg" group-title="North America",Cold Case Files
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26736.jpg" group-title="USA",Cold Case Files
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=373&deviceId=5c37d6712de254456f7ec340&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26742.jpg" group-title="North America",Funny AF
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26742.jpg" group-title="USA",Funny AF
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=450&deviceId=580e87ff497c73ba2f321dd3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26745.jpg" group-title="North America",Degrassi
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26745.jpg" group-title="USA",Degrassi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=144&deviceId=5c6eeb85c05dfc257e5a50c4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26756.jpg" group-title="North America",Slow TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26756.jpg" group-title="USA",Slow TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=696&deviceId=5317bfebff98025b3200ff99&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26757.jpg" group-title="North America",3ABN Praise Him Music Channel
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26764.jpg" group-title="North America",Anime All Day
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26764.jpg" group-title="KIDS",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26765.jpg" group-title="North America",Hell's Kitchen
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26765.jpg" group-title="COOKING",Hell's Kitchen
 https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8?source:iptvmate.net
-
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26778.jpg" group-title="North America",Paramount Movie Channel
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26778.jpg" group-title="MOVIE",Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26780.jpg" group-title="North America",IDG
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26780.jpg" group-title="USA",IDG
 http://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26781.jpg" group-title="North America",STIRR Movies
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26781.jpg" group-title="MOVIE",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26787.jpg" group-title="North America",CA | Global British Columbia
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26787.jpg" group-title="DAVE",CA | Global British Columbia
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26788.jpg" group-title="North America",Court TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26788.jpg" group-title="USA",Court TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26793.jpg" group-title="MUSIC",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26809.jpg" group-title="North America",Weather Spy
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26809.jpg" group-title="USA",Weather Spy
 https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26818.jpg" group-title="North America",Popstar! TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26818.jpg" group-title="DAVE",Popstar! TV
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26839.jpg" group-title="North America",Chive TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26839.jpg" group-title="USA",Chive TV
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8?source:iptvmate.net
-
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26879.jpg" group-title="North America",Popstar! TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26879.jpg" group-title="DAVE",Popstar! TV
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8?ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.plex_id=5ef11487d33ab9004048a1d6&ads.device_id=df8e1a36-847d-5096-86a7-3803ed330ede&ads.dnt=0&ads.us_privacy=1---?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26883.jpg" group-title="MOVIE",Dust (Sci-Fi)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26886.jpg" group-title="North America",TVS Family Channel
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26886.jpg" group-title="USA",TVS Family Channel
 http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26887.jpg" group-title="North America",QVC 2
-https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/index_2500_av-p.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26888.jpg" group-title="North America",Whistle TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26888.jpg" group-title="USA",Whistle TV
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26910.jpg" group-title="North America",The Film Detective TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26910.jpg" group-title="USA",The Film Detective TV
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_640x360.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26914.jpg" group-title="North America",TBD
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26914.jpg" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26923.jpg" group-title="North America",BigLife TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26923.jpg" group-title="USA",BigLife TV
 http://biglife.sinclair.wurl.com/manifest/playlist.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26933.jpg" group-title="MOVIE",RedBox Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26942.jpg" group-title="SPORT",MMA Junkie
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26952.jpg" group-title="North America",Play Works
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26952.jpg" group-title="USA",Play Works
 https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.wurl_channel=512&ads.wurl_name=PlayWorks&ads.us_privacy=1---&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A83.0)%20Gecko%2F20100101%20Firefox%2F83.0&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=1&ads.consent=0?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26959.jpg" group-title="North America",Game Show
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26959.jpg" group-title="USA",Game Show
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8?source:iptvmate.net
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26964.jpg" group-title="North America",Newsy
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26964.jpg" group-title="NEWS",Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26976.jpg" group-title="North America",Surf Now TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26976.jpg" group-title="USA",Surf Now TV
 https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26986.jpg" group-title="North America",CHARGE
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26986.jpg" group-title="USA",CHARGE
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8?source:iptvmate.net
-
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26998.jpg" group-title="Music",Party Tyme Karaoke
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f17a1a283581000409bd875&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26999.jpg" group-title="North America",Magellan TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/26999.jpg" group-title="USA",Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27001.jpg" group-title="North America",Live Live
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27001.jpg" group-title="DAVE",Live Live
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27005.jpg" group-title="North America",Revry News
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27005.jpg" group-title="NEWS",Revry News
 https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-PLEX/384b6047-c4ba-41fa-93da-86bb345ec805/0.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27010.jpg" group-title="North America",Pluto TV Action Sports
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27010.jpg" group-title="DAVE",ICTV KIDS
 https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27020.jpg" group-title="North America",Big Life TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27020.jpg" group-title="USA",Big Life TV
 https://biglife.sinclair.wurl.com/manifest/3000.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27023.jpg" group-title="North America",People TV
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27023.jpg" group-title="USA",People TV
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8?source:iptvmate.net
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27044.jpg" group-title="DAVE",Wu Tang
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27049.jpg" group-title="DAVE",CA | Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8?source:iptvmate.net
-
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27104.jpg" group-title="USA",TVS Nostalgia Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27105.jpg" group-title="Music",GLOBUS TV
-https://flash2.xdevel.com/globusradiocam/globusradiocam/playlist.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27108.jpg" group-title="SPORT",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27114.jpg" group-title="Music",Radiou TV USA
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27127.jpg" group-title="NEWS",Cheddar Big News
 https://live.chdrstatic.com/cbn/primary/1.m3u8?source:iptvmate.net
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27145.jpg" group-title="USA",Everyday Heroes
 https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27153.jpg" group-title="USA",Glewed TV
 https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/d1a011d0-5758-439c-9939-ef96c8e13323/3.m3u8?source:iptvmate.net
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27166.jpg" group-title="SPORT",PursuitUp
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27187.jpg" group-title="MUSIC",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27188.jpg" group-title="NEWS",OANN One America News Network
@@ -2214,12 +1881,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27200.jpg" group-title="USA",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=635&deviceId=599375885ceaac3cabccbed7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27239.jpg" group-title="USA",The Love Destination
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605674085f0040ddc7a9&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27245.jpg" group-title="Music",Ruidos FM
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27265.jpg" group-title="USA",Real Vision
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27269.jpg" group-title="MOVIE",Movie Mix
@@ -2232,89 +1895,44 @@ http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8?source:iptvmate.net
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27285.jpg" group-title="USA",Monarch
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27303.jpg" group-title="USA",Outside TV
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8?source:iptvmate.net
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27318.jpg" group-title="USA",Shout Factory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8?source:iptvmate.net
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27325.jpg" group-title="USA",Law and Crime
 https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/3764ff82-e9c3-4cd8-a6d7-fd42b777ed75/1.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27345.jpg" group-title="USA",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27352.jpg" group-title="MUSIC",RTL (Opt-3)
-http://live-edge01.rtl.lu/channel2/smil:channel2/playlist.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27380.jpg" group-title="NEWS",CA | Global Toronto
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?source:iptvmate.net
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27408.jpg" group-title="USA",Fail Army
 https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8?source:iptvmate.net
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27414.jpg" group-title="NEWS",Cheddar News
 https://live.chdrstatic.com/cbn/primary/5.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27425.jpg" group-title="KIDS",KiDoodle TV
 https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/1d045896-8061-414f-b467-2b5afadb837e/3.m3u8?source:iptvmate.net
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27456.jpg" group-title="USA",TVS Hollywood History
 http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27466.jpg" group-title="Music",NRWISION
-https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1070249849.m3u8?source:iptvmate.net
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27471.jpg" group-title="DAVE",Comet TV (Geo)
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27471.jpg" group-title="USA",Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27475.jpg" group-title="COOKING",Pluto TV Best Life
+#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27475.jpg" group-title="USA",Pluto TV Best Life
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=630&deviceId=5887ba337b8e94223eb121bd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27480.jpg" group-title="USA",Pluto TV Documentaries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27483.jpg" group-title="USA",The New Detectives
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=376&deviceId=5aea40b35126c2157123aa64&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27484.jpg" group-title="USA",Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27488.jpg" group-title="USA",AFV!
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27490.jpg" group-title="Music",BritAsia Live
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8?source:iptvmate.net
-#EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27524.jpg" group-title="SPORT",Field & Stream
-https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8?source:iptvmate.net
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27531.jpg" group-title="USA",The Pet Collective
 https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27537.jpg" group-title="USA",Mo Laughter TV
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27540.jpg" group-title="KIDS",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f77a99416621400402b3dc1&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---?source:iptvmate.net
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27547.jpg" group-title="USA",Temple TV
 https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27556.jpg" group-title="USA",Drink TV
@@ -2493,9 +2111,108 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="NEWS",FOX NEWS
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title ="SPORT",True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title ="SPORT",True Sport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="SPORT",True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="SPORT",True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg" group-title="SPORT",TRUE SPORT 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg" group-title="SPORT",TRUE SPORT 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg" group-title="SPORT",TRUE SPORT 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="SPORT",Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="SPORT",Fox Sport2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="SPORT",Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="SPORT",Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="SPORT",PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="SPORT",PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="SPORT",PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="SPORT",PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="SPORT",PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="DEEJAY TV" tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio_deejay_it.png" group-title="MUSIC", DEE JAY TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF: -1 tvg-name="BOX HITS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK202BOXHITSHD.png" group-title="MUSIC", BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF: -1 tvg-id="the.box.gb" tvg-name="THE BOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK317TheBox.png" group-title="MUSIC", THE BOX
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",ufc 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",ufc 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",all sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",TENNIS HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",GOLF HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",FOX SPORTS 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",FOX SPORTS 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",FOX SPORTS 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",FOX SPORTS VN 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",FOX SPORTS VN 2 (MOTO GP)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORT",FOX SPORTS VN 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="TEST" group-title="SPORTS",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="itv+1.gb" tvg-name="ITV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="DAVE", ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-id="bbc.four.gb" tvg-name="BBC FOUR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK010BBC4.png" group-title="DAVE", BBC FOUR
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-name="FILM 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK042Film4.png" group-title="MOVIE", FILM 4
+http://51.52.156.22:8888/http/008
+#EXTINF:-1 tvg-id="sony.movies.action.gb" tvg-name="SONY MOVIES ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-action-us-uk.png", SONY MOVIES ACTION
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 group-title="xxx", PORN 
+https://edge-1192-ch-gv.filmon.com/live/6158.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="xxx", PORN
+https://edge-1192-ch-gv.filmon.com/live/6152.high.stream/playlist.m3u8 
+#EXTINF:-1 group-title="xxx",ROUGH
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="xxx",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="xxx",BIG DICK CHANNEL
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="xxx",THREESOME
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="xxx",GANGBANG
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="xxx",INTERRACIAL
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="xxx",BLOWJOB
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1,HARDCORE
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="xxx",COMPILATION
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="xxx",ANAL
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="xxx",PORNSTAR
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="xxx",BIG ASS
+http://cdn.adultiptv.net/bigass.m3u8
