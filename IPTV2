@@ -1,5 +1,124 @@
 #EXTM3U
 
+#EXTINF:-1,Astro Go Shop 2
+http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
+#EXTINF:-1,Astro Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1,Astro Supersport 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Astro Supersport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,Astro Supersport 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,Astro Supersport 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,OH!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1,Animal Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1,Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1,Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1,Astro Bernama
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1,Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1,Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1,Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1,Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1,Astro 华丽台
+http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1,Astro 欢喜台
+http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1,Astro 全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1,Astro 双星台
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1,Celestial Classic Movies 天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1,Celestial Movies 天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1,HBO (Malay DUB)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1,HGTV (Asia)
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1,Naura
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1,Rtm Sport
+http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1,TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1,TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1,TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1,TV8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1,TVB星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1,*Animal Ria
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1,*Astro AEC
+http://50.7.161.82:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:-1,*Astro AOD
+http://50.7.161.82:8278/streams/d/Aod/playlist.m3u8
+#EXTINF:-1,*Astro Aura
+http://50.7.161.82:8278/streams/d/Aura/playlist.m3u8
+#EXTINF:-1,*Astro Cricket
+http://50.7.161.82:8278/streams/d/Cricket/playlist.m3u8
+#EXTINF:-1,*Astro Tara
+http://50.7.161.82:8278/streams/d/Tara/playlist.m3u8
+#EXTINF:-1,*Astro Vinmeen
+http://50.7.161.82:8278/streams/d/Vinmeen/playlist.m3u8
+#EXTINF:-1,*Astro Warna
+http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1,*Astro 喜悦台
+http://50.7.161.82:8278/streams/d/Xiyue/playlist.m3u8
+#EXTINF:-1,*beIN 1 True Vision
+http://50.7.161.82:8278/streams/d/Bcoinone/playlist.m3u8
+#EXTINF:-1,*beIN 2 True Vision
+http://50.7.161.82:8278/streams/d/Bcointwo/playlist.m3u8
+#EXTINF:-1,*beIN 3 True Vision
+http://50.7.161.82:8278/streams/d/Bcointhree/playlist.m3u8
+#EXTINF:-1,*beIN 4 True Vision
+http://50.7.161.82:8278/streams/d/Bcoinfour/playlist.m3u8
+#EXTINF:-1,*Channel 5
+http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
+#EXTINF:-1,*Channel 8
+http://50.7.222.130:8278/streams/d/Channel8/playlist.m3u8
+#EXTINF:-1,*Cinemax
+http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
+#EXTINF:-1,*Fox Action (Asia)
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1,*Fox Crime (Asia)
+http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1,*Fox Life (Asia)
+http://50.7.161.82:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1,*Fox Movie
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1,*HBO HD
+http://50.7.161.82:8278/streams/d/Hbohd/playlist.m3u8
+#EXTINF:-1,*HBO Hits
+http://50.7.161.82:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1,*KiX
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+#EXTINF:-1,*NTV7
+http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF:-1,*Sony Entertainment one
+http://50.7.161.82:8278/streams/d/Setone/playlist.m3u8
+#EXTINF:-1,*Starz
+http://50.7.161.82:8278/streams/d/Starz/playlist.m3u8
+#EXTINF:-1,*tvN
+http://50.7.161.82:8278/streams/d/Tvn/playlist.m3u8
+
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27466.jpg" group-title="Music",NRWISION
 https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1070249849.m3u8?source:iptvmate.net
 #EXTINF:0 tvg-country="noa" tvg-logo="https://images.iptvmate.net/playlists/27352.jpg" group-title="MUSIC",RTL (Opt-3)
