@@ -1,87 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",Japan 1
-http://520574.xyz/dl/youku.php?id=8022366
-#EXTINF:-1 tvg-logo="" group-title="",Japan 2
-http://520574.xyz/dl/youku.php?id=8022040
-#EXTINF:-1 tvg-logo="" group-title="",Japan 3
-http://520574.xyz/dl/youku.php?id=8022038
-#EXTINF:-1 tvg-logo="" group-title="",Japan 4
-http://520574.xyz/dl/youku.php?id=8020381
-#EXTINF:-1 tvg-logo="" group-title="",Japan 5
-http://520574.xyz/dl/youku.php?id=8020331
-#EXTINF:-1 tvg-logo="" group-title="",Japan 6
-http://520574.xyz/dl/youku.php?id=8031710
-#EXTINF:-1 tvg-logo="" group-title="",Japan 7
-http://520574.xyz/dl/youku.php?id=8031706
-#EXTINF:-1 tvg-logo="" group-title="",Japan 8
-http://520574.xyz/dl/youku.php?id=8031704
-#EXTINF:-1 tvg-logo="" group-title="",Japan 9
-http://520574.xyz/dl/youku.php?id=8031620
-#EXTINF:-1 tvg-logo="" group-title="",Japan 10
-http://520574.xyz/dl/youku.php?id=8031623
-#EXTINF:-1 tvg-logo="" group-title="",Japan 11
-http://520574.xyz/dl/youku.php?id=8031587
-#EXTINF:-1 tvg-logo="" group-title="",Japan 12
-http://520574.xyz/dl/youku.php?id=8031580
-#EXTINF:-1 tvg-logo="" group-title="",Japan 13
-http://520574.xyz/dl/youku.php?id=8031574
-#EXTINF:-1 tvg-logo="" group-title="",Japan 14
-http://520574.xyz/dl/youku.php?id=8027873
-#EXTINF:-1 tvg-logo="" group-title="",Japan 15
-http://520574.xyz/dl/youku.php?id=8020409
-#EXTINF:-1 tvg-logo="" group-title="",Japan 16
-http://520574.xyz/dl/youku.php?id=8020410
-#EXTINF:-1 tvg-logo="" group-title="",Japan 17
-http://520574.xyz/dl/youku.php?id=8020408
-#EXTINF:-1 tvg-logo="" group-title="",Japan 18
-http://520574.xyz/dl/youku.php?id=8035190
-
-
-
-#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="Movies",Iflim English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork-356x200.jpg" group-title="Movies",Mylife4U
-https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/60/31/1f/60311f70-f70f-e3f8-4735-a23e176be0eb/contsched.igfutmsk.lsr/1024x1024bb.jpg" group-title="Music",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22782/latido-music/logo_20191212_200115.png" group-title="Music",Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
-#EXTINF:-1 tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="Music",Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="Music",Music4U
 http://203.154.243.89:1213
-
-
-
-
-
-
-#EXTINF:tvg-logo=“https://images.useetv.com/logo_davinci_big1.png?v=2.0.0.11“,外文DAVINCI
-http://45.126.83.51/uq2663/h/h01/index2.m3u8
-
-
-
-#EXTINF:tvg-logo=““,外MTV HD法国
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
 #EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png“,外MTV音乐台 HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="",1
-http://194.76.186.12:8080/play/a00p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV Español
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="Golf",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
@@ -98,10 +24,6 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png" group-title="Horse Racing",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="Tennis",ATP Tennis TV
-http://203.154.243.89:11739
 #EXTINF:-1 tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Tennis",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Tennis",Tennis Channel+
@@ -130,24 +52,12 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://5.135.92.133:52841/out/u/502_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="Entertainment",People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="Movies",Iflim English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Movies",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205
-
-
-#EXTINF:-1 tvg-logo="http://stvron.com/canale/512/bollywood-tv.png" group-title="Movies",Bollywood TV
-http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="Movies",TF1 Séries Films
@@ -180,10 +90,7 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="MOVIES",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
 
-#EXTINF:-1 group-title="MOVIE", AXN
-http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-#EXTINF:-1 group-title="MOVIE", AXN
-http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/02.m3u8
+
 #EXTINF:-1 group-title="MOVIE", BLU ANT EXTREME ID
 http://45.126.83.51/session/a94102b0-49ec-11e9-81ff-afe5b7d8581f/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="MOVIE", BLU ANT EXTREME
@@ -193,16 +100,6 @@ http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 group-title="MOVIE", CELESTIAL MOVIES ID
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 
-
-#EXTINF:-1 group-title="MOVIE", CINEMA WORLD
-http://210.210.155.35/session/56af31fa-28a6-11e9-a164-b9debc2bdb03/uq2663/h/h04/01.m3u8
-
-
-#EXTINF:-1 group-title="MOVIE", HITS ID
-http://45.126.83.51/uq2663/h/h37/01.m3u8
-
-#EXTINF:-1 group-title="MOVIE", KIX ID
-http://45.126.83.51/session/db07f028-49ed-11e9-8517-8ea1a78f162e/uq2663/h/h07/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",,Abu Dhabi Sports 3
@@ -218,27 +115,16 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;reba
 #EXTINF:-1 group-title="MOVIES",Zee BIOSKOP
 http://210.210.155.35/session/f73cc360-0192-11ea-8e34-c81f66f89318/qwr9ew/s/s32/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES",BLOOMBERG
-http://45.126.83.51/session/57eab37e-019e-11ea-b7f6-aa7099a066d0/uq2663/h/h03/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES",CINEMA World
-http://45.126.83.51/session/ae23ef80-019e-11ea-acf6-a445af550c11/uq2663/h/h04/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES",STYLE TV
-http://45.126.83.51/session/d04dc248-019e-11ea-af6f-b31e94085f6d/uq2663/h/h01/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4C8T6Hq/sony-one.png" group-title="MOVIES", Sony One
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZHrwsg0/kix.png" group-title="MOVIES", Kix
-http://210.210.155.35/uq2663/h/h07/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMBLHZmm/Thrill.png" group-title="MOVIES", Thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNqpV5QQ/Blue-ant-entertainment.png" group-title="MOVIES", Blue Ant Entertainment
 http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XYkXfVV/Cinema-World.png" group-title="MOVIES",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1pDf1vq/Celestial.png" group-title="MOVIES", Celestial Movies
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
@@ -250,14 +136,9 @@ https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",Golf HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="PAKDE",FoxActionHD_TH
-https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="PAKDE",FoxMovies_TH
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="PAKDE",FoxFamilyHD_TH
-https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="PAKDE",FoxThai_TH
 https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
@@ -271,19 +152,6 @@ https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="PAKDE",DiscoveryHDWorld
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-
-
-#EXTINF:-1 ,NatGeo Wild_TH
-https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 group-title="PAKDE",DisneyXD
-https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",T_Sports
-https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",MANGORN
-https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
 
 
 
@@ -310,18 +178,6 @@ https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 group-title="PAKDE",WORKPIONT
 https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="PAKDE",NEW
-https://www.livedoomovie.com/02_NEW_480p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",NATION TV
-https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8
-#EXTINF:-1 group-title="PAKDE",8 HD
-https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
-
-#EXTINF:-1,MOVIE NOW X
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1,MOVIE NOW
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 
 #EXTINF:-1,DUBAI ONE
