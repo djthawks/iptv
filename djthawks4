@@ -9,24 +9,8 @@ http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17593?checkedby:iptvcat.com
 http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39062?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/1280px-KNBC_%282011_-_Flat%29.svg.png" group-title="Local",4 NBC (KNBC) (1080p)
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_61e7x33e/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",404 Stingray Greatest Hits
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",405 Stingray Hit List
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",406 Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",407 Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",409 Stingray Urban Beat
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",410 Stingray Hot Country
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",411 Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",412 Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Undefined",413 Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",5STAR
 http://dimapro.cz:8080/00:1A:79:17:04:8D/ziajdjjfdifjd64646/38666?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Undefined",70s Cinema
@@ -41,14 +25,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f51
 https://c.mjh.nz/abc2/?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/UbUZw9E.png" group-title="Undefined",ACC
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="Undefined",ACC
-http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/awe/wp-content/uploads/2015/09/AWELogoBlk.jpg" group-title="Undefined",AWE
-http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",AWE Encore
 https://aweencore-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Undefined",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",AXN [Vietnam]
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="Music",AXS TV Now
@@ -58,20 +38,13 @@ https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8?checke
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Undefined",Action Movies
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="Undefined",All Elite Wrestling
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" group-title="Undefined",All Reality by WE tv
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca076c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",All Weddings
 https://amc-allweddings-1.vizio.wurl.com/manifest/1200.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Ameritrade
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://images.pluto.tv/channels/5e4bba36e4644300098cd0bb/colorLogoPNG.png" group-title="Undefined",Auction Kings
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4bba36e4644300098cd0bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="Undefined",Auction Hunters
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-
 
 #EXTINF:-1 ,ESPN HD
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
