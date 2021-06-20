@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz"
 
+#EXTINF:-1,HBO (Malay DUB)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1,HGTV (Asia)
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBr6UAw.png" group-title="DAVE",Local Now (New!)
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 #EXTINF:-1 tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/7JgPJxx.png",Pennsylvania: Wilkes Barre - Scranton
